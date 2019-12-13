@@ -1,0 +1,154 @@
+ 
+
+Proposed Federal Information Processing Standards Publication XXX
+
+
+
+1994 May 23
+
+
+
+Announcing the Standard for Cryptographic Service Calls
+
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to Section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100235.
+
+
+
+
+1. Name of Standard. Cryptographic Service Calls (FIPS PUB XXX).
+
+2. Category of Standard. Computer Security, Cryptography.
+
+3. Explanation. This standard specifies a set of generic cryptographic service calls, or applications program interface
+(API), for application programs to interface with a cryptographic module for requesting cryptographic functions.
+The service calls specify the interface for common cryptographic functions such as message encryption and decryption,
+message authentication, digital signature generation and verification, key management, and user authentication.
+Cryptographic algorithms that are supported include both secret-key based and public-key based algorithms. In
+this standard, the terms 
+
+cryptographic service calls
+
+ and 
+
+cryptographic APIs
+
+ can be used interchangeably.
+
+4. Approving Authority. Secretary of Commerce.
+
+5. Maintenance Agency. Department of Commerce, National Institute of Standards and Technology, (Computer Systems
+Laboratory).
+
+6. Cross Index.
+
+
+
+
+a. FIPS PUB 462, Data Encryption Standard.
+
+b. FIPS PUB 74, Guidelines for Implementing and Using the NBS Data Encryption Standard.
+
+c. FIPS PUB 81, DES Modes of Operation.
+
+d. FIPS PUB 113, Computer Data Authentication.
+
+e. FIPS PUB 171, Key Management Using ANSI X9.17.
+
+f. FIPS PUB 180, Secure Hash Standard.
+
+g. FIPS PUB XXX, Digital Signature Standard.
+
+h. FIPS PUB 185, Escrowed Encryption Standard.
+
+i. Special Publication 8002, Public Key Cryptography.
+
+j. Federal Information Resources Management Regulations (FIRMR) subpart 201.20.303, Standards, and subpart 201.39.1002,
+Federal Standards.
+
+
+
+
+Other NIST publications may be applicable to the implementation and use of this standard. A list (NIST Publications
+List 91) of currently available computer security publications, including ordering information, can be obtained
+from NIST.
+
+
+
+
+7. Objectives. A standard cryptographic interface will facilitate interoperability among different cryptographic
+implementations. Specifically, a standard set of cryptographic service calls provides the following advantages:
+
+
+
+
+a. Application programmers will need to learn only one set of cryptographic service calls for multiple cryptographic
+applications.
+
+b. Cryptographic modules from different vendors, which conform to this interface standard, may be interfaced to
+a given application without requiring modification to the application program.
+
+c. Contracts for additional cryptographic modules would not have to be sole sourced because multiple vendors would
+offer the standard service calls.
+
+d. Vendors could build cryptographic modules which would interface to a wide variety of applications.
+
+
+
+
+8. Applicability. This standard is applicable to all Federal departments and agencies that use cryptographic-based
+security systems for the protection of unclassified information that is not subject to Section 2315 of Title 10, U.S.
+Code, or Section 3502(2) of Title 44, U.S. Code. The standard shall be used by all Federal departments and agencies
+in designing, acquiring and implementing cryptographic services where a cryptographic interface is to be provided.
+Not all of the service calls specified in this standard need to be used in its entirety by an application. The specific
+service calls that shall be used depend on the security requirements for the particular application and environment
+in which the system is to be utilized. Private and commercial organizations are encouraged to adopt and use this standard
+in order to facilitate interoperability among different cryptographic products.
+
+9. Applications. The standard may be used in any application which uses cryptography to provide any of the following
+cryptographic functions: message encryption/decryption, message authentication, digital signature generation
+and verification, and key management. Not all the service calls specified in this standard need to be used by an application.
+An application can make use of additional service calls not available in this standard.
+
+10. Specifications. Federal Information Processing Standard (FIPS) XXX, 
+
+Cryptographic Service Calls.
+
+11. Implementations. Though this document specifies a standard interface for requesting cryptographic functions,
+the standard, however, does not mandate a specific implementation of these cryptographic functions other than what
+are explicitly specified in the document. The cryptographic functions may in fact be implemented in software, firmware,
+hardware, or any combination thereof. However, there may be other standards that are applicable to the implementation
+of specific cryptographic functions. For specific requirements, the individual standard shall be referred to.
+Conformance to this standard requires that the cryptographic service calls used by an application provide exactly
+the same name and letter case for the service calls and their parameters as specified in the standard. In the rare case
+where the standard naming and specification of the service calls and parameters may violate certain rules of a particular
+programming language in use, the exception should be noted and the selected naming and case specification should
+match the standard as much as possible.
+
+12. Export Control. Certain cryptographic devices and technical data regarding them are deemed to be defense articles
+(i.e., inherently military in character) and are subject to Federal government export controls as specified in Title
+22, Code of Federal Regulations, Parts 120128. Some exports of cryptographic modules conforming to this standard
+and technical data regarding them must comply with these Federal regulations and be licensed by the U.S. Department
+of State. Other exports of cryptographic modules conforming to this standard and technical data regarding them fall
+under the licensing authority of the Bureau of Export Administration of the U.S. Department of Commerce. The Department
+of Commerce is responsible for licensing cryptographic devices used for authentication, access control, proprietary
+software, automatic teller machines (ATMs), and certain devices used in other equipment and software. For advice
+concerning which agency has licensing authority for a particular cryptographic device, please contact the respective
+agencies.
+
+13. Implementation Schedule. This standard becomes effective six months after publication of a notice in the 
+
+Federal Register
+
+ of its approval by the Secretary of Commerce.
+
+14. Qualifications. While this standard specifies a standard interface for application programs to request cryptographic
+functions from a cryptographic module, conformance to this standard does not assure that a particular cryptographic
+module or implementation is secure. Security requirements for a cryptographic module are addressed in FIPS 1401.
+The responsible authority in each agency or department shall assure that the overall system provides an acceptable
+level of security.
+
+

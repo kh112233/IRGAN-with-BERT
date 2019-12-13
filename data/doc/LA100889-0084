@@ -1,0 +1,114 @@
+SCIENTIST DREAMS OF WAYS FOR COMPUTERS TO THINK 
+In his years of research, Caltech biophysicist John J. Hopfield has met a 
+number of people who think like computers. But he has never met a computer that 
+thinks like a human. 
+The dizzying potential of such a machine has long intrigued him, however. A 
+pioneer in the study of "thinking computers," Hopfield is fascinated by whether 
+digital machines can be taught to process information in a manner similar to 
+the human nervous system. 
+On Tuesday, the Caltech professor will give an open lecture at Claremont's 
+Harvey Mudd College that probes the question "Can Computers Think?" Hopfield, 
+who recently won the school's prestigious Wright Award, is also scheduled to 
+hold a series of campus talks with students and faculty on Oct. 11 and 12. 
+In contrast to traditional computers, which process information sequentially, 
+bit by bit, Hopfield designs neural networks, a vast matrix of interlinked 
+computers, modeled after the human brain, that can communicate with each other 
+and trade data all at once. Although the field is a fledgling one, Hopfield and 
+others have laid the groundwork for radically new computers that could have 
+enormous impact on technology. 
+The field appears tailor-made for Hopfield, who strides comfortably through the 
+realms of neurobiology, computer science, physics and mathematics and in 1983 
+won a MacArthur Prize -- the so-called genius award. 
+Hopfield, "has been a very major figure in the field for a long time," says 
+James A. Anderson, a cognitive scientist at Brown University. "He produced a 
+very simple model that's quite elegant." 
+Winning the Wright Award, presented each year for leading research in 
+interdisciplinary fields, also puts Hopfield in eminent company. Last year, the 
+$20,000 award went to British scientist Francis H. Crick, who shared the Nobel 
+Prize with James D. Watson in 1962 for his discovery of the molecular structure 
+of DNA. 
+Formerly, neural network research fell through the cracks of biology and 
+computer science because it fit squarely in neither. But today, as scientists 
+seek to design ever-smarter and more powerful computers, Hopfield is riding a 
+growing wave of interest. 
+"There was a period in the 1970s when no one was paying much attention, except 
+the hard core, such as Hopfield. He is responsible for the resurgence," 
+Anderson says. 
+Work in Gray Areas 
+Hopfield, a tall, lanky man of 56 who explains his theories in clear, graceful 
+language, attributes his success to his exploration of the gray areas where no 
+scientist has gone before. 
+So do others. 
+"Had he not asked questions in areas that were in the boundaries between 
+disciplines, he wouldn't have made such a creative, profound contribution," 
+said Stavros Busenberg, a mathematics professor at Harvey Mudd. 
+All too often, however, traditional research methods have encouraged 
+specialization at the expense of gaining fresh ideas from cross-pollination, 
+Hopfield said. 
+"There's lots of rewards for someone who's at the center of his or her 
+discipline. At the fringes, you don't have a built-in rooting section, and you 
+wonder if anyone's really listening," Hopfield said. 
+He has personal experience with this phenomenon. 
+Two Disciplines 
+"When I was in the Princeton physics department, they told me, 'We're sure what 
+you're doing on the outskirts of biology is very interesting, but please don't 
+tell us too many details.' " 
+But that is all behind him. For the last decade, Hopfield has held a joint 
+appointment in the departments of chemistry and biology at Caltech, a 
+fringe-dweller's paradise. 
+Currently he teaches only one class, in neural networks. It is a task he 
+relishes, because he can discuss ideas with students, and dreads, because it 
+forces him to anticipate student questions and answer them first. 
+But there are payoffs. In 1984, he says, on a flight home from an East Coast 
+seminar on neural networks, fear of showing up unprepared for class prodded the 
+Pasadena professor to construct a mathematical model that had long eluded him. 
+"A lot of the interesting things I've done in my life have been the result of 
+having to give a lecture very soon. It forces you to think deeply." 
+Hopfield has been thinking deeply about the connection between computers and 
+the human brain since 1969, when a scientist friend convinced him that he 
+should combine his physicist's background with his interest in neurobiology. 
+'Dim Ideas' Brightly Linked 
+For several years, Hopfield signed up for seminars and collected information, 
+slowly coming up with "the dim ideas that there was something collective about 
+the way memory worked." 
+Then, during three months in 1980, Hopfield made a connection between memory 
+and neurobiology. But he says it took him several more years to come up with 
+the idea of redesigning digital computers to reflect the architecture of the 
+human brain. 
+In one experiment, Hopfield and his associate, David Tank at Bell Labs in 
+Holmdale, N.J., used a simulated neural network to solve the classic "traveling 
+salesman" problem, which involves finding the most efficient route for a 
+salesman to travel among a set of cities. 
+Hopfield and Tank's solution was to design a circuit-board with a series of 
+switches adjusted to represent the distances between cities. Using an 
+electronic current, the computers worked in tandem, settling into a pattern 
+that indicated the shortest route a thousand times faster than a digital 
+computer, which would have to measure each route one at a time. 
+Less Than 100% Sure 
+Like the human brain, the neural networks don't give the right answer 100% of 
+the time, Hopfield says. But in the traveling salesman test, they gave the best 
+answer 50% of the time and one of the two best answers 90% of the time. 
+Of course, digital computers will always provide fast, efficient 
+number-crunching -- a skill at which humans don't excel, Hopfield says. But 
+they are just plain dumb when it comes to tasks that humans do effortlessly, 
+such as recognizing people or voices. 
+Today, a new breed of computer pioneered by Hopfield and others is learning 
+through association, using building blocks of data and past experience to solve 
+problems. 
+Hopfield is working with a graduate student on a neural net system that will be 
+able to hear words and distinguish them from garbled letters. When it hears a 
+bona fide word, a bulb will light up. 
+Such systems have many applications. Since 1986, hundreds of little companies 
+have sprung up to try and build computers that apply the principles first 
+articulated by Hopfield and a handful of others. 
+Some firms want to design computers that read ZIP codes and check numbers; 
+others see applications in analyzing seismic patterns to predict earthquakes or 
+search for oil. 
+Pentagon Applications 
+And a not-so-little group, the Pentagon, sees defense applications. Last year, 
+it announced development of its own $33-million neural network system. 
+But for now, says Hopfield, thinking computers remain in the science fiction 
+future. 
+Paraphrasing author and mythologist Joseph Campbell, Hopfield adds: At least 
+for the near future, the computer is going to continue to seem like an Old 
+Testament God, with lots of rules and little mercy. 

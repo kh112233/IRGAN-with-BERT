@@ -1,0 +1,166 @@
+FT  18 JUN 92 / Telecommunications In Business (23): Milestone for
+integrated services - ISDN / After twelve years of promises and many missed
+deadlines, it looks as if ISDN, the Integrated Services Digital Network,
+really will be 100 per cent deliverable throughout the UK by the end of
+1992, as a full national dial-up, integrated voice and data service
+THE important milestone for ISDN in Britain will be reached when all BT
+switching centres are digitised and the so-called C7 signalling programme
+has been completed, with Mercury and BT ISDN networks fully interconnected.
+Another milestone will be reached in 1993 when the Normes Europeennes des
+Telecommunications (Net) ISDN standard is implemented, creating one common
+European ISDN network with all systems operating to the same set of
+regulations. This will enabled companies to use the same ISDN equipment
+throughout Europe.
+ISDN is available to all businesses in France, Germany, Japan and Singapore.
+In the UK, it is available to 86 per cent of businesses and 78 per cent of
+homes, with users currently able to connect to 24 networks in 16 countries.
+In the US, according to Bellcore, availability now is 40 per cent of all
+phone lines, with 60 per cent not expected to be reached until 1994.
+But while some say ISDN is one of the most important developments in
+telecommunications since Alexander Graham Bell invented the telephone,
+sceptics say it is a solution looking for a problem and will take up to 10
+years before it is accepted by the wider community, if ever.
+Take-up has been slow to date but, without the all-important infrastructure,
+that was to be expected. Many potential suppliers argue, however, that the
+problem is a deeper one.
+As Don Winston, general manager and vice president of modem manufacturers,
+Microcom UK points out: 'Take-up of ISDN will not happen until it can offer
+customers benefits they do not already have, or something they have but for
+less money.
+At the moment, it does neither. As a result, the dial-up modem business is
+still growing by 25 per cent a year, with modems capable of transmitting
+data at 57.6kbps (kilobits per second), not far off ISDN's 64kbps.
+'When the CCITT (the Comite Consultatif International Telephone et
+Telegraphe) has finalised the V Fast standard, transmission times will be
+pushing close to 100kbps. If ISDN is the way to the future, why are such
+techniques even being considered?'
+Reid Meintzer, director of sales and marketing at dealerboard suppliers, IPC
+Information Systems, believes lack of enthusiasm for ISDN among
+communications managers in the City of London is largely the fault of
+manufacturers who rushed into the marketplace with products that were not
+ready.
+His point is echoed by Peter Edmondson, product development manager of fax
+suppliers, Canon UK, who also lays the blame partly at the door of the
+media: 'Over the past 4-5 years, expectations have been raised too high. It
+is almost here now and it is a useful practical tool, if there is an
+application for it. The point about ISDN is not that it can be used for data
+communications without the need for a modem, but that it provides the
+infrastructure to support a whole new generation of integrated computer and
+communications applications, enabling us to communicate in ways we have not
+even dreamt about yet.'
+The ISDN connection
+An ISDN connection is made up of two types of communication channel: bearer
+channels (called B-channels), each offering 64Kbps capacity transmission
+rates to carry information from terminal to terminal; and 16kbps signalling
+channels (called D-channels) that carry the messages that establish and
+control the call.
+Primary Rate ISDN30, also called 30B+D in Europe (23B+D in the US), is used
+mainly for voice calls by large companies with advanced telephone systems
+(ISPBXs) and provides a 2mbps (megabits per second) interface to the digital
+network.
+Facilities and applications
+ISDN2 and ISDN30 both offer certain facilities that are not possible on the
+conventional PSTN (public switched telephone network). They include calling
+line ID; sub-addressing for routing calls to a particular terminal; call
+diversion; and three-way calling.
+However, before making an investment in either service, businesses would
+need to justify the application. For the true benefit of ISDN is not simply
+that it offers improved features, higher quality speech and more
+sophisticated routing and connections; or even that it offers higher speed,
+error-free file transfer with high speed call setup.
+Its advantage is that one network can support multiple applications, with
+users able to transmit speech, data, graphics and video communications over
+a single line and to plug any type of terminal into one type of socket.
+Up to eight terminals can be connected to each ISDN2 line, with two items
+able to communicate simultaneously. Also because one network can be used for
+multimedia applications, rather than two or three different networks, time
+and cost spent on network management and maintenance is reduced.
+ISDN, together with intelligent switch software, also enables the creation
+of sophisticated services such as virtual private networks (VPNs).
+New equipment
+A range of equipment is now being made available by equipment suppliers,
+often with assistance from BT on issues such as standards, approvals and
+marketing.
+On the BT list of companies which can supply Terminal Adapters (TAs) with
+full BABT approval are Craycom, Dataflex, Fivemere, Gandalf, Gravacom, IBM,
+Jaguar and Newbridge Networks.
+Slot-in line cards which transform personal computers into ISDN terminals
+are available from Fujitsu, Maxim Networks and Network Designers. Group 4
+fax machines are available from BT, HCS Infotec and Ricoh.
+Video-conferencing is available from BT, GPT and PictureTel.
+There are a number of collaborative ventures under way to supply
+multifunction and multimedia ISDN-compatible terminals. Olivetti and BT, for
+example, have signed a joint development agreement which will address the
+needs of banks and financial institutions, with trials starting this summer
+in the UK and other European countries.
+Telecoms system manufacturer GPT has worked with modem manufacturer Hayes
+Microcomputer Products to produce the Connect ISDN terminal which offers
+plug-in connection for personal computers.
+This makes it possible for any machine with a serial port to transmit down
+an ISDN 2 line at 38kbps; with an optional X21 interface making possible PC
+transmission at full 64kbps, as well as Group 4 fax or videophone
+transmissions.
+Modem manufacturer Dataflex Design and Symicron have collaborated to provide
+an ISDN TA that offers X25 connection to ISDN 2 service from a standard PC
+card. Not content just to announce an ISDN product, Dataflex Design ran
+tests at a public exhibition to compare the times taken to transfer a
+50,000-byte data file desktop to desktop over the two main networks.
+Using various modems for connection to the PSTN, it took between 26 seconds
+and four minutes to transfer the data plus up to one minute to establish a
+satisfactory link. With V24 TAs over a BT ISDN2 link, it took 15 seconds
+plus one second to establish a constant error-free link.
+For users sending data files on a regular basis, the transmission cost
+savings could be substantial, despite the premium paid for the ISDN
+connection. Keen to encourage more business users to move over to ISDN, BT
+has just launched a range of low-cost TAs manufactured by Northern Telecom,
+priced at around Pounds 1,395.
+Aimed at small businesses, telecommuters, retail outlets and educational
+establishments, they will allow users to connect personal computers,
+point-of-sale terminals, LAN servers, multiplexers, fax and
+video-conferencing equipment to the ISDN network without having to re-invest
+in new equipment.
+Power computer users
+Sun Microsystems is targeting the power computer users in the fields of
+engineering and design with their new SPARCstation 10. While it is not the
+first-ever integrated data/voice workstation, it is said to be the first of
+a new generation of desktop systems with built-in ISDN capabilities.
+The reason for the development is that Sun believes ISDN will become as
+prevalent as Ethernet is today and is, thus, the logical choice for
+integrating computers and telephones into a global, standardised digital
+network. By adding telephony control to the desktop computer equipped with a
+graphical user-interface, ease of use by all is assured.
+The costs of ISDN
+While ISDN gives users flexibility in the type of terminals that can be used
+and the type of communications traffic that can be transmitted, the costs of
+the service in terms of connection charges and rental costs will be critical
+to widespread acceptance.
+There will, for example, be a break-even calculation to be made to determine
+whether the digital public switch network or private circuits would be
+better for corporate users. A rough guide is that, if the lines between two
+points are in constant use throughout the day, it makes sense to have a
+dedicated link, because calls are free of charge.
+However, if the links are only in operation part of the day, a fixed link is
+an expensive option. BT makes a connection charge of Pounds 400 for ISDN2
+(for 2 channels) with a quarterly rental charge of Pounds 84. ISDN30 is
+charged at Pounds 152.75 connection and Pounds 32.12 per quarter per channel
+(minimum 30), with extra charges for each facility required. Call charges
+per channel are at the normal voice rate for inland calls and higher for
+international data calls. A private link between, say, London and Aberdeen
+would cost Pounds 8,692, including the Pounds 920 connection charge in the
+first year; Pounds 7,772 for rental only in year two. To reach that cost
+level using ISDN, you would need to make 121 standard rate (91 peak rate)
+three-minute ISDN2 calls a day in the first year and 1,114 standard (86
+peak) in year two. Assuming a 5-day week and a 52-week year, it would cost
+Pounds 1,310 a year for 20 average 4-unit duration ISDN calls per day at
+standard rate, Pounds 3,932 a year for 60 and Pounds 10,486 for 160 a day.
+Mercury's offer
+Many product suppliers have voiced their disappointment at BT's charges,
+perhaps hoping that there would be concessions to kick-start take-up. By the
+end of 1992, greater competition from Mercury may be the spur. While BT
+offers either ISDN2 or ISDN30, Mercury is about to offer a lower entry point
+for medium-sized business. Charges will be Pounds 1,380 for installation and
+Pounds 1,710 annual rental, with each line thereafter costing Pounds 92 to
+install and Pounds 114 annual rental.
+When you get to 30 lines, the cost is Pounds 2,760 for installation (a
+saving of Pounds 405 on the BT charge) and Pounds 3,420 per year rental (an
+11 per cent annual saving).

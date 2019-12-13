@@ -1,0 +1,47 @@
+FT  26 SEP 94 / Survey of Using Computers in Business (11): Sabotage
+incidents most costly - National survey
+Not surprisingly, companies are reluctant to talk about their security
+problems. It is acutely embarrassing and makes them vulnerable to further
+breaches.
+This reluctance is reflected in the National Computing Centre (NCC) survey
+published in July. Of the 850 UK companies who replied to the survey, only
+74 were prepared to talk further about specific security breaches. The NCC
+interviewed 25 companies which generated 31 case studies. These studies,
+together with seven further NCC studies are published in the survey.
+The NCC notes that the majority of the incidents dealt with viruses (16),
+theft of equipment (11) and unauthorised access (8). A few sabotage
+incidents were also reported.
+The incidents of virus infection' range from the relatively trivial to the
+very serious. One small company encountered problems from someone
+accidentally introducing the so-called 'Michelangelo' virus via a golf
+program. It cost about Pounds 2,000 to put right and caused no real
+problems.
+A large food and drink company quoted in the survey was faced with a more
+serious virus problem following 34 redundancies in its information systems
+department. A virus called Form, which destroys data, was accidentally
+introduced into a local area network of 40 personal computers:
+'A PC user took a blank disk from a box and formatted it on her PC. She then
+copied a file to the disk and took it to another PC to make use of the laser
+printing facilities. Unknown to the user, the 'blank' disk had been infected
+with a version of Form then replaced in the box.'
+The incident cost the company Pounds 50,000 in time and effort to put right
+and it has since introduced vetting procedures on all incoming disks.
+Sabotage incidents of this type  - although rare  - are the most costly. It
+cost a large company in the information technology sector an estimated
+Pounds 33,000 to recover from damage done by a disgruntled student. The
+student managed to 'hack' into the company network using a dial-up modem and
+an unauthorised account number. Files were deleted and derogatory messages
+were sent through the electronic mail system.
+The student was later charged and convicted under the Computer Misuse Act,
+receiving a six-month suspended sentence.
+Even relatively trivial incidents can mean significant costs in the long
+term. A government department notes that, although it cost only Pounds 500
+to get rid of a virus in its network of 250 PCs, there is an overhead
+associated with monitoring for further incidents:
+'There is a continuous background cost of perhaps Pounds 6,000 a year to
+provide basic facilities to enable detection of this type of event.'
+The British Standards Institute has published a Code of Practice for
+Information Security Management based on the best practice and experiences
+of a wide range of companies. The NCC includes an analysis of this in the
+1994 survey together with recommendations as to how it can be improved. The
+NCC can be contacted on 061 228 6333.

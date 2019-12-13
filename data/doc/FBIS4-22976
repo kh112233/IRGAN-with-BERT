@@ -1,0 +1,593 @@
+PRO   System Development in Our Country and Experimental PRO 
+Testing Range Complex (System A) 
+
+<F P=102> 947G0017A Moscow IZVESTIYA AKADEMII NAUK: TEKHNICHESKAYA 
+KIBERNETIKA in Russian No. 6, Nov-Dec 92 (manuscript received 19 </F>
+
+Aug 92) pp 166-174--FOR OFFICIAL USE ONLY 
+<F P=103> 947G0017A </F>
+<F P=104>  Moscow IZVESTIYA AKADEMII NAUK: TEKHNICHESKAYA 
+KIBERNETIKA </F>
+
+<F P=105>  Russian </F>
+CSO 
+
+<F P=106> [Article by O. V. Golubev, Yu. A. Kamenskiy, M. G. Minasyan, </F>
+and B. D. Pupkov, NIO NIIRP [Research Department of Research 
+Institute of Radio-Instrument Building], under the rubric 
+``Control of Complex Systems''; UDC 533.629.7; first paragraph 
+is TEKHNICHESKAYA KIBERNETIKA introduction] 
+  [Text]This article deals with the scientific engineering 
+aspects of development of the first experimental PRO 
+[antimissile defense] system (1953-1962) in our country. It 
+discusses methods, means and results of solving problems of 
+controlling antimissile missiles, providing for firing 
+effectiveness required for the experimental complex, and 
+appropriate precision of antimissile missile guidance. The main 
+data are submitted on full-scale tests of system A, including 
+the world's first interception and destruction of the head of an 
+R-12 ballistic missile fired on 4 March 1961. 
+  Introduction. This article is apparently the first 
+publication in the open press concerning scientific-engineering 
+(cybernetic) aspects of development of real PRO systems already 
+developed and being developed in our country. We consider this 
+publication to be quite relevant and timely, because it is 
+expressly in our country that the world's first experimental PRO 
+complex (system A) was developed and, at the present time, only 
+Russia has a functional PRO firing system. We believe that a 
+rather open discussion of these matters is particularly timely 
+at the present time, when negotiations are in progress, in 
+accordance with the agreement made in June 1992 between the 
+United States and Russia, in order to ``develop jointly with 
+allies and other concerned states of the concept of global 
+defense against a limited ballistic missile 
+attack.''[.sup]1[/] 
+  Having worked on the PRO since the early 1950s, these 
+authors 
+intend to describe in this article and its continuation the main 
+results of scientific-engineering developments in the PRO field 
+(from 1953 to the present time), as well as to express our views 
+on future development of PRO systems. 
+  Beginning with this article, we intend to discuss the above 
+issues in the following order: 
+  1. Experimental PRO firing range (system A). 
+  2. PRO system of Moscow (system A-35). Planning the Taran 
+border PRO system and territorial Aurora [``Avrora''] PRO system. 
+  3. Development of Moscow PRO system. Further refinement of 
+PRO system. 
+  The history of PRO development in our country and the PRO 
+problem at the present time have many other aspects: political, 
+and both domestic and international military ones. This history 
+is steeped in dramatic events, creative achievements and 
+disappointments, spurts of activity and prolonged slacks. Such 
+political and military figures as Khrushchev, Ustinov and 
+Gorbachev, prominent scientists and designers had a bearing on 
+the PRO problem and participated actively in it. If this broader 
+discussion of the PRO problem finds readers, we are prepared to 
+share with them our recollections and views on this problem, 
+which is not simple. 
+  1. First stage of research in the PRO field. Search for 
+a means of damaging the warheads of ballistic missiles. In 
+late December 1953, research on the problem of developing the 
+means and system for anti-missile defense (PRO) began at KB-1 
+[design office] where we worked. The work was carried out 
+concurrently in several departments. Systemic questions, 
+distinctions of systems for control of AMM [antimissile 
+missiles] and questions of efficacy of AMM firing on ballistic 
+missile warheads were explored mainly in the laboratory headed 
+by Professor N. A. Livshits. The laboratory consisted of several 
+groups, including the firing effectiveness group. Academician V. 
+S. Pugachev, who was a professor at the Zhukovskiy Academy 
+[Military Air Engineering Academy imeni N. Ye. Zhukovskiy] at 
+that time, was scientific chief of this group. The task for the 
+group was to select a plan and optimize the specifications for 
+firing equipment of GAAM [guided anti-aircraft missiles], i.e., 
+their warheads and electronic fuzes. Development of 
+fragmentation warheads and electronic fuzes was carried out in 
+specialized organizations. 
+  The task of selecting and optimizing firing equipment for 
+guided anti-aircraft missiles was carried out in accordance with 
+the general guidelines and methods of assessing effectiveness of 
+a firing system proposed in 1945 by Academician A. N. 
+Kolmogorov. At that time, these guidelines and methods were 
+developed at the Zhukovskiy Academy (by V. S. Pugachev, Ye. S. 
+Venttsel and others), as well as several other research 
+institutes of the defense industry and military institutes. 
+Later on, after publication in our country of the book by P. 
+Morse and G. Kimball, ``Methods of Operations Research,'' in 
+1956, we learned (like a Moliere character) that in working on 
+the choice and optimization of firing equipment we were engaged 
+in studies of operations. At that time, assessment of firing 
+effectiveness[.sup]2[/] at KB-1 was made by the optical 
+modeling method, which was used at the Zhukovskiy Academy. 
+Theoretical estimation methods were combined effectively with 
+missions to testing ranges for warheads and electronic fuzes, as 
+well as the State Central Testing Range (GTsP) not far from 
+Kapustin Yar. There, group members were included in commissions 
+for evaluation of effectiveness of firing of live GAAM at target 
+aircraft (Tu-4, Il-28, MIG). 
+  It became apparent very soon to the members of the firing 
+effectiveness group that the firing equipment for AMM designed 
+to destruct warheads of ballistic missiles must be very 
+different from the warheads of GAAM that had already become 
+standard (high-speed fragmentation warhead with a circular 
+strike field [``field of destruction''], and electronic fuze 
+with a directional radiation pattern and a radius of action 
+within the maximum range of GAAM misses). A positive solution to 
+the problem of damaging warheads was suggested to us in the 
+reports of our precursors who studied the PRO problem, the 
+groups of Mozharovskiy (Research Institute 4, Ministry of 
+Defense) and Khlebtsevich (Research Institute 885). In their 
+work, which was carried out in 1948-1951, plans were proposed 
+for arming AMM with two types of guidance systems. For remote 
+control AMM, fragmentation warheads were proposed with slow 
+fragments and circular (disk) strike field. The optimum radius 
+R[.sub]o[/] and form of strike field were 
+determined according to a number of factors, and it could change 
+with each firing. It was proposed to detonate the fragmentation 
+warheads with an advance, which is required to have a radius of 
+R[.sub]o[/] between the target and the strike 
+field at the moment of contact. However, the method of such 
+detonation and effect of its precision on firing effectiveness 
+was left virtually unconsidered. For AMM with a homing device, 
+it was suggested to use fragmentation warheads with a guidance 
+system that would turn in the direction of the target and 
+explode upon receiving information from the homing 
+head.[.sup]3[/] 
+  Since it was planned to use remote controlled AMM in the 
+work 
+on PRO carried out at KB-1, attention was focused mainly on 
+implementation and optimization of the first system for arming 
+the AMM. The first results of evaluation of precision of AMM 
+guidance and effectiveness of firing at ballistic missile 
+warheads were obtained at KB-1 in August 1954. A method was 
+proposed for controlled detonation of AMM fragmentation warheads 
+on the basis of data from the same ground-based information 
+resources used to guide the AMM. It was proposed that the 
+command for detonation be transmitted over the same line of 
+command over which commands for AMM were transmitted, but with 
+much less timing discreteness. 
+  It must be stated that both systems for arming AMM to 
+destruct the warheads of ballistic missiles were subsequently 
+proposed repeatedly and used in AMM, and have survived to this 
+day in a modified form. A method was developed to evaluate 
+target W in order to assess the influence of 
+detonation precision on probability of damaging W, 
+and a large volume of calculations was carried out.[.sup]4[/] 
+Calculations revealed that detonation precision had little 
+effect on W, which made it possible to adopt and 
+subsequently use this rather simple and reliable method of 
+controlled detonation of fragmentation warheads (later on of 
+nuclear warheads also) in PRO systems. 
+  However, with the calculated precision of AMM guidance, 
+firing effectiveness was low, although it was close to the usual 
+level for antiaircraft systems. At that time, no one imposed 
+requirements on W, but the consequences of missing 
+even one ballistic missile with a nuclear charge over Moscow 
+were apparent to us. 
+  In late 1954, Professor G. V. Kisunko (corresponding member 
+of the Russian Academy of Sciences from 1958 on), who headed one 
+of the largest KB-1 subdivisions, began to play a leading role 
+in research on PRO at the KB-1. He requested an evaluation of 
+firing effectiveness of several AMM. Estimates revealed that, 
+with the guidance precision determined for AMM, in the opinion 
+of G. V. Kisunko effectiveness was acceptable only with the use 
+of 8-10 such missiles, and this was unrealistic for the PRO 
+system. It may be that expressly this estimates compelled G. V. 
+Kisunko to search for a new method, not used for GAAM, for 
+determination of target coordinates, and an AMM that would 
+permit radical improvement of precision of AMM guidance. Such a 
+method was soon found. This change in content and 
+characteristics of information resources of the PRO system 
+indicates the relationship between firing equipment and general 
+systems characteristics, i.e., the need for a systems approach. 
+On the other hand, with such high requirements of firing 
+effectiveness, it was necessary to have reliable data concerning 
+vulnerability of ballistic missile warheads as related to 
+fragmentation warheads. The most realistic way to obtain such 
+data was to carry out experiments with ballistic missile 
+warheads produced in our country. Without going into the details 
+of this important question, the scientific problems of which is 
+beyond the scope of this article, we believe it necessary to 
+note that such experiments were organized in the next 2-3 years 
+on the testing ranges near Moscow, and in 1956 in Arzamas-l6. 
+The latter experiments were carried out with real R-5 ballistic 
+missile warheads under the scientific supervision of Academician 
+Yu. B. Khariton. R-5 ballistic missiles with warheads destructed 
+by fragments were also launched. The results of these 
+experiments revealed the limited capabilities of fragmentation 
+warheads and gave impetus to investigation of use of nuclear 
+warheads in PRO. 
+  2. AMM guidance system and detonation of its 
+warhead. The AMM guidance system aimed at a ballistic 
+target refers to the aggregate of interacting firing elements, 
+singled out on the principle of participation in AMM control in 
+order to execute the military objective of interception. Thus, 
+the guidance system is the aggregate of information resources 
+controlling computers, earth-missile radio circuits and the 
+object of control -- the AMM with its onboard equipment and 
+ammunition, which is organized by means of the appropriate 
+choice of parameters of these resources and software generated 
+computer algorithms for AMM control in order to have it come in 
+contact with the head of the ballistic target and then to 
+destruct it. 
+  Development of the AMM guidance system for ballistic 
+targets, 
+as an element of the PRO system, was a major new research 
+problem. A decree of the USSR government in 1956 marked the 
+start of solving this problem within the limits of specific 
+research-experimental and experimental-design work. This decree 
+called for establishment of our country's first experimental 
+firing range complex of PRO equipment, the A system. 
+  The design, development and testing of this complex were 
+carried out in 1956-1962 under the scientific-engineering 
+supervision of general designer G. V. Kisunko. 
+  The complex consisted of the following main elements: 
+early-warning radar for ballistic targets (Dunay-2); 3 precision 
+guidance radars, each of which consisted of radar channels to 
+measure target and AMM coordinates; radar station for AMM 
+lift-off station for transmission of control commands to AMM; 
+station for transmission of control commands to AMM; main 
+computer control center consisting of a command post, and M-40 
+control electronic digital computer; radio relay circuits for 
+communication between system objects. Interception of ballistic 
+target heads at the complex was carried out with V-1000 AMM. 
+  The early-warning radar detected ballistic targets at a 
+distance of D = 1200 km, and in the course of 
+automatic tracking it relayed plots to target channels of 
+precision guidance radars. 
+  The precision guidance radars, which are radar stations with 
+parabolic steerable antennas [dishes], operating in the 
+centimeter range of waves in a single-pulse mode, would pick up 
+the ballistic missile head during automatic tracking at a 
+distance of D = 700 km and the AMM (upon receipt of 
+signal from onboard responder) by the time of the start of 
+precision guidance. Measurement of distances to them was made 
+with precision characterized by a mean-square error not 
+exceeding _s_ = 5 m. 
+  The AMM lift-off radar station with steerable parabolic 
+antenna and a scanning beam picked up the AMM during automatic 
+tracking immediately after lift-off. Determination was made of 
+deviation of the AMM from the kinematic trajectory at the 
+lift-off stage from the station's measurements of AMM 
+coordinates and range, whereas at the guidance stage dynamic AMM 
+instructions were formed for the precision guidance radars for 
+angular tracking of AMM. 
+  The station for transmission of control commands, whose 
+parabolic antenna was rigidly attached to the antenna column of 
+the radar station for AMM lift-off, relayed control and warhead 
+detonation commands to the AMM. 
+  All these elements of equipment, which were located at 
+different points and at considerable distances from one another 
+in the Betpak-Dala Desert, were interconnected by a highly 
+informative radio relay system of communications and data 
+transmission, which made it possible to control all elements of 
+the experimental complex by means of the M-40 electronic digital 
+computer with a computer control center in a single firing cycle. 
+  In view of the speed of interception processes and 
+impossibility of human intervention in these processes, as well 
+as the high guidance precision required, the entire target 
+interception process was automated for the first time with use 
+of the M-40 computer, which is one of the first developments of 
+the presently well-known Institute of Precise Mechanics and 
+Computer Engineering, headed at that time by Academician S. A. 
+Lebedev. The computer operated at a speed of 40,000 
+single-address operations per second. 
+  Development of the algorithm to control the system A 
+experimental firing complex was carried out by the head 
+institute under the supervision of G. V. Kisunko, whereas the 
+Institute of Precision Mechanics and Computer Engineering, which 
+already had some highly professional programmers on its staff, 
+took on the software task. 
+  The V-1000, which was developed by OKB-2 [special design 
+office] of the Ministry of the Aviation Industry under the 
+supervision of P. D. Grushin, was notable for particular 
+engineering innovativeness. This was a two-stage rocket with 
+powerful solid-propellant booster and controllable second stage 
+with a liquid-propellant engine. The mean velocity of the AMM, 
+1000 m/s, was unprecedented for those years,and its 
+controllability permitted interception of targets at altitudes 
+of up to 25 km. The specifications for the guidance system 
+stemmed from the purpose of the experimental testing range 
+complex, its structure and features of its elements. Since its 
+purpose was to prove experimentally and demonstrate that guided 
+AMM can intercept a ballistic target and destruct its head by 
+warhead fragments, the main prerequisite for the guidance system 
+was utmost precision of guidance. At the firing range complex 
+planning stage, the precision characteristics of coordinate 
+information about the target and AMM obtained from radars and, 
+accordingly, the characteristics of possible guidance precision 
+were coordinated with parameters of AMM fragmentation warheads 
+and, in particular, with the size of the damage to head sections 
+caused by fragmentation warheads. 
+  Since a fragmentation warhead was selected for a disk-shaped 
+strike field with slow dispersion of destructive elements (of 
+the Zavesa type), and also to enhance guidance precision and 
+reduce the effect on it of errors in detonation of fragmentation 
+warheads, an important specific requirement of the guidance 
+system was to assure encounter of AMM with the target on 
+collision courses, with close to zero angles of impact. 
+  The short balance of time in the system of interception of 
+ballistic targets because of their high velocity and, in 
+particular, the short time available for precision guidance 
+(t = 12-14 s) required high dynamic qualities of the 
+guidance system and, in particular, determined the high 
+requirements of precision and speed of the guidance system. 
+  By the time system A began to be developed, systems with 
+guided rockets, including those with GAAM, had already been 
+developed and tested at KB-1. 
+  The initial posits in planning the guidance system for the 
+V-1000 AMM were largely determined by experience in developing 
+guidance systems for anti-aircraft guided missiles. However, the 
+specific operating conditions of the AMM guidance system and 
+higher requirements for it, as mentioned above, made it 
+necessary to develop substantially the traditional guidance 
+system of GAAM. At the same time, use (for the first time in our 
+country) of a digital computer to solve guidance problems 
+provided the prerequisites for such development. Concurrently, 
+an utterly new problem arose in the practice of planning 
+guidance systems, that of developing computer algorithms, and 
+two directions emerged that corresponded to theory of optimum 
+systems: development of algorithms to process data about 
+ballistic targets and AMM, and development of algorithms for 
+actual control of AMM. 
+  The problem of determination of coordinates of the target 
+and 
+interceptor with precision sufficient for use of fragmentation 
+charges with the acceptable weight and dimensions, was one of 
+the most serious problems. Considering the fact that error in 
+radar measurement of angular coordinates is the main 
+contributing factor to error of determination of object 
+coordinates, G. V. Kisunko proposed use of a method based on 
+using measurements of range from three points geographically 
+distant from one another (the three-distance method), thus 
+obtaining rather high precision in measurement of target and AMM 
+coordinates in the areas of hypothetical location of the points 
+of impact between the AMM and target, thanks to the high 
+precision of range measurement. 
+  Some original formulas were obtained demonstrating the 
+direct 
+correlation between all three cartesian coordinates and 
+distance, which made it possible to carry out an in-depth 
+analysis of precision of the three-distance method and, in 
+particular, determine which was the optimum location, in the 
+sense of precision, of the three range finders. As a result, the 
+radar stations were situated at the apices of an equilateral 
+triangle, with 150-km sides 100 to 250 km away from the shore of 
+Lake Balkhash, in the middle of the Betpak-Dala Desert. 
+  The method of parallel approach of AMM to the target on 
+head-on courses was selected as the guidance method, due to the 
+substantially higher velocity of the target than the AMM, and it 
+provided conditions for destructing the target with the disk 
+field of warhead fragments. AMM lift-off in a trajectory set by 
+this method was carried out in a regular curve, the parameters 
+of which were determined by the projected trajectory of the 
+target. 
+  The rotating mechanism of the launcher turned the guides for 
+azimuth and angle of the site. Such turns placed the missile, at 
+the time of the launch, in a plane traversing the launcher and 
+tangent to the ballistic missile target trajectory at the 
+proposed point of impact between the rocket and the target. 
+Thereafter, the entire trajectory remained in this plane in the 
+process of lift-off. 
+  Originally, in view of the considerable scatter of points at 
+which the warheads of ballistic missiles R-5 and R-12 fell, as 
+well as considering the relatively short range of V-1000 AMM 
+travel, it was proposed to create two launching positions on the 
+firing range and to prepare two AMM for simultaneous launches, 
+and to set the proper deviation of the launching position from 
+the results of existing deviation of the target trajectory. In 
+view of the substantial increase in expenses to prepare and 
+carry out experiments with such arrangement of the complex, a 
+solution was found with respect to optimum AMM control at the 
+lift-off stage with fixed boundary conditions, which made it 
+possible to preclude the need to build one of the launching 
+positions. 
+  The choice of law for control, types of feedback in the 
+autopilot and their parameters, method of limiting AMM overloads 
+[or accelerations], was made on the basis of analysis of dynamic 
+characteristics of homing with use of frequency methods and 
+modeling. 
+  As for methods of analysis and engineering synthesis of 
+guidance systems used at that time, due credit must be given to 
+the book ``Theory of Tracking Systems,'' edited by H. James, N. 
+Nichols, and R. Phillips, which appeared in the USSR in the late 
+1940s and was published in Russian in 1951. The frequency 
+methods of calculating the parameters of tracking systems 
+developed in this book were used in designing practice for a 
+long time, and have not lost their significance to this day, in 
+spite of the unquestionable effectiveness and popularity of 
+modern methods of statistical theory of systems for control of 
+states in space. 
+  As a result, an original design of a guidance system was 
+designed and executed, with one feedback in the AMM 
+stabilization circuit responding to signals from the damping 
+gyroscope, and a developed direct control circuit, in which 
+problems of formation of the law of control, stabilization of 
+coefficient of amplification of the control circuit, limiting 
+AMM overloads, input of the necessary differentiating effect 
+(phase advance) to provide for stability of a second-order 
+astatic system were solved with algorithms. All these algorithms 
+were programmed in the M-40 control computer. 
+  This design of the guidance system design made it possible 
+to 
+avoid many of the flaws inherent in the traditional design for 
+GAAM control, where several of the above problems were solved 
+using resources in the missile. 
+  The appearance of computers in the guidance system, as a 
+dynamic element in the AMM control circuit, put a new task to 
+developers: analysis of the effect of computers on dynamics of 
+guidance systems. This was solved analytically using the 
+frequency method. The obtained formulas for transfer functions 
+corresponding to linear algorithms for processing information 
+about the target and AMM, and algorithms for AMM control made it 
+possible to analyze the dynamics of the guidance system with 
+consideration of computers, and to obtain a number of important 
+recommendations on choice of guidance system parameters. 
+  Refinement of the guidance system of V-1000 AMM was carried 
+out by modeling processes of guiding AMM to a target. This was 
+done in two stages: first, a technological model executed with 
+an analog machine and later on a complex digital-analog 
+simulation stand. Studies of different aspects of guidance 
+system dynamics with actual control equipment were carried out 
+on dynamic stands of Research Institute 2 of the Ministry of the 
+Aviation Industry (now called GosNIIAS [expansion unknown]), 
+with the participation of the staff of this institute. 
+  Modeling on the analog part of the complex stand produced 
+simulators of the main elements of the system (lift-off and 
+guidance radars, station for command transmission, earth-missile 
+radio links) and an anti-missile missile with onboard radio 
+equipment and autopilot, and on the digital part of the standard 
+M-40 computer, programmed firing guidance system algorithms. 
+Such a stand was developed for the first time in the practice of 
+designing and refining guidance systems of guided rockets. 
+  Subsequently, development of complex simulation stands of 
+this type, with execution of a firing program and simulated 
+environment on a standard computer of the firing complex gained 
+a firm place in refinement of GAAM and AMM, and gave an 
+additional impetus to development of experimental theoretical 
+methodology for testing rocket armament systems. 
+  Simulation on the complex stand made it possible to check 
+the 
+validity of chosen guidelines for designing the guidance system, 
+define the parameters of its main elements, and assess the 
+dynamic characteristics of the guidance system, including 
+precision of guiding AMM toward a target. 
+  In order to carry out full-scale tests of the guidance 
+system 
+for the V-1000 AMM, which was done on the newly built testing 
+range in Sary-Shagan, a new technology was developed in the 
+range complex of system A devices, that conformed to the very 
+complicated nature of this complex. In particular, in addition 
+to traditional independent launches of GAAM upon command 
+programmed on the missile and launches in a closed control 
+circuit and open control circuit upon stepped commands from the 
+computer, relayed to the missile over a radio link, launches of 
+AMM in a closed control circuit according to preset, fixed 
+lift-off and guidance trajectories, model launches of an AMM 
+simulator programmed on a standard computer toward an actual 
+target in the firing cycle of the complex. 
+  Input of new intermediate stages in the full-scale tests 
+made 
+it possible to apply to a greater extent of the principle of 
+going from the simple to the complicated, which is inherent in 
+the most effective methodology for refining complex engineering 
+systems. As a result, it was possible within a rather short time 
+to refine on the range the guidance system and firing complex as 
+a whole, in spite of their great complexity. Such methodology 
+for full-scale tests found broad application as well in testing 
+next generation guidance systems. 
+  The guidance system characteristics obtained in planning and 
+refining the complex provided for interception of the heads of 
+ballistic targets with sufficient precision for testing purposes. 
+  Concurrently with development of the guidance system, work 
+was done to produce a new type of firing equipment. Considering 
+the experimental data obtained on the effect of fragments on 
+warheads of ballistic missiles, the technical assignment was 
+made to develop a fragmentation warhead for the V-1000 AMM. The 
+method of detonation upon command was executed in the complex of 
+an algorithm and equipment to put out commands for activating 
+and detonating fragmentation warheads. The same equipment of 
+system A used in the guidance system was used here. In 
+developing the algorithm for activation, the main task was to 
+determine precisely the moment of encounter of the target with 
+the strike field of the fragmentation warhead of an activated 
+AMM. The radius of the strike field was determined on the basis 
+of obtaining maximum probability of destructing a warhead in a 
+given launch. Since the activation and detonation commands for 
+the fragmentation warhead were irreversible, special attention 
+was given to protecting the detonation channel against 
+malfunctions in the program and equipment involved in this task. 
+  We must mention that much attention was devoted to recording 
+and processing data obtained when refining programs in all types 
+of work, including firing launches. Study of this information 
+made it possible not only to find errors in algorithms and 
+programs, but also to find ways to enhance firing effectiveness. 
+Thus, it was noted that guidance of AMM toward a target and 
+impact with the target usually occurred with noticeable dynamic 
+guidance errors. In addition to steps to improve the guidance 
+system, it was proposed to determine the optimum radius of the 
+strike field, not only on the basis of a priori data 
+(statistical characteristics of guidance errors), but also with 
+consideration of dynamic errors h[.sub]dyn[/] 
+occurring and extending to the point of impact between the AMM 
+and target. Use of these elements of adaptation in the 
+detonation channel made it possible, on the average, to improve 
+firing effectiveness appreciably. This suggestion was followed 
+by the time of the first firing launch. 
+  3. Results of full-scale tests. Firing 
+effectiveness. The first firing launch of an AMM armed with 
+a fragmentation warhead took place on 24 November 1960. 
+  The AMM was armed with a fragmentation warhead designed by 
+A. 
+V. Voronov. In this launch, the warhead of an R-5 ballistic 
+missile was not damaged. The guidance error was too close to the 
+established strike radius R[.sub]o[/], and for 
+this reason 2-3 months were spent working on improving guidance 
+precision. On the other hand, it was decided to use in the 
+future a new fragmentation warhead designed by K. I. Kozorezov. 
+It differed from the first type of fragmentation warhead in that 
+it had a different type of destruct element. 
+  On 4 March 1961, for the first time in the world system A 
+intercepted and destructed the warhead of an R-12 ballistic 
+missile flying at a speed of more than 3 km/s. 
+  The fact that destruction occurred was recorded by equipment 
+on the firing range for external trajectory measurements. 
+Examination of warhead fragments scattered beyond the normal 
+zone for falling warheads confirmed visual observations, 
+according to which warhead destruction occurred at an altitude 
+of about 10 km. 
+  Subsequently, V-1000 AMM were launched that were aimed at 
+R-5 
+and R-12 ballistic missile warheads with a more developed system 
+of recording damage to warheads, including damage to the warhead 
+charge proper. 
+  Direct damage to ballistic missile warheads was recorded in 
+two AMM launches aimed at R-5 and three aimed at R-12 ballistic 
+missiles. 
+  Frequency of strikes obtained in all launches was close to a 
+priori estimates. 
+  To further enhance precision and effectiveness of firing, a 
+modification was made in the V-1000 with a heat homer. For this 
+AMM variant, an arming system was developed which included a 
+guided fragmentation warhead with directional action and an 
+original warhead control system, i.e., turning, change in 
+response to misses in width of strike field sector and 
+detonation time. The control system was installed in the 
+missile computer operating on information from TGS [telegraph 
+stations?] and from earth over the detonation channel. Several 
+such AMM were built; however, trials were unfortunately not 
+completed for nontechnical reasons. 
+  On the whole, the full-scale tests of system A revealed that 
+it is possible in principle to intercept and destruct rather 
+effectively the heads of ballistic missiles. 
+  Interception and destruction of ballistic targets not only 
+was very important from the military engineering point of view, 
+but also had political significance, since even a single 
+ballistic target was considered an absolute weapon at that time. 
+However, the event did not elicit an appropriate reaction in the 
+country. There were sufficient reasons for this. In part, it 
+happened because work on PRO in those years was very classified, 
+partly because the administrative circles of the military 
+industrial complex were concerned with preparations for the 
+first launch of a manned earth satellite in orbit, which 
+happened on 12 April 1961, leaving the outstanding event in the 
+history of PRO in the sidelines. 
+  Nevertheless, the positive results achieved in developing 
+system A opened the way for developing a PRO firing system for 
+the Moscow. 
+Footnotes 
+  1. IZVESTIYA newspaper, 17 June 1992. 
+  2. According to Kolmogorov's ideas, PRO firing effectiveness 
+was characterized primarily by probability of 
+damaging the target. 
+  3. For example, in essence the solid circular impact zone 
+with strike-ready destructive elements was used in the 
+well-known NOE [expansion unknown] experiment in the 
+United States in 1984. 
+  4. It should perhaps be noted that these calculations were 
+among the first to be made at the KB-1 using the first 
+Strela [Arrow] computer at this design office and among 
+the first in the country. 
+
+

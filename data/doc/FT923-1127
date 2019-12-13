@@ -1,0 +1,83 @@
+FT  24 SEP 92 / Survey of Computers in Manufacturing (5): 'Server' may still
+have role - Decline of the Mainframe
+REPORTS of the death of the mainframe computer may be greatly exaggerated -
+but even at IBM, where a Dollars 60bn global empire has been built primarily
+by selling and supporting these centralised computer systems, the decline in
+the stature of the beast is readily acknowledged.
+'The mainframe business isn't growing as it used to,' Mr Andrew Wightman,
+head of IBM industrial marketing in the UK, concedes. 'And that's even more
+true in manufacturing than it is elsewhere.'
+The diminishing role of the mainframe computer has been a continuous theme
+of the industry since the minicomputer offered an alternative 25 years ago.
+But the decline in its stock has accelerated sharply of late with the
+arrival of powerful computer workstations running on the 'open' Unix
+operating system, and the bold assertion, by Sun Microsystems and others,
+that almost any size of computing requirement can now be met by a
+distributed network of workstations and servers.
+According to Mr Wightman, the slowdown in mainframe demand from UK
+manufacturing industry has been hastened by special factors - most notably,
+the tendency of larger companies to devolve decision-making to their
+operating units. Information technology is normally decen- tralised, too -
+and so the importance of the central, corporate computer declines.
+Mr Wightman is aware that anything he says in support of the mainframe may
+cast him in the role of King Canute, refusing to bow to the inevitable tide
+of distributed and 'open' systems. 'We are not trying to defend mainframes,'
+he says cautiously. 'But in our view, the pendulum has swung too far.' He
+predicts a continued role for the mainframe as a powerful 'server',
+supporting networks of smaller computers.
+His argument is that, despite the technical performance and the cheapness of
+fully distributed computer systems, most organisations will need to retain
+central control over data, and, even more problematically, over the
+development and maintenance of software. So when old hands in the computer
+industry hear, as they have recently, that the Post Office or the Royal Air
+Force is committing its vast computer requirements to run on distributed,
+Unix-based systems at a future date, they say: 'We'll believe it when we see
+it.'
+Few manufacturing companies, in any case, are in a position to jettison
+their mainframe computers, even if they wanted to. 'I think the mainframe
+computer still has a life of perhaps 10 years,' says Mr Cliff Shuker,
+managing director of the Rover division of software house AT&amp;T Istel.
+'But its role will change. It will become a server, holding corporate data.
+And since its architecture is wrong for that role, we'll see a move to
+parallel processing machines,' he adds. These mainframe computers will,
+observers believe, use new, so-called 'massively parallel' hardware
+technology to process thousands of simple tasks simultaneously.
+Mr Shuker thinks that even as the move to distributed computing gathers
+pace, the mainframe will still be needed as a central server. 'As the
+concept of the server and the distributed network evolves there will be new
+issues, such as how you manage software updates and security,' he says. 'But
+I don't believe you'll ever service data adequately across a large network
+without a big central server.'
+However this need for central support cannot, Mr Shuker believes, preserve
+the traditional keeper of the mainframe - the central data processing
+department. 'That will become extinct,' he predicts.
+Mr Tony Hoare, industrial marketing manager of UK-based but Japanese-owned
+computer supplier ICL, claims that a smooth evolution of the mainframe
+computer into the new, distributed environment is feasible. 'The mainframe
+is still the most appropriate corporate server,' he says, 'while Unix
+machines will serve as departmental servers.'
+ICL is also adapting its mainframe computers to try to meet the demand for
+distributed computing: they will offer the facilities of the latest personal
+computers on their terminals, for example, and run programmes written for
+that linchpin of open systems, the Unix operating system.
+But Mr Hoare says that these developments are intended to keep existing
+customers happy: mainframes are not cost-competitive, he admits, for anyone
+building a corporate computer system from scratch. 'The mainframe market in
+manufacturing will become much narrower,' he concedes.
+Other observers are reluctant, though, to concede that the market has any
+future at all. 'Our view is that distributed computing is the way to go,'
+says Mr Eric Woodcock of BAeCam, the factory control business which has
+developed from expertise within British Aerospace.
+'Manufacturing wants its computing power as close as possible to where value
+is added,' he adds. 'So distributed computing is the answer. The mainframe
+was never right - it was just that there was no alternative.
+'There are reasons why manufacturing firms will hang on to their mainframe
+even if it is not the optimum solution - they have old data, old
+applications and security requirements to think about.'
+But for Mr Woodcock, recent commitments by the US Department of Defense and
+the UK Ministry of Defence to rely on workstations and servers for their
+computer requirements in the future were the writing on the wall. 'The
+military has now accepted that these client-server systems are secure.
+That's just another piece of evidence that suggests the mainframe computer
+has no future in manufacturing control.'
+The writer is features editor of The Engineer

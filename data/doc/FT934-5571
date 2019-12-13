@@ -1,0 +1,171 @@
+FT  29 NOV 93 / Survey of Software at Work - Winter 1993 (32): Promise of a
+golden era - Technology trends / Business briefing / Object-oriented
+computing, like many earlier software technologies, has grown into yet
+another bandwagon. The computer industry creates them regularly, usually to
+try and put right the problems that were caused by previous technologies
+Object-oriented computing promises to bring about a new golden era in
+software. By enforcing engineering disciplines in software production, it
+aims to create good software cheaply and quickly.
+Object-oriented computing is being called a 'paradigm shift' and has
+attracted more attention than any other 'breakthrough' in the past year.
+Despite the noise and prattle, there is evidence that object-oriented
+computing is not attracting as much support from users as the eager software
+product suppliers would like.
+Although there are encouraging results from pioneering users the vast
+majority of companies have put objects on the back burner while they deal
+with more pressing problems such as maintaining their old applications and
+coping with the switch to client-server systems.
+Advocates of object-oriented computing claim that many of these problems
+could be solved by adoption of object-oriented methods.
+But users, it would seem, still need to be convinced.
+The computer industry has, after all, an uncanny ability to re-invent itself
+and persuade us all that they really will get it right this time. Professor
+Tony Hoare, one of the fathers of modern software, observed this trait in
+his Turing Award speech in 1980:
+'You shouldn't trust intelligent programmers. We can think up such good
+arguments for convincing ourselves and each other of the utterly absurd.
+Especially don't believe us when we promise to repeat an earlier success
+only bigger and better next time.'
+Every two or three years, a 'new' software technique is dragged from the
+laboratory, turned into a marketable product and foisted on the bewildered
+computer user as the answer to their prayers. Object-oriented computing is
+only the latest in a long line of technologies claiming to be a panacea.
+Relational databases, artificial intelligence, expert systems,
+computer-aided software engineering, graphical user interfaces, open
+systems, networking and work group software have all promised to solve the
+problem of getting a computer to do what we want - quickly, easily and
+cheaply. None of them has succeeded.
+While it is true that some of these technologies have advanced computing a
+little, the approach to designing a computer system to solve a business
+problem is still essentially the same as it was 30 years ago.
+But if the supporters of object-oriented computing are right, this is about
+to change. They say that objects offer a new way to think about computer
+software systems and how they are put together. In place of the traditional
+technology-driven approach of the last 30 years, object-oriented computing
+aims to relate computer systems more closely to the real world and to turn
+software production into a genuine branch of engineering.
+This has, of course, been the goal of software scientists since computers
+were first used and all of the technologies listed above were aimed at
+achieving this.
+So why should we believe them this time? There are signs that many users are
+not being taken in by the hype. A recent survey from UK-based market
+researcher Spikes Cavell shows that most users do not consider
+object-oriented computing an issue and do not let it influence their buying
+decisions.
+A survey, The Battle for the Buyer, published earlier this year, asked more
+than 200 UK companies which issues were the most important in determining
+the purchase of development tools. Object-oriented computing comes well down
+the list with more traditional concerns such as maintenance and ease of use
+rating much higher. Only 20 per cent of users saw object-oriented computing
+as important.
+'Software vendors continue to leap on the latest bandwagon. Today it is
+object-orientation. While this technology is unquestionably important, the
+market believes it will be some time before it is applicable to real-world
+applications,' says Mr Luke Spikes, managing director of Spikes Cavell.
+'Software vendors promote new technology in hopes of creating some
+differential advantage and, although we need them to continue to push the
+barriers of what is technically possible, this must be tempered with a
+degree of responsibility and maturity in how these technologies are brought
+to market,' says Mr Spikes.
+The survey also asked how companies though their priorities might change.
+About 60 per cent expected object-oriented to become more important in the
+future.
+In defence of software vendors, Mr Paul Ellis marketing manager of Inference
+Europe, an object-oriented (O-O) tools developer, says that the market has
+been confused by unjustified claims:
+'There is lots of noise about object-oriented computing. There are so many
+developers trying to claim the crown, when only half a dozen tools are
+really object-oriented,' he says.
+'But just because it is fashionable, this does not mean that it is not
+useful. The importance of object-oriented computing is how it is closely
+tied to other innovations like open, client-server computing,' says Mr
+Ellis.
+He claims that Inference's US-developed ART*Enterprise is one of the few
+genuine object-oriented development tools. Like its rivals, it promotes the
+tried-and-tested engineering principle of building systems from sets of
+pre-written 'components'. In O-O jargon these are called class libraries and
+contain a wide range of 'tested' objects which can be combined with new ones
+to create applications.
+This approach is widely used in graphical operating environments such as
+Apple's Macintosh and Microsoft's Windows where the same print driver might
+be re-used by many different programs.
+This ability to re-use software is seen as one of the main virtues of
+object-oriented computing. It helps to cut development costs, reduce
+maintenance burdens and allows greater flexibility to change applications to
+suit business needs.
+All users can understand the benefits of this - but they seem less convinced
+about the large investment needed to move to object-oriented computing.
+Mr Ellis of Inference sees the issue as one of education: 'People have to
+walk into this with their eyes open. It is a change in ways of thinking and
+it needs commitment and investment for the long term,' he says.
+This change in the way people think about information processing systems is,
+perhaps, the main barrier to the acceptance of O-O computing.
+The large skill pool which has built up around traditional data processing
+software such as Cobol and IBM mainframe operating systems also needs to be
+taught to think differently:
+'It takes between three and six months to re-educate experienced people.
+They traditionally think algorithmically and they have to learn how to think
+in terms of objects. The whole issue is about seeing that software
+engineering is different with objects,' says Mr Tim Hoverd, chief engineer
+at Logica, the UK software company.
+After 10 ten years' involvement with object-oriented systems, Mr Hoverd
+acknowledges that it is not easy to get people to adapt. But he is
+optimistic: 'We are seeing signs of movement and there are now demonstrable
+applications in areas such as finance and telecommunications,' he says.
+While some of the concepts of O-O computing are easy to follow, others are
+less so. Objects can, for example, 'inherit' characteristics from other
+objects. A 'secretary' object is a special case of an employee object.
+Clearly, many of the characteristics of a 'secretary' object can be
+'inherited' from the general employee object. While this is not entirely
+alien to traditional programmers, it is not easy to grasp how it is applied
+in object-oriented systems and inheritance rules can become very
+complicated.
+'Programmers traditionally think of lists of instructions and they need to
+learn how to handle objects and things like inheritance and software re-use.
+This is difficult to get through,' says Mr Richard Godfrey of system
+consultant Infonet Systems.
+'We meet very definite resistance at first. But the people we have taken
+from the old programming world have adapted. When they grasp things like
+inheritance, they see how quickly they can change things,' he says.
+'We use a tool called Powerbuilder from Powersoft and find it very useful
+environment. It encourages team working and helps people to think in the
+right way,' Mr Godfrey says.
+Right-thinking when it comes to O-O computing is a big barrier - especially
+for experienced computer staff.
+Mr Robert Pemberton, chairman of Software 2000, a US company specialising in
+object-oriented computing for business, likens the transition to that which
+happened in the 1960s:
+'Many of the people that started on second-generation computers did not make
+the transition to third-generation technology. Object-oriented computing is
+the first genuine fourth-generation technology - and it is not a pleasant
+experience for someone who has been around this industry for any length of
+time.'
+Mr Pemberton goes on to say that there are still not sufficient good
+development tools which will help people understand and exploit
+object-oriented technology.
+It is still, perhaps, too early to judge object-oriented computing.
+While it promises a great deal in the long term, the overstated ambitions
+for O-O computing mean that it will, like its predecessors, fail to meet
+many of its goals. And the computer industry's tendency to stick the latest
+fashionable tag on every product it sells will slow its acceptance. In the
+1990s, users cannot be so easily taken in.
+Breakthrough predicted
+The Object Management Group (OMG) predicts that 1996 will be the year
+object-based systems break through into the mainstream. By this time, OMG
+says that over more than half of the world's biggest computer users will be
+making substantial use of object-oriented programming techniques.
+Some brave pioneers have taken the plunge and the entrants for the
+Infomatics Object Application awards at Objectworld UK in October gives some
+indication of progress. Health insurance company Western Provident
+Association (WPA) won an award for its Midas application - a system for
+monitoring underwriting ratios in healthcare.
+The system collects administrative and claims data from WPA's Bull and Wang
+computer systems and brings them together on a Hewlett Packard 9000 computer
+operating Unix and Sybase database software. Midas provides a simple
+object-based workstation front end for use by WPA's general managers.
+The Petroleum Science and Technology Institute also picked up an award for
+its Hedera Project, a geological modelling package for use in oil and gas
+exploration.
+Other award winners included IBM UK, for the best use of object technology
+in a large system environment, and BAeSema's marine division for its Necta
+underwater environmental analysis program.

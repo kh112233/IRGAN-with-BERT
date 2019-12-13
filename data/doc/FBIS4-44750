@@ -1,0 +1,64 @@
+BFN 
+
+<F P=106> ["E.F." report: "14-Inch Color LCD Screen Prototype in </F>
+Germany"] 
+  [Text] Stuttgart/Hannover--The technology developed in the 
+screen-technology laboratory of Stuttgart University could, 
+according to its inventor Jens Glueck, solve the current problem 
+of low luminosity efficiency and the resulting high prices of 
+active-matrix LCD screens. The new technology uses a 
+potentially less expensive transistor matrix manufacturing 
+process with four masking techniques as opposed to five or six 
+for the Japanese products currently available on the market, 
+while offering a comparable image quality. Again according to 
+Jens Glueck, the quality would be better than that obtained with 
+the two-stage masking process developed by Planecran, a 
+technique that is now owned by Flat Panel Displays: "Unlike the 
+Planecran approach, each pixel has its own storage capacitor. 
+We have optimized the pixel design to obtain an aperture ratio 
+of 60 percent and thus ensure greater brightness." The 
+feasibility of the technology has recently been proven with the 
+presentation of the first 14-inch color prototypes. These 
+screens, with a resolution of 575 x 696 color pixels, compatible 
+with video refresh rates, are not completely bug-free, however. 
+Jens Glueck said: "These faults do not arise from the 
+technology itself, and can be eliminated by extra research on 
+peripheral devices, command circuit connections, etc." In 
+addition, negotiations are underway between Stuttgart University 
+and IBM which envisages launching a project for the 
+industrialization of the process by its German subsidiary. 
+Negotiations are in particular centered on the financing of the 
+project and the possible introduction of additional partners. 
+As a result, the initial screens produced using this technology 
+will probably not be commercially available for another two to 
+three years. 
+  The technology patented by Jens Glueck is of the inverse 
+grid 
+type, but is simpler than conventional inverse grid technology. 
+The first masking stage consists of depositing a 200 mm-thick 
+layer of chromium which is then etched to produce the lines and 
+lower electrodes of the storage capacitors. Four layers are 
+then deposited: the grid insulator (SiNx); the undoped 
+semiconductor material (noncrystalline hydrogenated silicon, 
+a-Si:H); the n+ doped semiconductor material (n+ -a-Si:H) for 
+the drain and source electrodes; and an aluminum/chromium alloy 
+(Cr/Al/Cr) for metallization. The absence of any intermediate 
+etching eliminates the losses in efficiency usually experienced 
+with the inverse grid process. This method moreover protects 
+column metallization and prevents short-circuiting at the 
+row/column cross-over points. 
+<H5>  End-of-Etching Control Without a "Blocker" </H5>
+  The second masking stage consists of simultaneously etching 
+the metallization and the doped semiconductor to create the 
+columns, drain/source electrodes, and the upper capacitor 
+electrodes, while carefully controlling the optical emission of 
+the etching source (CF402 etching plasma) to avoid 
+"over-etching" which would attack the layer of undoped 
+semiconductor (this problem is avoided in five or six-stage 
+masking techniques by using an etching "blocker" which requires 
+an additional masking stage). The last two masking stages 
+consist of etching the undoped semiconductor to create the 
+pixel, and then depositing and etching the ITO (indium tin 
+oxide) layer to make the electrodes. This layer serves both as 
+an extra metallization layer and a patch for broken columns. 
+

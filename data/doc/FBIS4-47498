@@ -1,0 +1,78 @@
+Nonlinear   Aerodynamics Based on Principle of Step-by-Step 
+Adaptive Control 
+
+<F P=102> 947G0028D Moscow TEKHNICHESKAYA KIBERNETIKA in Russian No. 
+1, Jan.-Feb. 94 (manuscript received 23 Oct. 92; after revision </F>
+
+11 May 93) pp. 207-213 
+<F P=103> 947G0028D </F>
+<F P=104>  Moscow TEKHNICHESKAYA KIBERNETIKA </F>
+<F P=105>  Russian </F>
+CSO 
+
+<F P=106> [Article by B.M. Shamrikov, Moscow Aviation Institute imeni </F>
+S. Ordzhionikize; UDC 629.73] 
+  [Abstract] The most promising avenues for improving 
+aircraft nonlinear systems with nonlinear aerodynamics appears 
+to be through using on-board digital computers in the control 
+loop and thereby creating adaptive digital control systems. For 
+this reason, the general stages of methodology for designing 
+systems to control highly maneuverable aircraft based on 
+step-by-step adaptive control by using the concept of solving 
+inverse dynamics problems are considered. The adaptive control 
+system considered consists of the following: a nonlinear object 
+(i.e., the aircraft), a drive, a booster, a programmer that 
+effects the desired change in the state vector of the object 
+over time and corresponds to its rudder deviation program, and a 
+regulator that uses an algorithm for stabilizing the programmed 
+motion and stabilizing the system and ensuring its specified 
+dynamic properties in the presence of parametric and external 
+disturbances. The system's operation is based on having the 
+programmer and stabilization algorithm use information about the 
+vector _P_ of the unknown parameters of the object that is 
+issued by an identifier during the system's normal operation and 
+about the vector _ch_ of the altitude and velocity parameters 
+of 
+the flight. A logic unit coordinates the adaptive digital 
+control system's overall operation, and the programmer 
+formulates the desired motion along controlled coordinates given 
+random initial conditions of the object as read from transducers 
+at specified time intervals. Within the framework of the 
+proposed approach, the main stages in developing the required 
+control algorithms are as follows: formulating the programmer's 
+structure, developing algorithms to identify a model of the 
+object, and developing the logic of the system's operation. The 
+first stage is considered in detail, and the remaining two 
+stages are left for a separate communication. The problem of 
+formulating the required programmer entails formulating that 
+program control u[.sup]*[/](t) that will, in the 
+absence of disturbances, change the object's state vector in 
+accordance with a prespecified law x[.sup]*[/](t). 
+This is done by using the result of inverse dynamics problems 
+and constructing an analytical model of the object used in the 
+programmer to calculate u[.sup]*[/](t). A 
+simplified nonlinear model of the object is generally used. The 
+problem of developing a stabilization algorithm is approached by 
+formulating a model of the object's motion that is linearized in 
+relation to the control program. The linearized system is 
+nonstationary and is formulated with consideration to the 
+presence of uncontrollable parametric disturbances arising as a 
+result of the inconsistency between the equations of the 
+object's motion and the simplified model thereof that is used in 
+the programmer. The general adaptive control system design 
+principles proposed are illustrated by way of the example of 
+formulating algorithms to control the longitudinal motion of an 
+aircraft of the Kh-29 type in terms of nonlinear differential 
+equations. The example illustrates that formulation of the 
+required program control necessitates information about the 
+following: the object's initial state (obtained from 
+transducers), the required end value of the attack angle 
+(specified by the pilot), and estimates of six parameters of the 
+object (calculated in the identifier). The function 
+u[.sup]*[/](t) is a continuous function of time. 
+The importance of delineating acceptable controls is emphasized. 
+The proposed stabilization algorithm results in stability of 
+maneuvering processes over a broad range of attack angles. 
+Figures 2; references 5: 4 Russian, 1 Western. 
+
+

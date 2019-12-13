@@ -1,0 +1,98 @@
+FT  23 APR 91 / Survey of The Computer Industry (21): Computer virus is the
+biggest threat to companies - Security, or confidentiality, integrity and
+availability
+WHEN computer systems were monolithic machines in air-cooled offices, locked
+away from most of the employees, the security of the data was relatively
+easy to guarantee. But the pervasiveness of personal computing and computer
+networking now means that almost every employee in many large companies has
+access to the main computer. Ensuring the data is not maliciously altered or
+misappropriated is therefore increasingly difficult to achieve.
+Most organisations are beginning to realise the importance of sound security
+measures. According to accountants Price Waterhouse, security accounts for 9
+per cent of expenditure on new computer systems, up from 5 per cent, five
+years ago. Today only 5 per cent of companies spend nothing on it compared
+to 25 per cent in the mid-1980s.
+One difficulty for commercial organisations is that there is no single
+source of risk: instead companies have to secure what is known as the 'CIA'
+of computer data:
+'Confidentiality' - so that only those who are authorised to see or alter
+the information can do so.
+'Integrity' - to ensure the information is not changed.
+'Availability' - to guarantee the computer is operating correctly when
+required.
+One of the biggest threats to companies is the computer virus, says Mr Peter
+Jenner, business manager of PA Consulting's security consultancy centre. In
+the UK, both Rolls-Royce and British Rail, for example, have experienced
+viruses this year.
+Viruses, computer codes which replicate themselves from one computer to
+another and destroy the integrity of the data, come in a wide variety of
+forms, many with exotic names. With the 'cascade' virus, for example, all
+the characters fall from the top of the screen into a pile at the bottom.
+While with the 'Italian' virus a ping-pong ball bounces across the computer
+screen.
+Virus checking software is available from companies such as Sophos, of
+Abingdon, SS International, of Berkhamsted, and International Data Security,
+of London. It works by checking for the individual pattern that every virus
+leaves in the program.
+However, virus developers see the increasing sophistication of anti-virus
+software as a challenge to develop ever more complex viruses, says Mr Chris
+Frost, senior manager in the European data security division of Price
+Waterhouse, making it increasingly difficult to spot the interloper. The
+latest stealth viruses change their identification code every time the
+program is loaded - so the detection system cannot look for a specific
+string of code.
+Other viruses are armoured to prevent detection. When they latch on to a
+program they encrypt it entirely, making it difficult for the scanning
+software to detect where the virus code begins and ends. Other viruses have
+even been developed that remove themselves altogether from the program when
+the detection software is run.
+As often as not, viruses are introduced into a company by an employee
+bringing in his or her own floppy disk to play computer games at lunchtime.
+Far more sinister is the hacker who breaks into the computer system by
+imitating the sign-on procedure of a company employee - by using his or her
+computer password.
+The biggest problem with computer passwords is that employees often do not
+take them seriously - they are likely to use the name of their spouse,
+children or pet dog as the password, all of which can be easily guessed by
+the would-be hacker. Or they use series of easily guessed numbers, or even
+the word 'password' itself.
+To overcome this the latest software packages contain lists of unacceptable
+passwords - up to 20,000 words of them in some cases. More secure means of
+preventing unauthorised access to computer systems are on the market or
+under development. One is biometric devices, such as retina scanners,
+thumbprint recognition machines and sign-on machines where users have to
+sign their name.
+While somebody can change their password into a computer system easily
+enough, it is impossible to change a thumb print, or a retina, but this can
+bring drawbacks. Once a hacker has taken a thumbprint, for example, they can
+gain access to the computer system repeatedly without anyone noticing.
+More complex are combinations of hardware and software. Dynamic password
+tokens, for example, use devices about the size of a credit card which
+produce a new numeric password every few seconds. This change is controlled
+by an algorithm, or mathematical formula, which is synchronised with the
+mainframe's software. To use the system the user types in a name and
+password, and then types in the password that is displayed at that moment on
+the token.
+Once a hacker gets into a computer system the results can be horrendous. The
+widespread use of computer systems in financial applications - payroll,
+funds transfer or bill payment - has offered organised crime a lucrative
+opportunity for replacing the security van robbery with split-second
+electronic fraud.
+Most frauds are discovered by regular checks, but expert computer systems
+are helping to minimise the cost of these. In the case of a bank, for
+example, the expert system would be programmed to know that a Pounds 1,000
+transaction at an exclusive clothes shop would probably be genuine, whereas
+a transaction of the same amount from the local supermarket would not.
+There is a growing awareness among computer companies that their operating
+systems software must be made more difficult to crack. ICL, for example, now
+offers a high-security version of its VME operating system for commercial
+use which incorporates mandatory controls: files cannot be moved from one
+section of the computer to another - from accounts, say, to manufacturing.
+Such security measures have also been adopted for the Unix operating system,
+with the latest version of Posix - which interfaces between Unix and the
+applications software - having the capability to create these mandatory
+controls.
+Last but not least, computer manufacturers and consultants are selling their
+wares as disaster recovery companies. Back-up sites and mobile computer
+units are there to ensure that even if your computer room is flooded or
+struck by lightning, your business is not destroyed as well.

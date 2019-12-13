@@ -1,0 +1,141 @@
+CSO 
+
+<F P=106> [Article by Erick Haehnsen: "Adam or Manufacturing Robot of </F>
+Future"; Subhead: "Mobile Autonomous Robot: One of Most 
+Autonomous Mobile Robots in World. Used as Technological 
+Demonstrator for Studying Mars Planetary Exploration Vehicles. 
+Although Project Is Only in Research Stage, Results Realized 
+Have Already Been Transferred to More Immediate Industrial 
+Projects."] 
+  [Text] The most autonomous robots flourish in the most 
+hostile environments. In their urge to trod on "terra incognita" 
+where humanity dreams of going -- or refuses to step! -- 
+engineers and scientists are giving us a glimpse of what the 
+next century's industrial robot may be. For the time being the 
+non-manufacturing robot has the upper hand. Not only are mobile 
+robots starting to perceive an uneven natural environment, they 
+are also recreating a mathematical representation of it. In a 
+word, they "understand" what they see. The only thing left for 
+them to do is to "soar with their own wings." 
+  Using a shrewd magical blend of sensors and powerful 
+algorithms for perception, navigation and assisting in 
+decision-making, mobile robots are gradually severing the 
+umbilical cord linking them to their "procreators." Witness the 
+preliminary French Automated Planetary Vehicle [VAP] project. 
+For the time being the algorithm is installed on Adam, the 
+French-Russian robot that has been used as a technological 
+demonstrator in civilian emergency response robotics, under the 
+Eureka-Advance Mobile Robotics [AMR] program. VAP itself should 
+see one of its initial versions take its first steps at Toulouse 
+in two or three years on uneven ground modeling the Martian 
+terrain, prior to the departure of the final robot for the red 
+planet in about a decade at best. 
+<H5>  World-Scale Showcase Project </H5>
+  Georges Giralt, in charge of the On-Site Planetary 
+Intervention Robots [Risp] group and research director at Laas 
+in Toulouse, understated it in proclaiming: "It is a showcase 
+robotics project for the entire world. Even our robotics expert 
+friends on the other side of the Atlantic are jealous of us for 
+it." Specifically, Georges Giralt remarks: "The transfer rate 
+for communicating with the planet Mars is restricted to a 
+maximum of one Kbit/s. That also entails a two-way communication 
+lapse of 40 minutes. Under those conditions there is no way to 
+remotely operate a robot. Nor, in the event of a failure, is 
+there any way to dispatch a mechanic. It is `tops' on a 
+graduated scale of difficulties. VAP will therefore have a full 
+day's operational autonomy. Overnight the device will send us 
+its report, its position and its images. In the morning it will 
+get its instructions for the entire day." 
+  The program brings together powerful research organizations 
+such as Air Test Center [CEA], National Center for Space Studies 
+[CNES], National Scientific Research Center [CNRS], National 
+Institute for Research on Data Processing and Automation [INRIA] 
+and National Office for Aerospace Studies and Research [ONERA], 
+not to mention industries like Alcatel Espace, Cybernetix, Matra 
+Marconi Space, Sagem. While waiting to enthrall the U.S., 
+European and Russian space agencies, this preliminary project is 
+already benefiting from the Eureka I-Ares label for the 
+perception and decision-making autonomy aspect. 
+<H5>  Telemetry and Charge-Coupled Device [CCD] Stereoscopy: Two </H5>
+Complementary Vision Systems 
+  Following is the objective on the perception level: with a 
+10-meter accuracy, VAP is to receive an initial modeling of its 
+Martian environment. To do so, a satellite will vaguely indicate 
+the natural "landmarks" -- beacons -- it is to pinpoint. Then 
+the robot will demand more specific data on the order of a 
+meter. After that and before generating trajectory models and 
+planning its movement, the exploratory robot on its own is 
+supposed to craft a more accurate model of its environment and 
+to gradually consolidate it with the measurements it will 
+acquire on site as it moves forward. That is where artificial 
+vision comes into play. 
+  As of now, the Adam demonstrator has relief "vision" through 
+the use of a "3-D laser camera" and two CCD cameras. Both 
+systems, laser telemetry and stereoscopy, are complementary. The 
+Martian atmosphere, after all, is 5,000 times denser than our 
+own and yields highly contrasted images over uneven areas. This 
+is fine for stereoscopy. Stereoscopy, however, does not 
+distinguish between a shadow or a dark trough. Hence, the value 
+of the laser camera that uses a set of two pivoting mirrors to 
+horizontally and vertically scan over a 25-30 meter depth. At a 
+speed of 100,000 calibrated measurements per second, the 
+"camera" computes the return interval of a beam bouncing off a 
+relief. In this fashion it recreates 16,000-pixel images. On the 
+down side, telemetry is a glutton for energy. This makes it 
+necessary to use a thermonuclear battery as on the Viking 
+probes. As the head of the robotics systems department at CNES 
+in Toulouse explains: "All the same, the laser camera does 
+lighten the algorithm and reduces computational usage." 
+  Another problem is the system's mechanical fragility. If the 
+"Mars landing" turns out to be too abrupt, the telemeter will be 
+rendered inoperable, at least in the current state of technology. 
+  Hence the warp-free stereoscopy that is under research by 
+the 
+team under Olivier Faugeras, director of research at the 
+Sophia-Antipolis INRIA. Launched at 20-30 cm/s, the robot will 
+actively model its environment on the basis of two or three CCD 
+cameras. At the rate of one image every three seconds, the INRIA 
+algorithm analyzes each of the 50,000 pixels per image. It 
+compares them, assembles them and fashions a digital model of 
+the terrain. To "see" the relief, the computer merges the 
+cameras' images. 
+  The system dispenses with the standard sight customarily 
+used 
+to compute polar line-of-sight (making it possible to find the 
+pixel from one image that corresponds to the other). In stereo 
+vision this is the traditional way. On the other hand, here, the 
+system automatically calibrates itself by deducting that 
+right-hand empirically on the basis of several typical points. 
+The originality lies in recurrently propagating the results 
+realized for one pixel to adjacent pixels, both horizontally and 
+vertically. The result is that computing time is significantly 
+scaled back. For example, for a 100-pixel window, the 
+computational gain is a factor of 10. As Bernard Hotz, an 
+engineering expert on contract with INRIA, puts it: "It becomes 
+much larger for a big window." 
+  Vision is supplemented by an odometer (that counts the 
+revolutions of the wheels to measure the distance traversed) and 
+the inertial control center (that measures spatial inclinations, 
+position and accelerations) as in aircraft. 
+<H5>  One Difficulty: Merging Algorithms </H5>
+  As can be imagined, one of the major difficulties resides in 
+merging the data coming from such different sensors. All the 
+more so, since they will be used to plan movements and compute 
+trajectories. This creates a significant technological bond. 
+Once the robot's environmental model has been incremented, the 
+movement planning algorithm developed by Jean-Paul Laumond and 
+Thierry Simeon, researchers at Laas, categorizes terrains as 
+"level," "level inclines," "unknown," "obstacles" and "unknown." 
+Even on uneven ground the robot will select a simple "level" 
+route relative to the objective to be reached and its technical 
+features, so as to avoid risky situations. 
+  VAP is already performing some chores, especially (2 D) 
+level 
+terrain trajectory computation applied to the automation niche 
+for automobiles and cooperative management of fleets of 
+maintenance robots at ports, airports and railway shunting yards 
+(Esprit-Martha). Another transfer is stereoscopy for spotting 
+veins of uranium in order to use robots to extract it, a 
+wholesome use of robotics, since even in the mineral state that 
+metal is radioactive. 
+

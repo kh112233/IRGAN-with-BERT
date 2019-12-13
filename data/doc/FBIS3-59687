@@ -1,0 +1,333 @@
+Language: <F P=105> English </F>
+Article Type:CSO 
+
+<F P=106> [Article by Norihiko Kawasaki, manager of Nuclear Fuel Cycle </F>
+Project Department; Morimasa Iwama and Noritaka Hashimoto, 
+Nuclear Fuel Cycle Project Department; Tokio Murakoshi, manager 
+of Nuclear Fuel Cycle Systems Design Department; Nobuhiro 
+Shimokawa, Akira Sakai, and Hiromichi Maekawa, Nuclear Fuel 
+Cycle Systems Design Department; Jun-ichi Kusunoki, manager of 
+Instrumentation and Control System Department, Nuclear Power 
+Division; and Hisao Saiga, Instrumentation and Control System 
+Department, Nuclear Power Division] 
+  [Text] 
+<H5>  1. Introduction </H5>
+  The Power Reactor and Nuclear Fuel Development Corporation 
+(PNC) constructed the Tokai Vitrification Facility (TVF) to 
+vitrify high-level liquid waste (HLLW) originating from PNC's 
+Tokai Reprocessing Plant into borosilicate glass, which is 
+stably stored and an easily handled form, with the vitrification 
+technology developed by PNC. PNC is now performing cold-test 
+operations of TVF using simulated liquid waste. That HLLW 
+treatment is an indispensable basic technology in nuclear fuel 
+cycle, and IHI has participated in the vitrification development 
+program including the remote handling technology under the 
+leadership of PNC since 1979. IHI received the order to 
+construct TVF in 1988, started manufacturing in June of the same 
+year, and successfully completed and delivered the facility to 
+PNC in April 1992. 
+  This paper introduces the outline of TVF and describes IHI's 
+activities during construction including the design and R&amp;D. 
+  The vitrification systems of TVF and related technologies 
+have been adopted for the vitrification facility of the first 
+Japanese commercial reprocessing plant in Shimokita, Aomori 
+prefecture, and design work is now being carried out. 
+<H5>  2. Specific Features of the Facility </H5>
+  TVF is the first HLLW vitrification facility in Japan. 
+Specific features of the facility are as follows. 
+  1. Remote maintenance system 
+  Contrary to the practice common in chemical plants, a large 
+part of equipment in the high-level liquid waste facility is 
+installed in shielded cells, thus requiring maintenance using 
+remote operation. 
+  The system is characterized as follows. 
+  (1) Large-size integrated cell 
+  Aiming at reducing the total space required, and the number 
+of remote maintenance handling equipments required for each cell 
+as much as possible, a large-size integrated cell (27 meters 
+long, 12 meters wide and 13 meters high) is adopted rather than 
+a large number of small-size distributed cells. 
+  (2) Racks for grouping equipment in the cell 
+  To realize effective use of in-cell space, in view of remote 
+maintenance, a variety of equipment is grouped into modules to 
+be placed on racks. Depending on maintenance frequency, 
+equipment is respectively predetermined for maintenance on a 
+rack basis or a unit basis. The size and weight of one (1) rack 
+module is about 3 meters long, 3 meters wide, 6.5 meters high 
+and 15 tons. 
+  2. Remote handling equipment 
+  In the vitrification cell, two-arm manipulators, cranes and 
+ITV (Industrial Television) system for monitoring are installed 
+as remote handling equipment for operation and maintenance. 
+Manipulation is performed from the control room through a 
+television system. This equipment (cranes and manipulators) is 
+also designed to be remotely maintained themselves by each other. 
+  3. Low flow ventilation system 
+  The Low Flow Ventilation System (LFV) is adopted for 
+ventilating of vitrification cell. In this system, the in-cell 
+air is ventilated once a day and the ventilation air is 
+processed through the off-gas treatment facility of the 
+vitrification process. This system reduces the amount of 
+radioactive material discharged when the cell is contaminated. 
+Several coolers are also installed in the cell, in order to 
+control the in-cell temperature. 
+  4. Process control 
+  The Direct Digital Control system is adopted to control and 
+monitor the process, as well as the sequence control of 
+auxiliary equipments. Conventional monitoring and control panes 
+with aseismic design are also installed to back up monitoring 
+and control of equipment at the moment of an earthquake. 
+<H5>  3. Outline of the Facility </H5>
+  3.1 Process capacity of the facility 
+  High-level liquid waste generated in the reprocessing of one 
+(1) ton of spent fuel is processed into one (1) vitrified waste 
+package of 110 kg. 
+  3.2 Building of the facility 
+  TVF consists of a vitrification development building, an 
+administration building and a stack close to vitrification 
+development building. A general view of the facility is shown in 
+Figure 1 [photo not reproduced], and an aerial view of the 
+interior of the vitrification cell is shown in Figure 2 [not 
+reproduced]. 
+  1. Vitrification development building 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Number of stories                     |Two stories under ground              | 
+------------------------------------------------------------------------------- 
+|                                      |Three stories above ground            | 
+------------------------------------------------------------------------------- 
+|Building area                         |About 2,600 m&lt;sup&gt; 2&lt;/sup&gt;              | 
+------------------------------------------------------------------------------- 
+|Structure                             |Steel framed reinforced concrete      | 
+------------------------------------------------------------------------------- 
+
+
+  2. Administration building 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Number of stories                     |Four stories above ground             | 
+------------------------------------------------------------------------------- 
+|Building area                         |About 700 m&lt;sup&gt; 2&lt;/sup&gt;                | 
+------------------------------------------------------------------------------- 
+|Structure                             |Reinforced concrete                   | 
+------------------------------------------------------------------------------- 
+
+
+  3. Stack 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Height above the ground               |About 90 m                            | 
+------------------------------------------------------------------------------- 
+|Structure, Base part                  |Reinforced concrete                   | 
+------------------------------------------------------------------------------- 
+|Cylinder part                         |Steel structure                       | 
+------------------------------------------------------------------------------- 
+
+
+  Main processes and equipment are arranged in the underground 
+area of the vitrification development building, and various 
+operation support facilities such as analysis, utility, 
+radiation control, process control are arranged aboveground. In 
+the administration building, utilities such as emergency 
+electric generator and steam supplying equipment are installed 
+on the first floor, and the second through fourth floors are 
+used as offices. The stack discharges ventilated air from 
+processes of the facility and building. 
+<H5>  4. Outline of Processes </H5>
+  Figure 3 [not reproduced] shows a block flow diagram of the 
+vitrification process. 
+  (1) Receiving process 
+  HLLW stored in the HLLW-tank of the Tokai reprocessing plant 
+is transferred to the receiving-tank in the vitrification cell 
+through piping. The composition of HLLW is analyzed in the tank 
+to determine the quantity of reagents to be added and 
+concentration ratio. 
+  (2) Pre-treatment process 
+  Adjustment of composition by reagents addition and 
+concentration of HLLW is performed as necessary, and the liquid 
+wastes is fed continuously to the glass melting process. 
+  (3) Glass melting process 
+  Evaporation, calcination, and glassmelting of supplied 
+liquid 
+waste with glass material, are performed continuously in the 
+melter. The molten glass is poured into the stainless steel 
+canister. Figure 4 [photo not reproduced] shows a front view of 
+the melter. 
+  (4) Vitrified waste (vitrified package) handling process 
+  The vitrified waste is sealed with a cap by the automatic 
+welding machine after natural cooling in the cell. The vitrified 
+waste is de-contaminated, and then inspected about surface 
+contamination, configuration, appearance, etc. 
+  (5) Liquid waste treatment process 
+  The secondary liquid waste generated from each process is 
+concentrated in the evaporation system. Condensed water through 
+evaporating separation is transferred to the Tokai reprocessing 
+plant. Concentrated liquid is returned to the receiving process 
+of the facility and mixed with HLLW. 
+  (6) Off-gas treatment process 
+  Off-gas generated from each process is washed, adsorbed, 
+filtrated in the vitrification cell, and is transferred to the 
+off-gas treatment room, where the remained radioactive material 
+is removed. The exhaust gas is discharged through the stack with 
+being continuous monitoring. 
+  (7) Vitrified waste storage process 
+  The vitrified wastes are transferred to the storage cell and 
+stored in the pit. 
+<H5>  5. Main Process Equipment </H5>
+  Main equipments of the vitrification process, including the 
+melter, have been technically developed under the leadership of 
+PNC with cooperation of the IHI Research Institute and other 
+Divisions. Main components are as follows: 
+  5.1 Melter 
+  A Liquid Fed Joule-Heated Ceramic Melter (LFCM) system is 
+adopted for the glass melting system. In this system, the glass 
+is heated and melted directly through alternating electric 
+current. The melter is constructed with refractory ceramic 
+materials, covered with a stainless steel casing. 
+  Specific features of the LFCM system are as follows: 
+  1. Calcination and melting of liquid waste can be processed 
+simultaneously, and that makes the process simple. 
+  2. Uniform melting of glass under high temperatures makes a 
+good quality of vitrified wastes. 
+  3. The use of ceramic material and heat resisting alloy 
+makes 
+a long service life. 
+  5.2 Off-gas treatment equipment/Liquid waste treatment 
+equipment 
+  (1) Wet-system for off-gas treatment is selected on the base 
+of an evaluation of various equipment's performance and mock-up 
+tests. 
+  (2) The treatment system of volatile ruthenium generated 
+from 
+HLLW at high temperatures in the melter is developed after a 
+behavior test and a collection test of radioactive elements. 
+  (3) Continuously constant feeding of HLLW is the fundamental 
+factor for quality control of vitrified waste. The two-stage 
+air-lift pump feeding system is adopted. 
+  5.3 Vitrified waste handling and storage equipment 
+  (1) A welding machine has been developed for the cap welding 
+of the vitrified package. In this machine welding operation and 
+preparations such as cleaning and torch positioning are 
+automatically performed. In addition to this, the machine is 
+designed to allow remote maintenance. 
+  (2) Aseismic performance and heat-removing characteristics 
+of 
+the vitrified waste storage facility have been confirmed with 
+full-size test, and the results are reflected to the facility. 
+<H5>  6. Remote Maintenance Design </H5>
+  HLLW is such a high level of radioactivity that operators 
+are 
+not allowed to enter the treatment area for operation and 
+maintenance. Therefore, a completely remote handling system is 
+adopted for the vitrification cell to reduce radiation doses of 
+operators and to increase the availability of the facility. 
+Layout in the vitrification cell, performance of remote handling 
+equipment, and the structure of the in-cell component are 
+important factors for the design of remote maintenance. 
+  6.1 Layout on in-cell component 
+  In the vitrification cell, two lines of rack modules are 
+arranged on both sides of the walls, and the transfer and 
+maintenance area is prepared between the two rack lines at the 
+center. Trial fabrication and mock-up tests for the in-cell 
+component have been performed, and the results are reflected to 
+the actual facility. 
+  (1) Arrangement plan in the cell 
+  The arrangement in the cell is designed to ensure required 
+space for remote maintenance (space for approach of remote 
+handling equipment, for temporary replacement, for tools, for 
+observation with ITV, etc.), as well as to ensure that the 
+remote handling equipment does not interfere with each other. 
+  (2) Equipment arrangement in rack 
+  Piping and vessels in racks are considered to be maintenance 
+free or to be replaced in the whole rack. The equipment required 
+for periodic replacement are designed to be remotely exchanged 
+individually. Therefore, remote piping connector connecting 
+in-the-rack equipments are arranged to obtain accessibility of 
+crane and two-arm manipulator from the front of the rack. Racks 
+including piping, vessel, were completely fabricated at IHI 
+works, then delivered to the site. Figure 5 [photos not 
+reproduced] shows a typical rack installation at the site. 
+  (3) Penetration plug 
+  In the shielding wall of the vitrification cell, the 
+exchangeable penetration plugs for piping with remote connectors 
+are adopted for the future changes of the process. 
+  Cables in the vitrification cell are connected to the 
+outside 
+through exchangeable penetration plugs. Each cable inside the 
+cell is also individually replaced by applying a remote cable 
+connector. A small remote cable connector has been developed to 
+improve remote maintainability. 
+  6.2 Remote handling equipment 
+  Remote maintenance at the vitrification cell is carried out 
+by the operation cranes and two-arm manipulators through ITV 
+monitoring. This system is different from the conventional 
+maintenance method by the operation of a master-slave 
+manipulator observing through shielded windows. 
+  (1) ITV system 
+  In case of remote maintenance using ITV system, the operator 
+should have the accurate information of the location of the 
+component and the remote handling equipment. Considering close 
+communication between the operator of several ITV cameras and 
+the operator of the two-arm manipulator watching display of TV, 
+a suitable layout for the remote operation area in the control 
+room is designed. Several ITV cameras are installed on walls on 
+the cranes, and on the two-arm manipulators in vitrification 
+cell, to monitor the whole cell. Two sets of high-definition TV 
+are also adopted in an ITV system to improve monitoring. 
+Radiation-hardness of ITV cameras has been verified through PNC 
+R&amp;D. 
+  (2) Two-arm manipulator 
+  Two units of two-arm manipulators are installed. If one 
+fails, the other can be used for remotely maintaining the failed 
+one. The two-arm manipulator has lifting capacity up to 15 kg by 
+one (1) arm, seven modes of action, and bilateral functions. The 
+two-arm manipulator is mounted on the bridge and enables the 
+wide range of operations inside the cell. 
+<H5>  7. On Site Test </H5>
+  7.1 Remote maintenance test 
+  A remote maintenance operability was pre-studied during the 
+design stage using a 1/10 scale model. A preliminary remote 
+maintenance test was performed on the scrubber rack, the 
+representative rack, and the melter rack at the mock-up test 
+facility of PNC, to confirm maintainability and procedure of 
+operations. Test results are reflected to all the other racks 
+and components. A remote maintenance test has been finally 
+carried out as on site test in the cell. Figure 6 [photos not 
+reproduced] shows the remote operation test. 
+  7.2 Process operation test 
+  Process operation tests and unit tests have been carried out 
+using water and compressed air. Then a performance test of the 
+vitrification has been carried out using simulated liquid waste. 
+<H5>  8. Conclusion </H5>
+  We are pleased to complete successfully the construction and 
+test run of TVF. New concepts and technology have been verified 
+through the construction and test run of TVF. 
+  We hope that the PNC will progress the test run of TVF in 
+satisfactory. [sentence as published] We also intend to apply 
+these experiences for future plant construction and other fields. 
+References 
+  1. Ishikawajima-Harima Engineering Review: Special Issue -- 
+Nuclear Fuel Cycle (in Japanese), Vol 29 No 5, Sep 1989. 
+  2. T. Murakoshi: Development of High-Level Liquid Waste 
+Vitrification, IHI Engineering Review, Vol 23 No 1, Jan 1990. 
+  3. M. Yosioka et al.: Review of Melter Technology and 
+Vitrification Process for TVF RECOD '91 Apr 1991, Sendai. 
+  4. Murokawa et al.: Outline of TVF, April 1991; Ichinosawa 
+et 
+al.: Aseismatic Structure of Melter and Rack in TVF, Jun 1991; 
+Umeda et al.: Low Flow Ventilation System for TVF, Jul 1991 
+(1992 Fall meeting of the Atomic Energy Society of Japan, 1992. 
+10 Nagoya) 
+  5. Motohashi et al.: Construction of Tokai-Vitrification 
+Facility, PNC Technical Review, No 84, 1992. 
+<H5>  Acknowledgment </H5>
+  We appreciate very much the leadership of PNC, and the 
+assistance of cooperated companies during the construction of 
+this facility. 
+

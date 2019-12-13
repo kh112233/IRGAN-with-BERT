@@ -1,0 +1,31 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by N. V. Rodionova, Radio Engineering and </F>
+Electronics Institute, Russian Academy of Sciences; UDC 
+528.852.8] 
+  [Abstract] In image analysis important information on a 
+feature is frequently contained in its boundaries. In many cases 
+for the identification of a feature it is sufficient to analyze 
+only its contour image, as first proposed by P. V. C. Hough. The 
+Hough transform is effective in the secondary processing of 
+radar images and this is illustrated in the example of 
+identification of linear features. The Hough transform is 
+applicable in many such problems, such as in remote prospecting 
+for minerals and detection of the tracks of ships on radar 
+images and distinguishing the tracks of ships from other linear 
+oceanic features created by submarine topography and also in 
+detecting ship size and its direction and speed of movement. 
+However, emphasis here is on detection of a moving point target 
+against the background of strong noise. The tracks of targets 
+moving at a constant velocity are straight lines which can be 
+detected using the Hough transform. The motion and direction of 
+the target track, as well as the current position of the target, 
+can be determined by this method. The principal advantage of use 
+of this transform is its relative insensitivity to noise and 
+gaps in contours. Matrix processors for performing the Hough 
+transform with parallel processing on an on-line basis usable in 
+both surface systems for processing images and aboard satellites 
+have now been developed. Figures 3; references 13: 1 Russian, 12 
+Western. 
+

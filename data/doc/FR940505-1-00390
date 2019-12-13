@@ -1,0 +1,135 @@
+ 
+
+
+
+(F) A schedule detailing inspection and maintenance intervals including dates and durations of expected system
+shutdowns. 
+
+(G) Written justification for less than continuous operation of the gas collection system. 
+
+(H) Operating procedures including system start-up, balancing, optimization, and shutdown. 
+
+(I) Qualifications and training requirements for on-site personnel. 
+
+(J) Safety precautions, protective clothing and equipment requirements, and emergency procedures. 
+
+(6) 
+
+Test Methods. 
+
+(i) The following procedures shall be used to establish baseline conditions pursuant to paragraph (g)(3)(i)(B)
+of this section: 
+
+(A) The gas collection rate and landfill surface integrity shall be evaluated and brought to baseline conditions
+by testing for leaks and repairing all such leaks using the repair methods listed in paragraph (g)(3)(i)(H)(1
+
+) of this section. Surface leak testing shall be performed using an instrument which meets the apparatus specifications
+of EPA Method 21 (40 CFR part 60, appendix A). The instrument shall be calibrated before and after each test using zero
+air and an approximate 500 ppm methane standard calibration gas in accordance with the instrument manufacturer's
+recommendations. 
+
+(B) Surface leak testing shall be performed by holding the detector probe 2 inches from the landfill surface while
+walking a pattern of parallel paths not more than 50 feet apart over all surface areas specified in paragraph (g)(3)(i)(H)(
+
+1
+
+) of this section. Cracks, holes, and other breaches in the surface as well as areas where buried waste interfaces with
+undisturbed, native soil shall also be evaluated. The owner is not required to monitor surfaces on steep slopes and
+other areas posing a hazard to testing personnel; however, leaks identified in such areas are not exempt from the provisions
+of paragraph (g)(3)(i)(H) of this section. 
+
+(C) Surface leak testing shall be performed only when the average wind speed is less than 5 miles per hour and instantaneous
+wind speed is less than 10 miles per hour, unless EPA approves alternate wind speed limits based on demonstrated recurrent
+site-specific conditions. Average wind speed shall be determined on a 10 minute average using an on-site anemometer
+with a continuous recorder. Surface testing shall not be conducted when the surface is wet or when there has been rain
+during the preceding 72 hours. Surface testing of landfill surfaces that are normally wet (i.e., a golf course) may
+be performed when the surface is wet. EPA personnel may randomly identify leaks without regard to the above wind speed
+and surface condition requirements. 
+
+(D) EPA Method 21 (40 CFR part 60, appendix A) shall be used to determine leaks along the gas transfer path. 
+
+(ii) EPA Method 2D (40 CFR part 60, appendix A) shall be used for the flowrate measurements required by paragraphs (g)(3)(i)(B)(
+
+1
+
+) and (g)(3)(i)(D) of this section. 
+
+(iii) EPA Method 3A (40 CFR part 60, appendix A) shall be used for the oxygen concentration measurements required by
+paragraphs (g)(3)(i)(B)(
+
+2
+
+) and (g)(3)(i)(C) of this section. 
+
+(iv) The non-methane organic compound destruction/treatment efficiency of a control device shall be determined
+using the following equation: 
+
+
+
+<IMPORT>
+
+
+
+
+E:GRAPHICSEP05MY94.106
+
+</IMPORT>
+
+
+
+
+
+where: 
+
+NMOC
+
+out
+
+ = the measured concentration as methane of non-methane organic compounds in the exhaust, and 
+
+NMOC
+
+in
+
+ = the measured concentration as methane of non-methane organic compounds in the landfill gas entering the control
+device. 
+
+
+
+
+(A) NMOC
+
+in
+
+ and NMOC
+
+out
+
+ shall be determined using EPA Method 25 (40 CFR part 60, appendix A) sampling and analysis procedures modified to delete
+the condensate trap from the sampling train. Grab samples of landfill gas at the inlet to the control device, and exhaust
+from the control device shall be collected simultaneously and at a constant rate over a period of at least 10 minutes
+in identical clean Tedlar
+
+&reg;
+
+
+<FOOTCITE>33</FOOTCITE>
+ bags (or equivalent). Each sample volume shall be sufficient to perform two NMOC analyses and to measure the sample's
+oxygen content. The oxygen concentration shall be measured at both the inlet to the control device and the exhaust
+from the control device and in each grab sample using EPA Method 3A (40 CFR part 60, appendix A). Corresponding oxygen
+concentrations (grab samples and sampling port readings) must agree to within 1% oxygen. 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+33
+
+</FOOTNAME>
+Mention of trade names or specific products does not constitute endorsement by EPA.
+
+</FOOTNOTE>
+
+
+(B) The inlet flow shall be determined using: 
+

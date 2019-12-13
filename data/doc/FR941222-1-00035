@@ -1,0 +1,138 @@
+ 
+
+c. Use RfDs, RfCs, or CSFs that are calculated by standard methods but not verified by the Agency. These values can be
+found in a number of different types of Agency documents and EPA uses the following hierarchy when reviewing these
+documents: Health Effects Assessment Summary Tables (HEAST); Human Health Assessment Group for Carcinogens; Health
+Assessment Summaries (HEAs) and Health and Environmental Effects Profiles (HEEPs); and Health and Environmental
+Effects Documents (HEEDs). 
+
+d. Use RfDs or CSFs that are calculated by alternative methods, such as surrogate analysis, including structure activity
+analysis, and toxicity equivalency. 
+
+All HBLs and their bases for this listing determination are provided in a document entitled ``Dye and Pigment Waste
+Listing Support Health Effects Background Document'' (RTI,1994), which can be found in the RCRA docket for this rule
+at EPA Headquarters (see 
+
+ADDRESSES 
+
+section). 
+
+Acute toxicity data such as lethal doses for the oral and dermal routes and lethal concentrations for the inhalation
+route also were evaluated for all analytes in the record samples. These data also are presented in the Health Effects
+Background Document prepared for this rule. 
+
+
+
+Use of Metabolic Products 
+
+
+
+There are three compounds commonly identified in the record samples for which EPA has found no reliable health effects
+data. These compounds are: Acetoacet-
+
+o
+
+-anisidide (AAOA), acetoacet-
+
+o
+
+-toluidide (AAOT), and acetoacetanilide (AAA). Because of the lack of health effects data on these compounds, the
+Agency explored the use of metabolic pathway information to develop toxicologic values. This approach involves
+the use of health effects information for compounds expected to follow a similar metabolic pathway to those of the
+three chemicals of concern to estimate toxicity. 
+
+The metabolic pathways for the class of compounds identified as aromatic amines have been extensively studied, and
+acetylation and N-hydroxylation have been identified as initial metabolic reactions of this class of compounds.
+Using this information, the Agency proposes to use the toxicity of aniline to represent the toxicity of AAA and the
+toxicity of 2-aminotoluene to represent the toxicity of AAOA and AAOT. The Agency has assumed a direct quantitative
+relationship between the constituents of concern (
+
+i.e.
+
+, AAOA, AAOT, AAA) and these compounds (
+
+i.e.
+
+, aniline, 2-aminotoluene) that follow a similar metabolic route. 
+
+In humans as much as 60 percent of aniline that is absorbed is oxidized in a dose-dependent manner to give 
+
+o
+
+- and 
+
+p
+
+-aminophenol, the first step in amide formation for this pathway. The metabolites of these products include acetylated
+arylamines, and are responsible for the toxicity of aniline. 
+
+Acetoacetanilide (AAA) is a structural analog of aniline and the metabolic pathways are expected to be similar. Since
+the acetyl group is already part of AAA, initial acetylation may be considered complete. 
+
+Because the metabolic conversions occur on a molar basis and the doses in laboratory studies are reported as parts
+per million, the difference in molecular weight must be considered. Also, since only 60 percent of the aniline is expected
+to be metabolized by the acetylation pathway and AAA is acetylated in its original form, the toxicity of AAA is expected
+to be proportionally greater than the toxicity of aniline. Therefore, the HBL for AAA is estimated to be 0.003 mg/L
+as compared to 0.006 mg/L for aniline. 
+
+Acetoacet-
+
+o
+
+-toluidide (AAOT), and acetoacet-
+
+o
+
+-anisidide (AAOA) are structural analogues of 2-aminotoluene, and the metabolic pathways are expected to be similar
+to those previously described for aniline. Since the acetyl group is already part of AAOT and AAOA, initial acetylation
+may be considered complete. 
+
+Because the metabolic conversions occur on a molar basis and the doses in laboratory studies are reported as parts
+per million, the difference in molecular weight must be considered. Also, since only 25 percent of the aminotoluene
+is expected to be metabolized by the acetylation pathway, and AAOT and AAOA are acetylated in their original forms,
+their toxicities are expected to be proportionally greater than the toxicity of 2-aminotoluene. Therefore, the
+HBLs for AAOT and AAOA are estimated to be 0.00004 mg/L and 0.00005 mg/L, respectively, as compared to 0.0001 mg/L for
+2-aminotoluene. 
+
+2-Methoxyaniline also has been identified in the azo pigment wastestream. 2-Aminotoluene has been selected as the
+surrogate for the toxicity of 2-methoxyaniline, because of the structural similarity of the compounds and the similarity
+of metabolic mechanisms described above. The Agency requests comment on the use of metabolic pathway information
+to determine health effects, and on alternate approaches. 
+
+
+
+2. Coeluting Compounds 
+
+
+
+A number of compounds detected in the wastes generated from dye and pigment manufacture coelute (
+
+i.e., 
+
+overlap) on the Gas Chromatography/Mass Spectrometry (GC/MS) curve, making it impossible to confirm the concentration
+and, in some cases, the presence of the individual coeluting compounds. For example, the three constituents, 2- and
+4-aminoaniline, and 2-methoxyaniline, coelute on the GC/MS curve. The coelution is such that the presence of 2- and
+4-aminoaniline is indistinguishable, yet the presence of 2- methoxyaniline can be verified. This occurs because
+the curve for 2-methoxyaniline contains an extra peak in addition to the peaks that overlap with 2- and 4-aminoaniline.
+However, the individual contributions to the total concentration found in the waste can not be established. 
+
+Because the contributions from the individual contaminants can not be established, the Agency assumed that any of
+the three contaminants could be present at 100 percent of the concentration detected. The Agency evaluated all coeluting
+compounds independently in the risk assessment and used the highest risk calculated for the compounds to ensure the
+risk was not underestimated. 
+
+However, 2-methoxyaniline is the expected contaminant in wastes generated from facilities that manufacture azo
+pigments using acetoacet-
+
+o
+
+-anisidide (AAOA) as a raw material because 2-methoxyaniline is an expected hydrolysis product of AAOA (refer to
+Section II.E, Wastewater Treatment Sludge from the Production of Azo Pigments, K162, for a discussion on the hydrolysis
+of AAOA). Therefore, for wastes generated from the manufacture of azo pigments using AAOA as a raw material, the Agency
+conducted the risk assessment for these coeluting compounds based on toxicity information for 2-methoxyaniline
+(see discussion of metabolic products, above, and the Dye and Pigment Waste Listing Support Health Effects Background
+Document for discussions on the toxicity surrogate used for 2-methoxyaniline). 
+
+
+
+

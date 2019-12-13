@@ -1,0 +1,691 @@
+ 
+
+District. 10._Federal Home Loan Bank of Topeka (1994 NOW/DDA Services) 
+
+
+
+Cash Letter Processing 
+
+
+
+Encoded Processing Fees 
+
+
+
+<TABLE>
+
+
+
+
+
+
+1State 
+
+1Local 
+
+1RCPC 
+
+1Country 
+
+1Transit 
+
+
+
+
+Colorado 
+
+$.015 
+
+$.023 
+
+$.029 
+
+$.067 
+
+Nebraska 
+
+.025 
+
+.038 
+
+.038 
+
+.067 
+
+Oklahoma 
+
+.025 
+
+.038 
+
+.038 
+
+.067 
+
+Kansas 
+
+.020 
+
+.039 
+
+.039 
+
+.067 
+
+
+</TABLE>
+
+
+Other Cash Letter 
+
+
+
+<TABLE>
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+Encoding Fee 
+
+.023 per item 
+
+Rejects on Encoded Items 
+
+.15 per item 
+
+Returns/Redeposits 
+
+.80 per item 
+
+Collections 
+
+6.50 per item 
+
+Coin and Currency 
+
+2.50 per call 
+
+Courier/Armored Car Cost 
+
+As charged 
+
+Research/Mass Photocopy 
+
+.15 per item/$12/hour 
+
+ACH Settlement 
+
+.50 per trans. 
+
+Item Retrieval 
+
+2.25 per item 
+
+Facsimile 
+
+1.75 per page 
+
+Postage 
+
+At cost 
+
+Electronic Inquiry 
+
+No charge 
+
+
+
+
+
+1
+Demand Disbursement Processing
+0
+
+
+
+
+
+Full Service DDA 
+
+
+
+Cycled 
+
+.15 per item 
+
+Truncated 
+
+.12 per item 
+
+
+
+Basic DDA 
+
+
+
+Cycled 
+
+.11 per item 
+
+Truncated 
+
+.08 per item 
+
+
+
+Additional DDA Fees 
+
+
+
+Large Item Return Notification 
+
+3.00 per item 
+
+Mass Photocopy Requests 
+
+.15 per item/$12/hour 
+
+Additional Statement 
+
+2.00 per statement 
+
+Item Retrieval 
+
+2.25 per item 
+
+Facsimile 
+
+1.75 per page
+
+Postage 
+
+At cost 
+
+
+
+Monthly Maintenance Fee 
+
+
+
+User 
+
+$25 
+
+Non-user 
+
+$50 
+
+
+1
+
+(User is any customer that also utilizes the Bank for item or cash letter processing or clears at least 100 checks per
+month.
+0
+
+
+</TABLE>
+
+
+
+Inclearing Processing (fees are per item) 
+
+
+<TABLE>
+
+
+
+
+
+
+1Items per month 
+
+1Truncated 
+
+1Cycled 
+
+
+
+
+
+110,000 
+
+.018
+
+.035 
+
+10,00125,000 
+
+.016
+
+.034 
+
+25,00150,000 
+
+.014
+
+.031 
+
+50,001100,000 
+
+.012
+
+.026 
+
+100,001250,000 
+
+.009
+
+.020 
+
+250,001500,000 
+
+.009
+
+.015 
+
+500,001750,000 
+
+.008
+
+.013 
+
+750,0011,000,000 
+
+.008
+
+.011 
+
+1,000,001above 
+
+.007
+
+.010 
+
+
+
+(Transit items charged to cash letter fees) 
+
+
+</TABLE>
+
+
+<TABLE>
+
+
+
+
+
+1Proof of deposit processing items per month 
+
+1Fee 
+
+
+
+
+
+110,000 
+
+$.020 
+
+10,00125,000 
+
+.018 
+
+25,00150,000 
+
+.015 
+
+50,001100,000 
+
+.013 
+
+100,001250,000 
+
+.011 
+
+250,001500,000 
+
+.010 
+
+500,001750,000 
+
+.009 
+
+750,0011,000,000 
+
+.008 
+
+1,000,001above 
+
+.007 
+
+Item account number sort fee 
+
+.010 
+
+
+</TABLE>
+
+
+
+
+
+<TABLE>
+
+
+
+
+
+1Return item per month 
+
+1Fee 
+
+
+
+
+
+12,500 
+
+$1.41 
+
+2,5014,000 
+
+1.11 
+
+4,0016,000 
+
+.76 
+
+6,0018,000 
+
+.46 
+
+8,00112,000 
+
+.41 
+
+12,001above 
+
+.36
+
+
+
+
+Other inclearing fees (per month unless otherwise) 
+
+
+Minimum Processing Fee 
+
+$500 
+
+Settlement w/FHLB Processing 
+
+No fee 
+
+Settlement Only 
+
+100 
+
+Item Retrieval (per item) 
+
+2.25 
+
+Mass Photocopy ($12 per hour and per item of) 
+
+.15 
+
+Over-the-Counter Items (Per item) 
+
+.03 
+
+Large Item Return Notification (Per item) 
+
+3.00 
+
+Facismie (Per item) 
+
+1.75 
+
+Postage 
+
+At cost 
+
+
+
+
+
+1
+Statement and Lockbox Processing
+0
+
+
+
+
+
+Statement processing
+
+
+Truncated Statement 
+
+.08 
+
+Cycled Statement 
+
+.20 
+
+Per Insert 
+
+.01 
+
+Postage 
+
+At cost 
+
+Envelopes/Statements 
+
+By user 
+
+Electronic Statement Printing 
+
+.03 
+
+($150 minimum monthly fee) 
+
+Per image 
+
+
+
+Lockbox Processing (per item)
+
+
+
+150,000 monthly items 
+
+.110 
+
+50,00180,000 monthly items 
+
+.105 
+
+80,001120,000 monthly items 
+
+.100 
+
+120,001160,000 monthly items 
+
+.095 
+
+160,001above monthly items 
+
+.090 
+
+Exception Item Review/Processing 
+
+.070 
+
+Photocopy Retrieval 
+
+2.25 
+
+Postage 
+
+At cost 
+
+Monthly Processing Fee 
+
+$100 
+
+
+
+
+
+
+1
+Safekeeping and Wire Transfer and Reserve Processing
+0
+
+
+
+
+Safekeeping processing 
+
+
+
+Transaction Fees 
+
+
+
+Federal Reserve Book-entry Securities 
+
+5.00 
+
+Reclaims and DKs 
+
+2.50 
+
+PTC Depository GNMAs and DTCs 
+
+35.00
+
+Physical Securities 
+
+40.00 
+
+Euro/Cedel Securities 
+
+75.00 
+
+
+
+Interest Payment Fees 
+
+
+
+Federal Reserve Principal  Interest 
+
+5.00 
+
+PTC, DTC and Physical PI 
+
+8.50 
+
+
+
+Segregation and Pledge Activity Fees 
+
+
+
+Joint Custody, Pledges to Third Party, Pledges to the Bank as Collateral for Advances, Other Pledges, Segregation
+and Pledge Releases 
+
+10.00 
+
+
+Account Maintenance Fees 
+
+
+
+Federal Reserve Book-entry Securities 
+
+5.50 
+
+Other 
+
+6.50 
+
+In-house 
+
+.25 
+
+Registration, Postage, other miscellaneous 
+
+At cost 
+
+
+Wire transfer processing fee 
+
+
+Incoming 
+
+3.65 
+
+Outgoing 
+
+5.65 
+
+Pass-through Reserves (per month) 
+
+25.00 
+
+
+</TABLE>
+
+
+
+District 11._Federal Home Loan Bank of San Francisco (1994 NOW/DDA Services) 
+
+
+(Services not provided) 
+
+
+
+District 12._Federal Home Loan Bank of Seattle (1994 NOW/DDA Services) 
+
+
+(Services not provided) 
+
+
+
+By the Federal Housing Finance Board 
+
+
+
+
+<SIGNER>
+Rita I. Fair,
+
+</SIGNER>
+<SIGNJOB>
+Acting Managing Director.
+
+
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 9419498 Filed 81094; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 762501P
+</BILLING>
+
+

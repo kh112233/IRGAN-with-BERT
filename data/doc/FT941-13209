@@ -1,0 +1,62 @@
+FT  26 JAN 94 / Survey of Mobile Computing (14): The pace may accelerate -
+Battery Technology
+As mobile electronics races ahead, batteries are revealed ever more clearly
+as the Achilles heel of the portable computer. While processors, memories
+and even screens double in performance every two or three years, battery
+technology improves by perhaps 10 to 20 per cent over the same period.
+Now that the electronics industry has come to realise quite what an obstacle
+batteries are to future progress, manufacturers are beginning to team up
+with battery companies to force the pace of development.
+For example, Compaq recently announced a partnership with Duracell to
+develop standard-sized nickel-metal hydride rechargeable batteries for
+portable computers. But the integrated Japanese electronics companies, which
+manufacture batteries as well as computers and other mobile devices, are
+emerging as a particularly strong source of innovation in this field.
+There is a good prospect that the higher priority now being given to
+batteries will lead over the next five years to devices that pack much more
+energy into a smaller space than anything available today. Then
+manufacturers will be able to design 'sub-notebook' sized computers with
+power-hungry features such as colour screens and built-in disk drives.
+Most of the current generation of portable computers were designed to run on
+throw-away alkaline batteries or rechargeable nickel-cadmium (NiCad) packs.
+They can generally manage three to five hours of operation before needing to
+be recharged - not enough to do much work on an intercontinental flight.
+NiCad was developed originally in the 1960s and is now getting close to the
+limits of its potential performance. It is also environmentally suspect,
+since cadmium is a toxic metal which can contaminate groundwater if NiCad
+cells are dumped in unsuitable landfill sites.
+The leading green contenders to replace NiCad are nickel-metal hydride
+(NiMH) and lithium ion (Lion). Both originated in Japan and both are
+beginning to appear in upmarket portable computers. Last month, for example,
+IBM added NiMH to its ThinkPad sub-notebook computers, while Toshiba's
+T3400CT will be Lion-powered.
+Lion can pack more usable energy into a given weight of battery than NiMH,
+but it is a more sensitive material and less good at delivering the
+relatively high power required for a disk drive. Most observers expect both
+technologies to enjoy a good run at the expense of NiCad over the next few
+years, though the long- term future probably lies with lithium-based
+systems. (For electrochemical reasons, lithium is theoretically the best
+metal of all to use in batteries.)
+At the research stage, a particularly exciting prospect is the lithium
+polymer (LiPol) battery. This contains a solid plastic film as the
+electrolyte - the material that carries charge between the electrodes -
+instead of the liquid electrolyte used in today's batteries.
+LiPol's energy output per gramme is likely to be twice as good as Lion and
+six times better than NiCad. Another great advantage is that LiPol need not
+have the chunky shape of today's batteries. It can be produced equally well
+as flexible sheets less than a millimetre thick, which can be cut or folded
+into whatever size and configuration best suits the appliance in question.
+Many laboratories around the world are working on LiPol. They include the
+Japanese giants such as Sony, Californian start-ups such as Valence
+Technology, and universities such as St Andrews in Scotland.
+While computer manufacturers wait for a breakthrough in battery technology,
+they are constantly taking steps to make the most of the batteries that are
+available, by reducing the power consumption of their products. An obvious
+example is the memory card used instead of a disk drive in sub-notebook
+computers.
+Software-based power management systems also help to extend battery life, by
+sending the computer to sleep when the user is doing something else for a
+few minutes and then allowing him or her to resume at exactly the same
+point.
+The chip makers are playing their part too, by developing special low-power
+low-voltage processors such as the Intel 486SL for portable applications.

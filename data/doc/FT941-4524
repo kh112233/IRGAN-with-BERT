@@ -1,0 +1,63 @@
+FT  10 MAR 94 / Survey of Software at Work, Spring 1994 - Financial Control
+Systems (8): The right choice - Accounting at the National Exhibition Centre
+/ When the NEC upgraded its core financial systems, keeping the familiar
+modelling and planning software running was a priority, but it also wanted
+better information to feed in
+The amount of paper produced by any information system is often in inverse
+proportion to its usefulness. Triggered by this rule of thumb, the National
+Exhibition Centre, near Birmingham, is looking at rationalising its output,
+and is even experimenting with PC-supported CDs (compact discs) as a source
+of financial information, rather than printed reports, writes Claire
+Gooding.
+The NEC is one of the largest exhibition complexes in Europe, and is still
+expanding. In the last two years, the National Indoor Arena and the
+International Convention Centre, ten or so miles away in the centre of
+Birmingham, have been part of the growth, which has been managed without
+taking on extra management staff. In 1993 the NEC had profits of Pounds
+11.5m; it employs 1,100 people.
+The finance department faced an all-too-common problem in attempting to
+update its financial systems in a drive to improve efficiency and save
+costs. Each department had its own way of reporting, and software tools it
+was happy with, such as Lotus spreadsheets for internal and departmental
+reports. Figures from sales, purchase, and other departments were fed by the
+finance department into a highly tailored implementation of the
+well-established FCS/EPS modelling package.
+But 18 months ago, hardware upgrade from an ICL ME29 to an ICL DRS6000
+provided an opportunity to replace Cobol-written financial systems with Open
+Systems software under Unix. The NEC board chose an integrated accounting
+system under Unix called Chameleon, because its design allowed for bespoke
+tailoring, without sacrificing the essential support that went with the
+standard package.
+Its suppliers, Tetra provided on-site consultancy and 'excellent support'
+for the NEC in a contract worth Pounds 290,000. Since April 1993, the
+existing systems have been linked in what Barney Flint, responsible for
+in-house systems development describes as 'a sort of bio-feedback loop,'
+with all the systems feeding FCS, which in turn re-feeds the figures back
+into Chameleon. Some of the in-house NEC enhancements have since been
+adopted by Tetra as features for general release.
+Speed of response, reliability, and better information have been the result
+ -'the ME29 was only available to a finite number of people,' says Mr Flint,
+in charge of systems development. 'Now we have 50-60 users perpetually
+online, some of them miles away. We have greater control, better management,
+and a lot more information: so much so that we have to rationalise it.'
+Barney Flint feels the right choice was as much to do with the vendor and
+the level of support as with the software itself, and adds a general
+warning: 'Don't believe sales literature, sales-people, or 'the pitch.' Get
+it on your desk for three months - and then make a decision.'
+Software: Chameleon 2000
+This product is a 1992 version of the Chameleon accounting software suite
+first launched in 1987, is multi-currency, multi-lingual, provides full
+financial control with management reporting and offers pan-European
+functionality and the facility for integration with corporate systems.
+Users: 2,500
+sites in UK, 1,000 more worldwide; for the 2000 version: 120 UK sites, 60
+elsewhere).
+Supplier: Tetra, founded in 1979, has 10 years' experience of implementing
+Open Systems (Unix-based) accounting packages.
+Turnover: Pounds 12.2m in 1993, with Pounds 2.3m profit.
+Price: modular - average starting price for core system (ledgers only) of
+32-48 users, around Pounds 25,000. User views include 'excellent support,
+good performance; consistent user-interface; inter-operability with other
+packages.'
+Contact: Barbara Wilkie, Tetra, The Cynosure Centre, Vanwall Business Park,
+Maidenhead, Berks SL6 4UB.

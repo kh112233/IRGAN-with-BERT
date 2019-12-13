@@ -1,0 +1,741 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+  [Text] 
+<H5>  Special Issue: Security, LAN, Network OS, and Open Systems </H5>
+  The trend toward open systems should be welcomed by 
+users. However, these kinds of open networks can also expose 
+important business information to danger. This is because LAN 
+hosts and servers can be easily accessed from outside the 
+company. 
+  Security can be guaranteed for the most part by using 
+the built-in functions of network operating systems and by using 
+techniques at the operational level. Products which supplement 
+the areas of weakness are coming onto the market. However, when 
+security is strengthened, there is concern that the original 
+flexibility of an open system may be lost. 
+<H5>  Part 1: The Rapid Increase of Dangerous Networks </H5>
+  ``Linking'' techniques, which center on LANs such as 
+TCP/IP, NetWare, and LAN Manager, etc., are bringing about the 
+construction of a truly user-friendly environment. However, the 
+down side to increasing the degree of freedom is that this 
+so-called openness is creating security problems. 
+  A variety of programs and databases on personal 
+computer LAN servers, UNIX machines and mainframes can be 
+accessed through LANs. However, there is a growing danger that 
+sensitive and confidential information may be leaked by 
+unauthorized people accessing and viewing it. 
+  Mr. Hajime Iwasawa, chief inspector of the Kyowa Hakko 
+Industrial Company's Information Systems Department, says 
+``There continue to be about 10 instances of access by unknown 
+parties.'' At Kyowa, employees can access the internal company 
+system from outside locations through a subscriber phone 
+network. A VAX, which is linked to a LAN and dedicated-use 
+lines, distributes and coordinates calls, and it can be accessed 
+from personal computers via TELNET of TCP/IP, etc. The VAX is 
+used as a communications server for connecting to public 
+networks. When we were randomly viewing the VAX surveillance 
+terminal, a log-in showing a connection log-in failure was 
+displayed. 
+  Mr. Iwasawa said, ``As a result, we do not know who that 
+person was.'' It may have been an employee who actually failed 
+to get on, but there is no guarantee of that. Because it was 
+randomly viewed on the surveillance terminal, who it was could 
+be discovered. Because they are not always checking the logging 
+operations, there may be other times when access is gained by 
+unknown parties. 
+  There was a recent incident of a computer virus infection at 
+the National Cancer Center. The virus invaded nearly 200 
+machines including NEC PC-9800s, Apple Macintoshes and IBM PCs. 
+The tip of the arrow began with the use of reference searches 
+and electronic mail by a NetWare personal computer LAN. 
+Fortunately, the virus was simply one that made a sound, and 
+losses were minimal. 
+  Later, the source was found out because it was from a 
+personal computer infected by a virus that had recorded its ID, 
+etc. A virus that invades because of a little carelessness and 
+spreads throughout an entire company is not that rare. 
+  Both of these examples involve a process that occurs in an 
+``open'' information system, and this makes it necessary to 
+reconsider security measures. ``In conventional host-terminal 
+systems, who can enter is determined naturally. However, in open 
+systems, it is easy to connect with the network. We must be able 
+to determine who may not enter,'' says Mr. Iwasawa of Kyowa 
+Hakko. The number of businesses connected to networks is growing. 
+<H5>  Security Is Compromised by Creating an Open System </H5>
+  With downsizing and the creation of opening systems, 
+information is expected to be liberated from a closed world. An 
+environment is growing in which it is easy to connect to 
+everything from personal computers to mainframes. Personal 
+personal computer LAN network operating systems (NOS) such as 
+NetWare from Novell and LAN Manager from Microsoft are 
+reinforcing this openness, and standard protocols represented by 
+TCP/IP are being supported. Mainframes also permit TCP/IP 
+connection, and this sets up an environment that can be 
+connected from top to bottom. 
+  The number of personal computer terminals which can link up 
+to networks is growing, and information resources such as access 
+programs and databases are expanding and diversifying. A 
+personal computer linked to a LAN creates an environment in 
+which it is possible to access information that can be 
+physically located anywhere. 
+  On the other hand, network infrastructures which have this 
+kind of flexibility and exapandability carry with them the 
+weakness of being vulnerable to external enemies. They are easy 
+to use, but they are fragile in relation to unauthorized access 
+and acquisition of information. Nearly the entire structure is 
+open to the outside, and this creates an environment that falls 
+easy prey to unauthorized activities. 
+<H5>  Guaranteeing That a User Is Authorized Is Difficult </H5>
+  For a long time, systems have tried to verify who the user 
+is 
+when the host system is accessed. In the log-in procedure, the 
+host side verifies that it is the correct user by having the 
+user input an ID name and password. The procedure for confirming 
+the user by ID name and password is the same in the world of 
+personal computers, LANs, and UNIX. 
+  In almost all cases of confirming whether or not a user is 
+authorized, the ID and password are all there is. In a typical 
+LAN system, if an ID and password are used, the program and 
+database can be accessed from virtually anywhere. This practice 
+receives high marks from the point of view of convenience. 
+  However, if the ID and password are leaked, that's all there 
+is. There have even been extreme examples when the ID and 
+password were written on a memo pasted on the personal computer. 
+That kind of loose management permits unauthorized use, and easy 
+intrusion into the system. It is also possible to make a program 
+that tries to gain access by substituting the passwords. 
+  With PC LAN servers, access control functions are provided 
+which can stipulate the range of programs or databases that can 
+be accessed from the terminal of each user. The place where the 
+control range is determined, however, is the user ID. If the ID 
+and password are stolen, the control loses all meaning. 
+<H3>  By Opening a System, Mainframe Utilities Are One Just Step 
+Away </H3>
+  Once a mainframe is opened up, security checks become a 
+whole 
+level softer. Conventionally, independent addresses were set to 
+each individual terminal, and the connection between the host 
+and the terminal was made by built-in coaxial cable or by a 
+dedicated-use line. Specifically, a one-to-one correspondence 
+was established between the communication port of the host and 
+the terminal. Even in public network relays, such as subscriber 
+telephone networks, terminal addresses are incorporated into 
+independent procedures. Thus, these could not be called the 
+world of easy access by ID and password alone. For example, even 
+if the ID and password are found out, access cannot be made 
+through a different terminal. There are also instances when the 
+menu itself is varied. 
+  As the protocol moves from individual to open, the 
+circumstances change. A gateway is offered by which mainframes 
+and third parties can access the host by TCP/IP from PCs, etc. 
+However, when TCP/IP is used, unless special techniques are 
+employed, the host cannot discriminate between terminals. 
+  The connectivity of the TCP/IP open protocol implies that a 
+terminal address for individual manufacturers cannot be 
+implanted. All that can be requested is an ID and a password, 
+and seen from the conventional vantage point, security is lax. 
+<H5>  Data Can Be Easily Stolen </H5>
+  There is the possibility of stealing data. In a LAN system, 
+all data run on cables between nodes that are linked by 
+segments. ``Even if access rights are restricted by ID and 
+password, this information can be viewed and stolen,'' says Kazu 
+Sugiyama, team leader of the Technology Development Department, 
+Systems Business Department, Catena. 
+  For example, by taking the electrical signals out from the 
+cable at the circuit board and converting them to data, the data 
+can be viewed on the monitor. If a LAN management analyzer is 
+used, it is even more simple. LAN analyzers are convenient 
+systems when analyzing traffic conditions and breakdowns, but in 
+fact, data can be seen. If an analyzer system is installed in a 
+PC which is connected to the LAN, data can be stolen right from 
+there. Some information, such as personnel information, should 
+not even be seen by people within the company. With an analyzer, 
+this also is not difficult to see. 
+  Furthermore, if the ID and password that are necessary to 
+verify the user are stolen, the consequences can be grave. There 
+is therefore a function to scramble password data in the NOS of 
+such systems as NetWare and LAN Manager so the password cannot 
+be easily stolen. UNIX systems do not have this function, 
+however. 
+<H3>  It Is Easy To Have Unauthorized Access Without Leaving 
+Evidence Behind </H3>
+  An issue that must be raised in PC LAN and UNIX systems is 
+that ``no evidence of operation and processing remain behind,'' 
+indicates Jiju Tabuchi, manager of the Software Business 
+Division, Information Systems Business Department, Fujitsu. 
+  After an incident has occurred, a mainframe can follow who 
+did what operation. This technique can be used to stop 
+unauthorized access. The logging functions are weak, however, in 
+a PC LAN or UNIX system in which a supervisor (super-user) can 
+easily do anything. If no logging has been done, then no prior 
+cause can be specified. 
+<H5>  Unprotected Networks Are Hotbeds for Viruses </H5>
+  According to the numbers of reported cases of virus damage 
+tabulated by the IPA [Information Processing Association], the 
+number of cases jumped from 57 in 1991 to 229 in 1992. ``These 
+numbers probably represent just the tip of the iceberg'' 
+believes Norio Yuto, director of the IPA Technology Center, 
+Computer Virus Technology Survey Laboratory. 
+  Businesses are appearing that will provide general security 
+services against the kind of virus that Konica suffered. This is 
+because it is expected that the number of damaging viruses will 
+increase in the future. 
+  As networks become more widespread, they will become hotbeds 
+for computer viruses. Viruses are destructive programs that 
+become incorporated into ordinary programs, and the entrance 
+ways for viruses increase with the spread of networks. There is 
+the fear that once they invade, they can be transmitted to the 
+entire system before anyone realizes it. 
+  If a virus enters a jointly used program on the server, then 
+it is immediately extended to the entire network. If a virus 
+contaminates a program that must be executed whenever any LAN 
+user logs in, for example, the LOGIN.EXE on the server, it is 
+very serious. Moreover, it may be possible for a virus to invade 
+a program in the commonly used region of the database engine. 
+  Because programs like LOGIN.EXE are write-protected so that 
+only users having supervisor rights can access them, it is 
+difficult for viruses to invade them. On the other hand, the 
+supervisors themselves must be extremely careful in the daily 
+use of the LAN. If the PC that the supervisor uses becomes 
+contaminated, the entire system may become contaminated. 
+  In addition, network-type viruses have recently come on the 
+scene. There are viruses that spread throughout the server by 
+breaking the access privileges of such systems as NetWare. The 
+feeling of safety with the security measures for yesterday's 
+problems can be eaten away in surprising new counterassaults. 
+<H5>  Users Have Little Feeling of Danger </H5>
+  The numerous dangers reported so far are heightening more 
+and 
+more in the LAN-WAN connection environment. There is a great 
+need and desire to be able to access and use databases from 
+outside companies. If their traffic becomes too great, both 
+branch stores and business offices want to use public networks 
+such as subscriber telephone networks because of communication 
+costs. Businessmen also desire to be able to search client 
+databases from outside locations using portable PCs. 
+  The other side of WAN connection, however, is that security 
+countermeasures become more difficult. If the network is closed 
+with a dedicated-use line in the same building, access is 
+limited to physically connected terminals inside the company. 
+However, the moment a port is used to connect the system to a 
+public network, there is the possibility of access by numerous 
+undesignated parties. 
+  In this regard, there are few users who lend a hand in 
+improving security. Generally, they have only a dilute sense of 
+danger. There are data to suggest that 23% of companies 
+do not 
+use even the most basic of security countermeasures, the 
+password. In June of 1992, the Japan Information Processing 
+Development Committee (JIPDEC) conducted a survey of 4,649 user 
+companies regarding security, and this was one of the results 
+obtained in the responses from 1,894 companies. 
+  Even if the need for security is recognized, ``it is a pain 
+when it comes to the budget'', and it is a headache for most 
+information system managers. Security countermeasures do not 
+produce a result that could be called ``increasing the 
+efficiency of business.'' Rather, security increases management 
+activities, and it cannot help but increase the number of 
+employees in the information systems department. 
+  As a result, the issue becomes one of how to convert the 
+value of information into money. According to Kiyoshi Ono, 
+manager of the Network Technology Section, Open Systems 
+Technology Division, Nomura General Research Institute, it is 
+probably natural that we hear, ``Spending &yen;1,000 to protect 
+&yen;100 is not good business.'' However, the situation 
+continues to be a matter not of &yen;100 but of &yen;10,000 
+worth of information being dropped into the open system from the 
+host. This information is being immediately exposed to danger. 
+<H5>  Part II: Checkpoints for Security Countermeasures </H5>
+  Security countermeasures can be brought about without 
+any particular custom products. How aware users are of such 
+things as company rules and operating procedures plays a big 
+role. There are companies that actually put a great deal of 
+effort into security. 
+  However, security and convenience are inversely 
+related. Even with vital information, if you think about 
+security exclusively and make access too tricky, it loses 
+meaning to speak of an 'open' system. 
+  Generally, although users do not have much of a sense of 
+danger, there are already quite a few businesses that have taken 
+up measures to guarantee security. 
+  Showa Shell Oil has made a PC LAN and host connection with 
+NetWare and TCP/IP, but they have taken their own measures to 
+``keep security tight,'' says Kazuhiko Arai, manager of the 
+Information Systems Laboratory. 
+  At Citibank, the password for the PC LAN supervisor is split 
+in half and controlled by separate people. The supervisorial 
+functions of the system cannot be touched unless both are 
+parties present. As represented by this, Citibank has built a 
+network with strict supervision and tight security. 
+  The mainstream attitudes still seem to be ``connection comes 
+first'', and ``the system that is closed within the company is 
+safe,'' reflects Kiyoshi Ono, Manager of the Network Technology 
+Section, Open Systems Technology Division, Nomura General 
+Research Institute). However, it is the opinion of Hajime 
+Iwasawa, chief inspector of the Kyowa Hakko Industrial Co. 
+Information Systems Department, that ``security must be studied 
+from the design stage of the network on up.'' 
+  While revising its business system and network in January 
+1993, Kyowa Hakko initiated an eight-member environment 
+management group within the Information Systems Department. It 
+is a group set up to study network supervision, management 
+systems, and tools -- including security countermeasures -- from 
+the design stage up. If the information carried on the LAN is 
+important, then security countermeasures will be necessary. 
+Rather than struggle with security at that point in time, it is 
+better to consider the possibilities from the beginning and 
+include the countermeasures in the system. 
+  Whenever there are security issues, however, ``there will be 
+users who won't know what to do,'' according to Jiju Tabuchi, 
+manager of Fujitsu Information Systems Business Department, 
+Software Business Division. In that situation, one should 
+consider the ``Security Evaluation Standards'' that were studied 
+by the Japan Electronic Information Development Association 
+(JEIDA). 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 2-1. Japan Electronic Information Development Association (JEIDA) Prop-| 
+|osal for Standardized Security Functions and Requirements (The following tab-| 
+|le has been abbreviated, and it is actually much more specific.)             | 
+------------------------------------------------------------------------------- 
+|Identification                        |Identify users. Provide ID management | 
+|                                      |and operation functions.              | 
+------------------------------------------------------------------------------- 
+|Verification                          |Verify the user. Do not provide verif-| 
+|                                      |ication information to just any user. | 
+|                                      |Verification information should be en-| 
+|                                      |crypted when stored.                  | 
+------------------------------------------------------------------------------- 
+|System access control                 |System access is permitted after veri-| 
+|                                      |fication of the user. Once connected, | 
+|                                      |if the user fails to be verified in t-| 
+|                                      |he stipulated number of tries, connec-| 
+|                                      |tion should be terminated. The place  | 
+|                                      |from which and times when the user ca-| 
+|                                      |n utilize the system can be controlle-| 
+|                                      |d (prohibit system access from a tele-| 
+|                                      |phone network, etc.). When a network  | 
+|                                      |is used, it is necessary to have a st-| 
+|                                      |rong use verification function .      | 
+------------------------------------------------------------------------------- 
+|Resource access control               |Control all access that is present wi-| 
+|                                      |thin the system. Users who have not c-| 
+|                                      |ompleted identification and verificat-| 
+|                                      |ion should not be permitted access to | 
+|                                      |resources. Access restrictions for ea-| 
+|                                      |ch user and each resource can be set. | 
+------------------------------------------------------------------------------- 
+|Tracking                              |There should be surveillance and trac-| 
+|                                      |king of users who fail verification,  | 
+|                                      |privileged user log-ins, data, and ac-| 
+|                                      |tivities such as transactions. When s-| 
+|                                      |urveillance parameters are modified,  | 
+|                                      |the modification activities should al-| 
+|                                      |so be supervised and tracked.         | 
+------------------------------------------------------------------------------- 
+|Surveillance                          |It should be possible to determine wh-| 
+|                                      |ether a breach of security has occurr-| 
+|                                      |ed. At that time, it should be possib-| 
+|                                      |le to judge what information and reso-| 
+|                                      |urces have been lost.                 | 
+------------------------------------------------------------------------------- 
+|Reuse of objects                      |It should be possible to reuse resour-| 
+|                                      |ces while maintaining security. At th-| 
+|                                      |ese times as well, security is to be  | 
+|                                      |upheld.                               | 
+------------------------------------------------------------------------------- 
+|Completeness                          |Provide functions to counter modifica-| 
+|                                      |tions that oppose the intentions of t-| 
+|                                      |he users who have restricted access.  | 
+|                                      |Separate and protect the programs and | 
+|                                      |data of specified users from those of | 
+|                                      |other users.                          | 
+------------------------------------------------------------------------------- 
+|Service reliability                   |System crashes should be detected and | 
+|                                      |recorded, and if possible, the system | 
+|                                      |should be brought back on-line. If th-| 
+|                                      |e system crashes, a means to guarante-| 
+|                                      |e security and a means for recovery s-| 
+|                                      |hould be provided.                    | 
+------------------------------------------------------------------------------- 
+|Data conversion                       |Make it possible for the data that pa-| 
+|                                      |ss through the communications circuit | 
+|                                      |to use an encrypting function. This p-| 
+|                                      |revents certified information that is | 
+|                                      |received by passing through the commu-| 
+|                                      |nications circuit from being tampered | 
+|                                      |with or being received by an unauthor-| 
+|                                      |ized party using a program that does  | 
+|                                      |not have the certification function.  | 
+------------------------------------------------------------------------------- 
+
+
+  This is meant to be a scale by which security functions can 
+be objectively evaluated, and it was put together in August of 
+1992 by JEIDA as a proposal for security functions and 
+requirements. ``Functions and requirements'' means making 
+adjustments to meet security needs. These functions and 
+requirements are currently under review, and they are scheduled 
+to be formally published in January 1994. Furthermore, the 
+security requirements needed to evaluate and implement these 
+functions are standardized in the following steps. 
+<H5>  Point 1: Regulating the Permissible Access Range </H5>
+  A PC LAN utilizing NetWare was introduced at Ajinomoto, and 
+intracompany standards on the use of NetWare were drafted in 
+January 1993. Included among these standards were adjustments in 
+user access control. Determinations were made for permissible 
+data access by allotting disk space and classifying directory 
+systems and users. ``If the users and applications increase, 
+they will just fit into the pattern,'' says Mamoru Umino, 
+section manager of the Information Processing Business 
+Department, Ajinomoto. Because the directories have been 
+systematized in it, ``when anything happens, it can be checked'' 
+(Mr. Umino). 
+  Connection is made by the proper use of NetWare, LAN 
+Manager, 
+or TCP/IP. Then, access is controlled by determining which users 
+are permitted access to which programs and databases on the 
+server. If these access controls are correctly implemented, then 
+unauthorized access will be prevented. 
+<H5>  Use of NOS Access Controls </H5>
+  Both NetWare and LAN Manager have network OS (NOS) functions 
+that provide the capability of restricting directory and file 
+access privileges (Table 2-2). Basically, these programs utilize 
+user-level controls that set rights for each user or each user 
+group regarding such processing functions as read/write and 
+create/delete. In NetWare there are eight kinds of controls, and 
+in LAN Manager there are seven kinds. Both programs can set 
+detailed access privileges. In actuality, many users are set up 
+to have only such basic access privileges as reading and writing. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 2-2 Principle Kinds of Access Privileges That Can Be Set in NetWare an-| 
+|d LAN Manager (In NetWare, security at the user level and at the resource le-| 
+|vel are set in relation to the same resource, whereas in LAN Manager, either | 
+|can be selected in relation to each resource.)                               | 
+------------------------------------------------------------------------------- 
+|                         |Classification           |Description              | 
+------------------------------------------------------------------------------- 
+|                         |User-level access privil-|Users are divided into i-| 
+|                         |eges                     |ndividual users, user gr-| 
+|                         |                         |oups, and guests, and fo-| 
+|                         |                         |r each user, privileges  | 
+|                         |                         |can be set for read/writ-| 
+|                         |                         |e, execute, create, etc. | 
+|                         |                         |In LAN Manager, access p-| 
+|                         |                         |rivileges can also be se-| 
+|                         |                         |t for connecting to COM  | 
+|                         |                         |devices such as print qu-| 
+|                         |                         |eues, and RS-232C ports. | 
+|                         |                         |In NetWare, upper-rank d-| 
+|                         |                         |irectory restrictions ar-| 
+|                         |                         |e inherited even at lowe-| 
+|                         |                         |r ranks, and the inherit-| 
+|                         |                         |ance rights mask (IRM) t-| 
+|                         |                         |hat controls this can be | 
+|                         |                         |set.                     | 
+------------------------------------------------------------------------------- 
+|Resource Level           |NetWare ``Attribute Sett-|In directories, attribut-| 
+|                         |ing''                    |es for erase prohibit an-| 
+|                         |                         |d rename prohibit can be | 
+|                         |                         |set; and in files, copy  | 
+|                         |                         |prohibit, erase prohibit,| 
+|                         |                         | and read only can be se-| 
+|                         |                         |t. Attributes have prior-| 
+|                         |                         |ity over user-level acce-| 
+|                         |                         |ss privileges, and only  | 
+|                         |                         |privileged users can mod-| 
+|                         |                         |ify attributes.          | 
+------------------------------------------------------------------------------- 
+|                         |LAN Manager ``Share Leve-|Passwords are allotted f-| 
+|                         |l Security''             |or each directory and fi-| 
+|                         |                         |le, and for joint resour-| 
+|                         |                         |ces such as print queues | 
+|                         |                         |and COM devices. Only us-| 
+|                         |                         |ers who know the passwor-| 
+|                         |                         |d can access them.       | 
+------------------------------------------------------------------------------- 
+
+
+  In NetWare, it is possible to set attributes, that is, to 
+set 
+directory or file units to erase prohibit. Attributes are given 
+priority over user-level access rights. For example, even a user 
+who can erase files cannot erase a given file if that file has 
+an erase protect attribute. When someone wishes to erase that 
+file, a request must be made to the specified user who can 
+modify the attribute. 
+  On the other hand, in LAN Manager, a ``share-level security 
+function'' is provided. A password is allotted for each 
+directory and file. A log-in must be performed for each of those 
+resources. 
+  There are also many access controls at the application level 
+above the NOS, but they cannot override the access privileges 
+set by the NOS. 
+  Access control ``is not a difficult thing, but the 
+combination of functions can be complicated'' according to 
+Hajime Sugiyama, team leader of the SI Development Department, 
+SI Business Main Division, Catena. Therefore, if the kind of 
+systematization that Ajinomoto has done is implemented, the 
+system structure is made more efficient, and when there is 
+trouble, maintenance operations can be promoted more expediently. 
+<H5>  Router Filter Functions Are Also Effective </H5>
+  Citibank uses a router packet filtering function, and this 
+can control access. Ten BASE-Ts were introduced on each floor, 
+and an FDDI of these branch line LANs is linked into a trunk 
+line LAN by using a router. ``The determination of which places 
+can or cannot be linked with which other places is set by a 
+router access list, '' says Kentaro Tachiiri, assistant 
+vice-president of the Systems Main Department. 
+  What Citibank has introduced is a ``AGS'' system, and a 
+multiprotocol router can generally filter data by using a 
+variety of conditions. Routers can filter not only by IP 
+address, but also by discriminating higher ranking protocols and 
+applications. At Citibank, in addition to IP addresses, the 
+router restricts passes between networks that can communicate by 
+such protocols and applications as DECnet, NetWare, and 
+Apple-Talk. Mr. Tachiiri says that a system was adopted so that 
+``when it is necessary to modify or add passes, approval of the 
+security manager must be obtained.'' 
+  In addition to security functions, router filtering has 
+significance in that data that do not have relation to that 
+segment does not flow there, thus making it effective in 
+reducing unnecessary traffic. However, ``when too may filtering 
+conditions are set, the processing for routing causes delays'' 
+according to Takehiko Higashi, business department manager of 
+Network Systems. 
+<H3>  Point 2: Increasing Checkpoints Corresponding to the 
+Importance of the Information </H3>
+<H5>  Strengthening Confirmation of the Authorized User </H5>
+  At Showa Shell Oil, security has been strengthened, and 
+strict conditions for identification of an authorized user have 
+been set to the extent that ``vital information can only be 
+accessed from the PC of that user,'' claims Kazuhiko Arai, 
+manager of the Information Systems Lab, Showa Shell Oil. A 
+management code has been installed on the PC FMR LAN board that 
+is in the LAN terminals. When information of importance is 
+accessed, in addition to the user ID and password, the 
+management code is simultaneously checked. For this reason, even 
+if another's ID and password are known, access from a different 
+PC is not possible. 
+  Even if restrictions are placed on resources that can be 
+used 
+by each user through the control of access, is the user making 
+access truly the person indicated in the ID? How do we know 
+whether this is not some other person making unauthorized use of 
+the ID and password? At Showa Shell, depending on the 
+information, if it is not the right PC, the conditions to deny 
+access have increased, and the probability that it is an 
+authorized user have been heightened. 
+  In addition to this, Showa Shell is also using the technique 
+of ``displaying the name of the user on the upper right part of 
+the screen.'' This is also a method of discovering right away 
+with a glance at the screen whether another user's ID and 
+password is being used. 
+<H3>  Strict Checks or Restricted Functions Placed on the Public 
+Network That Make It Easy for External Enemies To Gain Entrance </H3>
+  Currently Showa Shell is studying the possibility of 
+connecting to a public network in order to allow access from the 
+outside by support businessmen, etc. However, ``this is a threat 
+to security'' (Kazuhiko Arai), and there are many users who are 
+nervous about connecting with a public network. 
+  For users connecting with public networks, there have 
+already 
+been restrictions placed on functions, and the check items for 
+logging in have increased. 
+  The Kumatani Group is restricting the use of subscriber 
+telephone network routes so that ``the only possible use is for 
+electronic mail'' (Akira Doi, Information Systems Lab, Third 
+Division, Development Section). The mainframe and the PC LAN 
+server are connected by an intracompany LAN, and this is mainly 
+coordinated by TCP/IP; and there are also SUN workstations that 
+are equipped to connect with subscriber telephone networks. 
+There are IDs and passwords required specifically at the level 
+of accessing these workstations. After that, the ID and password 
+of the original user are input. Attention is paid to double 
+passwords and restricting use to electronic mail. 
+  This is also a technique for safely using a VAN. When 
+communicating through a VAN, because the ID and password for 
+entering the VAN must be checked, the ID/password check is 
+doubled. Showa Hakko has evaluated this VAN security function, 
+and has connected business locations that have low traffic by 
+using a VAN. 
+  In addition to VANs, Ajinomoto is using ``call back.'' In 
+call back, access to the host is made from the terminal side, 
+the ID and password are input, and the circuit is disconnected; 
+afterwards, the circuit connection is made from the host side. 
+The telephone number of the business location or home must 
+already be recorded, and security is provided by denying access 
+from any location other than the one recorded. 
+  Ajinomoto uses an internal modem call back function, but 
+custom equipment is also being marketed. For example, there is 
+Defender, which is made by the American firm Digital PassWare 
+and which is being handled by Chiyoda Information Machines. The 
+ID, password, and password period of validity can be set and 
+processed independently, and ``it places no burden on the host'' 
+(Mr. Yoshihiko Kamimori, Sales Department Section 2, Eastern 
+Japan Information Communications Business Department, Chiyoda 
+Information Machines). 
+<H5>  Verification of the User by Cards </H5>
+  Defender offers one solution to the problem of restricted 
+call back locations by using the SecureNet Key. This is a card 
+with an input key that resembles a credit card-sized calculator, 
+and the premise is that authorized users have this card. 
+  How the card works and how it reports to the host side are 
+shown in Figure 2-3 (not reproduced). When accessed, the host 
+responds with a number that is called a challenge number. When 
+the user inputs this to the card, the password is displayed. 
+This password is input from the terminal. Because the challenge 
+number is modified at each instance of access, the password 
+changes every time. Every card is equipped with a special 
+mathematical algorithm, and even if the same challenge number is 
+input to a different card, a different value is returned. 
+  Metro is scheduled to market the product ``SafeWord'' which 
+uses the same technique on NetWare. It will be offered in the 
+form of an NLM (NetWare-loadable module), which is a NetWare 
+server application. Before the user logs on to the server, the 
+SafeWord password is calculated by using the card. ``Because the 
+password changes every time, it is safe even if monitored by an 
+analyzer'' (Akio Araki, manager of the Business Technology 
+Department, Information Security Systems Business Department, 
+Metro). 
+  SafeWord was developed by the American company Enigma Logic, 
+and Metro is already marketing products for mainframes and 
+minicomputers. 
+<H5>  Point 3: Do Not Create Weak Spots </H5>
+  It is particularly important not to create weak spots within 
+open system security countermeasures. ``If a thief sneaks into 
+one person's house, from there he will sneak into another's 
+house'' says Hirofumi Katase, assistant section manager of the 
+Data Processing Promotion Division, Machinery and Information 
+Industries Bureau, MITI. 
+  For example, even if techniques are created so that only 
+specified users are permitted access to important data, when 
+important data are downloaded into the client PC's hard disk, 
+the effectiveness of countermeasures is reduced in half. Anybody 
+can see the contents of PC's hard disk just by powering up. It 
+data are downloaded to a floppy disk, it is also important to 
+manage that floppy disk. 
+  Moreover, computer viruses can spread injury throughout a 
+company as a result of a little inattention from an individual. 
+There are many companies that require that permission be 
+obtained from their information systems department when users 
+want to use software on their own. Use is confirmed by the 
+information systems department after it has evaluated the 
+software itself (this includes checking it for viruses). 
+<H5>  Management Down to the Contents of the Individual PC </H5>
+  They are very strict on this particular point at Showa Shell 
+Oil. ``It is a company rule that neither downloading data onto a 
+PC nor incorporating a program is permitted'' according to 
+Kazuhiko Arai, manager of the Information Systems Lab. 
+  At Showa Shell Oil, basically all company PCs have the same 
+software installed by the Information Systems Lab, and a unified 
+menu has been created. When it comes time for a new version of 
+the software, they are all reinstalled. ``Even if the data 
+stored in the PC are destroyed, there will be no complaints,'' 
+says Mr. Arai. 
+  When the end user wishes to use special applications, a 
+request must be made to the Information Systems Lab. They are so 
+thorough that when a special application has been approved, a 
+seal is pasted on the PC saying that a special application is in 
+use. 
+  In any event, it is very important that security 
+countermeasures are provided at the same level throughout the 
+network. For example, even if access control is very tight for 
+each user, ``it has no meaning if there is a ``guest'' ID that 
+can enter without a password,'' says Shinichi Fukuda, manager of 
+the PC First Technology Section 1, Personal Information Business 
+Main Office, Technology Department, Sony. 
+<H3>  Point 4. Consider the Balance Between Security and 
+Flexibility </H3>
+  When security countermeasures are promoted, freedom is lost. 
+As with Citibank, when a router filtering function is run, 
+freedom is restricted so that access from the PCs on another 
+floor is not possible. As with Showa Shell, when a management 
+code is embedded in the PCs, ``employees on assignment cannot 
+access the host'' (Kazuhiko Arai). It cannot be denied that the 
+ease of use has been diminished. 
+  Meanwhile, the burden on the Information Systems Department 
+has increased. It is necessary to create an access control list 
+and manage IDs and passwords. Furthermore, if safety is a 
+consideration, it is necessary to pay attention to periodically 
+changing passwords. 
+<H3>  Encrypting is Bothersome to Use in Terms of CPU Burden and 
+Key Management </H3>
+  Moreover, although encryption is an effective means of 
+countering theft, it is not becoming very widespread because it 
+increases costs and places a burden on the CPU as a result of 
+the encryption processing. It also entails such problems as the 
+need to manage the key which that goes along with encryption. 
+  Generally, encryption involves the use of a secret key 
+encryption method such as DES (Data Encryption Standard) or FEAL 
+(fast data encipherment algorithm) developed by NTT. In these 
+secret key encryption methods, it is necessary for both the 
+transmitter and the receiver to maintain the same secret key 
+data. 
+  If there is a one-to-one relationship of communication 
+partners, there is very little problem with this. However, when 
+there is N-to-N communications as with LANs, it is very 
+difficult to have common keys. It is possible to have a method 
+in which there are key data in relation to all of the client PC 
+partners, but it is dangerous to store secret key data on the 
+hard disks of DOS machines. 
+  Because of encryption processing, the burden placed on the 
+CPU is increased. There are also LSIs being offered for 
+encryption processing, but costs are prohibitive when it comes 
+to installing them into all of the PCs, and even then, several 
+problems remain. Currently, these LSIs are most often used in 
+limited areas such as in transmitting encrypted files between 
+specified partners. 
+  Security countermeasures require expense and man hours, and 
+they carry with them the fear of losing the freedom of the open 
+system. A balance must be struck between security and 
+flexibility. Efforts to study this should be made as early as 
+possible. 
+<H5>  Key Management and Electronic Seals in the Use of Encryption </H5>
+  Encryption is a powerful means of guaranteeing secrecy, but 
+somehow having joint use of the same key is a problem. KPS (key 
+predistribution system) is being developed as a means of solving 
+this problem. Also, electronic seal systems which utilize 
+encryption technology are being commercialized. 
+<H5>  KPS Allows Joint Use of the Key by Input of the Partner's ID </H5>
+  KPS is a system developed by Professor Hideki Imai of Tokyo 
+University. The assumption is that individual cards will be 
+issued for each user, at which time the ID is set. During 
+transmission by encryption, joint use of the key is possible by 
+simply entering the partner's ID. Because the IDs can be 
+publicly known, management is simple without making mistakes 
+about the encryption key data. 
+  Currently, Advance markets a system that encrypts and 
+decodes 
+PC files using KPS. In this system, the DES method has been 
+adopted for encryption processing. Because key production and 
+DES encryption processing are all done within an IC card, the 
+safety is very high. 
+<H5>  Electronic Seal Uses ESIGN by NTT </H5>
+  NTT Advanced Technology is commercializing an electronic 
+seal 
+systems. This is a system that uses ESIGN, which is an 
+encryption method developed by NTT. It is a system called a 
+digital signature, and it applies secret key data as a seal. 
+  As with ordinary seals, 1) only the person having that seal 
+data can seal the document (it cannot be forged by other people, 
+and even the authorized person cannot deny it afterwards), and 
+2) if there is tampering in the process of delivering it to the 
+partner, there is an electronic means for the receiver side to 
+find out if there was tampering. EDI (electronic data 
+interchange) is becoming popular, and it will be a very 
+important technology for transactions of data, such as vouchers, 
+between companies. 
+  Although the functional roles of KPS and ESIGN vary, IC card 
+systems are used. For this reason, they are expensive when there 
+are numerous users using them on a LAN. Because they are not 
+matched to the NOS and applications when used on a LAN, KPS and 
+ESIGN are not good in terms of processing file units and the 
+ease of use. 
+

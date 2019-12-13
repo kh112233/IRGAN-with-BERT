@@ -1,0 +1,370 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by Ye. Ye. Selkov and Yu. V. Stupnichenko; </F>
+Institute of Theoretical and Experimental Biophysics, Pushchino, 
+142292; Institute of Plant Physiology, Kishinev, Moldova, 
+277002; UDC 576.343.577.121:663.1] 
+  [Text]The primary stages of the information technology 
+developed for creating and supporting a data base on metabolic 
+pathways are presented in this article. The methods utilized for 
+formalizing and visualizing information on metabolic pathways 
+are described. A description is given of the developed software, 
+which allows one to search for metabolic pathways by key words 
+(their names, names of substances, enzymes) and produce a 
+graphic image on the screen in various forms. 
+  Existing methods of presenting information on cell 
+metabolism, in our opinion, do not guarantee effective access to 
+the information and do not allow one to apply modern analytical 
+methods. 
+  The presentation of information on metabolic pathways in the 
+form of graphic diagrams is generally accepted. Diagrams of 
+metabolic pathways are encountered in the majority of 
+biochemistry textbooks, and charts [1, 2] and maps [3, 4] of 
+metabolic pathways are widespread. Authors of original 
+scientific publications on new metabolic pathways also make use 
+of diagrams. 
+  Apparently, visualization of information in the form of 
+diagrams does not have an alternative because without graphic 
+images, it is extremely difficult to represent a system in its 
+entirety. Nevertheless, presenting information on cell 
+metabolism in the form of metabolic maps does not guarantee 
+effective access to the information and does not allow one to 
+apply modern computer analysis methods. 
+  The goal of this work was to create a computer data base on 
+metabolic pathways that, together with the use of traditional 
+visualization methods, would allow one to apply various computer 
+analysis methods. In this case, it would be necessary to develop 
+an effective system that would allow one to store and quickly 
+process information on metabolic pathways, as well as make it 
+possible for one to interface with other biochemistry and 
+molecular biology data bases. 
+<H3>  Primary Stages of the Technology for Support and Utilization 
+of the Data Base on Metabolic Pathways </H3>
+  The GDMP (graphic data base on metabolic pathways) is a 
+software system for processing and storing information on 
+metabolic pathways, the primary portions of which are the 
+language for representing primary data, the data base, support 
+software for the data base, and software for accessing and 
+analyzing information stored in the data base. 
+  Technology for operating the data base can be divided into 
+three primary parts: translation of the original information on 
+a metabolic pathway into the formal language for representing 
+primary data, the MPDL (metabolic pathway data language), input 
+of changes into the data base via the MPBM (metabolic pathway 
+base manager) system, and user access to information via MPBR 
+(metabolic pathway base retriever) software. The overall scheme 
+of data base operation is shown in greater detail in fig. 1. 
+
+
+
+
+<H3>    Formalizing the Object Field and the MPDL Language for 
+Representing Primary Data </H3>
+  Metabolic pathway determination. There is no exact 
+determination of metabolic pathways. Nevertheless, the current 
+practice of dividing overall cell metabolism into individual 
+metabolic pathways indicates that in such a division, nodal 
+substances play a key role in cell metabolism. Nodal substances 
+participate in many metabolic transformations as starting 
+substrates or final products. An example of a nodal substance is 
+glucose-6-phosphate, which participates in glycolysis, glycogen 
+synthesis, the pentose phosphate pathway, and many other 
+transformations. Another example of a nodal substance is 
+pyruvate, with which many metabolic transformations begin or 
+end. Glucose-6-phosphate and pyruvate are related nodal 
+substances coupled by the glycolysis metabolic pathway. 
+  In this work, the metabolic pathway is determined as a 
+sequence of reactions interacting with each other through common 
+intermediates that couple related nodal substances. In a 
+confluent case, the metabolic pathway can be represented as a 
+single reaction. 
+  In order to facilitate graphic imaging of metabolic pathways 
+and their analysis, it is advisable to utilize representation on 
+the three hierarchically organized levels introduced in [5] for 
+poly-enzyme systems. 
+  According to [5], the interactions of metabolic pathway 
+reactions through common intermediates comprise the primary 
+structure of this pathway. The primary structure does not 
+include interactions through common coenzymes or regulatory 
+substances. A well-known example of using the primary structure 
+for graphic representation of metabolism is D. Nicholson's map 
+"Metabolic Pathways" [3]. In the primary structure, each 
+substance is represented by only one node. Such a structure is 
+the skeleton of the metabolic pathway whose graphic image is 
+required. 
+  The addition of interactions of reactions through common 
+coenzymes to the primary structure leads to a secondary or 
+stoichiometric metabolic pathway structure. The complete image 
+of all possible interactions of a metabolic pathway's secondary 
+structure may be unsuitable due to the multiple participation of 
+coenzymes in various pathway reactions. Therefore, the secondary 
+structure is usually represented in a form in which connections 
+through common coenzymes are by broken lines. In such an image, 
+each coenzyme may be represented by several nodes if it 
+participates in several reactions. 
+  In order to simplify images, several connections through 
+substances in the primary structure may be by broken lines. 
+Usually these are simple inorganic substances of the type 
+H[.sup]2[/]O, CO[.sub]2[/], orthophosphate, pyrophosphate, 
+etc. A well-known example of using such a broken-line secondary 
+structure of metabolic pathways is G. Michal's map "Biochemical 
+Pathways" [4], published by Boehringer, Germany. 
+  The set of all stoichiometric interactions of the secondary 
+structure, supplemented by nonstoichiometric regulator 
+interactions, comprises the tertiary structure of the metabolic 
+pathway [5]. 
+  In this work, only the simplest task--computer display of 
+the 
+secondary structure of metabolic pathways--is discussed. 
+  In order to simplify further presentation, we will agree to 
+call substances that participate in primary structure 
+interactions and that are represented by unique nodes "metabolic 
+pathway intermediates." We will call substances that supplement 
+the primary structure up to the secondary structure, as well as 
+primary structure substances that are graphically represented by 
+broken, non-unique nodes, "cointermediates." 
+  MPDL language for representing data. The MPDL 
+language for representing data is a subset of the format for 
+representing data from the DBEMP factual data base on enzymes 
+and metabolic pathways [6]. 
+  The MPDL language is intended for formally describing 
+metabolic pathways, and it includes software for describing the 
+bibliographic source of information, the biological source, the 
+intracellular localization of enzymes, and the metabolic pathway 
+reactions themselves. 
+  The MPDL-file is in ASCII format and consists of records. 
+  A record is a logical unit of language that describes an 
+individual metabolic pathway and consists of a sequence of 
+fields. 
+  A field consists of a title, located in the first columns 
+and 
+containing a portion separated from the title by a space. Fields 
+are divided into "required" and "not required." 
+  The MPDL language is compatible with the DBEMP format in 
+such 
+a way that any MPDL-record satisfies DBEMP requirements. A DBEMP 
+record satisfies MPDL requirements if it meets the following two 
+conditions: 
+  1) the two fields required for an MPDL-record are present; 
+  2) the MPDL syntax rules are followed. 
+  Representation of primary data on a metabolic pathway 
+in MPDL language. The described version of the data base 
+includes an MPDL variant in which a record may contain 10 
+fields. Their designations are briefly described below: 
+  AN (accession number) contains a record identifier; 
+  SO (source) contains a bibliographic description of the 
+information source; 
+  OR (organism) and OCN (organism common name) contain the 
+systematic and commonly used names of an organism; 
+  SPN (systematic pathway name), MPW (metabolic pathway), and 
+APN (alternative pathway name) contain the systematic, 
+recommended, and commonly used names of a metabolic pathway; 
+  MPW E has the form of a table, consisting of a title line 
+and 
+content lines. The title line contains names of fields in the 
+table. Content lines contain descriptions of the metabolic 
+pathway reactions contained in these fields; four fields in the 
+table--EC (enzyme code), EN (enzyme name), RE (reaction), and RD 
+(reaction direction)--are entered in the appropriate language 
+variant and contain the enzyme code, the recommended name, the 
+reaction, and the reaction direction, respectively; 
+  DES (designation) contains abbreviated names of substances; 
+  INM (intermediates) contains names of metabolic pathway 
+intermediates (but not cointermediates). 
+  A sample record in MPDL language is given below. 
+
+
+<H5>  MPBM Data Base Support Software </H5>
+  MPBM software is executed in the form of a 300 K EXE-file. 
+It 
+is in C language (QuickC compiler, Microsoft). The system is 
+intended for MPDL-file (containing MPDL language records) 
+processing by the expert-operator with the goals of filling the 
+data base, entering changes to the graphic images stored in the 
+data base, and retrieval when information from the data base is 
+needed. Expert-operator interface with MPBM is accomplished by 
+means of a system of menus and dialog windows. 
+  MPDL language translator. The two-way translator 
+assures syntax and name verification and the formation of 
+internal representation of metabolic pathways, including the 
+stoichiometric matrix and the incidence matrix for subsequent 
+construction of graphic images. 
+  In general, the process proceeds with the participation of 
+the expert-operator, who responds to system requests in specific 
+situations. For example, with the appearance of an unknown 
+substance name in the system, direct support of the expert is 
+required in order to remove mistakes from the name. 
+  Metabolic pathway imaging. General description. 
+The image is a two-dimensional graph. The graphics software is 
+divided into three types of nodes and two types of branches. 
+  Each node type designates a metabolic pathway enzyme, 
+intermediate, or co-intermediate (see the section "Metabolic 
+pathway determination"). Each enzyme or intermediate is 
+designated by a single node. Cointermediates are designated by 
+several nodes, each of which corresponds to the 
+co-intermediate's participation in a given reaction. 
+  A branch of the first type is always directed from an 
+intermediate to an enzyme and indicates the intermediate's 
+participation as a substrate in an enzyme-catalyzed reaction. A 
+branch of the second type is always directed from an enzyme to 
+an intermediate and indicates the intermediate's participation 
+as a product in an enzyme-catalyzed reaction. 
+  An image may also contain various names for each node and be 
+viewed on two different scales. 
+  Initial planar configuration of the graph. A special 
+interative algorithm for planar graph configuration is utilized 
+to construct the inital image [7]. The algorithm is empirical 
+and intended for producing graphic images that are visually well 
+perceived. Our experience indicates that as a result of using 
+the algorithm, at least the general structure of the graph is 
+viewed well. 
+  In conjunction with a sensitive algorithm developed by us 
+for 
+the initial configuration of points, the system asks the 
+operator to assign one of two methods for initial configuration 
+of graph nodes, utilizing his own knowledge regarding the cyclic 
+nature of the metabolic pathway. 
+  MPGE graphic editor. The MPGE graphic editor is intended for 
+putting the metabolic pathway image in a form suitable for 
+visual analysis. 
+  The editor's resources take into account requirements that 
+are traditionally imposed on metabolic pathway diagrams, but 
+they do not restrict the author in the selection of a method for 
+planar graph configuration. All operations can be carried out 
+with a mouse. 
+  The editor allows one to intermix individual nodes or groups 
+of nodes and to arrange a group of nodes in a circle of desired 
+radius or in a line of desired length. Operations may be 
+conducted on two image scales. It is possible to work with named 
+nodes or without them. With the input of changes, the image is 
+automatically reconstructed. 
+  Information storage in the data base. Data base 
+structure. After an image of the required form is created, 
+information on the metabolic pathway can be stored in the data 
+base by means of a special command. The image form is stored as 
+node coordinates. 
+  The data base consists of 16 files in the relational SUBD 
+"Paradox" (Borland) format that contain information on metabolic 
+pathways in an internal form as well as support information. 
+  Input of changes to the data base. It is possible 
+to input two types of changes: changes to the image form and 
+changes to metabolic pathway information at the 
+MPDL-communication level. 
+  In the first case, changes are entered by means of the MPGE 
+editor; in the second--it is possible to retrieve information on 
+a metabolic pathway from the data base by means of a special 
+command and then to input the appropriate changes into the 
+MPDL-file and rewrite the necessary record (see also fig. 1). 
+<H5>  Software for Accessing the MPBR Data Base </H5>
+  MPBR software is executed in the form of a 200 K EXE-file. 
+It 
+is in C language (QuickC compiler, Microsoft). The system is 
+intended for assuring user access to information on metabolic 
+pathways and also includes software for analyzing metabolic 
+pathways. MPBR operates in the EGA graphic regime. User 
+interface includes a hierarchical menu system, a series of 
+pictograms, and a help window system. Complete 
+interchangeability of the keyboard and mouse is assured. The 
+metabolic pathway image is also used as a graphic interface. 
+  Version 1.3 (October 1992) contains the resources described 
+below. 
+  Information on data base content. The user can 
+obtain information regarding the number of metabolic pathways 
+contained in the data base as well as about the overall number 
+of substances and enzymes that participate in them. 
+  Viewing metabolic pathway diagrams. The user 
+selects a desired pathway from an alphabetized list of 
+recommended names of metabolic pathways, at which point he gains 
+access to systematic and commonly used names of the metabolic 
+pathway as well as the biological source given in the original 
+report. A portion of the menu system, with which these 
+operations are executed, is shown in fig. 2. 
+
+
+
+
+    After selection of a metabolic pathway, the system proceeds 
+to the viewing regime. The image may be viewed in two ranges. 
+Transition to the larger scale proceeds with the aid of a 
+movable scale frame. 
+  It is possible to include the names of graph nodes in the 
+image. Names are EC-codes or recommended names for enzymes (in 
+agreement with the enzyme classification in [8]) and complete or 
+abbreviated names for substances. 
+  In fig. 3, made from a screen display, a black-and-white 
+image of the citric acid cycle is shown. 
+
+
+
+
+    Figure 4 shows how a portion of this image appears on a 
+larger scale. 
+
+
+
+
+    Searching for metabolic pathways containing a specific 
+substance or enzyme. The user selects a desired object from 
+an alphabetized list of substance or enzyme names and obtains a 
+list of metabolic pathways in which the given substance or 
+enzyme participates. A portion of the corresponding menu system 
+is shown in fig. 5. 
+
+
+
+
+    This list is analogous to the general list of recommended 
+names (see ``Viewing metabolic pathway diagrams''). While 
+viewing images of metabolic pathways from the list, one can 
+obtain information about the participation of the enzyme or 
+substance in each of them. To accomplish this, the system 
+automatically selects, during image formation via the graphics 
+software, the substance or enzyme about which the inquiry was 
+made. 
+<H5>  Discussion of Results and Prospective Development </H5>
+  In this work, software for visualizing and processing 
+information based on the GDMP data base is described. Primary 
+information on the structure of a metabolic pathway and the 
+intermediates and enzymes participating in it is contained in 
+the data base; however, several important characteristics have 
+not yet been reflected by the data base software. In the 
+described version of the data base, information on the 
+intracellular localization of enzymes of a metabolic path and 
+their regulation is absent. It is planned to include this 
+information in future versions. 
+  In the next versions, a link should also be established with 
+the factual data base on enzymes and metabolic pathways in DBEMP 
+[6] so that the user would be able to obtain information on the 
+catalytic, regulatory, and molecular biological properties of 
+enzymes participating in metabolic pathways. 
+  There is definite interest, in our opinion, for the user to 
+have the resources to view structural formulas of intermediates 
+via the estblishment of a link with the corresponding data base. 
+  Development of software, on the basis of this data base, for 
+automating mathematical modeling and using algorithms for 
+analyzing graphs for studying various aspects of metabolic 
+pathway functioning appears interesting and promising to us. 
+  We will be grateful for any comments or suggestions 
+concerning possibilities for developing the system in these and 
+other directions. 
+References 
+  1. Legli S., Nikolson D. Metabolicheskiye puti [Metabolic 
+Pathways]. Moscow: Mir, 1973. 
+  2. Musil Ya., Novakova O., Kunts K. Sovremennaya 
+biokhimiya v skhemakh [Modern Biochemistry in Diagrams]. Moscow: 
+Mir, 1981. 
+  3. Nicholson D. E. Metabolic Pathways Map. St. Louis: 
+Sigma Chemical Co., 1990. 
+  4. Michal G., Biochemical pathways. GMBH, Boehringer 
+Mannheim, 1974. 
+  5. Ivanitskiy G. R., Krinskiy V. I., Selkov Ye. Ye. 
+Matematicheskaya biofizika kletki [Mathematical Biophysics of 
+the Cell]. Moscow: Nauka, 1978. 
+  6. Selkov Ye. Ye., Goryanin I. I., Kaimatchnikov N. P., et 
+al. Studia Biphysica. Vol 129 No 2-3, 1989 pp 155-164. 
+  7. Kamada T., Kawai S. Information Processing Letters. Vol 
+31, 1989 pp 7-15. 
+  8. Enzyme Nomenclature. New York: Academic Press, 1984. 
+  COPYRIGHT: "Biotekhnologiya," 1993. 
+

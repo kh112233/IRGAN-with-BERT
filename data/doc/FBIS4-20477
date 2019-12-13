@@ -1,0 +1,284 @@
+Vapor-Phase   Reaction Method 
+
+<F P=102> 94FE0224A Shanghai ZHONGGUO JIGUANG [CHINESE JOURNAL OF 
+LASERS] in Chinese Vol A20 No 9, Sep 93 pp 688-692 </F>
+
+<F P=103> 94FE0224A </F>
+<F P=104>  Shanghai ZHONGGUO JIGUANG [CHINESE JOURNAL OF 
+LASERS] </F>
+
+<F P=105>  Chinese </F>
+CSO 
+
+<F P=106> [Article by Guo Guangsheng [6753 1639 3932], Wang Kaiyan </F>
+[8001 7030 7346], Zhang Jingchang [1728 2417 2545], Wang Weijie 
+[3769 0251 3381], Gao Xiaoyun [7559 0879 0061], and Yang Fuming 
+[2799 4395 2494] of the Department of Applied Chemistry, Beijing 
+Institute of Chemical Technology: ``Synthesis of Fe/C/Si 
+Ultrafine Particles by Laser Induced Vapor-Phase Reaction 
+Method''; MS received 21 Jul 92, revised 21 Sep 92] 
+  [Text] 
+<H5>  Abstract </H5>
+  Fe/C/Si ultrafine particles (UFPs) are synthesized by laser 
+induced vapor-phase reaction with a 150-W CW CO[.sub]2[/] 
+laser using Fe(CO)[.sub]5[/], SiH[.sub]4[/] and 
+C[.sub]2[/]H[.sub]4[/] as raw materials. Instantaneous 
+temperature of the reaction flame is measured by a SCIT 
+[Scientific, Inc.] infrared thermometer and its dependence upon 
+parameters such as laser power density, reaction pressure and 
+gas ratio is determined. The Fe and Si content in the product is 
+analyzed by the EDTA volumetric method and potassium 
+fluorosilicate method. This ultrafine particle is fully 
+characterized by X-ray diffraction, electron diffraction, 
+transmission electron microscopy, infrared spectroscopy and 
+laser fluorescence spectroscopy. 
+<H5>  1. Introduction </H5>
+  Laser induced vapor-phase synthesis is a highly advanced 
+technique for preparing UFPs. It has been used to prepare a 
+number of UFPs[.sup]1,2[/] that cannot be fabricated via 
+conventional chemical techniques. Because of advantages such as 
+small particle size, narrow particle distribution, controllable 
+composition and large specific surface area, the study of UFPs 
+prepared by laser induced vapor-phase synthesis in catalysis has 
+become an important branch in UFP applications. The Fe series of 
+UFPs is the original catalyst that attracted a great deal of 
+attention. Laser induced Fe-based UFPs were found to be 
+extremely selective in F-T synthesis.[.sup]3[/] Fe and Fe/C 
+UFPs have been prepared using a 10.6-m CW CO[.sub]2[/] 
+laser as a light source for thermal 
+decomposition.[.sup]4,5[/] The influence of various 
+parameters on the synthesis of Fe/C/Si UFPs is discussed in 
+detail in this paper. The reaction mechanism is also explored. 
+Furthermore, the behavior of Fe/C/Si UFPs is characterized. 
+<H5>  2. Experimental Method </H5>
+  Laser-induced UFPs are prepared using a reaction apparatus 
+and based on principles similar to those employed by an MIT 
+group.[.sup]1[/] An improved experimental system is described 
+in detail in a previous paper.[.sup]5[/] In this work, a 
+150-W CW CO[.sub]2[/] laser is the light source. The raw 
+materials used include liquid Fe(CO)[.sub]5[/], high-purity 
+SiH[.sub]4[/] and C[.sub]2[/]H[.sub]4[/] gas and 
+high-purity N[.sub]2[/] and Ar as the carrier gases. All 
+reactive gases and carrier gases are individually controlled 
+with a mass flow regulator. The pressure in the reaction zone is 
+stable and adjustable. 
+  Pre-mixed reaction gas comes out of a 2-mm-diameter nozzle. 
+Reaction takes place after the gas stream meets a focused laser 
+beam perpendicularly. The reaction flame is stable and conically 
+shaped. Its temperature is measured with a SCIT infrared 
+thermometer having a range of 600-2000C. A 5-mW He-Ne laser 
+may be used to monitor the formation of these UFPs. The UFPs 
+produced are carried by the carrier gas into the collector. They 
+are removed from the collector and treated under an inert gas 
+atmosphere and then characterized. In this experiment, Fe/C/Si 
+UFPs are produced at a rate of approximately 2-3 g/h. 
+<H5>  3. Results and Discussion </H5>
+<H5>  3.1 Characterization of Fe/C/Si UFPs </H5>
+  Table 1 shows the reaction conditions and experimental 
+results in the preparation of Fe/C/Si UFPs. For comparison, 
+FSC-107, FSC-111 and FSC-112 are UFPs of Fe/Si, Fe/C and C/Si, 
+respectively. Various analytical methods are employed to 
+characterize the UFPs, including conventional chemical analysis, 
+XRD (X-ray diffraction), TEM (transmission electron microscopy), 
+and IRS (infrared spectroscopy). 
+
+
+
+  Table 1. Experimental Conditions and Results of Fe/C/Si Particles 
+
+Sample     Reaction    Laser intensity    Gas flow rate (SCCM)                                          Fe(CO)[.sub]5[/]    Reaction       Composition (wt%) 
+number     pressure    (W/cm[.sup]2[/])                                                                  temperature*       temperature 
+           (KPa)                                                                                        ( C)               ( C) 
+
+                                          SiH[.sub]4[/]    C[.sub]2[/]H[.sub]4[/]    Ar         Ar                                           Si        Fe 
+                                                                                  (inner)    (outer) 
+
+FSC-101    50          1520               20              50                      0          300        20                 906            44.4      14.3 
+
+FSC-102    30          1520               20              50                      0          300        20                 782            32.7      22.3 
+
+FSC-103    70          1520               20              50                      0          300        20                 1001           44.2      6.6 
+
+FSC-104    50          1520               10              50                      10         300        20.5               787            30.7      29.4 
+
+FSC-105    50          1520               20              30                      20         500        23                 826            35.6      18.0 
+
+FSC-106    50          1520               30              30                      20         500        24                 840            47.2      7.5 
+
+FSC-107    50          1520               20              0                       30         200        25                 805            55.7      7.7 
+
+FSC-108    50          970                20              30                      20         500        25                 880            39.1      10.7 
+
+FSC-109    50          2700               20              30                      20         400        25                 870            37.1      13.5 
+
+FSC-110    50          1520               20              30                      20         500        50                 855            20.6      62.7 
+
+FSC-111    50          1520               0               70                      0          300        23.5               760            --        82.6 
+
+FSC-112    50          1520               50              50                      0          300        --                 970            65.1      0.7 
+
+*Saturated vapor pressure of Fe(CO)[.sub]5[/] vs. temperature: lg P (torr) = -(2096.7 K/T) + 8.4959 
+
+
+  Conventional chemical analysis is primarily used to 
+determine 
+the Fe and Si content in the UFPs. In this work, the EDTA 
+volumetric method and potassium fluorosilicate method are used 
+to analyze the Fe and Si content, with results shown in Table 1. 
+It is worthwhile noting that a number of unexpected problems may 
+be encountered in using conventional methods to assay UFPs due 
+to their unique properties. Hence, some correction may be 
+required. To verify our analytical results, the Fe and Si 
+contents of specimen FSC-105 are determined by atomic absorption 
+and fluorescence spectroscopy. The results show that our method 
+is valid. In addition, the specimen is also examined by atomic 
+emission spectroscopy. It is found that besides Fe and Si as 
+major constituents, the specimen's Ca and Mg contents are below 
+one ten-thousandth. There are no other metallic elements 
+present. Oxygen analysis is not done on all samples. However, 
+total carbon analysis is done on specimens FSC-105, FSC-111 and 
+FSC-112. By way of calculating the percentages for Fe, C and Si, 
+the analysis indicates the presence of a small amount of oxygen. 
+We believe that oxygen, as an impurity, exists as 
+H[.sub]2[/]O, SiO[.sub]2[/] and 
+Fe[.sub]2[/]O[.sub]3[/]. In the IR spectra, in addition to 
+Fe-Si and Si-C absorption bands, H[.sub]2[/]O and 
+SiO[.sub]2[/] bands are also found (see Figure 1). A 
+comparison to the IR spectra of binary specimens shows the 
+presence of at least one Fe-Si compound and SiC in the Fe/C/Si 
+UFP. 
+
+<FIG ID=JPRS-CST-006-05A>      Figure 1. Infrared Spectrum of Fe/C/Si Particle </FIG>
+
+  XRD analysis is chosen to determine the crystalline 
+structure 
+of the specimen. In all tertiary Fe/C/Si UFP specimens, 
+Fe[.sub]5[/]Si[.sub]3[/] is found to be the principal 
+crystal. SiC, _a_-Fe, Fe[.sub]3[/]C and FeSi[.sub]2[/] 
+begin to emerge after varying the reaction conditions. Figure 2 
+shows the XRD patterns of FSC-101, FSC-103 and FSC-105, where 
+the 2_th_ diffraction angles of 52.0, 58.0 and 
+59.3 and face distances of 0.221 nm, 0.1997 nm and 0.196 nm 
+are characteristics of Fe[.sub]5[/]Si[.sub]3[/]; 2_th_ 
+diffraction angles of 45.2 and 78.0 and face distances 
+of 0.253 nm and 0.153 nm are characteristics of _a_-SiC; and 
+the 
+2_th_ diffraction angles of 55.4 and 57.1 and face 
+distances of 0.208 nm and 0.202 nm are characteristics of 
+Fe[.sub]3[/]C and _a_-Fe, respectively. the low and wide 
+diffraction peaks are due to the small crystal dimensions. 
+
+<FIG ID=JPRS-CST-006-05B>      Figure 2. XRD Patterns of Fe/C/Si Particle </FIG>
+
+  The presence of Fe[.sub]5[/]Si[.sub]3[/] can also be 
+determined by electron diffraction. A diffraction ring 
+corresponding to SiC is also apparent. Figure 3 [photograph not 
+reproduced] shows the electron diffraction pattern of specimen 
+FSC-103. It agrees with the XRD result. TEM is employed to 
+observe the UFPs. Figure 4 [photograph not reproduced] is a TEM 
+picture of specimen FSC-103. The particles are close to 
+spherical and they are linked together in the form of a chain. 
+The average particle diameter is 25 nm and the UFP has a narrow 
+particle-volume distribution. Over the entire range of 
+experimental conditions, the average diameter is 7-35 nm. In 
+specimen FSC-OA (obtained under conditions such as 
+C[.sub]2[/]H[.sub]4[/] : SiH[.sub]4[/] = 5 : 2, 
+Fe(CO)[.sub]5[/] : 14C; pressure 70 kPa), small crystals 
+of the order of 1 nm in diameter are found in such particles 
+under TEM [see Figure 5 photograph, not reproduced]. The effect 
+of experimental parameters on UFP diameter will be discussed in 
+a separate paper. 
+  In addition, a Digisorb 2500 specific surface-area analyzer 
+is used to measure the specific surface area of specimen 
+FSC-111, which is 195.3 m[.sup]2[/]/g. The absorption 
+isotherm of the UFP is the classical S type (type II), which is 
+often seen in non-porous materials.[.sup]6[/] Hence, most of 
+the particles produced by laser induced vapor-phase synthesis 
+are non-porous. 
+<H5>  3.2 Reaction Temperature as a Function of Experimental </H5>
+Parameters 
+  Table 1 shows reaction flame temperature as a function of 
+different experimental conditions. A series of experiments was 
+also designed to study reaction temperature as a function of 
+pressure. In this series of experiments, with the exception of 
+pressure, other parameters remain the same as those for specimen 
+FSC-105. It is found that the reaction flame temperature rises 
+with increasing pressure and SiH[.sub]4[/] flow rate (see 
+Figure 6). This is because an increase in reaction pressure is 
+equivalent to an increase in the concentration of the reactant. 
+Consequently, more laser light is absorbed. SiH[.sub]4[/] is 
+a good absorber for the laser. An increase in its flow rate also 
+increases the absorption of laser energy. Hence, the reaction 
+temperature also rises. The preparation of FSC-104, FSC-105 and 
+FSC-106 happens to prove this point (see Table 1). In addition, 
+parameters such as laser power density, reaction-zone light spot 
+size, and ratio of reactant gas to carrier gas also affect the 
+reaction temperature. In this work, laser power density is 
+regulated by varying the spot size in the reaction zone at a 
+stable laser power level. Therefore, the effect of laser power 
+density and spot size on the reaction temperature cannot be 
+discussed separately. In conclusion, several parameters will 
+affect the reaction flame temperature in the preparation of UFPs 
+by laser. This temperature has a direct impact on the property 
+of the UFPs. Therefore, it is critical to study the relation 
+between these experimental parameters and the characteristics of 
+the UFPs in detail. 
+
+<FIG ID=JPRS-CST-006-06A>      Figure 6. Reaction Flame Temperature vs. Pressure </FIG>
+
+<H5>  3.3 Reaction Mechanism </H5>
+  In a laser chemical reaction, the most basic condition is 
+that the reactant must be able to directly or indirectly absorb 
+the laser energy. In the preparation of Fe/C/Si UFPs, 
+SiH[.sub]4[/] can be excited by intensely absorbing the 
+10.6-m photons emitted by the CO[.sub]2[/] laser. 
+C[.sub]2[/]H[.sub]4[/] molecules can also absorb such 
+photons. Fe(CO)[.sub]5[/], however, cannot directly absorb 
+this laser energy. On the basis of the composition of the 
+product and the above discussion, we believe the reaction 
+mechanism is fairly complex and can be expressed in the 
+following steps. 
+  3.3.1 Energy absorption 
+&lt;graphic&gt; &lt;/graphic&gt;
+
+  3.3.2 Energy transfer 
+  SiH[.sub]4[/]* + Fe(CO)[.sub]5[/] 
+Fe(CO)[.sub]5[/]* + SiH[.sub]4[/] 
+  C[.sub]2[/]H[.sub]4[/]* + Fe(CO)[.sub]5[/] 
+Fe(CO)[.sub]5[/]* + C[.sub]2[/]H[.sub]4[/] 
+  SiH[.sub]4[/]* + C[.sub]2[/]H[.sub]4[/] 
+C[.sub]2[/]H[.sub]2[/]* + SiH[.sub]4[/] 
+  3.3.3 Reactions 
+  Fe(CO)[.sub]5[/]* Fe* + 5CO 
+  SiH[.sub]4[/]* Si* + 2H[.sub]2[/] 
+  C[.sub]2[/]H[.sub]4[/]* 2C* + 2H[.sub]2[/] 
+  Fe* + C* Fe/C 
+  Fe* + Si* Fe/Si 
+  Si* + C* SiC 
+  Fe* + Si* + C* Fe/C/Si 
+  3.3.4 Deactivation 
+  Fe* + M Fe + M 
+  Si* + M Si + M 
+  C* + M C + M 
+  Therefore, the composition of the Fe/C/Si UFPs is very 
+complicated. It may include Fe, Si and C individually, or binary 
+compounds of Fe/C, Fe/Si and Si/C, or tertiary compounds of 
+Fe/C/Si. Instead, we use Fe/C/Si to represent these compounds 
+collectively. 
+References 
+  1. W. R. Cannon, J. S. Haggerty, et al., J. AMER. CERAM. 
+SOC., Vol 65 No 7, 1982, p 324. 
+  2. Toshiuki Ohyama, CHEMICAL EQUIPMENT (in Japanese), No 11, 
+1988, p 46. 
+  3. A. Gupta, J. T. Yardley, PROC. SPIE, Vol 458, 1984, p 
+131. 
+  4. Gao Xiaoyun, Zhang Jingchang, Guo Guangsheng, et al., 
+ZHONGGUO JIGUANG [CHINESE JOURNAL OF LASERS], Vol 19 No 3, 1992, 
+p 235. 
+  5. Gao Xiaoyun, Zhang Jingchang, Guo Guangsheng, et al., 
+BEIJING HUAGONG XUEYUAN XUEBAO [JOURNAL OF BEIJING INSTITUTE OF 
+CHEMICAL ENGINEERING], Vol 18 No 4, 1991, p 67. 
+  6. C. N. Satterfield (U.S.), translated by Pang Li [1690 
+4409], ``Practical Multi-Phase Catalysis,'' First Edition, 
+Beijing University Press, 1990, p 121. 
+

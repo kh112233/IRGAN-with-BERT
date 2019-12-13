@@ -1,0 +1,92 @@
+ 
+
+24200Accrued Vacation 
+24210Sick Leave 
+24300Accrued Pension 
+24400Accrued Workmen's Compensation 
+24500Advances from Affiliated Companies 
+24600Dividends 
+24700Other Current Liabilities 
+
+
+Non-Current Liabilities 
+
+
+26000Long-Term Debt 
+26100Capital Lease Obligations_Pilot Boats 
+26400Capital Lease Obligations_Automobiles 
+26500Capital Lease Obligations_Other 
+26600Pension Liabilities 
+26700Advances from Affiliated Companies 
+26800Other Non-Current Liabilities 
+
+
+Deferred Credits
+
+
+27000Deferred Income Tax Liabilities 
+27100Deferred Gain on Sale of Assets 
+27200Other Deferred Credits 
+
+
+Stockholders' Equity (Capital) 
+
+
+30000Pilots' Capital (Partnership) 
+31000Common Stock 
+32000Preferred Stock 
+33000Paid-in Capital in Excess of Par-Common Stock 
+34000Paid-in Capital in Excess of Par-Preferred Stock 
+36000Treasury Stock 
+38000Prior Year Adjustments 
+39000Appropriations of Retained Earnings 
+39100Unappropriated Retained Earnings 
+
+
+Description and classification of balance sheet accounts. 
+
+
+(a) Current assets. 
+(1) 10100Cash. 
+Record here increases and decreases in cash (deposits and payments of funds) which are available for general operating
+business activities. 
+(2) 10130Cash_Payroll. 
+Record here increases and decreases in cash (deposits and payments of funds) which are assigned for payroll transactions.
+
+(3) 10140Cash_Special Deposits. 
+Record here cash deposits not of a current nature and restricted as to general availability. 
+(4) 10160Petty Cash Fund. 
+Record here all cash transactions made out of the petty cash fund. This fund is established for a fixed amount and periodically
+reimbursed for the exact amount necessary to bring it back to the fixed amount. The fund is used for making small expenditures
+that are most conveniently paid in cash, such as postage stamps, shipping charges, or minor purchases of supplies.
+
+(5) 10170Cash_Temporary Investments. 
+Record here the cost of marketable securities and other short-term negotiable instruments acquired for the purpose
+of temporarily investing cash. This account will be charged or credited for discount or premium to be amortized to
+profit and loss account 45500 Interest Income. 
+(6) 10200Accounts Receivable_Pilotage. 
+Record here all amounts billed for pilotage services. 
+(7) 10210Accounts Receivable_Pilot Boat. 
+Record here all receivables billed for pilot boat services. 
+(8) 10220Accounts Receivable_Other. 
+Record here all receivables resulting from revenue producing activities not recorded in accounts 10200 and 10210.
+
+(9) 10240Allowance for Bad Debts. 
+Record here estimated losses from uncollectible accounts. An annual review of the account balance must be made to
+determine the amount of uncollectible receivables and the related bad debt expense at year end. 
+(10) 10300Notes Receivable. 
+Record here amounts due from others on demand or at a future date not to exceed 12 months. This amount will be in the form
+of promissory notes recorded at their current value. 
+(11) 10310Notes Receivable from Affiliates. 
+Record here amounts due from affiliated companies on demand or at a future date not to exceed 12 months at their current
+value. 
+(12) 10320Interest Receivable. 
+Record here interest income earned but not yet received, and due within one year. 
+(13) 10410Prepaid Insurance. 
+Record here amounts paid in advance for insurance premiums that will be expensed within one year. 
+(14) 10420Prepaid Fuel. 
+Record here amounts paid in advance for fuel to be used and expensed within one year. 
+
+
+
+

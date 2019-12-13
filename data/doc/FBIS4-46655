@@ -1,0 +1,30 @@
+CSO 
+
+<F P=106> [Article by K. G. Grigoryev, Moscow State University imeni </F>
+M. V. Lomonosov; UDC 629.195.3] 
+  [Abstract] The most rapid maneuvers of a spacecraft with a 
+jet engine having a great but limited thrust in a gravity field 
+in a vacuum with control of the thrust vector are analyzed. Such 
+maneuvers have been inadequately examined in the literature. In 
+this study they are analyzed on the basis of the so-called 
+maximum principle. The influence of the admissible expenditures 
+of mass on the character of the optimum trajectory is examined. 
+Maneuvers with both limited expenditures and those not limited 
+in advance are discussed. It is shown that in each of the 
+problems of most rapid maneuvers there are three levels of 
+limited expenditures of mass, dependent on the parameters of the 
+problem: lower, corresponding to small expenditures, for which 
+the problem has no solution; upper, corresponding to large 
+expenditures or those not limited in advance, in which thrust is 
+operative on the entire optimum trajectory and is maximum, but 
+the maneuver is controlled by the orientation vector; 
+intermediate, in which there can be changes in thrust with time 
+or there are repeated engine firings. A method is proposed for 
+numerical solution of such problems using a compromise 
+"time-expenditures of mass" functional. The dependence of the 
+solution on the admissible expenditures is illustrated in the 
+example of the problem of most rapid transfers of spacecraft 
+between coplanar circular orbits in the Earth's central 
+Newtonian gravitational field. Figures 3; references 37: 36 
+Russian, 1 Western. 
+

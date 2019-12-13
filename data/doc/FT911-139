@@ -1,0 +1,123 @@
+FT  14 MAY 91 / Survey of Computers in Manufacturing (2):  Confusion over
+the levels of integration and flexibility - Intelligent Machine Tools, a
+different approach
+IN the beginning there were machine tools, the workhorses of every
+mechanical engineering workshop in the world, which are used for cutting,
+grinding and shaping lumps of metal to form components for all sorts of
+industrial products or machinery.
+Then, over the past 25 years, came numerical control and computer numerical
+control (CNC), in the form of user-friendly units attached to the machine
+tool which can be part-programmed on line by the operator or off-line in the
+production engineering office.
+Hand-in-hand with the CNC units, whose software can control almost any type
+of machine tool, new designs of machine produced the higher precision,
+stiffness and stability to take advantage of the greater accuracy that CNC
+offers.
+CNC, when applied to single machine tools, is well-established, and more
+than 80 per cent of Japanese machine tools are numerically-controlled. The
+units are powerful enough to control 'machining centres', which can often do
+the work of eight or more standard machine tools, and may contain more than
+100 different cutting tools.
+As the cost of computing power has come down, the economics of computer
+memory storage have been transformed, and CNC units can store and recall
+hundreds of different instructions for a great variety of workpieces.
+From the mid-1980s, further developments in CNC technology have produced the
+concept of a 'flexible manufacturing system' (FMS), two or more machining
+centres linked and coupled under the control of a host computer. The
+important word is 'flexible,' according to the UK Machine Tool Technologies
+Association: 'The combined power of the machine and host computer, and their
+storage memories, is enough to manufacture all prescribed varieties of work,
+in any order.'
+FMS is now being being linked to computer-aided design and production
+control to produce manufacturing industry's Holy Grail, Computer Integrated
+Manufacturing (Cim).
+The aim is to link 'islands of automation' on the factory floor with all the
+other computerised functions of the manufacturing process, such as
+purchasing, ordering, stock control and is proving to be a tougher challenge
+than many in the computer industry had predicted only three years ago.
+Put at its simplest, there appears to be considerable confusion among
+manufacturers about how integrated their approach to Cim should be, or how
+flexible their use of FMS. The situation is not helped by a proliferation of
+computer suppliers, all keen to sell their product but varying in their
+commitment to service and support.
+Dr Norman Schofield, director of engineering and systems at PA Consulting
+Group, says there are very good technical reasons why Cim has been difficult
+for many companies to achieve.
+Companies had believed that, to stay competitive, they needed to buy the
+best available computers for each of the many different disciplines in the
+manufacturing process - packaging, software, documentation, electronics and
+mechanical engineering.
+This, in turn, increased the size and complexity of the 'data package'
+describing the product, and spread the data over many systems.
+In one recent assignment, PA found 41 different applications used in a
+company's design/engineering process alone, on six different computer
+platforms, on 10 sites in three countries.
+The problem for the manufacturer, says Dr Schofield, is whether it is going
+to get independent advice from any of its computer suppliers if it wishes to
+integrate its systems. PA has attempted to help clients through the maze by
+building its own Cim centre using four computers and 12 software
+applications from nine different suppliers.
+The aim is to illustrate the many elements involved in applying Cim to the
+relatively simple task of putting parts on to printed circuit boards.
+Dr Schofield believes that open systems will be the key to developing
+progress towards Cim, and says most computer vendors are prepared to accept
+the inevitability of an open environment.
+'Manufacturers are getting a lot more help from suppliers, which is all
+leading to easier integration.'
+However, he says manufacturers can help solve their integration problems
+themselves in two ways.
+The first goes back to the machine tool itself: manufacturers, if they have
+the clout, can insist that all their machine tool suppliers install the same
+controller.
+Secondly, manufacturers have to accept that integrated systems can be too
+heirarchical. 'Where you can have autonomy (in a flexible manufacturing
+system, for example) you should let it happen. Some failed systems have
+tried to make things too rigid.'
+Indeed studies of the influence of FMS in the US since the mid-1980s have
+shown that it is often a misnomer, since the system may be inflexible in its
+design and the way in which it is used. Also several reports have claimed
+that systems installed in the US lack the flexibility of those in Japan.
+A recent report on the US FMS market by Frost &amp; Sullivan, the market
+research publishers, says worldwide competition is forcing adoption of
+flexible manufacturing in a variety of industries, but is becoming
+increasingly important to batch-oriented manufacturers as product
+life-cycles shorten and product changes become more frequent.
+F &amp; S forecasts that sales of FMS equipment will rise from Dollars 266m in
+1990 to Dollars 559m in 1995 (in constant 1990 dollars).
+The biggest obstacle to installing equipment is price, and more companies
+will be starting with the more limited flexible manufacturing cells (FMCs).
+In the UK, British Aerospace has taken a novel approach to Cim by developing
+its own manufacturing control system, Cimitar, which provides a
+sophisticated computerised link between management information systems and
+shop-floor controllers.
+BAe began the Cimitar programme in 1983 after discovering that computer
+companies could not satisfy its large-scale requirement for shop-floor
+control systems. A separate company, BAeCAM, was set up in 1988 to develop
+and market Cimitar worldwide, but Mr Brian Entwhistle, general manager, says
+it was decided from the start to develop a generic product that could be
+sold on the open market.
+Cimitar, which uses DEC's Vax hardware, is in use throughout BAe but BAeCAM
+recently signed up Caterpillar, the US construction equipment group, as a
+user. Mr Entwhistle hopes this will provide a reference for further US
+sales.
+BAeCAM has also installed part of Cimitar on to an IBM PC that runs a
+machine tool at BAe, elevating it from the normal download of data and
+selection of tools and satisfying the need for complex communications
+between the tools and the host computer.
+As companies continue to grapple with the challenges of Cim, and consultants
+to explain them, its ascendancy is being challenged by another acronym, Pim,
+product information management, alternatively known as EDM, engineering data
+management. Dr Charles Clarke of London-based Random Computing says that,
+just as Cim was the catalyst for integrating manufacture, so Pim forces the
+user to understand the existing process before being able to manage it or
+use it.
+The characteristics of Pim/EDM, which has also been described as a short cut
+to Cim via Cadcam, include data management and control and data navigation
+mechanisms, but the aim is enterprise-wide control of information.
+This, says Dr Charles Clarke, liberates the user and allows true concurrent
+engineering - designing a product and allowing its manufacture
+simultaneously - for the first time.
+'It links the islands of automation that yesterday's manufacturing industry
+nurtured and constrains the 'paper flow' monster with its attendant
+road-blocks and bottle-necks,' he says with an enthusiasm for metaphor
+rarely found in studies of computers in manufacturing.

@@ -1,0 +1,29 @@
+CSO 
+
+<F P=106> [Article by Cand. Tech. Sci. N. M. Kurnosov, Cand. Tech. </F>
+Sci. V. V. Pevzner, Cand. Tech. Sci. A. G. Ulanov, and Engineer 
+Ye. A. Yakhin, Scientific Research Institute of Thermal 
+Instruments; UDC 62-5.681.2] 
+  [Abstract] As the lead organization, the Scientific 
+Research Institute of Thermal Instruments is developing the 
+Kvint computer system for computerizing the engineering 
+processes at heat-and- electric power stations. Kvint represents 
+one of the first functionally complex domestic systems of its 
+kind and computerizes the collection and preliminary processing 
+of information, engineering process control, logic-program 
+control, priority control, locking, online control, alarming, 
+information archival, event recording, calculations offline, and 
+information transfer. The system is based on a problem-oriented 
+approach, distributed automatic control, centralized monitoring, 
+object-oriented control, production programming, self-diagnosis 
+and sample redundancy, and project configuration. Kvint has a 
+four-level architecture -- field, controller, systems, and 
+production -- each level of which uses its own local network or 
+several similar networks. The development is proceeding in two 
+stages, with design bureaus from Ivano-Frankovsk, Cheboksary, 
+and Moscow taking part. The Moscow- based All-Russian 
+Heat-Engineering Institute is developing the hardware 
+requirements for the Seriya 200, the first stage of the 
+development. Figures 3. 
+
+

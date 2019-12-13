@@ -1,0 +1,111 @@
+ 
+
+125. Aeronautical Radio, Inc., and the Air Transport Association of America (ARINC/ATA), Rockwell International
+Corporation (Rockwell), and the FAA argue that both GLONASS and GPS operations, as potential components of the GNSS,
+must be protected during all phases of flight over the United States. To that end, they proffer additional limitations
+on Big LEO operations. ARINC/ATA argues that the Commission should clarify that the RR 731E limitation of 15
+dB (W/4kHz) for MSS mobile terminals should apply only after GLONASS moves to frequencies below 1610 MHz. Until then,
+they contend, the limit should be 78.5 dB (W/MHZ).
+<FOOTCITE>156</FOOTCITE>
+ Similarly, Rockwell states that the RR 731E limit is insufficient for protecting GLONASS operations at 16101616
+MHz. Rockwell claims that the RR 731E power density level is about 140 dB above the maximum interference level that
+can be tolerated by a typical GLONASS receiving system. Rockwell asserts that shared use of this band segment is impractical
+absent significant constraints on either MSS or GLONASS. Therefore, it maintains that MSS operation should not be
+permitted in the 16101616 MHz band segment until GLONASS operations are shifted to frequencies below 1610
+MHz.
+<FOOTCITE>157</FOOTCITE>
+ The FAA states that the Commission indicated that use of the 16101616 MHz band by MSS is premised upon moving
+GLONASS below 1610 MHz. It maintains that the e.i.r.p. density specified in RR 731E is too high to protect in-band GLONASS
+for anything but high altitude enroute communications.
+<FOOTCITE>158</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+156
+
+</FOOTNAME>
+ARINC/ATA Comments at 23.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+157
+
+</FOOTNAME>
+Rockwell Comments at 23.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+158
+
+</FOOTNAME>
+FAA Comments at 2.
+
+</FOOTNOTE>
+
+
+126. Several of the MSS applicants also disagree that more restrictive limits should be placed on MSS uplinks pending
+a GLONASS frequency shift. Constellation states that more realistic interference criteria and models must be developed
+before any requirements other than the RR 731E uplink e.i.r.p. density limit can be adopted.
+<FOOTCITE>159</FOOTCITE>
+ Ellipsat contends that no additional requirements should be adopted because the aviation community has not provided
+a legitimate basis for overly stringent requirements on MSS uplinks. Further, Ellipsat maintains that even if GLONASS
+becomes a component of the GNSS, the aviation community has not provided a showing that GNSS performance would be impaired
+if degradation were to occur to the small number of GLONASS satellites that would operate above 1610 MHz.
+<FOOTCITE>160</FOOTCITE>
+ Motorola claims that the proposed limits advocated by the aviation community are based on flawed assumptions and
+unsound analysis. Additionally, Motorola asserts that the protection the aviation parties claim as necessary is
+based on the erroneous assumption that corrupting a single measurement from a GLONASS satellite will cause unacceptable
+degradation in the ability to navigate.
+<FOOTCITE>161</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+159
+
+</FOOTNAME>
+Constellation Reply Comments at 47.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+160
+
+</FOOTNAME>
+Ellipsat Reply at 11.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+161
+
+</FOOTNAME>
+Motorola Reply Comments at 51. Motorola notes that a study conducted for LQP by Sat-Tech Systems demonstrates that
+loss of a single satellite will never cause a loss of GNSS (LQP Comments at Technical Appendix, para. 2.2.1 at 12). In
+addition, the Committee performed an analysis of the availability of GNSS satellites if the GLONASS constellation
+operated only on frequencies below 1610 MHz. It concluded that a minimum of five satellites would always be available
+for GNSS. In addition, it noted that this minimum would occur for only 14 minutes in every 51-day period. It noted further
+that since only four GNSS satellites are required for navigation and an additional one satellite for system integrity,
+it appears that GLONASS satellites operating above 1610 MHz might not be required for either navigation or terminal
+approach communications. Committee Report, note 23, 
+
+supra 
+
+at 3.3.4.4.
+</FOOTNOTE>
+

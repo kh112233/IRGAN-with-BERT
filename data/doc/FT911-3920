@@ -1,0 +1,99 @@
+FT  23 APR 91 / Survey of The Computer Industry (19): 'Let the industry do
+what it does best' - Reverse Engineering, conflict and compromise
+REVERSE engineering, the practice of unravelling a competitor's product to
+learn how it works in order either to emulate it or to attach proprietary
+equipment, achieved unlikely political notoriety last year after a European
+Commission draft directive designed to protect software makers unleashed one
+of the fiercest bouts of lobbying ever witnessed in Brussels or Strasbourg.
+The purpose of the draft directive was both simple and honourable; to
+protect the creators and suppliers of personal computer software who are
+being cheated annually of about Pounds 3bn in Europe through unauthorised
+copying of their products.
+The idea was to eliminate existing disparities between the copyright
+protection systems for software in the member states as part of the
+Commission's general plans for the harmonisation of EC law for 1992.
+As such, it was supported to the hilt by organisations such as the Business
+Software Alliance, the Software Publishers Association, and the Federation
+Against Software Theft.
+The Business Software Alliance, established by six of the world's leading PC
+software suppliers - Aldus (desk top publishing) Ashton Tate (database)
+Autodesk (computer aided draughting) Lotus (spreadsheets) Microsoft
+(operating systems) and Wordperfect (word processing), has taken a leading
+role in initiating legal proceedings against companies it believes guilty of
+software theft.
+However, what turned a commonsense measure designed to protect software
+companies in a uniform manner across Europe into a political hot potato was
+the fine detail in the draft. Computer manufacturers realised quickly that
+the provisions of the directive would specifically forbid unauthorised
+reverse engineering and in doing so, hamper their efforts to compete with
+the leaders of the industry such as International Business Machines (IBM)
+and Digital Equipment Corporation (DEC).
+A campaign led by the hastily formed European Committee for Interoperable
+Systems (ECIS), to persuade members of the European parliament and the
+Commission to modify the directive was immediately initiated.
+The software suppliers, together with IBM and DEC who saw the opportunity
+legally to forbid Japanese manufacturers access to their technology, took
+the opposite line and for some months the two lobbies fought a fierce war of
+words.
+It was not surprising that the Commission's draftsmen failed to anticipate
+the scale of the row they were to precipitate. Reverse engineering, while
+simple in concept is complex in detail and the extent to which it is used is
+essential. Furthermore, its use in the computer industry is rarely
+appreciated by outsiders.
+It is an easy concept to understand in conventional engineering. Automobile
+manufacturers routinely take their competitor's vehicles apart to see what
+makes them tick. So what is reverse engineering in computer software?
+It is software archaeology, according to Mr Gilles Lafue, a software
+specialist with Andersen Consulting. 'It consists of extracting the
+software's functionality (what the software does) and the design (how it
+does it) by analysing the software's implementation - that is, programming
+code, data structures, files and databases.'
+It is necessary because of the dominant position of a small number of
+manufacturers who are able to set de facto standards for data processing
+systems. That means essentially IBM and DEC. Other manufacturers must so
+design their equipment that it can be connected to IBM's or DEC's if they
+are to have a share of the data processing cake. To do so, they have to
+understand the design of the connection, or interface, in great detail.
+That knowledge can be acquired either directly from IBM or DEC - leaving the
+competitor at the mercy of the industry leaders - or it can obtained by
+reverse engineering with or without their permission.
+Of course, reverse engineering can be used to create a competitive product
+through copying or improving on the original which is why software makers
+are keen to have it banned. Many of the best software innovations are not
+patented but simply hidden away in thousands of lines of computer code to
+prevent copying; legal reverse engineering, the software specialists
+complain, would be tantamount to a plagiarist's charter.
+It was not simply hardware manufacturers and software houses who were upset.
+Europe's computer users realised their ability to carry out essential
+maintenance on their software would be hindered by the directive.
+(Maintenance, in the software business, means modifying and extending
+existing programs rather than repair.)
+A compromise position was reached in December last year when a version of
+the directive was agreed in Brussels which provided for:
+Classification of software as literary works
+A definition of originality
+A common term of protection in accordance with the Berne Convention
+Legal reverse engineering in limited circumstances.
+These circumstances are when the retrieval of information is confined to the
+parts of the original program necessary for inter-operability, when the
+information retrieved is not communicated to third parties except to the
+extent necessary for the operation of the new program and the information
+retrieved is not used to create or market a program that infringes a
+copyright in the original program.
+The compromise proved broadly satisfactory to the hardware manufacturers and
+to the software suppliers. However, the issue has continued to spark
+controversy.
+Earlier this month, the European parliament's committee on Legal Affairs and
+Citizen's Rights proposed 11 amendments to the draft directive which clarify
+the scope of the directive for research and analysis and the status of
+interfaces between hardware and software under copyright law.
+It has resulted in a new round of lobbying with ECIS in the forefront of a
+campaign to persuade MEPs to vote in favour of most of the amendments.
+Meanwhile, the Business Software Alliance which represents over 800
+publishers of PC software, has decided it is time to call a halt.
+In an open letter to the legal affair committee earlier in the year it said:
+'After over a year of extended lobbying, it was finally possible last
+December to reach a compromise that virtually the whole computer industry
+could accept. We believe that it is now time to include all of the lobbying
+and political debate and let the industry get back to what it does best -
+producing hardware and software - under the terms of this compromise'.

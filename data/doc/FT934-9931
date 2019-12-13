@@ -1,0 +1,103 @@
+FT  08 NOV 93 / Survey of Computers in Finance (8): Nightmare of mismatched
+systems - The problems of mergers and technology issues
+THE NUMBER of UK building societies is dwindling year by year. Industry
+analysts predict there will be fewer than 50 left at the end of the decade.
+Although the Leeds Permanent and the National and Provincial building
+societies last month called off their attempt to create the biggest-ever
+society merger, after discovering a clash of management styles, the merger
+aim was only the latest in a steady stream whereby many small-to-middle
+ranking societies have joined together or been swallowed by the majors.
+In any successful merger, the smooth integration of the two parties'
+computer systems is essential. If mishandled, the technology mismatch
+frustrates the business plan and drains away the anticipated cost benefits.
+Indeed, incompatible technology has sometimes been cited as a reason for
+calling off such mergers, although IT professionals tend to dismiss this as
+a smokescreen to conceal other problems.
+For all the talk of open systems, most building societies - and banks -
+still have central computer systems that will prove incompatible. Open
+systems have made inroads among the desktop/branch level applications, but
+they are invariably backed up by a proprietary, mainframe system running
+bespoke software. Yet the consensus of opinion is that such IT difficulties
+should not obstruct a merger, if the business case adds up.
+In a merger, larger societies will usually impose their own technical
+procedures on a smaller group, junking the smaller society's system and
+loading the data on to its own larger system. Technical problems are more
+likely with a merger of two societies of similar size, where employees on
+each side have a vested interest in fighting for retention of their own
+systems and procedures. Then IT may become the battleground for the power
+struggle as to who comes out on top after the merger.
+Information technology 'reflects the whole business culture of the way an
+organisation works,' comments Nigel Walsh, marketing director of electronic
+banking specialists, the Software Partnership. 'IT isn't an appendage - it's
+at the heart of the business.'
+At the centre, he adds, the technology is still largely about the automation
+of core processes, the software for which will more often than not have been
+developed in-house. Building societies may share the same products, but each
+will have evolved its own procedures for handling them. Even package systems
+for mortgages or investment products will usually have been tailored to suit
+that society's particular idiosyncrasies.
+The best approach, suggests Mr Walsh, is to disentangle the systems
+delivering services to the customer from the central systems behind them,
+allowing the latter to be migrated or replaced after thorough evaluation.
+The race to achieve 'transparency' (common service to customers in branches
+of each society) from day one of the merger can distract attention from
+longer-term planning, says a report, 'Maximising the success of mergers and
+acquisitions in the building society industry' - published by Touche Ross
+management consultants.
+'There are unique circumstances in each merger process,' says John Rushden,
+associate with Touche Ross. 'Societies which have grown through acquisition
+may inherit a mixture of different procedures and systems that need to be
+rationalised and re-engineered.
+'In the short-term, it may be best to retain the 'best of breed' among the
+systems used by each party, but that may add to the cost-base,' he says. In
+the longer-term it may be better to replace them altogether, which is often
+the most politically acceptable option if there are champions of existing
+systems in each society.'
+Networks, as well as central systems, can be a large source of compatibility
+problems, notes Mr lain Davidson, director of financial systems division at
+Unisys. But, he adds: 'Enforced change may not be a bad thing if it pushes
+societies to replace systems that were outdated, anyway. Otherwise it is
+best to standardise on the best of breed from each party as quickly as
+possible.'
+He is sceptical of suggestions that the costs of converging computer systems
+may swallow up the expected cost-savings from a merger - 'the savings from
+rationalisation, such as branch closures, should outweigh the short-term IT
+costs. And in the longer-term, say five years, the merged society will have
+significantly lower IT costs.'
+One man with plenty of hands-on experience of building society mergers is
+Brian Bonny, deputy chief executive of Portman Building Society, which was
+itself formed by the merger of the Regency &amp; West of England with the then
+Portman Wessex in 1990.
+Before that, Mr Bonny reckons to have gone through a merger or acquisition
+process with the Regency once every year since 1983.
+'There have never been two cases the same,' he observes. 'But the objective
+is always the same: to achieve full integration by the target date. So it's
+vital very early in the merger process to set up an appropriately resourced
+team to review the IT requirements.' It is at 'the detail level' that the
+stumbling blocks occur, in the subtleties of operating procedures,' he adds.
+There are different ways of crediting interest to an investment account, for
+example, and such points have to be identified at an early stage to avoid
+problems.
+When the Portman Wessex merged with Regency &amp; West of England, the two
+parties were near-equal in size. The former was based on Unisys while the
+latter was already reviewing its IT strategy with a view to replacing its
+NCR mainframe and associated software which dated from the 1970s.
+'To achieve the merger by October 1, 1990 we had to make the best of the
+systems we had, and decided to run all the investment products on the Unisys
+system and mortgages on the NCR,' recalls Mr Bonny. The wider IT strategy
+review was completed the following year and resulted in a decision to move
+on to the ICL-Omnia VME system. In December, Portman will absorb the much
+smaller St Pancras Building Society, and will load the latter's data on to
+its Omnia system.
+Starting next year, Portman's Omnia system will be migrated from VME to VME
+Open, offering the prospect of putting its Unix sub-systems on the same
+platform.
+'Open systems are not in general use in any building societies I know of -
+it's always just around the corner,' adds Mr Bonny. Migrating to VME Open
+should be helpful in assisting any future merger process, but he insists
+that present IT incompatibilities should not be a barrier to mergers - 'if
+you are 'in IT' you should be able to face up to the challenge and find a
+cost-effective solution,' he says.
+'Mergers involve many considerations - market share, reserves, members . .
+.IT is just one component and it shouldn't be the Achilles heel in the
+decision.'

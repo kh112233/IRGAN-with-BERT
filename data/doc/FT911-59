@@ -1,0 +1,119 @@
+FT  14 MAY 91 / Technology: The icon gathers a loyal following - As
+Microsoft's Windows 3.0 approaches its first birthday, Della Bradshaw
+reflects on the software program that took the computer world by storm
+Until a year ago, London-based chartered accountants Touche Ross had just
+two choices when it wanted to computerise the process of auditing its 1,500
+clients.
+First Touche could write its own software from scratch - or employ a
+contractor to do it - which could prove costly and time-consuming.
+Alternatively, Touche could buy a standard software package and try to
+adjust the way the firm operated in order to make the auditors' practices
+fit the format of the software.
+Neither option proved attractive: there was a dearth of readily available
+audit support software and the firm was cautious about embarking on a big
+software applications drive. Because the bulk of audits are carried out
+between November and April - for companies which report their year-ends in
+December or March - Touche had to be sure that the software could be
+implemented in the slack summer period.
+'If we missed that window we were another year away,' relates Mark Stephens,
+partner for information technology at Touche. 'Something that took 13 months
+to develop was really a two-year programme for us.'
+Advised of its imminent arrival, Stephens decided instead to wait for the
+Windows 3.0 software program, launched a year ago this month by Microsoft,
+the leading US personal computer software company.
+The initial success of Windows 3.0 - nearly 3m copies of the program have
+been sold worldwide - has been generated because it radically alters how
+IBM-compatible personal computers can be used, giving them the look and feel
+of an Apple Macintosh.
+But more sophisticated users of Windows 3.0, such as Touche, believe its
+long-term popularity will be rooted in the ability it gives software
+developers to customise their own packages more quickly. 'It takes a third
+to a quarter of the time to produce sophisticated software than before,'
+says Stephens.
+Windows 3.0 is a 'graphical user interface', a program that generates menu
+bars, icons and overlapping windows, which can be used with various
+applications programs such as word processing or spreadsheets. The interface
+enables users to point at symbols and click an electronic 'mouse' to select
+functions, instead of typing commands on a keyboard.
+What makes Windows 3.0 useful to software developers is that it provides a
+'programming environment' which sits on top of the applications package and
+enables the procedures within the standard package to be adapted to the
+needs of the user organisation. Certain procedures can be ordered in a
+different way or eliminated if they are irrelevant.
+'In the past we developed word processing packages on the basis of what we
+thought users wanted, but you couldn't change them to fit in with the work
+pattern that you had in the office,' says David Smith, systems marketing
+manager for Microsoft. 'In trying to be general, and develop a package for
+every single user in the world, you had to compromise along the way.'
+Stephens and his team decided to use Microsoft's Word word-processing
+package running under Windows 3.0 as the basis for their development
+programme. 'Auditing is a lot about writing but I didn't want to develop a
+new word processor. However we couldn't use a standard word processing
+package - we needed to tailor it to our specific application,' recalls
+Stephens.
+So they adapted the Word software, using Windows, to make it look like an
+auditing tool. 'From an underlying software standpoint about 95 per cent of
+the software is Microsoft. We've done about 5 per cent,' says Stephens. But
+he reports that from a user point of view about 80 per cent of software
+appears to be a specifically designed for auditing.
+The Touche software developers have achieved this by taking all the
+word-processing features available in the Word package and linking them
+differently. On top of that they have created headings and formats
+specifically for their auditors' needs. The progression on standard forms
+and layout, for example, mirrors the procedures an auditor would follow in
+the course of his job - whether auditing banks or grocery stores.
+Although the first software package, launched on 600 machines in August
+1990, concentrated on the presentation of the software, this summer
+Stephens's department will be adding to the basic features and contributing
+to the content of the application. One thing the development team will be
+looking at is making the existing software easy to translate - Touche's
+Paris office has already shown an interest in going down the same
+development route.
+Because the development cycles are so short, Touche has even been able to
+create several prototype applications and, once appropriate software has
+been selected, the rest have been thrown away.
+Stephens points out that in spite of the moves towards these programmable
+applications packages, the basic applications tools are not completely
+ready. Of the five common applications that can be used by most
+organisations - word processing, spreadsheet, database, communications and
+graphics - Microsoft has developed only two to run under Windows 3.0 -
+Excel, the spreadsheet package, and Word. It has also adapted Project, for
+project management.
+But the success of Windows has persuaded all the large applications software
+houses to adapt their most popular packages which run under Dos - the widely
+used PC operating system - so that they can take full advantage of Windows.
+Lotus, for example, is in the final stages of developing a version of its
+popular 1-2-3 spreadsheet package which will fully exploit Windows 3.0, and
+is planning to have business graphics for the operating program later this
+year, says Robert Ingram, spreadsheet sales and marketing manager for the
+company. Borland International has three programming tools which work with
+Windows 3.0, and is also adapting its Paradox relational database package
+and its Quattro Pro spreadsheet program.
+Microsoft estimates that there are now more than 700 software developers
+writing new Windows-based applications, all hoping to take a bite of an
+ever-growing cherry. The Software Publishers Association in the US estimates
+that worldwide sales of Windows 3.0 applications are now second only to
+those of Dos applications packages. Market research consultant Dataquest
+underlines this optimism: it estimates that by 1992 systems sales of Windows
+will have overtaken those of Dos.
+The growth in the number of packages to run with Windows 3.0 has changed the
+buying patterns of Windows users, says Smith. 'For the first six or seven
+months there was an enormous growth in the sales of Windows operating
+software. But for the last five months we have seen applications sales shoot
+up - sales have quadrupled. Now 85 per cent of Windows users have a Windows
+application,' he says.
+Initially Windows 3.0 customers were running their existing Dos programs
+with the operating system - giving them the advantage of the icon-type
+presentation but without the power to move in and out of the applications
+provided by Windows 3.0. With Dos programs the user is forced to follow a
+series of commands in order to move through the program - like boring a
+hole, which you have to climb back out of before you can begin boring
+another hole.
+The Windows icons enable users to jump between different applications. So
+one advantage of combining a Windows application with the Windows 3.0
+program, says Smith, is that the user can take text, graphics or numbers
+from one applications package and transfer them into another - figures from
+a spreadsheet program can be copied into a report being prepared in a word
+processing package, say.
+Perhaps the biggest advantage is that the two application packages need not
+even be provided by the same software companies.

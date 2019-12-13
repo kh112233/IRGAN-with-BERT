@@ -1,0 +1,55 @@
+FT  10 MAR 94 / Survey of Software at Work, Spring 1994 - Financial Control
+Systems (4): How today's executive sees the enterprise - Evolving EIS
+systems
+Taking different views of the same data, taken from different sources, has
+given suppliers of executive information systems (EIS) an inside track on
+multi-dimensional analysis, writes Claire Gooding.
+Driven to escape from the 'executive' niche, several EIS suppliers are
+converging on the same ground: that of data consolidation. Most also have
+their eyes turned to the growing client server market, where the networked
+PC/workstation rules.
+'We're finding managing directors are much more aware of the need to control
+finances, not just report on them,' says Steve Fluin, sales director at
+Comshare UK, a Dollars 100m company which claims to lead the EIS market
+worldwide. 'As organisations come out of recession, executives realise they
+need to be able to control pro-actively, rather than just react. They want
+'intelligent facilities that tell them where to look.'
+Comshare's Budget and Financial Data Control products are aimed at this
+market, and the development of 'exception alerting.'
+David Friend, founder of Pilot Software, is credited with the development of
+'traffic lighting,' a similar early warning system built into his Lightship
+software. He agrees that retrieval is the problem - 'the typical problem is
+multi-dimensional, 'slice and dice' view of data by region or product,' he
+says. 'There's now an enormous amount of data, but it's difficult to get the
+gold out.'
+His four-year redevelopment of Lightship has concentrated on being able to
+deliver multi-dimensional analysis of vast volumes of data, at high speed.
+EIS tools are beginning to draw on the techniques of linking and combining
+data, as used in relational databases.
+The ability to present different views of data - such as looking at time
+periods, sales regions or product breakouts - is known as OLAP, or on-line
+analytical processing.
+Business intelligence
+IRI Software's Simon Rigden is another believer in 'slicing, dicing and
+pivoting' the data to give a specific focus. He uses the term 'business
+intelligence' for IRI's Express system, rather than EIS, to emphasise the
+need for an enterprise-wide view of the data.
+'Having a large enterprise-wide database is of little value if end-users are
+unable to synthesise necessary information from those data stores,' he says.
+'Traditionally, EIS has been the domain of a small number of executives, but
+it's a big problem to spread it through an organisation. Databases and their
+front-end add-ons, typically based on query/report generators, or
+spreadsheets, limit the way in which data can be summarised, viewed and
+analysed.'
+Arbor Software's Essbase claims to be one of the first to capitalise on the
+client/server revolution to create multi-dimensional views for different
+groups (workgroups) of users.
+According to Nigel Geary, managing director of Arbor Software in the UK, the
+idea is to enable users to manipulate massive amounts of data from disparate
+sources without any professional IT help, filling the gap between the
+expensive mainframe modelling package, and the 2-D spreadsheet - 'users can
+pull out data and look at it in any form,' he says.
+Arbor's plan is to make its package complementary with other software
+companies, 'so that they can package it and make it the standard front-end
+for consolidation.'
+The first such agreement, with Comshare, has already been reached.

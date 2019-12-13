@@ -1,0 +1,73 @@
+Highly   Selective 0.15-micron Etching 
+
+<F P=102> 94FE0442A Tokyo SEMICONDUCTOR WORLD in Japanese Jan 94 p 
+75--FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0442A </F>
+<F P=104>  Tokyo SEMICONDUCTOR WORLD </F>
+<F P=105>  Japanese </F>
+CSO 
+
+  [Text] Mitsubishi Electric Corporation's Optical Microwave 
+Device Laboratory has developed a high selectivity ratio etching 
+technology that can be applied to dimensions as small as 0.1fm 
+for the purpose of precisely controlling the element current 
+required for high electron mobility transistor (HEMT) 
+performance on an indium-phosphorus (InP) substrate. They 
+incorporated this technology with with one for growing an 
+aluminum-indium-arsenide (AlInAs)/indium-gallium-arsenide 
+(InGaAs) crystal on an InP substrate, and succeeded in 
+developing a high-performance, low-noise InP-based millimeter 
+wave (60GHz) HEMT that achieves a noise index of 0.9dB and a 
+gain of 7.0dB at 60GHz. The frequency bands of high density 
+telecommunications transmissions are converting to millimeter 
+waves from microwaves. The HEMT used in the receiving components 
+of telecommunications equipment impact the overall performance 
+of telecommunications systems, and the HEMT recently developed 
+by MELCO should be capable of responding to the low-noise, 
+high-gain requirements of the millimeter wave band. 
+  The focus of this development project was twofold: 1) to 
+optimize the AlInAs/InGaAs growth conditions on the InP 
+substrate, and 2) to develop an etching technology with a high 
+selectivity ratio. 
+  An InGaAs single crystal suitable for high-speed, low-noise 
+HEMT can be grown better on an InP substrate than on a GaAs 
+substrate, and in order to achieve a low-noise, high-gain HEMT, 
+must feature high electron carrier concentration and high 
+electron mobility in the operating layer. In their recent 
+development project, MELCO utilized molecular beam epitaxy (MBE) 
+to optimize growth conditions for the lattice-conforming 
+AlGaAs/InGaAs epitaxial layer, and used this layer to create a 
+HEMT. This approach enabled them to enhance carrier 
+concentration by roughly two-fold and mobility by approximately 
+1.5-fold over conventional GaAs-substrate HEMT. 
+
+<FIG ID=JPRS-JST-020L-54A>      Cross-sectional View of MELCO-developed HEMT </FIG>
+
+
+  Also, in order to realize a high-performance HEMT, it is 
+necessary to form a recess (groove) in the substrate crystal by 
+etching only that portion of the n-InGaAs contact layer required 
+to form an electrode in the top layer of i-AlInAs. But because 
+this layer is extremely thin, measuring just several hundred 
+thick, a high precision etching technology was needed to 
+determine element current. MELCO therefore concentrated on the 
+AlInAs layer oxidation reaction portion of the etching process, 
+and by optimizing the compounding ingredients and ratios of the 
+etching agent, developed a technology capable of selectively 
+etching only the n-InGaAs layer to form a 0.15fm gate electrode. 
+This new etching technology made it possible to control the HEMT 
+current value, and reduced current dispersion by 1/5. 
+  To enhance HEMT performance, it is essential to lower 
+capacity and enlarge effective cross section by shortening the 
+gate length and reducing the contact area of the crystal 
+surface, thereby reducing gate resistance. By optimizing 
+epitaxial layer growth conditions, developing a high selectivity 
+ratio etching technology and utilizing 0.15fm T-gate electrode 
+formation techniques, MELCO was able to form a HEMT with a 
+world-leading noise index of 0.9dB and gain of 7.0dB at 60GHz. 
+
+<FIG ID=JPRS-JST-020L-54B>      InP-substrate HEMT (Chip) </FIG>
+
+
+

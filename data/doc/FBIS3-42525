@@ -1,0 +1,31 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by B. Z. Petrenko, Institute of Radio Engineering </F>
+and Electronics, Russian Academy of Sciences, Moscow; UDC 
+528.852.4] 
+  [Abstract] Reliable absolute calibration of microwave 
+radiometers is critical to the solution of inverse problems of 
+satellite-based passive microwave sensing. Two techniques are 
+used for absolute calibration -- onboard calibration (which uses 
+radiation either from manmade sources or from natural sources 
+unrelated to the target being sensed, or both) and external 
+calibration (which uses contrast areas of the Earth's surface). 
+The sources in the first technique are called standards; those 
+in the second technique, references. Since both techniques have 
+merits and drawbacks, the researchers chose to combine their use 
+in a technique based on precise knowledge of equivalent 
+brightness temperatures of the standards and geophysical 
+parameters of the reference areas. In the context of the 
+estimation of accuracy associated with the determination of 
+ocean-surface temperature and total water vapor mass in the 
+atmosphere, they demonstrated that the new technique makes it 
+possible to relax the requirements associated with onboard 
+standards in achieving acceptable accuracy in determination of 
+geophysical parameters. With external calibration based on 
+reference areas alone, estimates of calibration factors were 
+stabilized. When onboard standards were highly accurate, their 
+use made it possible to raise the precision associated with the 
+determination of absolute values of geophysical parameters. 
+Figures 6, references 12: 10 Russian, 2 Western. 
+

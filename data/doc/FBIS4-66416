@@ -1,0 +1,471 @@
+Viscosity 
+
+<F P=102>   94FE0282B Tokyo NIKKEI MECHANICAL in Japanese 18 Oct 93 pp 
+32-39 -- FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0282B </F>
+<F P=104>  Tokyo NIKKEI MECHANICAL </F>
+<F P=105>  Japanese </F>
+CSO 
+
+<F P=106> [Article by Masayoshi Yamada] </F>
+  [Text] Electro-rheological (ER) fluid generally denotes all 
+the fluids whose viscosities can be controlled by electric 
+voltage. When such fluid is used, it is possible to see dampers 
+whose damping forces can be easily changed. However, all 
+previous attempts to commercialize ER fluids were unsuccessful 
+because the ranges of their viscosity changes were too narrow, 
+and their characteristics were unstable, in particular, with 
+time. Recently, several companies in Japan have successfully 
+overcome those drawbacks and improved the performance of ER 
+fluids, and some of the companies have begun to develop 
+applications for the fluid. 
+  An ER fluid, as is, is merely a colloidal solution with 
+fluidity. However, when an electrical field of several kV/mm is 
+applied, the liquid loses its fluidity; in some cases, the fluid 
+state is changed to nearly a solid state. When the electrical 
+field is turned off, the original state is regained. ER fluids 
+have that interesting property. 
+  The existence of ER fluids has been known for about 40 
+years, 
+and proposals have been made for the use of ER fluids in 
+variable-force dampers and clutches. Efforts have also been made 
+in applications research. 
+  Although many research-scale applications attempts have been 
+made, no practical implementation was realized that would have 
+an impact on the market. Previous ER fluids had many weaknesses 
+in terms of implementation: the narrow ranges of viscosity 
+change, the unstable characteristics, and the sedimentation of 
+dispersed particles. 
+  Recently, several companies in Japan have developed ER 
+fluids 
+with nearly implementable characteristics by overcoming the 
+above-mentioned shortcomings. The new fluids are not only more 
+reliable with more stable properties, but also have more 
+practical features for implementation, i.e., the use of a 
+non-aqueous material in the fluid to permit a wider temperature 
+range of application, and the improved dispersion stability via 
+more closely matched specific gravities of the dispersed phase 
+and the insulating oil. Furthermore, an attempt is also under 
+way to try liquid crystals for ER liquids to improve their 
+performance. 
+<H5>  Development of `Usable' ER Fluids by More Than 10 Companies </H5>
+  At the New Materials Exhibition in May 1993, Bridgestone 
+Corp. (Bridgestone) disclosed its new ER fluid containing 
+micro-particles of a carbon compound and also displayed a damper 
+using the ER fluid and a test-product to demonstrate 
+vibration-proof mounting. By the end of 1993, Bridgestone says 
+it will begin sample distribution. 
+  Other companies that have announced their ER fluid 
+development activities include Asahi Chemical Industry Co., Ltd. 
+(ACI), Nippon Shokubai Kagaku Kogyo Co., Ltd. (Nippon Shokubai), 
+Nippon Oil Co., Ltd. (Nippon Oil), Fujikura Kasei Co., Ltd. 
+(Fujikura Kasei), and Nippon Mektron Co., Ltd. (Nippon Mektron, 
+with main office in Tokyo). There are, however, more makers than 
+listed above that are engaged in the development of an ER fluid. 
+  For example, in the period from January through August 1993, 
+there were more than 30 ER fluid-related patent applications 
+filed and officially published. These applications were filed 
+by, in addition to the companies listed above, Osaka Gas Co., 
+Ltd.; Tonen Sekiyu Kagaku K.K.; Toray-Dow Corning Selicone Co., 
+Ltd. (main office in Tokyo); Toyota Central Research Institute 
+(main office in Nagakute Cho, Aichi Prefecture); Nissan Motor 
+Co., Ltd.; Matsushita Electric Industrial Co., Ltd.; and 
+Mitsubishi Chemical Industries Ltd. Perhaps, there are 
+additional makers that are secretly pursuing ER fluid 
+development. 
+  As the level of ER fluids approaches perfection, development 
+activities concerning applications and peripheral technologies 
+have also begun to flourish. Bridgestone has accumulated 
+technologies concerning control and power source through the 
+test-production of the vibration-proof mount and the damper. 
+Other ER fluid developers are working in cooperation with 
+partners. 
+  It has been a long time since ER fluids attracted the 
+attention of mechanical engineers as the ``new mechanical 
+element.'' Today, the fluids appear to have gained the status of 
+being ``usable.'' 
+<H5>  Smooth Actuation of Air-Pressure Cylinders with ER Fluid </H5>
+  Examples of ER fluid applications will be discussed below. 
+  CKD Corp., an air-pressure-device maker, jointly with Nippon 
+Shokubai, is in the process of developing a technology for using 
+an ER fluid to control the speed of an air-pressure cylinder 
+(Fig. 3). The ER fluid was developed by Nippon Shokubai. 
+
+<FIG ID=JPRS-JST-020L-03A>      Figure 3. Air-Pressure Conveying Device using ER Fluid </FIG>
+
+
+  Conveying devices using air-pressure cylinders are 
+lightweight and are capable of generating strong force and high 
+speed. On the other hand, such devices make such sudden moves to 
+start and to stop that they produce a shock in their operation; 
+furthermore, it is difficult to stop them accurately in 
+mid-position. According to Mr. Kazuhisa Ito, of the Development 
+Department of the Air-Pressure Business Division of CKD Corp., a 
+method had been developed to more precisely control air pressure 
+by means of a servo valve, but ``the method was never able to 
+completely overcome the shortcoming of unsmooth movement.'' 
+  In contrast, the ER fluid-using air-pressure cylinder can 
+move as smoothly as ``a conveying device that combines a screw 
+and a servo motor,'' according to Mr. Ito. Furthermore, a system 
+using the cylinder is simpler and less expensive than a system 
+using a servo valve. 
+  As shown in Figure 4, the system under development is 
+constructed with two cylinders: one filled with an ER fluid, and 
+the other being an air cylinder. The ER fluid cylinder is a part 
+of a closed circuit with both cylinder ends joined through the 
+electrodes. When pressure is applied to the air cylinder, the 
+piston moves and pushes the ER fluid to the electrode section. 
+The pushed ER fluid passes between the electrodes and returns to 
+the opposite side of the piston. 
+
+<FIG ID=JPRS-JST-020L-03B>      Figure 4. Combination of ER Fluid and Air Cylinders </FIG>
+
+
+  A voltage is applied to the electrodes to stop the piston. 
+Depending on the magnitude of the voltage, the viscosity of the 
+ER fluid increases; and the flow between the electrodes is 
+impeded. When sufficient voltage is applied, the flow stops 
+completely and the piston comes to a halt. 
+  The only function of the air pressure is the generation of 
+force. The speed of the piston is controlled by the voltage to 
+be applied to the electrodes. When the voltage is gradually 
+increased, the piston will smoothly come to a stop. By adding a 
+position sensor, the piston's position can be simply determined. 
+  As discussed above, the method of using the electrode 
+section 
+as a flow-rate control valve that can continuously control the 
+flow rate without moving parts is the typical usage of an ER 
+fluid. Basically, the same idea can be applied to construct a 
+vibration-proof mount and a damper (Fig. 5). Such an ER fluid 
+system is simpler in structure and more reliable than a system 
+using mechanical valves and hydraulic pressure. 
+
+<FIG ID=JPRS-JST-020L-04A>      Figure 5. Structure of ER Vibration-Proof Mount Developed </FIG>
+
+
+<H5>  Flow Impeded by Particle Chains Between Electrodes With </H5>
+Change in Apparent Viscosity 
+  If ER fluids are defined as ``fluids whose viscosities can 
+be 
+controlled by voltage,'' the ER fluids that are currently under 
+development can be classified roughly into two groups. One group 
+is the ``dispersion-type'' ER fluids that are dispersions of 
+particles in an insulating oil. Until very recently, all ER 
+fluids belonged to this group. 
+  The other group is a group using liquid crystals as the ER 
+fluids. Studies involving ER fluids of the second group have 
+just gotten under way. Dispersion-type ER fluids have 
+electrically polarizable particles dispersed in an insulation 
+oil. In many cases, the insulation oil is silicone oil. The 
+mechanism for viscosity change is explained in the following 
+manner (Fig. 6). 
+
+<FIG ID=JPRS-JST-020L-04B>      Figure 6. Mechanism for ER Effect Manifestation. Particles </FIG>
+
+
+  When a voltage is applied, an induced electrical field 
+between the electrodes polarizes particles that are dispersed in 
+the fluid. The polarization of particles creates an attractive 
+force among them, and the particle chains are formed between the 
+electrodes. These chains impede the flow of the fluid, resulting 
+in an ``apparent'' viscosity increase for the fluid. This 
+phenomenon is called the ER effect. As the mechanism clearly 
+indicates, the greater the polarization of particles, the more 
+profound the ER effect. 
+  Earlier ER fluids did not manifest sufficient ER effect, or 
+the polarization of particles in them was too unstable to make 
+the characteristics of the fluids reliable. Today, improvements 
+have resulted in particles that reliably show marked ER effects 
+becoming available. 
+  The shear stress of a dispersion-type ER fluid can be 
+expressed as a function of the shear rate, as in Figure 7(a). 
+When a voltage is applied, the fluid behaves uniquely like a 
+Bingham fluid by displaying a force (surrender stress) that 
+fixes the electrodes at zero shear rate. 
+  The magnitude of surrender stress is one of the indexes for 
+the magnitude of an ER effect. Although it is different from 
+fluid to fluid, surrender stress values for the newest 
+dispersion-type ER fluids range from 0.5 kPa to 4 kPa. To make 
+this change more understandable in a familiar sense, it is 
+approximately equivalent to the change ``from milk to cheese,'' 
+according to Chief Researcher Kazuya Edamura, of the Technical 
+Development Department, Technical Division, Fujikura Kasei. 
+  The ER effect of a dispersion-type ER fluid diminishes when 
+the shear rate exceeds a certain level, because particle chains 
+are broken down by shearing. As long as the shear rate remains 
+low, these broken chains can recombine with adjacent chains; but 
+the recombination becomes difficult as the shear rate increases. 
+  The liquid crystal-type ER fluid behaves completely 
+differently from the dispersion-type ER fluid. When an 
+electrical field is applied, the viscosity changes for the 
+liquid crystal-type as it does for the dispersion type. However, 
+the liquid crystal-type literally changes its ``viscosity'' 
+(Fig. 7(b)). This viscosity-changing phenomenon will not 
+disappear even after the shear rate increases. As far as the 
+liquid crystal-type ER fluids of today are concerned, the rates 
+of viscosity change are more than one order smaller than the 
+rates for the dispersion-type ER fluids. Thus, it is necessary 
+to design devices so as to have a narrow distance between the 
+electrodes, in order to be able to use a liquid crystal-type ER 
+fluid in the same manner as a dispersion-type ER fluid. 
+
+<FIG ID=JPRS-JST-020L-05A>      Figure 7. Different Characteristics of Dispersion-Type (a) </FIG>
+
+
+<H5>  Attempt to Improve Total Balance With Full Manifestation of </H5>
+ER Effect 
+  In order to implement a dispersion-type ER fluid as a 
+machine 
+component, the following items, in addition to the magnitude of 
+the ER effect, need to be considered: 
+  (1) high level of response; 
+  (2) low power consumption; 
+  (3) stable dispersion after standing for long period of 
+time; 
+  (4) a wide range for actuation temperatures. 
+  Needless to say, the fluid need not have an excellent rating 
+in each and every item listed, because requirements for the 
+fluid vary, depending on its application (see box below). For 
+example, an automotive engine room must be able to function 
+reliably up to a temperature of 120C, while such a wide 
+actuation temperature range may not be needed for uses in a 
+factory. 
+  The key consideration is to have an all-around balance 
+instead of one super-excellent rating among other so-so ratings. 
+A maker needs developmental skill to create this balance of 
+ratings for an ER fluid, while maintaining its stable and 
+significant ER effect. The particular area where the uniqueness 
+of each maker is shown to be most pronounced is the method of 
+securing the dispersion stability for an ER fluid. 
+  When left standing undisturbed, a dispersion-type ER fluid 
+loses its colloidal state because the dispersed particles 
+settle. When this happens, the fluid is no longer an ER fluid. 
+Thus, one needs to make such an ER fluid capable of maintaining 
+the colloidal state as long as possible, and/or being readily 
+redispersed even if sedimentation has taken place. 
+  The basic approach to this problem is to use a surfactant to 
+make particles repel each other in the absence of an electrical 
+field. When coagulation of particles is prevented, sedimentation 
+proceeds slowly. Also, even if sedimentation has occurred, 
+particles can be redispersed easily. 
+  The next approach is to make it difficult for particles 
+themselves to settle. This approach can be roughly divided into 
+two groups. One involves making particles as microfine as 
+possible, so they will stay dispersed due to their Brownian 
+motion. Nippon Mektron developed its ER fluid based on this 
+idea. Takahisa Akatsuka, the associate head of the Second 
+Development Department, Development Division, Nippon Mektron, 
+says this: ``We see practically no sedimentation with particles 
+with a diameter of 0.45 m.'' 
+  The other involves making the specific gravity of the 
+particles essentially equal to that of an insulating oil. If 
+they are exactly the same, theoretically no sedimentation will 
+occur. In order to use this approach, one must produce particles 
+from a material with small specific gravity. As a result of this 
+consideration, an organic polymer, whose specific gravity can be 
+controlled with comparative ease, is used to make particles for 
+an ER fluid by ACI, Nippon Oil, and Nippon Shokubai. 
+  Fujikura Kasei developed an ER fluid containing spherical 
+particles made of an organic polymer in whose surfaces finer 
+inorganic grains were embedded (Fig. 9). The idea was to 
+generate the ER effect with the inorganic grains on the particle 
+surfaces and to match the specific gravity of the particle to 
+that of the liquid medium by using the polymer spheres for the 
+particles. The polymer spheres are total insulators that give 
+the added advantage of consuming an extremely small quantity of 
+electric currents. 
+
+<FIG ID=JPRS-JST-020L-06A>      Figure 9. Electron Micrograph of Dispersed Particles to Be </FIG>
+
+
+  However, it is still impossible to completely eradicate the 
+problem of dispersion stability. It may be necessary to 
+compromise to some degree. Chief Researcher Yuichi Ishino, of 
+the Sixth R&amp;D Group, Second R&amp;D Division, Bridgestone, 
+says 
+this: ``We don't worry about slight sedimentation as long as a 
+fluid has excellent redispersibility.'' 
+<H5>  Aiming for Market Niche With Advantages of </H5>
+Dispersion-Problem-Free Liquid Crystal-Type ER Fluids 
+  No matter how hard one tries, one cannot escape the problem 
+of dispersion stability if one is dealing with a dispersion-type 
+fluid. Is there no homogeneous ER fluid that can solve this 
+dispersion problem? Liquid crystal-type ER fluids emerged based 
+on this thought. 
+  Liquid crystal-type ER fluids may be either ER fluids 
+low-molecular-weight liquid crystals or ER fluids using 
+high-molecular-weight liquid crystals. A well-known ER fluid of 
+the first group is the one developed by Nikko-Kyoseki Co., Ltd. 
+(Nikko-Kyoseki). Examples of the second group are the one 
+disclosed by ACI and another under development by Nippon Oil. 
+  Liquid crystal-type ER fluids have several advantages, in 
+addition to being free of the dispersion problem. Assistant 
+Professor Shin Morishita of the Shipbuilding and Marine 
+Engineering Section, Construction Department, Faculty of 
+Engineering, Yokohama National University, test-produced a 
+variable-attenuation-force damper (Fig. 10) by using 
+low-molecular-weight liquid crystals for display. According to 
+Morishita, ``the best advantage of the liquid crystal type is 
+that it can be used in a high-shear-rate region where the 
+dispersion type loses the ER effect.'' In addition, unlike the 
+dispersion type, the liquid crystal-type behaves as a Newton 
+fluid under the influence of an electrical field, i.e., the 
+stress increases in proportion to the shear rate. Therefore, the 
+control of a vibration-controlled damper becomes simple when a 
+liquid crystal-type ER fluid is used. 
+
+<FIG ID=JPRS-JST-020L-07A>      Figure 10. Variable-Attenuation-Force Damper Using Liquid </FIG>
+
+
+  There are two problems with liquid crystal-type ER fluids. 
+They are expensive, and their viscosities vary much less than 
+that of dispersion-type ER fluids. Today, low-molecular-weight 
+liquid crystals for display are sold at approximately &yen;1,500 
+per g. It is unlikely that the price will come down when the 
+liquid crystals begin to be used for ER fluids. 
+High-molecular-weight liquid crystals cost much less, at 
+approximately several tens of thousands of yen per kg. In 
+contrast, a mass-produced, dispersion-type ER fluid is said to 
+often be sold at a price of less than &yen;5,000 per kg. 
+  Both low- and high-molecular-weight liquid crystal-type ER 
+fluids currently show a viscosity change rate of approximately a 
+factor of 10. However, since the base (original) viscosity of 
+the high-molecular-weight liquid crystal-type is high, ``it is 
+possible to obtain a shear stress of approximately 1 kPa at a 
+shear rate of 400 s[.sup]-1[/] and under an electrical field 
+of 5 kV/mm,'' says a spokesperson for the New Chemistry 
+Laboratory, Central Research Institute, Nippon Oil. 
+  Some researchers, like Mr. Hideichi Okubo, of the R&amp;D 
+Planning Department, Nikko-Kyoseki, are of the opinion that 
+``the small viscosity change can be supplemented by a narrower 
+distance between the electrodes when the device is designed. 
+This design is possible with the liquid crystal-type ER fluid 
+because its particles never plug up between the electrodes. The 
+narrower distance between the electrodes permits the production 
+of a more compact device.'' If only a small quantity of the ER 
+fluid is required for a compact device, the price will not be a 
+serious problem. 
+  Thus, according to Chief Researcher Akio Inoue, of the 
+Technical Research Institute, ACI, ``with the advantages of 
+their Newtonian behavior, being free of the problem of 
+dispersion stability, and being suitable for compact devices, 
+[liquid crystal-type ER fluids] are expected to gain some niche 
+in application fields along with dispersion ER fluids.'' 
+<H5>  Joint Development is Key for Implementation; Quick </H5>
+Partnership through Information Disclosure 
+  Those who are involved with ER fluids seem to be unanimous 
+in 
+saying that the future of ER fluids ``depends on whether or not 
+appropriate application products can be discovered.'' The key to 
+the development of such products for an ER fluid maker will be 
+the cooperative relationship with a machine manufacturer. 
+  Thus far, ER fluid development has been pursued primarily by 
+each material maker alone. Even if a maker had some cooperative 
+partners, the number was only a few. The reason was that each ER 
+fluid maker was developing a fluid as a top-secret project, 
+aiming for applications only for automobile-related markets with 
+potentially a growing demand. 
+  However, today, the auto industry in the midst of a severe 
+recession is not expected to implement these devices 
+immediately. ``Technically speaking,'' an auto maker that has 
+aggressively attempted to develop an engine mount using an ER 
+fluid confesses, ``we should have no difficulty implementing the 
+engine mount, although it will be difficult for us to absorb its 
+cost.'' 
+  The technology levels of ER fluid makers each have 
+advantages 
+and disadvantages, and no single one offers a marked 
+superiority. In other words, no one ER fluid is outstandingly 
+superb. Under these circumstances, it is advantageous for an ER 
+fluid maker to join forces with a machine maker capable of 
+application development. It is unreasonable to assume that an ER 
+fluid device can be implemented without cooperative exchange 
+between an ER fluid maker and a machine maker. Therefore, an ER 
+fluid maker may try to improve an ER fluid, for example, to 
+match the specifications of a machine, and a machine maker may 
+attempt to offset any weakness of an ER fluid with machine 
+design, if necessary. 
+  The quickest way to make contact with an excellent machine 
+maker is to disclose information as soon as possible. 
+Bridgestone announced its ER fluid technology at the 1993 New 
+Materials Exposition precisely because Bridgestone ``wanted to 
+openly solicit a machine maker that will be a future partner,'' 
+according to Department Head Norio Goto, of the Sixth R&amp;D 
+Group, 
+Second R&amp;D Division, Bridgestone. As a result, says Goto, 
+Bridgestone ``received inquiries from more than 200 companies. A 
+few of them have already begun cooperative projects with us.'' 
+In the future, other companies are expected to follow the lead 
+of Bridgestone through information disclosure. 
+  Chief Researcher Asahi Sugimoto, of the Machine Research 
+Section, Industrial Safety Institute, Ministry of Labor, says 
+this: ``Using an ER fluid, it would be easy to make an actuator 
+like a muscle that is capable of making a stand while suspending 
+action. It would be difficult to do so by any other method.'' 
+Professor Nao Sasada at Precision Engineering Department, Chiba 
+Institute of Technology, appreciates the value of ER fluids. He 
+says: ``In normal machine design, viscosity is treated as a 
+constant. However, the viscosity of an ER fluid is a variable, 
+which may force the modification of the basic machine design 
+concept.'' 
+  Chief Researcher Sugimoto and Professor Sasada are two of 
+the 
+pioneers in ER fluid research in Japan. Apparently, ER fluid 
+development has been pursued with the vague expectation 
+expressed by these pioneers. It is a fact that previous ER 
+fluids have never achieved a state of completion that invites 
+ideas for actual applications, i.e., How are they to be used, 
+and for what? Today, it appears that, when solutions are being 
+found for many problems, mechanical engineers are beginning to 
+question the true value of ER fluids. The fluids of ``dreams'' 
+have traveled a long road to reach today's status. They ought 
+not die in vain without realizing the dream. 
+  [Box, pp 38, 39] 
+<H5>  Potential Applications for Latest ER Fluids -- Fields </H5>
+Involving Vibration As Key Factor 
+  What kind of applications can be expected for the latest ER 
+fluids? 
+  Roughly speaking, dispersion-type ER fluids can be used for 
+one of two things: for clutches by making use of a surrender 
+stress generated by the fluids, or for use as a flow-control 
+valve by making use of their viscosity change, as discussed 
+earlier in the main text in reference to air-pressure cylinders. 
+If used as a clutch, the force to be transmitted can be 
+determined by the magnitude of the surrender stress. It appears 
+difficult to find realistic clutch applications for today's ER 
+fluids, whose surrender stress amounts to only several kPa. 
+  More realistic applications should be found in the 
+flow-control valve area. The currently most popular idea is to 
+use the flow-control valve in the form of an ER fluid for 
+dampers with variable attenuation force. Where will the 
+variable-attenuation-force dampers that use an ER fluid be used? 
+Basically, they will be used in the field where problematic 
+vibrations need to be suppressed through the active control of a 
+damper. For example, the field includes automotive devices, such 
+as suspensions and vibration-proof mounts. 
+  In addition, applications are possible for incorporating a 
+device in industrial machines, such as conveying devices. 
+Professor Junji Furusho's group at the Mechanical Control 
+Engineering Department, University of Electro-Communications, is 
+considering the incorporation of ER fluid devices into a robot's 
+arms. While an arm is in motion, the device will not function as 
+a damper, and damping occurs a moment before the motion is to 
+stop. The device will help reduce vibration prior to a stop, 
+improving the precision and simultaneously increasing the speed 
+of position determination. 
+  Needless to say, each set of specifications for an ER fluid 
+is different depending on application requirements. However, 
+such information has never been clarified. Therefore, material 
+makers are completely confused when they say, ``We have no idea 
+as to what kind of ER fluid we need to develop.'' Today, in 
+order to pursue ER fluid development smoothly, one needs to (1) 
+list possible applications for currently available ER fluids, 
+and (2) roughly outline the specifications for an ER fluid 
+required by each application. Such an attempt has already been 
+initiated by the Special Research Group for ER Fluids and Their 
+Applications of the Machine Element Lubrication Design Section 
+of the Japan Society of Mechanical Engineers. The Special 
+Research Group is expected to compile a report no earlier than 
+March 1994, when the Group is to be disbanded. 
+

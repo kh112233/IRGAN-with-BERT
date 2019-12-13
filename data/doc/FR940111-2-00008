@@ -1,0 +1,57 @@
+ 
+
+Federal Information Processing Standards Publication 1401
+
+
+(Date)
+
+
+Announcing the Standard for Security Requirements for Cryptographic Modules
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to Section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100235.
+1. 
+
+Name of Standard.
+
+ Security Requirements for Cryptographic Modules (FIPS PUB 1401).
+2. 
+
+Category of Standard.
+
+ Computer Security.
+3. 
+
+Explanation.
+
+ This standard specifies the security requirements that are to be satisfied by a cryptographic module utilized within
+a security system protecting unclassified information within computer and telecommunication systems (including
+voice systems). The standard provides four increasing, qualitative levels of security: Level 1, Level 2, Level 3,
+and Level 4. These levels are intended to cover the wide range of potential applications and environments in which
+cryptographic modules may be employed. The security requirements cover areas related to the secure design and implementation
+of a cryptographic module. These areas include basic design and documentation, module interfaces, authorized roles
+and services, physical security, software security, operating system security, key management, cryptographic
+algorithms, electromagnetic interference/electromagnetic compatibility (EMI/EMC), and self-testing. This
+standard supersedes FIPS 140, General Security Requirements for Equipment Using the Data Encryption Standard,
+in its entirety.
+4. 
+
+Approving Authority.
+
+ Secretary of Commerce.
+5. 
+
+Maintenance Agency.
+
+ Department of Commerce, National Institute of Standards and Technology, (Computer Systems Laboratory).
+6. 
+
+Cross Index.
+a. FIPS PUB 461, Data Encryption Standard.
+b. FIPS PUB 48, Guidelines on Evaluation of Techniques for Automated Personal Identification.
+c. FIPS PUB 74, Guidelines for Implementing and Using the NBS Data Encryption Standard.
+d. FIPS PUB 81, DES Modes of Operation.
+
+

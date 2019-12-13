@@ -1,0 +1,170 @@
+ 
+
+The Cleveland Electric Illuminating Company, Centerior Service Company, 
+Duquesne Light Company, Ohio Edison Company, Pennsylvania Power Company, 
+Toledo Edison Company, Docket No. 50440, Perry Nuclear Power Plant, Unit 
+No. 1, Lake County, Ohio 
+
+
+
+
+
+Date of amendment request: 
+
+November 22, 1993. 
+
+
+
+Description of amendment request: 
+
+The proposed amendment would result in 
+the replacement of most of the analog Riley temperature instrumentation 
+associated with leak detection with digital equipment from the General 
+Electric Company NUMAC product line. Technical Specification changes would 
+be made to instrumentation surveillance requirements for temperature 
+instruments associated with main steam line isolation, reactor water 
+cleanup system isolation, reactor core isolation cooling system isolation, 
+and residual heat removal system isolation. 
+
+
+
+Basis for proposed no significant hazards consideration determination: 
+
+As 
+required by 10 CFR 50.91(a), the licensee has provided its analysis of the 
+issue of no significant hazards consideration, which is presented below: 
+
+1. The proposed changes do not involve a significant increase in the 
+probability or consequences of an accident previously evaluated. 
+
+The Technical specifications are proposed to be revised to 
+perform a Channel Functional Test on a semiannual frequency 
+versus the current monthly frequency for both ambient and 
+differential temperature and for the MSL tunnel temperature timer 
+functions, for the above listed piping lines. Additionally, this 
+evaluation addressees the potential for, and implications of, 
+common mode failures due to software, hardware and/or 
+electromagnetic and radio-frequency interference (EMI/RFI). 
+
+The NUMAC instrumentation has certain design features which 
+contribute to its reliability. The replacement NUMAC LDMs are 
+digital instruments that use a microcomputer to monitor the 
+ambient and differential temperatures (also the MSL tunnel 
+temperature timer) and provide outputs and automatic self-testing 
+and calibration. A description of the major design features 
+include: a) isolation of the essential microcomputer by a serial 
+data link from the front panel display (and display 
+microcomputer), b) a self-test system feature that provides 
+automatic testing of internal circuits and reports failures, c) 
+thermocouple failure detection, d) provisions to test the output 
+relays without the use of jumpers (reducing the threat of 
+spurious isolation), and e) two independent built-in instrument 
+power supplies (that automatically switchover to the other supply 
+in the event of failure). Also, several features have been 
+included, among these, a) a hardware ``watchdog'' timer to monitor 
+against software cycling in continuous loops, and b) software 
+structured with the safety-related essential tasks running at the 
+highest priority in the system. These capabilities increase the 
+reliability of the collected data, reduce the possibility of 
+inadvertent isolation and plant shutdowns, reduce the need for 
+frequent calibrations, and reduce the likelihood of common mode 
+failures. 
+
+The NUMAC Leak Detection Monitors will maintain the same 
+environmental and electrical physical independence criteria 
+(qualifications) as the existing Leak Detection System 
+components. The LDMs, the associated thermocouple input units 
+(TCIUs), and relay output units (ROUs) will be mounted 
+seismically such that qualification of these components and the 
+Control Room panels will be maintained. The LDMs are qualified 
+for the PNPP Control Room environment. The LDMs (one per 
+division) will be physically and electrically independent of each 
+other and do not share power supplies, thermocouple inputs, 
+output relays, microcomputer logic units, display units or 
+enclosures and mounting locations. A postulated gross failure of 
+any one NUMAC LDM, such as gross malfunction of the input unit, 
+microcomputer logic unit or the relay output unit, will not 
+propagate to the other NUMAC LDM, such as gross malfunction of 
+the input unit, microcomputer logic unit or the relay output 
+unit, will not propagate to the other NUMAC LDM. Thus, a failure 
+within one NUMAC LDM will not prevent or disable the function of 
+the other NUMAC LDM. A failure within one NUMAC LDM may cause 
+the loss of one division of the isolation trip logic. However, 
+since the other redundant division (the MSLs have three other 
+divisions) will not be affected by this failure, the Leak 
+Detection System will still be able to perform its designed 
+safety-related function and provide the necessary system 
+isolation. This is the same as the current Leak Detection System 
+design basis. 
+
+The possibility of a common mode failure of both NUMAC LDM 
+divisions is minimized by the design of the NUMAC hardware and 
+software, the verification and validation (VV) of the software 
+to reduce the likelihood of errors, the testing of the software 
+(to discover and eliminate errors), and the design of and testing 
+of the hardware to demonstrate its resistance to EMI/RFI. The 
+NUMAC instrument design features, by effectively eliminating the 
+potential for common mode failures, maintain the Leak Detection 
+System within its current licensing basis. (A discussion of 
+common mode failure protection is presented in more detail in the 
+answer to question two.) Therefore, the design, isolation and 
+separation criteria remain the same. 
+
+Additionally, as described within Chapter 7 of the Updated Safety 
+Analysis Report (USAR), diversity is provided to the ambient and 
+differential temperature monitoring trip functions for the 
+various systems by alternative leak detection methods (such as 
+measuring steam line flow or pressure) that provide backup in the 
+event of the loss of both divisions of the NUMAC Leak Detection 
+Monitors. These alternative leak detection methods are 
+physically separate from those being performed by the NUMAC LDM 
+and constitute a diverse, redundant, safety related backup 
+capable of responding to a design basis line break for the 
+various systems. Therefore, a common mode failure of both LDM 
+divisions would not prevent any of the necessary system isolation 
+from occurring. 
+
+No changes are being made to the isolation logic of the Leak 
+Detection System. No accident initiators or precursors are 
+affected by the proposed changes to the Channel Functional Test 
+surveillance intervals for the various trip functions. One 
+purpose of a Channel Functional Test is to check the instrument 
+setpoints. The NUMAC instrument setpoints are set digitally and 
+do not drift. An engineering evaluation has established that the 
+Channel Functional Test surveillance interval can be extended 
+from one to six months. The potential for common mode failures 
+has been accounted for in the design and measures have been taken 
+to lower the probability of this to an acceptable level (see the 
+answer to question two). Also, alternative leak detection 
+methods exist for this eventuality. Since the NUMAC Leak 
+Detection Monitoring equipment meets or exceeds the design and 
+licensing criteria specified for the Leak Detection System, the 
+proposed upgrade cannot increase the probability of occurrence of 
+any accident previously evaluated. 
+
+A portion of the Leak Detection System logic causes a closure of 
+the Main Steam Isolation Valves on a steam leak signal. This 
+transient, described in Chapter 15 of the USAR, may also occur 
+due to a LDS equipment malfunction. Since this modification 
+replaces some of the existing Riley temperature monitoring 
+instrumentation with more reliable instrumentation the 
+probability of this transient is reduced (no radiological 
+consequences are associated with this event). The LDS is also 
+used to mitigate the consequences of a pipe break outside primary 
+containment by isolating the affected system connected to the 
+Reactor Coolant Pressure Boundary (RCPB). The replacement of the 
+Riley instrumentation with NUMAC LDMs will not change, degrade, 
+or prevent the Leak Detection System response to mitigate the 
+radiological consequences of an accident. Therefore, replacement 
+of the Riley temperature modules with NUMAC Leak Detection 
+Monitors will not significantly increase the consequences of any 
+accident previously evaluated. 
+
+2. The proposed changes do not create the possibility of a new or 
+different kind of accident from any accident previously 
+evaluated. 
+
+
+
+
+

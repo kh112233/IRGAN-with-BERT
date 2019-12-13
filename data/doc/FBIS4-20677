@@ -1,0 +1,278 @@
+of   UF Membrane in a Membrane/Activated-Sludge Wastewater 
+Treatment System 
+
+<F P=102> 43070065F Yokohama Proceedings of the IDA and WRPC World 
+Conference on Desalination and Water Treatment in English 3-6 </F>
+
+Nov 93 pp 307-314 -- FOR OFFICIAL USE ONLY 
+<F P=103> 43070065F </F>
+<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+Conference on Desalination and Water Treatment </F>
+
+<F P=105>  English </F>
+CSO 
+
+<F P=106> [Article by K. Ishiguro, K. Imai, and S. Sawada of Kurita </F>
+Water Industries Ltd., Kurita Central Laboratories, 7-1 Wakmiya 
+Morinosato, Atsugi, Kanagawa 243-01 Japan] 
+  [Text] 
+<H5>  Summary </H5>
+  A bench-scale membrane/activated-sludge wastewater treatment 
+system was built and operated continuously for more than one 
+year with peptone/glucose solution as a model waste water. 
+During the course of the operation, biological treatment 
+conditions such as load, sludge retention time and dissolved 
+oxygen level were varied. Effects of these treatment conditions 
+on soluble fraction components in the sludge and resulting 
+permeate flux of the UF membrane were studied. 
+  The permeate flux was in good correlation with the 
+differential Dissolved Organic Carbon (DOC) between membrane 
+feed and permeate. When sufficient dissolved oxygen (DO) was 
+supplied, DOC was produced quantitatively from loaded substrate 
+into the bioreactor. With lower DO level (1-2 mg/l), although 
+the substrate was still completely digested, production of DOC 
+increased. Prediction of permeate flux from biological treatment 
+conditions was also attempted to give a guide line for 
+controlling biological treatment conditions from a point of 
+membrane separation performance. 
+<H5>  Symbols </H5>
+
+
+
+  ------------------------------------------------------------------------------- 
+|_a_                                 |-- yield of DOC from sludge by endoge-| 
+|                                      |nous respiration, kg-DOC/kg-MLSS      | 
+------------------------------------------------------------------------------- 
+|C                                     |-- DOC concentration, kg/m[.sup]3[/]| 
+------------------------------------------------------------------------------- 
+|C[.sub]f[/]                         |-- BOD concentration in feed, kg-BOD/-| 
+|                                      |m[.sup]3[/]                         | 
+------------------------------------------------------------------------------- 
+|C[.sub]p[/]                         |-- DOC concentration in membrane perm-| 
+|                                      |eate, kg/m[.sup]3[/]                | 
+------------------------------------------------------------------------------- 
+|J                                     |-- permeate flux, m/day               | 
+------------------------------------------------------------------------------- 
+|k[.sub]d[/]                         |-- endogenous respiration constant, d-| 
+|                                      |ay[.sup]-1[/]                       | 
+------------------------------------------------------------------------------- 
+|L[.sub]v[/]                         |-- volumetric BOD load, kg-BOD/m[.sup]3| 
+|                                      |[/]day                             | 
+------------------------------------------------------------------------------- 
+|R                                     |-- rejection                          | 
+------------------------------------------------------------------------------- 
+|RT[.sub]s[/]                        |-- retention time of DOC, day         | 
+------------------------------------------------------------------------------- 
+|SRT                                   |-- sludge retention time, day         | 
+------------------------------------------------------------------------------- 
+|_D_DOC                              |-- differential DOC concentration of  | 
+|                                      |sludge and permeate                   | 
+------------------------------------------------------------------------------- 
+|V                                     |-- volume of bioreactor, m[.sup]3[/]| 
+------------------------------------------------------------------------------- 
+|X                                     |-- sludge concentration in the reacto-| 
+|                                      |r, kg-MLSS/m[.sup]3[/]              | 
+------------------------------------------------------------------------------- 
+|Y                                     |-- sludge yield from BOD load, kg-MLS-| 
+|                                      |S/kg-BOD                              | 
+------------------------------------------------------------------------------- 
+|Y[.sub]s[/]                         |-- yield of DOC from BOD load, kg-DOC/| 
+|                                      |kg-BOD                                | 
+------------------------------------------------------------------------------- 
+|Subscripts                                                                   | 
+------------------------------------------------------------------------------- 
+|b                                     |-- sludge discharge                   | 
+------------------------------------------------------------------------------- 
+|f                                     |-- feed                               | 
+------------------------------------------------------------------------------- 
+|p                                     |-- membrane permeate                  | 
+------------------------------------------------------------------------------- 
+|s                                     |-- solute or dissolved matter in slud-| 
+|                                      |ge                                    | 
+------------------------------------------------------------------------------- 
+
+
+<H5>  Introduction </H5>
+  With increasing need for a compact wastewater treatment 
+system and higher quality treatment, membrane technology has 
+been introduced as a potential solid-liquid separation process 
+for biological wastewater treatment systems. The membrane gives 
+high quality, particle free permeate. It eliminates the bulking 
+problem of activated-sludge and enables operation at high sludge 
+concentration to allow high loading. The membrane seems to 
+greatly simplify the system. However, with all these benefits, 
+efficiency of the process strongly depends on permeate flux of 
+the membrane. The flux is often affected by biological 
+substances. In addition, unusually high loading and high sludge 
+concentration may produce some substances to cause flux decline. 
+It is therefore to be understood how biological treatment 
+conditions affect properties of biological sludge and resulting 
+flux. 
+  In this study, relationship between biological conditions 
+and 
+membrane performance was examined by using a bench-scale 
+membrane/activated-sludge wastewater treatment system with 
+peptone/glucose solution as a model waste water. 
+<H5>  Experimental </H5>
+  Bench-Scale Membrane/Activated-Sludge Wastewater 
+Treatment System Setup and Operating Conditions 
+  The bench-scale system consists of 0.35 m[.sup]3[/] 
+bioreactor (aeration tank) and two 4 inch spiral wound UF 
+elements (Figure 1 [not reproduced]). The UF element contains a 
+corrugated feed spacer which is specially developed for treating 
+feeds containing high suspended solids.[.sup]1[/] A 
+polysulfone UF membrane with nominal molecular weight cut off of 
+50,000 dalton was used. The system was operated continuously by 
+feeding a model wastewater containing peptone and glucose as 
+substrates or organic contaminants. Periodically, biological 
+treatment conditions were varied within the following range, 
+volumetric load (Lv): 0.3-12 kg-BOD/day, sludge retention time 
+(SRT): 1.75-35 day, sludge concentration: 4-12 
+kg-MLSS/m[.sup]3[/], and dissolved oxygen (DO) level: 1-5 
+mg/l. Ten sets of biological conditions were examined. Each set 
+of conditions was kept constant until the bioreactor reached 
+steady state. Operating pressure of the UF element was about 100 
+kPa with 0.5 m/s cross flow rate. The UF element was chemically 
+cleaned about once a month. Flux value at one or two weeks after 
+the chemical cleaning was used as stable flux for each condition. 
+  Analysis of Sludge Components and Membrane Permeate 
+  During the operation, indices of organic matter solutes such 
+as biochemical oxygen demand (BOD), dissolved organic carbon 
+(DOC), sugar, protein were monitored for both the sludge and the 
+membrane permeate. Gel-permeation chromatography was also 
+applied to investigate molecular weight distribution of organic 
+solutes. 
+  Batch-Type Cross Flow UF Test 
+  Soluble fraction of the sludge sampled from the bioreactor 
+was separated by high-centrifugation (9,000 g x 20 min) as 
+supernatant, and then applied to batch-type cross flow UF test 
+to measure permeate flux. The soluble fraction was circulated 
+through a thin channel filtration cell with 0.5mm (height) x 
+40mm (width) x 60mm (length) channel was operated at 1.0 m/s 
+cross flow rate and about 100 kPa transmembrane pressure. The UF 
+membrane used was the same polysulfone membrane used in the 
+bench-scale system. Flux value after one week's operation was 
+measured and used as stable flux. 
+<H5>  Results and Discussion </H5>
+  Continuous Operation of the Bench-Scale System 
+  The system was operated successfully for more than a year 
+without any major trouble. BOD in the permeate was less than 5 
+mg/l with 99 percent removal from the model wastewater. Permeate 
+flux of the UF element was typically about 0.7 m/day at 
+25C. Though the flux was gradually decreased, it was 
+restored completely by regular chemical cleaning about once a 
+month. 
+  Effects of Organic Solutes on Permeate Flux 
+  As a preliminary test for investigating the effects of 
+solutes on permeate flux of the membrane, a batch-type cross 
+flow UF test was performed for soluble fraction of the sludge. 
+Stable permeate flux of the soluble fraction from each set of 
+biological treatment conditions was measured. Then relationships 
+between concentration of various indices for organic solutes and 
+the flux were examined. Then, plots of measured flux against 
+differential concentration of solute indices were made. As shown 
+in Figure 2 [not reproduced], good linear relationships were 
+obtained for all the indices. There was no significant 
+difference in dependency of the flux to four solute indices 
+investigated. DOC was used for further investigation. 
+  Effect of Organic Solutes on Permeate Flux of the UF 
+Element 
+  Permeate flux of the UF element was plotted against the 
+differential DOC (_D_DOC) of the sludge and permeate in the 
+same 
+way as Figure 2. The flux was well correlated to _D_DOC as 
+shown 
+in Figure 3 [not reproduced]. This result suggests that even 
+with suspended solids, the gel polarization theory can be 
+applied for the system.[.sup]2,3[/] Then permeate flux J is 
+expressed as the following Eqn. (1), 
+  J = a + b log (_D_DOC) (1) 
+  The values a and b obtained for the plot were 0.054 m/day 
+and 
+-0.37 m/day respectively. 
+  Effects of Biological Treatment Conditions on 
+Production of Organic Solutes in Sludge 
+  Using DOC as an index for organic solutes in the sludge, 
+production of organic solutes was analyzed. 
+  For sludge concentration X in the bioreactor, the mass 
+balance is described as Eqn. (2), 
+  V dX/dt = Y Q[.sub]f[/] C[.sub]f[/] - (Q[.sub]b[/] C 
++ Q[.sub]p[/] C[.sub]p[/]) + _a_k[.sub]d[/] 
+XV (2) 
+  where, Y is sludge yield from substrate, k[.sub]d[/] is 
+endogenous respiration constant. By substituting dX/dt = 0 for 
+steady state, and fitting the experimental data to this 
+equation, Y = 0.59 (kg-MLSS/kg-BOD), k[.sub]d[/] = 0.0013 
+(day[.sup]-1[/]) were obtained. 
+  The mass balance for DOC concentration C in the bioreactor 
+is 
+given by the Eqn. (3), 
+  V dC/dt = Y[.sub]s[/] Q[.sub]f[/] C[.sub]f[/] - 
+(Q[.sub]b[/] C + Q[.sub]p[/] C[.sub]p[/]) + 
+_a_k[.sub]d[/] XV (3) 
+  where, Y[.sub]s[/] is yield of DOC from substrate, and _a_ 
+is DOC yield from sludge by endogenous respiration. 
+  At steady state, dC/dt = 0, then from Eqns. (2) and (3), the 
+following Eqn. (4) is derived, 
+  C = [Y[.sub]s[/] + _a_ k[.sub]d[/] Y/(k[.sub]d[/] + 
+Q[.sub]b[/]/V)] (Q[.sub]f[/] C[.sub]f[/]/V) 
+RT[.sub]s[/] (4) 
+  where, RT[.sub]s[/] = V/[Q[.sub]b[/] + (1-R) 
+Q[.sub]p[/]], which corresponds to retention time of DOC, and 
+R is the rejection of the membrane. In this equation, 
+Q[.sub]b[/]/V means SRT, Q[.sub]f[/]C[.sub]f[/]/V is 
+volumetric load L[.sub]v[/]. Then rearranging the Eqn. (4) 
+gives Eqn. (5), 
+  C/L[.sub]v[/]/RT[.sub]s[/] = Y[.sub]s[/] + _a_ 
+k[.sub]d[/] Y/(k[.sub]d[/] + 1/SRT) (5) 
+  With this equation, if the parameters Y[.sub]s[/] and _a_ 
+are constant, plots of C/L[.sub]v[/]/RT[.sub]s[/] against 
+(k[.sub]d[/] + 1/SRT) should give a straight line. As shown 
+in Figure 5 [not reproduced], for operating conditions with 
+sufficient dissolved oxygen (&gt;  3 mg/l) experimental data were 
+in good linear relationship. It is thus indicated that the yield 
+of DOC in the bioreactor, Y[.sub]s[/] was constant within the 
+load and SRT range explored. Y[.sub]s[/] = 0.013 
+(kg-DOC/kg-BOD), _a_ = 0.15 (kg-DOC/kg-MLSS) were obtained for 
+this case. However, the data for low dissolved oxygen around 1 
+to 2 mg/l was not included in the linear relationship. Increase 
+in DOC production was indicated, even though BOD was still 
+completely digested. Permeate flux of the element was also found 
+to be lower than the other conditions. 
+  Prediction of Permeate Flux From Biological Treatment 
+Conditions 
+  Using the above-mentioned consideration, prediction of 
+permeate flux was attempted. In the Eqn. (1), _D_DOC is 
+rewritten as (C - C[.sub]p[/]) = R . C. Then, Eqn. (4) can be 
+substituted into the Eqn. (1). Permeate flux value for a given 
+sludge concentration at various BOD load can be then calculated 
+by using experimentally obtained parameters Y, k[.sub]d[/], 
+Y[.sub]s[/], _a_. The result of the prediction is shown in 
+Figure 5 with actual measured flux values. Although the 
+agreement of the prediction lines with the actual flux values 
+still need to be improved, this plot can be used as a guideline 
+for controlling biological condition from a point of membrane 
+separation. 
+<H5>  Conclusions </H5>
+  Permeate flux in the membrane/activated-sludge system was 
+well agreed to the gel polarization model even high suspended 
+solid is contained in the membrane feed. 
+  When sufficient dissolved oxygen (&gt;  3 mg/l) was supplied, 
+dissolved organic matter in the bioreactor was produced 
+quantitatively from loaded BOD within the load range explored, 
+which is from 0.3 to 12 kg-BOD/m[.sup]3[/]day. 
+  A tentative plot for predicting permeate flux from 
+biological 
+operating condition was made for the system. It is demonstrated 
+that this type of plot can be used as a guideline for 
+controlling biological treatment condition in a 
+membrane/bioreactor hybrid system from a point of membrane 
+performance. 
+References 
+  1. S. Sawada, M. Shishido, U.S. Patent 4, 834, 881. 
+  2. W. F. Blatt, A. Dravid, A. S. Michaelis and L. Nelson, 
+Membrane Science and Technology, Plenum Press, New York, 1970. 
+  3. S. Nakao and S. Kimura, J. Chem. Eng. Japan, 14 (1981) 
+32- 
+[as published]. 
+

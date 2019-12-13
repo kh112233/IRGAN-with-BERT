@@ -1,0 +1,442 @@
+ 
+
+(5) After the system has been connected as shown in 
+Figure 5 in appendix A to this subpart, set the variable 
+restrictor in the wide open position and run the CVS pump for 
+20 minutes. Record the calibration data. 
+(6) Reset the restrictor valve to a more restricted 
+condition in an increment of pump inlet depression that will 
+yield a minimum of six data points for the total calibration. 
+Allow the system to stabilize for 3 minutes and repeat the 
+data acquisition. 
+(7) Data analysis: 
+(i) The air flow rate, 
+
+Q
+
+
+
+s
+
+, at each test point is 
+calculated in standard cubic meters per minute (0 
+&cir;C, 101.3 
+kPa) from the flowmeter data using the manufacturer's 
+prescribed method. 
+(ii) The air flow rate is then converted to pump flow, 
+
+
+V
+
+
+
+o
+
+, in cubic meter per revolution at absolute pump inlet 
+temperature and pressure: 
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER17JN94.020
+
+
+</IMPORT>
+
+
+
+Where:
+
+
+
+
+
+V
+
+
+
+o
+
+=Pump flow, (m
+
+3
+
+/rev) at 
+
+T
+
+
+
+p
+
+, 
+
+P
+
+
+
+p
+
+. 
+
+
+Q
+
+
+
+s
+
+=Meter air flow rate in standard cubic meters per 
+minute, standard conditions are 0 
+&cir;C, 101.3 kPa. 
+
+
+n
+
+=Pump speed in revolutions per minute. 
+
+
+T
+
+
+
+p
+
+=Pump inlet temperature 
+&cir;K=
+
+P
+
+
+
+ti
+
++273 
+&cir;K, 
+
+
+P
+
+
+
+ti
+
+=Pump inlet temp 
+&cir;C 
+
+
+P
+
+
+
+p
+
+=Absolute pump inlet pressure, (kPa) 
+
+
+=
+
+P
+
+
+
+B
+
+^
+
+P
+
+
+
+PI
+
+ 
+
+
+
+Where:
+
+
+
+
+
+P
+
+
+
+B
+
+=barometric pressure, (kPa). 
+
+
+P
+
+
+
+PI
+
+=Pump inlet depression, (kPa).
+
+
+
+
+(iii) The correlation function at each test point is then 
+calculated from the calibration data: 
+
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER17JN94.021
+
+
+</IMPORT>
+
+
+
+
+
+X
+
+
+
+o
+
+=correlation function. 
+
+
+
+
+D
+
+p=The pressure differential from pump inlet to pump 
+outlet, (kPa). 
+
+
+=
+
+P
+
+
+
+e
+
+^
+
+P
+
+
+
+p
+
+. 
+
+
+
+
+
+P
+
+
+
+e
+
+=Absolute pump outlet pressure, (kPa) 
+
+
+=
+
+P
+
+
+
+B
+
++
+
+P
+
+
+
+PO
+
+ 
+
+
+
+Where:
+
+
+
+
+
+P
+
+PO
+
+=Pressure head at pump outlet, (kPa).
+
+
+
+
+(iv) A linear least squares fit is performed to generate 
+the calibration equation which has the form:
+
+
+
+
+
+
+V
+
+
+
+o
+
+=
+
+D
+
+
+
+o
+
+^
+
+M(X
+
+o
+
+
+
+)
+
+ 
+
+
+D
+
+
+
+o
+
+ and 
+
+M
+
+ are the intercept and slope constants, 
+respectively, describing the regression line.
+
+
+
+
+(8) A CVS system that has multiple speeds must be 
+calibrated on each speed used. The calibration curves 
+generated for the ranges will be approximately parallel and 
+the intercept values, 
+
+D
+
+
+
+o
+
+, will increase as the pump flow range 
+decreases. 
+
+(9) If the calibration has been performed carefully, the 
+calculated values from the equation will be within 
+
+#
+
+0.50 
+percent of the measured value of 
+
+V
+
+
+
+o
+
+. Values of 
+
+M
+
+ will vary 
+from one pump to another, but values of 
+
+D
+
+
+
+o
+
+ for pumps of the 
+same make, model, and range should agree within 
+
+#3
+
+ percent of 
+each other. Calibrations should be performed at pump start-up 
+and after major maintenance to assure the stability of the 
+pump slip rate. Analysis of mass injection data will also 
+reflect pump slip stability. 
+
+(d) 
+
+CFVCVS calibration.
+
+ (1) Calibration of the CFV is 
+based upon the flow equation for a critical venturi. Gas flow 
+is a function of inlet pressure and temperature: 
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER17JN94.022
+
+
+</IMPORT>
+
+
+
+Where:
+
+
+
+
+
+Qs
+
+=flow. 
+
+
+Kv
+
+=calibration coefficient. 
+
+
+P
+
+=absolute pressure. 
+
+
+T
+
+=absolute temperature.
+
+
+
+

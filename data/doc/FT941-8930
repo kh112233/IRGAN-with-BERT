@@ -1,0 +1,123 @@
+FT  17 FEB 94 / Technology: New weapon for the gendarmerie - Beating
+criminals at their own game is the aim of a French mobile phone system
+When police in any big city pounce on a drug dealer's hideaway there is
+always a fair chance that the building will be empty, the bird flown. The
+criminals have used radio scanners to eavesdrop on police conversations and
+so are alerted to the swoop.
+'When they arrest terrorists the police find bombs, they find arms and they
+always find scanners,' says Bruno Rambaud, vice president of Matra
+Communications, part of the French Matra Hachette group. The scanners can be
+tuned in to the analogue radio waves transmitted by police radios and
+conversations easily heard.
+The latest in digital mobile communications could change all that. In Rouen,
+in northern France, the gendarmerie, France's national police force, are
+pioneering a radio network which uses technology similar to the newest
+civilian radio. 'Now it is possible to give the police the same technology
+as the people they are chasing,' adds Rambaud.
+Like the latest European cellular radio services, the gendarmerie's Rubis
+network uses digital technology, on which it is notoriously hard to
+eavesdrop. To make it even more difficult for criminals to decipher the
+gendarmes' conversations, the network uses an encryption system developed by
+the French military.
+The Rubis network has one further advantage: by 1998, for the first time,
+the French gendarmerie will have a nationwide network with 25,000 phones
+operating on the same frequency. Until Rubis was first introduced, in July
+1992, all forces had to select manually a new frequency to communicate with
+other groups, explains Bruno Chapuis, a captain from the Paris headquarters
+of the gendarmerie who is involved in the implementation of Rubis.
+By implementing a widespread digital system, the French gendarmerie have
+become pioneers, closely watched by emergency services in the rest of Europe
+and the US. Throughout Europe, in particular, there is a growing awareness
+that crime is spilling from one police area to another. And the removal of
+national boundaries has increased fears of cross-border crime.
+'People are now looking at the free flow of police as well as the free flow
+of criminals across borders,' explains Phil Godfrey, market development
+manager for public safety at Philips Telecom PMR.
+To do this, however, all European nations would need to adopt radio systems
+which worked together, preferably using the same radio technology on the
+same frequencies. With the French gendarmerie stealing a march on other
+emergency services the adoption of one technology now looks extremely slim.
+The European Telecommunications Standards Institute (Etsi), which devises
+European telecoms standards, is in the final stage of defining a
+trans-European trunked radio system, called Tetra, to be used by Europe's
+emergency services as well as vehicle and taxi fleets. However, the
+technology as defined is very different from that used in the gendarmerie's
+proprietary Matra system.
+The Etsi standard, which will not be mandatory, is based on a technology
+known as TDMA, in which each piece of a conversation or bit of data is
+slotted into a time slot within the radio channel. Several calls can be
+slotted side by side within one radio channel, which is 25KHz wide. It is a
+technique already widely used in cellular radio networks.
+The Matra technology uses FDMA, in which each caller is allocated a chunk of
+the frequency. Once the call has ended, that chunk of frequency is
+re-allocated to another caller.
+At a meeting of Etsi in March further technical options will be considered,
+using different techniques and frequency allocations, but the Tetra standard
+will go ahead in its current form, come what may, says Brian Oliver,
+chairman of the Etsi committee which is working on the standard.
+'The TDMA 25KHz standard will be produced; it will not be shifted. That work
+will emerge.' However, he adds, if there is a strong enough requirement from
+potential users, other standards might be defined.
+To further complicate the issue another system, based on FDMA, is being
+adopted in the US.
+Onlookers believe vested interests in both the manufacturing sector and
+government circles will result in the implementation of at least two
+different systems.
+Matra is promoting its system by offering a free licence to other
+manufacturers to use its technology, arguing that it is available now while
+the final development of Tetra could be some time away.
+Rival manufacturers are understandably suspicious of the offer. And they are
+unhappy about the indecision over a single European standard. 'It's very
+uncomfortable for people to spend millions of pounds developing a system
+which could never be adopted,' says Godfrey.
+At Motorola, which has developed both FDMA and TDMA systems, the attitude is
+more relaxed. 'We're keeping an open mind,' says Andrew Dean, UK marketing
+manager for the mobile product sector. Motorola has already implemented two
+police radio systems which conform to the emerging US standard, in New
+Hampshire and Florida. As a result, says Dean, 'our preferred solution today
+is FDMA'.
+It is up to the security forces to determine their needs and up to
+manufacturers to assess the market implications and decide whether they will
+make the equipment, says Oliver. But he believes the adoption of several
+different technologies will not necessarily prevent communications between
+emergency services from different countries. 'Interworking could be arranged
+between the systems. It is up to the security forces to deal with their
+communications needs.'
+Rambaud agrees. 'What is interesting the different police forces is
+interconnection through the infrastructure.'
+So far in Amsterdam the police authorities have stated that they want a
+network based on Tetra. In the UK, too, the Home Office has expressed a need
+for a unified system in England and Wales and stated a preference for Tetra.
+Elsewhere, the Belgium emergency services have announced a shortlist of
+companies to tender for their network and Luxembourg is also planning a
+nationwide network.
+The arguments for and against the two basic technologies are complex.
+Advocates of FDMA believe it is best suited to widespread networks which
+have few users - such as national police networks. Proponents of the wider
+band TDMA technology argue that it gives greater flexibility in providing
+sophisticated services using its extra bandwidth - while an officer is
+relaying details to colleagues of an escaped criminal, say, a photofit
+picture of the man could be sent alongside the phone call to a local
+printer.
+TDMA also gives the potential for duplex - two-way - conversations. FDMA
+calls are simplex, with only one person speaking at a time.
+Looking at the Rubis network, it is clear that digital technology, be it
+based on FDMA or TDMA, brings numerous advantages over older analogue
+networks. Because calls are automatically switched between callers the
+number of people needed in the despatch centre can be reduced, putting more
+police on the street.
+A spokesman for the Rouen gendarmerie says the safety features are what have
+pleased members of the local force the most. By pressing a red button on the
+side of the phone, officers under attack can immediately alert fellow
+officers to the local emergency.
+There is also a wide variety in the type of calls which can be made. As well
+as open conference calls, gendarmes can make person-to-person calls,
+particularly useful for senior officers in charge of the logistics of an
+operation. Or there can be group calls, in which up to five officers
+participate.
+Data can also be sent across the same radio channel, and the patrol cars and
+vans are all equipped with portable PCs, plugged into the same electronic
+black box in the boot of the car as the telephone. By feeding the
+registration number of a car into the PC the officer can find out from the
+central database in Paris within just two seconds whether a car under
+scrutiny is stolen.

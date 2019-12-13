@@ -1,0 +1,25 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by V. V. Yanshin, Institute of Animal Evolutional </F>
+Morphology and Ecology imeni A. N. Severtsov, Moscow; UDC 
+391.621.25] 
+  [Abstract] Images produced in the sensing of the Earth's 
+surface with active and passive space-based systems are 
+represented in binary form, with subsequently preliminary 
+processing. Part of that processing involves local filtration. 
+The work reported here examines procedures for recursive 
+nonlinear filtration. A mathematical model of the procedures is 
+constructed, and the probability efficiency of a recursive 
+filter is compared with that of a nonrecursive filter (maximum 
+probabilities of events are y = 1 and y = 0. With p = 0.1, the 
+recursive filter produced a probability value of P(y = 1) = 
+0.0122, whereas the nonrecursive filter produced a value of P(y 
+= 1) = 0.28 &gt;  0.0122. With p = 0.9, the values changed to P(y 
+= 
+1) = 0.9882 and P(y = 1) = 0.972 &lt; 0.9882, respectively. By 
+and 
+large, a (2/3)[.sup]3[/] recursive filter produced better 
+values than those of a similar nonrecursive filter. References 
+6: 4 Russian, 2 Western. 
+

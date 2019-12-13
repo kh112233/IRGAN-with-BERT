@@ -1,0 +1,234 @@
+Film   with CMP (Chemical Mechanical Polishing) 
+
+<F P=102> 94FE0439A Tokyo NIKKEI MICRODEVICES in Japanese Jan 94 pp 
+58-62 ---FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0439A </F>
+<F P=104>  Tokyo NIKKEI MICRODEVICES </F>
+<F P=105>  Japanese </F>
+CSO 
+
+  [Text] In the ULSI multi interlayer wiring process, it has 
+been realized again that leveling the interlayer insulating film 
+is an important aspect of the technology. Traditionally, in 
+exposure of wiring pattern on insulation film, level differences 
+occur making it necessary to estimate the focus depth. Or in 
+some situations, highly complicated techniques such as phase 
+shift or the grazing incidence method were necessary. Leveling 
+the interlayer insulating film was allowing some margin in 
+achieving the goals of exposure technology. 
+  For leveling the interlayer insulating film, several 
+technologies such as automatic CVD leveling or CVD leveling by 
+bias ECR used in TEOS-O[.sub]3[/] have been suggested and 
+used actively. However, none of the technologies has yet come up 
+with the complete leveling which can interface with high 
+precision and integration. This is because the technology in CVD 
+and etching do not principally have the capability of 
+controlling the formation in a direction perpendicular to a 
+convex and recessed surface. On the other hand the mechanical 
+grinding discussed here has a possibility of easily realizing 
+complete surface leveling. The principle is simply based on the 
+selective polishing of the convex area, since efficiency of 
+polishing depends on the contact pressure with grinding granules 
+and contact time, that is, the selection ratio with a recessed 
+area is quite high. Grinding technology for insulating films is 
+not only applied to the interlayer, but also applied for element 
+separation in poly-Si deposition, contact, bare hole, and metal 
+film grinding in LSI processing. However, LSI process technology 
+is dry, and it is based on low particle density technology. Thus 
+there is a problem of employing technology used for wet grinding 
+with fine granules. Also since the grinding is not for simple 
+leveling traditionally practiced in Si baseboard, there are 
+practical problems that occur in grinding the convex and 
+recessed surface with several kinds of patterns. In this report, 
+a grinding pad that will solve the problem that occurs in 
+leveling the interlayer insulating film, and practical examples 
+of grinding equipment are discussed. 
+<H5>  High Precision Grinding Technology For Leveling Interlayer </H5>
+Insulating Film 
+  1. Grinding Pad 
+  In early LSI production, grinding for leveling the 
+interlayer 
+has used a pad with abrasive material, and equipment that was 
+used with traditional Si baseboards. In order to avoid defects 
+or scratches in grinding the Si crystal baseboard, a soft pad 
+was used. If this method is applied to an interlayer film with 
+recessed and convex areas, the pad is pressed with pressure, so 
+that the recessed area as well as the convex area which is the 
+necessary part to grind are affected. Therefore leveling is not 
+achieved effectively as seen in figure 1. In order to achieve 
+leveling effectively, some thickness of insulating film on metal 
+wiring must be secured. The initial film thickness is quite 
+large, and grinding takes considerable time. On the other hand, 
+if a harder pad is used, as seen in figure 2, because selective 
+grinding of the convex area rather than the recessed area is 
+emphasized, then because of the difference in Si baseboard curve 
+and the thickness of the baseboard, the interlayer insulating 
+film after grinding is not consistent, and the wiring pattern 
+will be partially exposed. From these observations, it became 
+apparent that uniform grinding must be based on the curved area 
+and thickness of the Si baseboard, that is, the surface to 
+receive the grinding. Figure 3 shows a high performance pad 
+configuration that will be required for grinding. The small 
+divided area is a hard resin, and each small area is supported 
+by a flexible body, and high performance can be obtained. 
+
+<FIG ID=JPRS-JST-020L-55A>      Figure 1. Grinding By Soft Pad </FIG>
+
+
+
+<FIG ID=JPRS-JST-020L-55B>      Figure 2. Grinding By Hard Pad </FIG>
+
+
+
+<FIG ID=JPRS-JST-020L-56A>      Figure 3. Grinding By The Suggested New Pad </FIG>
+
+
+  In order to reduce the inconsistent and ineffective grinding 
+by abrasive material, it is important that good consistency 
+should be achieved by the exchange of pads, not by a complex 
+technique. 
+  2. Abrasive Material 
+  The reason why the CMP (Chemical Mechanical Polishing) is 
+used in naming the grinding of interlayer insulating film of 
+SiO[.sub]2[/] is not clear. However, in the grinding of 
+ECR-CVD film which is very close to heat oxide film in quality, 
+it has been found that by changing the grinding fluid to pH 
+7-11, grinding performance is doubled as seen in figure 4. Since 
+the film surface will not change even when the film is dipped in 
+pH 11 mild alkaline fluid for long time, it is apparent that the 
+combined effect of chemistry and machinery will have some impact 
+on the grinding mechanism. Basically, SiO[.sub]2[/] group 
+film becomes quite active for bonding to OH baseboard when 
+pressure and temperature are increased, and it resolves well 
+with water. There is another conceivable method in which the 
+surface that is activated by machine with fine granules is 
+bonded with the OH baseboard producing a surface with different 
+characteristics that will be ground mechanically with abrasive 
+material. Also, mutual reaction of both abrasive material and 
+grinding surface can be considered. Especially since some 
+granules such as CeO[.sub]2[/] have high performance in 
+grinding, and it is projected that strong bonding with the 
+surface granules of interlayer of CeO[.sub]2[/] and 
+SiO[.sub]2[/] exists. Therefore bonding between granule 
+material and surface characteristics will contribute to the 
+efficiency of grinding. But also it is necessary to consider 
+that cleaning after grinding in this process will become quite 
+difficult. For abrasive material, in order not to cause 
+mechanical damage, a soft material equivalent to that of the 
+interlayer insulation film, consistent in granule diameter, with 
+good dispersion in mild alkaline solution, and low metal 
+impurity content is desired. 
+
+<FIG ID=JPRS-JST-020L-56B>      Figure 4. Grinding Fluid pH Value and Grinding Speed </FIG>
+
+
+  3. Grinding Equipment 
+  Even when a pad which is suitable for leveling of the 
+interlayer and overall leveling of the Si baseboard is used, 
+unless the equipment can perform with consistency and can grind 
+with high throughput, as a manufacturing technology, it is 
+meaningless. Figure 5 shows equipment for a single piece 
+operation, and figure 6 shows equipment for a batch operation. 
+Both models are different from the regular grinding base which 
+is usually installed in the lower part, and supports the Si 
+baseboard in the upper part. The base unit for grinding is 
+installed at a precision rotating table, at the side of the Si 
+base support, avoiding the grinding base (pad) which enables set 
+up conditions to be easily changed. Although it is 
+disadvantageous to supply abrasive material on the grinding 
+surface, it reduced the occurrence of grinding granules stacked 
+and filled in the surface of pad. Also, since the surface of the 
+Si baseboard is upward, and the supporting table is high 
+precision, it makes it advantageous to determine the end point 
+after completion of grinding. Figure 6 shows the batch model 
+which can process 5 baseboards at one time. While the small 
+tables supporting the Si baseboards are rotated, the large table 
+by the rotation of each small table is made to rotate. For this 
+reason, the average efficiency for processing 5 baseboards which 
+move in relation to the positions in the grinding equipment and 
+grinding base, is quite high. And within batch processing and 
+between batch processing are maintained quite uniformly. Also 
+the table for Si baseboards is installed with high precision and 
+durability, so that the grinding operation is stable even with 
+high rotation and high load and it can be expected to have good 
+leveling throughput. 
+
+<FIG ID=JPRS-JST-020L-56C>      Figure 5. Single Piece High Precision Grinding Equipment </FIG>
+
+
+
+<FIG ID=JPRS-JST-020L-57A>      Figure 6. Five-Piece Batch Model Si Baseboard Grinding </FIG>
+
+
+  4. Examples of Grinding Leveling Interlayer Insulating 
+Film 
+  Examples of grinding are demonstrated here by using the 
+grinding pad shown in figure 3 and the equipment shown in figure 
+5. The pattern is made for this example, and on 3-100 m Al 
+wiring, with ECR-CVD, and a1.8 m SiO[.sub]2[/] film is 
+formed. With bias CVD by ECR it is possible to deposit in a 
+narrow space and in fine wiring lines, as shown in figure 7. At 
+the time of CVD, good leveling is achieved and only a triangular 
+convex region is left. Figure 8 shows an example of leveling the 
+insulating film with a pattern: (a) is the example of hard and 
+soft layers of grinding pad. In the region of wiring width of 3 
+m, grinding progresses quite faster than with a 100 m 
+wide 
+pattern, and the Al wiring part is exposed when a wide area is 
+ground to a certain level of thickness of the interlayer 
+insulating film. On the other hand (b) is the example of 
+grinding in the image of figure 3. Level differences for both is 
+less than 0.05 m and leveling is achieved without any 
+dependence on pattern density. 
+
+<FIG ID=JPRS-JST-020L-57B>      Figure 7. Cross Section Of Interlayer Insulating Film </FIG>
+
+
+
+<FIG ID=JPRS-JST-020L-58A>      Figure 8. Pattern Formation After Grinding </FIG>
+
+
+  On the other hand figure 9 is the result of measurement 
+along 
+four lines of formation before and after grinding the Si 
+baseboard. Although the overall baseboard has 5-6 m size 
+large convex and recessed areas, about 1 m grinding amount 
+is 
+obtained in all directions, and it shows that the pad in figure 
+3 is effective in realizing leveling of both the convex and 
+recessed areas, and global leveling (uniform leveling in overall 
+baseboard) is achieved. 
+
+<FIG ID=JPRS-JST-020L-59A>      Figure 9. Cross Section Of Wafer Before and After Grinding </FIG>
+
+
+  In grinding by the batch method (5 pieces) in figure 6, 
+after 
+0.5 m grinding, between batches, film thickness distribution 
+is +/- 3%, and batch distribution is +/- 5%. 
+  Cleaning after grinding the baseboard is important since it 
+will influence the decision to employ a leveling grinding 
+process. In the mass production type grinding equipment shown in 
+figure 6, a scrubber is attached which can clean 5 pieces right 
+after the grinding, and unloaded wet pieces are transferred to 
+the connected cleaning equipment. The dedicated cleaning 
+equipment includes a mega-sonic shower operated at both sides 
+simultaneously, a scrubber operated at both sides 
+simultaneously, a front and back separate scrubbing shower, and 
+a drying station. Over 0.2 m particles are realized with 
+less 
+than 20 pieces within the baseboard. 
+<H5>  Conclusion </H5>
+  For the technology of leveling the multiple interlayer 
+insulating film in LSIs, developed examples including pads for 
+the grinding operation, abrasive materials, and grinding 
+equipment, which are not dependent on the inconsistent pattern 
+or size, large or small, enable the entire surface to be 
+leveled. A unique configuration and method are employed 
+considering the formation and material that are different from 
+the traditional Si crystal baseboard. The objective is about to 
+be realized. Furthermore, responding to the suggestions of new 
+device organizations and processes, higher precision and higher 
+performance are our goals. 
+

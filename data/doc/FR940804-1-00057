@@ -1,0 +1,871 @@
+ 
+
+
+Thursday
+
+
+August 4, 1994
+
+
+
+
+
+Part IV
+
+
+Department of Health and Human Services
+
+
+
+
+
+Food and Drug Administration
+
+
+
+
+
+21 CFR Ch. I
+Food and Safety Assurance Program; Development of Hazard Analysis Critical Control Points; Proposed Rule
+
+
+
+
+
+
+
+
+
+Federal Register
+
+/Vol. 59, No. 149/Thursday, 
+August 4, 1994/Proposed Rules 
+
+
+
+
+
+
+<USDEPT>DEPARTMENT OF HEALTH AND HUMAN SERVICES</USDEPT>
+
+
+
+
+<USBUREAU>Food and Drug Administration</USBUREAU>
+
+21 CFR Ch. I
+
+
+
+<RINDOCK>[Docket No. 93N0325]</RINDOCK>
+
+
+Development of Hazard Analysis Critical Control Points for the Food Industry; Request for Comments
+
+
+<AGENCY>
+AGENCY:
+
+ Food and Drug Administration, HHS.
+
+
+</AGENCY>
+<ACTION>
+ACTION:
+
+ Advance notice of proposed rulemaking. 
+
+
+
+
+</ACTION>
+<SUMMARY>
+SUMMARY:
+
+ The Food and Drug Administration (FDA) is asking for public comment about whether and how the agency should develop
+regulations that would establish requirements for a new comprehensive food safety assurance program for both domestically
+produced and imported foods. Such regulations, if promulgated, would enhance FDA's ability to ensure the safety
+of the U.S. food supply. In this document, FDA is proposing that this program be based upon the principles of Hazard
+Analysis Critical Control Points (HACCP). FDA is requesting comments on a number of specific issues, as well as on
+all aspects of such a food safety program.
+
+
+</SUMMARY>
+<DATE>
+DATES:
+
+ Written comments by December 2, 1994.
+
+
+</DATE>
+<ADDRESS>
+ADDRESSES:
+
+ Written comments to the Dockets Management Branch (HFA305), Food and Drug Administration, rm. 123,
+12420 Parklawn Dr., Rockville, MD 20857, 3014431751.
+
+ 
+</ADDRESS>
+<FURTHER>
+FOR FURTHER INFORMATION CONTACT:
+
+ John E. Kvenberg, Center for Food Safety and Applied Nutrition (HFS10), Food and Drug Administration, 200
+C St. SW., Washington, DC 20204, 2022054010.
+
+
+</FURTHER>
+<SUPPLEM>
+SUPPLEMENTARY INFORMATION: 
+
+
+I. Background 
+
+
+A. Status of the Food Safety Assurance Program in the United States
+
+
+FDA's mandate to ensure the safety of the nation's food supply is derived principally from the Federal Food, Drug,
+and Cosmetic Act (the act) (21 U.S.C. 321 
+
+et seq
+
+). Under the act, FDA has authority to ensure that all foods in interstate commerce, or that have been shipped in interstate
+commerce, are not contaminated or otherwise adulterated, are produced under sanitary conditions, and are not misbranded
+or deceptively packaged
+<FOOTCITE>1</FOOTCITE>
+. The agency also has authority to ensure food safety under the Public Health Service Act (the PHS act) (42 U.S.C. 264),
+which relates to the control of the spread of communicable diseases from one State, territory, or possession to another,
+or from outside the United States into this country. 
+
+
+<FOOTNOTE>
+<FOOTNAME>
+1
+
+</FOOTNAME>
+
+Two other Federal agencies share with FDA the responsibility for regulating the safety of the food supply. The U.S.
+Department of Agriculture (USDA) has authority under the Meat Inspection Act (21 U.S.C. 601), the Poultry Inspection
+Act (21 U.S.C. 451), and the Egg Products Inspection Act (21 U.S.C. 1031) to inspect facilities in which meat, poultry,
+and eggs, respectively, are processed, and to regulate such products. The U.S. Environmental Protection Agency
+has authority, under provisions of the act, to establish legal limits (tolerances) for residues of pesticides on
+foods. FDA and USDA enforce such tolerances. 
+</FOOTNOTE>
+
+
+To carry out its mandate to ensure the safety of the U.S. food supply, FDA conducts periodic inspections of food processors,
+shippers, food packers and repackers, food labelers and relabelers, and food warehouses. Some inspections are carried
+out by the States, under contract with FDA. In addition, although subject to FDA jurisdiction, the many hundreds of
+thousands of retail food outlets and restaurants in the United States are inspected by State and local health departments
+with technical assistance and training from FDA. FDA's program to ensure the safety of the U.S. food supply also includes
+sample analyses of food offered for import, research into rapid detection methodologies for potential hazards,
+enforcement activities, and education and information sharing programs. The goal of all of these regulatory and
+enforcement activities is to ensure that the food supply is, and remains, safe.
+Although the current food safety assurance program has generally functioned effectively, it currently faces new
+stresses and challenges. New food processing and packaging technologies, new food distribution and consumption
+patterns, increasing public health concerns about low levels of certain chemical contaminants, and new microbial
+pathogens all contribute to today's food safety challenge. For example, the composition of the food supply has changed
+dramatically in the 55 years since passage of the act. More people consume commercially processed or commercially
+prepared foods than ever before, and there is increased consumer demand for ``fresh'' foods in convenient, ready-to-cook
+forms, which has fostered the development of sophisticated processing and packaging systems that can significantly
+extend the shelf life of a variety of foods. However, new food safety risks can be associated with these new food products,
+new packages, and new patterns of distribution and consumption. 
+One of the most important challenges to FDA's current food safety assurance program is the increasing number of new
+food pathogens. Although food borne illness has always been a public health problem, such illness appears to be on
+the rise, and new pathogens are appearing (Ref. 1). In addition, because foods are more extensively processed and
+handled, there is now a greater opportunity for food to be contaminated.
+Food borne illness is a major cause of morbidity in the United States; estimates of the yearly incidence of food borne
+illness vary greatly, ranging from 6.5 million (Ref. 1) to 12.6 million cases per year (Ref. 2), and from 24 to 81 million
+cases per year (Ref. 3). In the 15 years between 1973 and 1988, the number of recognized food borne pathogens broadened
+considerably. During that period, bacteria not previously recognized as important food borne pathogens emerged,
+including 
+
+Campylobacter jejuni, Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica
+
+, and a variety of 
+
+Vibrio
+
+ spp. During that same period, experts recognized that certain food borne illnesses may be followed by serious complications,
+such as arthritis, kidney damage, heart disease, and neurological damage (Ref. 3).
+Pathogens are not the only potential contaminants of food, however. The extensive use of industrial chemicals, coupled
+with past failures to deal adequately with chemical waste, have resulted in significant chemical pollution of the
+environment in some regions. Many of these chemicals have found their way into the food chain. The legal use of pesticides
+in agriculture may also result in residues in food. Naturally occurring chemicals, such as toxic elements and mycotoxins,
+can also be found in food at levels of concern. The sheer number of these potential contaminants, the concerns about
+their toxicity even at very low levels, and the difficulty and expense associated with many of the analytical methods
+used to quantify their levels in food, make exhaustive endpoint monitoring of the food supply virtually impossible.
+
+The size and diversity of the food industry adds to the stress on the current food safety assurance program. FDA's current
+inventory lists over 30,000 food manufacturers and processors, and in excess of 20,000 food warehouses. The number
+of foreign manufacturers and processors shipping food products to the United States continues to increase. In 1992,
+there were well over 1 million food import entries into the United States. In addition, the diversity of food imports
+continues to increase, with a rising volume of foods entering the United States in processed forms.
+Finally, the current food safety program is under stress internally. It is unlikely that FDA will ever have sufficient
+resources to inspect, sample, and analyze more than a small percentage of imported food shipments. State and local
+governments, on which FDA relies heavily for surveillance of the growing retail food sector, are also under severe
+resource constraints. Indeed, some States are considering proposals to reduce their food safety programs.
+FDA's current regulatory strategy for ensuring food safety, with its emphasis on periodic visual inspection of food
+facilities and end-product testing, was designed to control the problems that were known to exist when the act was
+established in 1938. The agency has struggled to keep up with the enormous growth and changes in the food industry and
+the resulting new food safety challenges. FDA's current regulatory approach is relatively resource intensive and
+inefficient compared to other ways of ensuring food safety. Inspections that FDA conducts under the current system
+can determine the adequacy of conditions in a food plant at the time of the inspection but not whether the company has
+in place a food safety assurance program that is operating reliably and consistently to produce safe food at all times.
+Furthermore, the current inspectional approach is generally reactive, not preventive. It is effective in detecting
+and correcting problems after they occur, but, except in certain limited areas such as the regulation of infant formula
+and low acid canned foods, it is not currently based on a system of preventive controls. 
+For all of these reasons, FDA believes that it is appropriate at this time for the agency to consider improvements to
+its food safety assurance program to focus the program on prevention of food safety risks and problems. FDA's goals
+in establishing additional food safety regulations would be to: (1) Make the food supply safer through prevention
+of food safety problems; (2) enable FDA and its State and local counterparts to make more efficient use of the existing
+resources devoted to ensuring food safety, and (3) enhance the ability of the Federal Government to provide consumers
+with the assurance they seek that the U.S. food supply is safe.
+
+FDA recognizes that risks vary across the food supply and that measures to make food safer should focus on the potential
+of particular foods or possible contaminants in those foods to cause illness. The agency also recognizes that there
+is no proven method or approach for ensuring the safety of food that will eliminate risk in all circumstances. Indeed,
+one purpose of this notice is to seek public comment on the degree of potential risks posed by those microorganisms,
+chemicals, and physical hazards (e.g., broken glass) that can get into food and be passed on to the consumer, if appropriate
+care is not exercised. FDA also desires comments on the consequences of these risks if they occur. In addition, the
+agency seeks comment on how these risks can best be controlled and which systems of quality control can best protect
+consumers from potentially unsafe food. 
+Although the agency has reached no final conclusions about how its regulatory programs should be revised to make food
+as safe as possible, FDA has tentatively concluded that the improvements in the agency's current food safety assurance
+program should be based on a state-of-the-art, preventive approach known as HACCP. HACCP was developed approximately
+30 years ago by the U.S. food industry, and it is currently used in a number of domestic food processing facilities.
+HACCP is internationally regarded as the most effective system for producing safe food. FDA is considering HACCP
+as the foundation for revision of the U.S. food safety assurance program because, although simple in its basic concepts,
+HACCP is a sophisticated and powerful tool for ensuring food safety. HACCP is a science based, systematic approach
+to preventing food safety problems by anticipating how such problems are most likely to occur and by installing effective
+measures to prevent them from occurring. HACCP thus requires that the processor and the regulatory authority be aware
+of the state-of-the-art science relative to food safety and processing technology. HACCP appropriately affirms
+that the food industry has primary responsibility for producing safe food, and it provides an important opportunity
+to link the food industry's system for producing safe food with the Government's system of regulatory oversight.
+A more in-depth discussion of the HACCP concept follows.
+
+
+B. The HACCP System
+
+
+The HACCP concept (Ref. 4) is a systematic approach to the identification, assessment of risk (likelihood of occurrence
+and severity), and control of the biological, chemical, and physical hazards associated with a particular food production
+process or practice. HACCP is a preventive strategy. It is based on development by the food producer of a plan that anticipates
+food safety hazards and identifies the points in the production process where a failure would likely result in a hazard
+being created or allowed to persist; these points are referred to as critical control points (CCP's). Under HACCP,
+identified CCP's are systematically monitored, and records kept of that monitoring. Corrective actions are taken
+when control of a CCP is lost, including proper disposition of the food produced during that period, and these actions
+are documented. 
+Use of the HACCP system for the food industry will underscore the industry's role in continuous problem prevention
+and problem solving, rather than relying solely on traditional facility inspections by regulatory agencies to detect
+loss of control. HACCP provides for real time monitoring procedures to assess the effectiveness of control. Each
+HACCP plan would reflect the uniqueness of a food, its method of processing, and the facility in which it is prepared.
+
+HACCP has been endorsed by the National Advisory Committee on Microbiological Criteria for Foods (NACMCF) as an effective
+and rational means of ensuring food safety from harvest to table. The NACMCF was established in 1988 by USDA in conjunction
+with FDA to fulfill a recommendation of the National Academy of Sciences, and includes officials from FDA, USDA, the
+National Oceanic and Atmospheric Administration, and the Department of Defense, as well as experts from academia
+and the food industry. HACCP is also recognized in the international food safety community as the state-of-the-art
+means to ensure the safety and integrity of food. In particular, the Committee on Food Hygiene of the United Nations'
+Codex Alimentarius Commission (Codex) has endorsed the HACCP concept as a world wide guideline. Indeed, the European
+Union (EU) and other countries around the world have begun to require that foods produced within their borders be processed
+under HACCP requirements.
+The NACMCF has developed the following seven principles that describe the HACCP concept:
+
+
+1. Hazard Analysis 
+
+
+The first step in the establishment of a HACCP system for a food process or practice is the identification of the hazards
+associated with the product. The NACMCF defines a hazard as a biological, chemical, or physical property that may
+cause a food to be unsafe for consumption. The hazard analysis step should include an assessment of both the likelihood
+that such a hazard will occur and its severity if it does occur. This analysis should also involve the establishment
+of preventive measures to control identified hazards.
+
+
+2. Identification of CCP's
+
+
+A CCP is a point, step, or procedure at which control can be applied, the result being that a potential food safety hazard
+can be prevented, eliminated, or reduced to acceptable levels. Points in the manufacturing process that may be CCP's
+include cooking, chilling, specific sanitation procedures, product formulation control, prevention of cross
+contamination, and certain aspects of employee and environmental hygiene.
+
+
+3. Establishment of Critical Limits for Preventive Measures Associated With Each Identified CCP
+
+
+This step involves establishing a criterion that must be met for each preventive measure associated with a CCP. Critical
+limits can be thought of as boundaries of safety for each CCP and may be set for preventive measures such as temperature,
+time, physical dimensions, moisture level, water activity, pH, and available chlorine. 
+
+
+4. Establishment of Procedures to Monitor CCP's
+
+
+Monitoring is a planned sequence of observations or measurements to assess whether a CCP is under control and to produce
+an accurate record for use in future verification procedures. Continuous monitoring is possible with many types
+of physical and chemical methods. When it is not possible to monitor a critical limit on a continuous basis, monitoring
+intervals must be frequent enough to permit the manufacturer to determine whether the step/process/procedure designed
+to control the hazard is under control.
+
+
+5. Establishment of Corrective Actions To Be Taken When Monitoring Shows That a Critical Limit Has Been Exceeded
+
+
+While the HACCP system is intended to prevent deviations in a planned process from occurring, total prevention can
+rarely, if ever, be achieved. Therefore, there must be a corrective action plan in place to ensure appropriate disposition
+of any food produced during a deviation, to fix or correct the cause of noncompliance to ensure that the CCP is once again
+under control, and to maintain records of corrective actions taken. 
+
+
+6. Establishment of Effective Recordkeeping Systems That Document the HACCP System
+
+
+This principle requires the preparation and maintenance of a written HACCP plan that lists the hazards, CCP's, and
+critical limits identified by the firm, as well as the monitoring, recordkeeping, and other procedures that the firm
+intends to use to implement the plan. This principle also requires the maintenance of records generated during the
+operation of the plan.
+
+
+7. Establishment of Procedures to Verify That the HACCP System is Working
+
+
+This process involves verifying that the critical limits are adequate to control the hazards identified, ensuring
+that the HACCP plan is working properly and verifying that there is documented, periodic revalidation of the plan
+to confirm that the plan is still performing its intended function under existing plant conditions at any point in
+time.
+
+
+C. FDA's Authority to Mandate HACCP
+
+
+In the 
+
+Federal Register
+
+ of January 28, 1994 (59 FR 4142), FDA proposed regulations that would require HACCP controls in the seafood industry.
+The agency believes that it is now appropriate to explore the application of HACCP to segments of the industry other
+than seafood. At this time the agency would plan to proceed in a stepwise fashion with those segments of the industry
+that are suitable candidates for adoption of HACCP principles. This document is intended to explore how the agency
+should pursue that broader HACCP program. FDA is doing so because the agency believes that such a program would be an
+effective and efficient way to ensure that food meets the act's safety standards and to implement section 402(a)(4)
+of the act (21 U.S.C. 342(a)(4)). As explained below, if FDA proceeds with a HACCP proposal covering additional segments
+of the food industry, such proposal would be made pursuant to the authority of sections 402 and 701(a) of the act (21
+U.S.C. 371(a)).
+Section 201 of the act defines the term ``food'' as ``articles used for food or drink for man or other animals.'' Under
+section 402(a)(4) of the act, a food is deemed adulterated if it has been ``prepared, packed, or held under insanitary
+conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health.''
+Proof that a food is actually contaminated or otherwise hazardous is not required to establish that a food is adulterated
+under section 402(a)(4) of the act. (See 
+
+United States
+
+ v. 
+
+H. B. Greggory Co.
+
+, 502 F.2d 700, 704 (7th Cir. 1974), cert. denied, 422 U.S. 1007 (1975).) Instead, such adulteration requires only
+a showing that the conditions under which food is prepared, packed, or held create a ``reasonable possibility'' of
+contamination. (See 
+
+Berger
+
+ v. 
+
+United States
+
+, 200 F.2d 818, 821 (8th Cir. 1952).)
+In its enforcement of section 402(a)(4) of the act, FDA has considered, among other things, prevailing industry standards
+and the technical state-of-the-art in determining, on a case-by-case basis, whether the conditions under which
+a company is processing or otherwise handling food violate the standard of section 402 (a)(4). FDA's current intention
+is to propose to codify, in a future rulemaking, a state-of-the-art standard based upon HACCP principles. This standard
+would establish those conditions of food manufacturing, packing, and holding that are consistent with section 402(a)(4)
+of the act. Such regulations would thus ensure the agency's efficient enforcement of section 402(a)(4) and the other
+food safety provisions of the act, as authorized by section 701(a) of the act. 
+At this juncture, the regulations that FDA is considering for proposal would specify the requirements that the agency
+believes are the minimum necessary to ensure that food products under FDA's jurisdiction are not adulterated under
+section 402(a)(4) of the act. Under the program that FDA is considering, if a food purveyor covered by the program does
+not adopt and implement a HACCP plan that complies with the program's requirements or does not operate the plan in accordance
+with the program, food prepared, packed, or held in that facility would be adulterated under section 402(a) (4) of
+the act and potentially subject to regulatory action by FDA. 
+
+
+D. Rationale for a HACCP Approach
+
+
+FDA expects that adoption of HACCP by some or all segments of the food industry, coupled with Government verification
+through inspections of the HACCP system, will more effectively and efficiently ensure the safety of the American
+food supply. The agency has tentatively chosen a HACCP approach because HACCP addresses the root causes of food safety
+problems in production, storage, transportation, etc., and is preventive. Two principal alternatives to HACCP
+exist; end-product testing and comprehensive current good manufacturing practice (CGMP) regulations. End-product
+testing does not address the root causes of food safety problems; it is not preventive by design and requires that a
+large number of samples be analyzed to ensure product integrity. Similarly, CGMP's are not a practical approach because
+of the breadth and diversity of the food industry, the limited resources available within FDA to prepare the many specific
+CGMP regulations that would be needed to cover effectively such a diverse industry, and the time required to implement
+such regulations. However, FDA may consider the promulgation of CGMP's for certain food processes or types if such
+regulations would be more effective than a HACCP system for such processes. For example, some of the comments have
+suggested that sanitation would be better addressed through CGMP's than through a HACCP plan.
+A HACCP system for food safety assurance has numerous distinct advantages including the following: (1) HACCP focuses
+on prevention and is designed to prevent hazards from entering food; (2) HACCP permits more effective and efficient
+Government oversight; (3) HACCP places primary responsibility for ensuring food safety appropriately on the food
+manufacturer/distributor; and (4) HACCP assists food companies in competing more effectively in the world market.
+
+The primary purpose of any HACCP system is to prevent problems through the systematic analysis and control of the production
+system by industry. This analysis and control would be confirmed by Government verification of the industry's monitoring.
+As such, a HACCP approach provides an appropriate balance between the responsibilities of industry and Government
+in ensuring food safety. A HACCP based program will also allow FDA and its State and local government counterparts
+to conduct more efficient and focused inspections of food facilities. 
+In addition to being preventive in nature and more efficient, a HACCP approach offers two additional benefits over
+conventional inspection techniques. First, in contrast to FDA's current regulatory approach, a HACCP approach
+requires industry to analyze, in a rational, scientific manner, its production processes in order to identify CCP's
+and to establish critical limits and monitoring procedures. An essential part of the industry's role under HACCP
+is to establish and maintain records to document adherence to the critical limits relating to the identified CCP's,
+which will result in continuous self inspection.
+Second, HACCP allows the regulator to monitor more effectively a firm's compliance with food safety laws. With its
+current system of inspection, FDA can determine the conditions at a food plant only during the period of inspection.
+The agency must therefore make assumptions about conditions before and after the inspection based on a snapshot of
+plant conditions and practices at the time of the inspection.
+With an HACCP-based program in place, an investigator can determine and evaluate both current and past conditions
+critical to ensuring the safety of food produced by the facility. As discussed above, an essential part of a HACCP system
+is maintenance of monitoring records. By examining such records, the Government inspector can, in effect, look back
+through time at the conditions of a facility. Under the proposal that FDA currently envisions, the agency would have
+access to CCP monitoring records to verify that the HACCP plan is working. Government monitoring under a HACCP system
+would provide assurance that systems of preventive controls are in place and functioning properly and thus afford
+greater public assurance of food safety.
+Current Federal inspection and surveillance strategies attempt to gauge the industry's knowledge of hazards and
+preventive control measures largely by inference, i.e., whether a company's products are in fact adulterated, or
+whether conditions in a plant are in compliance with CGMP's. Consequently, the current inspection system places
+a great deal of responsibility on Government regulators to uncover problems and to take regulatory action to address
+those problems. Under a HACCP-based inspection system, it would be the responsibility of the company to develop a
+plan for producing safe food, and the role of Government inspectors would be to verify that the company is carrying
+out its plan.
+Finally, adopting a HACCP system could potentially enhance international trade opportunities for the United States.
+Although enhancing trade has no direct effect on public health, participation in international trade in food products
+is critical to the U.S. economy. The United States is by far the world's major food exporter, with exports of raw agricultural
+and processed food products of over $40 billion per year. The United States also imports a substantial quantity of
+food products each year from many countries around the world. HACCP will improve FDA's ability to monitor such imports
+and thus ensure confidence in their safety. Also, HACCP is becoming the world-wide standard to ensure the safety of
+food and will thus serve as basis for harmonizing U.S. food safety regulations with those of other nations.
+The Uruguay Round negotiations under the General Agreement on Tariffs and Trade (GATT) has resulted in further focus
+on this area. The Agreement on the Application of Sanitary and Phytosanitary Measures states the desire of member
+countries, including the United States, to further ``* * * the use of harmonized sanitary and phytosanitary measures
+between members, on the basis of international standards, guidelines and recommendations developed by the relevant
+international organizations, including the Codex Alimentarius Commission * * *'' (Ref. 5). This trend toward harmonization,
+coupled with the current recommendations of the Codex Alimentarius Commission encouraging the international use
+of HACCP, provide further support for FDA's serious consideration of a HACCP program for all or part of the food industry.
+
+
+
+E. How the Agency Intends to Proceed 
+
+
+FDA began its initiative to mandate HACCP with a proposal covering the seafood industry due in large part to the fact
+that a substantial amount of work on the application of HACCP to seafood processing and importation, including the
+development of specific HACCP models, has already been done by the Federal Government, some States, academia, and
+by the seafood industry itself. Thus, there is a considerable body of literature and expertise, which can facilitate
+the development of HACCP systems by seafood processors and importers. Moreover, seafood industry representatives
+have been urging the Federal Government to adopt a mandatory HACCP program. The National Fisheries Institute, the
+largest seafood industry trade association, has testified repeatedly at congressional hearings in support of legislation
+that would mandate such a system. The agency recommends that interested persons refer to the seafood proposal to understand
+how the HACCP approach might work with respect to one category of food product. 
+The body of knowledge and experience on the application of HACCP to food production has not, as far as the agency is aware,
+been developed for other commodities to the extent that it has for seafood. (One possible exception is the low acid
+canned food industry, where much work has been done in HACCP's application due to FDA's long standing regulatory program
+for this industry.) Moreover, the food industry is extremely diverse and complex. For these reasons, FDA has decided
+to issue this advance notice of proposed rulemaking to request comments on various aspects of the implementation
+of a mandatory HACCP program for some or all other sectors of the food industry. Those comments may suggest that an industry-wide
+HACCP requirement is appropriate or may indicate that such a program should be phased-in as data on individual commodities
+is compiled. FDA is open to any other suggestions. Specific issues on which FDA is particularly interested in receiving
+comments are set out below.
+The agency believes that it could benefit from experience with the application of HACCP to selected commodities outside
+the seafood area. To gain this experience the agency has announced a voluntary pilot HACCP program and invited interested
+food producers to participate. 
+Some of the objectives of this pilot program are to obtain data on the hazards associated with particular types of food,
+and to develop and implement HACCP plans to control those hazards in conjunction with the participating firms. The
+pilot program could provide the agency and the industry with the practical knowledge and experience that would assist
+in the development and implementation of a HACCP program for particular segments of the food industry.
+FDA recognizes that an ongoing exchange of scientific, technical, and operational information between the agency,
+the food industry, trade associations, consumer groups, FDA's State and local counterparts, and other affected
+parties is essential for the successful implementation of HACCP in the food industry. Consequently, FDA intends
+to maintain a dialogue with all affected parties during the process of developing its proposed regulations. In particular,
+FDA will meet with the food industry, consumer groups, and other interested parties during the comment period on this
+advance notice of proposed rulemaking.
+FDA anticipates that it will receive a substantial number of comments in response to this document. The agency will
+review these comments and have further dialogue with industry and consumer representatives, as well as other groups
+and organizations knowledgeable in food safety, as part of its process for determining the appropriate regulatory
+approach prior to publication of a proposed rule.
+FDA intends to work closely with USDA, as it considers development of its own HACCP regulations for meat and poultry
+products, to ensure that the two regulatory bodies have a consistent approach in applying HACCP principles to the
+food industry, while recognizing that inherent differences may exist between food commodity groups that will necessitate
+different approaches.
+FDA also intends to work closely with its State and local counterparts that regulate the retail segment of the food
+industry. One principal way FDA conveys its recommended food regulatory policy to the nation's State and local food
+control agencies is through FDA's model Food Code. A notice of availability of the latest revision of the Food Code,
+which incorporates certain HACCP principles and terminology, was published in the 
+
+Federal Register
+
+ of January 28, 1994 (59 FR 4085).
+
+
+II. Request for Comments
+
+
+Under the act, the food industry has the primary responsibility for ensuring the safety of the food it produces and
+distributes. In its simplest terms, the role of Government is to verify that the industry is carrying out its responsibility
+and to initiate regulatory or other appropriate action when the industry fails to do so. FDA believes that establishing
+a HACCP program throughout the food industry could enable both the industry and FDA to carry out their respective responsibilities
+far more efficiently and effectively. FDA invites comments on this point, as well as on specific issues relating to
+the application of HACCP to foods other than seafood, as set out below.
+
+
+
+A. Scope of a HACCP Regulation 
+
+
+NACMCF supports the adoption of HACCP throughout the food industry ((Ref. 4). Additionally, the Codex Ailmentarius
+Committee on Food Hygiene considers HACCP to be the most efficient and cost effective means to manage food safety (Ref.
+4). FDA recognizes, however, that not all foods pose the same inherent risks. The agency intends to work with the Centers
+for Disease Control and Prevention and other Federal and State agencies as well as health professionals, industry,
+and consumer groups to access and evaluate data on the relative risks associated with various foods. FDA has concluded
+that HACCP has great potential to improve food safety and can be successfully used beyond seafood. However, specific
+HACCP requirements established for the various segments of the industry may be different because of differences
+in risk as well as differences in processes, etc. The agency encourages the food industry generally to begin using
+HACCP more widely. 
+FDA specifically requests comments on the scope of any mandatory HACCP program proposed by the agency. Should FDA
+mandate HACCP for all segments of the food industry? Or should HACCP be required only for certain segments of the food
+industry? In deciding whether to cover all or some segments of the food industry by a mandatory HACCP rule, what criteria
+should FDA use? In particular, should any exclusions from a HACCP requirement be determined on any basis other than
+the risk presented by the particular activity? Are there categories of activities, such as the warehousing of certain
+types of foodstuffs, that deserve exclusion?
+The agency also requests comment on how a mandatory HACCP rule should apply to those in the chain of distribution of
+imported foods. How should the agency ensure that imported foods are produced and handled safely? In the seafood proposal,
+FDA is proposing that all domestic and foreign processors and importers adopt HACCP controls, and FDA is proposing
+to take steps to ensure that the HACCP controls are in fact implemented by foreign processors. The seafood proposal
+broadly defines ``processor'' to include packers, repackers, wholesalers, and warehousers. Should the agency
+adopt the same approach with respect to foreign processors, handlers, and importers of all other foods? 
+FDA also solicits comments on whether and how a mandatory HACCP rule should apply to food retailers. The agency's seafood
+proposal specifically excludes retailers from the definition of ``processor.'' Should a similar exclusion be made
+for retailers of all other foods as well? The agency notes that its updated Food Code, which serves as guidance to the
+States as part of an ongoing cooperative program for regulating the retail sector, incorporates several HACCP elements.
+The agency requests comment on this cooperative program for the retail sector and on how governments at all levels
+can best collaborate to ensure the safety of food from farm or fishery to the dinner table, including food sold ready-to-eat
+at the retail level. Should HACCP be required in restaurants and other retail outlets? Should HACCP requirements
+be applied directly to raw material suppliers and transportation companies? Or should such requirements be imposed
+indirectly through the HACCP plans of processors and others who receive food (e.g., by using purchase specifications)?
+
+FDA also specifically requests comment on how small firms should be covered by any mandatory HACCP regulations. In
+the seafood proposal, FDA has made no distinctions in the application of proposed requirements based on firm size.
+If small firms should be exempt, on what basis should the exemption be made? 
+
+
+B. Focus of HACCP
+
+
+NACMCF believes that HACCP and HACCP plans should address food safety, including all biological, chemical, and physical
+hazards that would affect a particular food. Consistent with this view, FDA has limited the scope of the HACCP requirements
+in the seafood proposal to safety concerns and has not included food quality and labeling standards and requirements.
+Although the agency believes that the primary focus of a HACCP program should be safety, FDA is aware that food quality
+is also important to consumers and is an issue in international trade. 
+Should FDA's HACCP program for the broader food industry be limited to food safety and the hazards presented by a particular
+activity? If so, how broadly should hazard be defined? What level of risk warrants HACCP-type control? Should different
+levels of control be required in HACCP plans for different levels of risk? Or should FDA's proposal mandate that food
+quality issues be included in HACCP plans? Should sanitation practices within the plant be required to be included
+in HACCP plans?
+
+
+C. Implementation of HACCP
+
+
+FDA recognizes that, because of the size and diversity of the overall food industry, any mandatory HACCP program would
+likely be costly for some segments of the food industry and need to be phased in gradually. Development of HACCP plans
+would require at least some segments of the industry to adopt new ways of thinking and operating. Review by FDA of HACCP
+plans and monitoring records as part of its plant inspections would necessitate additional training of FDA, State,
+and local investigators. 
+In view of the scope of the task, what would be a reasonable time period for the implementation of HACCP? In the seafood
+proposal, FDA is proposing a 1-year period for implementation, measured from the date of the final regulations. This
+proposed lead time takes into account the fact that a considerable amount of developmental work has already been done
+on the application of HACCP to seafood processing. Are there special considerations for other types of foods that
+could affect implementation time? Are there circumstances that would require some industry segments to need an implementation
+period longer than 1 year after final rule promulgation?
+If implementation of HACCP is to be phased in (i.e., certain segments would gradually be subject to the HACCP requirements
+established), how should this be accomplished? How should firms or segments of the food industry be differentiated
+for purposes of such a phased in implementation? What would be appropriate time intervals between each implementation
+phase? What criteria should be used to decide the order of implementation for the various segments of the food industry?
+For example, should potential food safety risks associated with the product be considered in determining an implementation
+schedule, and if so, what factors should be used in ranking foods with respect to potential risk? Likewise, for example,
+should firm size be considered in determining the order of implementation? 
+The agency is interested in learning about the experiences that food manufacturers have had with the implementation
+of HACCP and therefore requests comments from firms who have had actual experience in the application of HACCP concepts
+to food production, both on what has worked and on what has not worked. In particular, FDA seeks information on: (1)
+How long it took to implement a HACCP program; (2) the start-up and maintenance costs; and (3) the impact of implementing
+HACCP on the safety of the product, the efficiency of the firm's operation, and any long-term savings (cost effectiveness).
+The agency is also interested in any measures that have been, or could be, used to measure the effectiveness of HACCP
+to improve product safety. The agency is particularly interested in the experiences of small food firms on all of the
+above. 
+
+
+
+
+
+D. Evaluation of the HACCP System
+
+
+
+
+
+FDA believes that implementation of HACCP beyond the seafood industry, whether voluntary or mandatory, will more
+effectively and efficiently ensure the safety of the American food supply. The agency recognizes, however, that
+there may be alternatives to the HACCP approach and invites comment on such alternatives and their effectiveness.
+
+The agency also invites comment on whether there are factors that would limit the effectiveness of the HACCP approach.
+What information is needed in order to judge the effectiveness of a HACCP program? Should HACCP programs be pilot tested
+before implementation? Should there be a minimum level of certainty that a HACCP plan would be effective in controlling
+hazards prior to implementation?
+
+What should be the qualifications of individuals responsible for developing HACCP plans? What should be the qualifications
+of individuals responsible for verification of HACCP plans? Is the current state of knowledge sufficient to make
+adequate hazard analyses? Is there a need for microbiological criteria in HACCP plans? Will end-product microbiological
+testing be necessary?
+
+How should the appropriate frequency of monitoring CCP's be determined? Should a processing plant be required to
+submit a report to FDA each time a process is found to be out of control? What, if any, circumstances should trigger mandatory
+reporting to FDA? Is it necessary to require that a food processor have a reliable and well-tested method of recall
+as part of its HACCP plan?
+
+
+
+E. Roles of FDA, the States, and the Food Industry
+
+
+FDA's interest in institutionalizing HACCP for the food industry is based on the agency's recognition of the need
+to revise the current regulatory approach and make it more effective and comprehensive. This revision must coordinate
+and maximize the efforts of all levels of Government and the food industry to provide effective coverage of food from
+farm or fishery to table. The respective roles of industry, State and local authorities, and FDA must be clearly articulated,
+and they must be integrated and coordinated. FDA's preliminary thinking on the nature of these respective roles follows.
+If FDA decides to make HACCP mandatory for some or all segments of the food industry, firms would be required to develop,
+implement, and maintain an effective HACCP system in their facility, and to verify that the system is adequate to ensure
+a safe product. The HACCP system developed by the firm would have to include all relevant critical limits (such as tolerances)
+contained in existing FDA regulations and guidelines, as well as other CCP's judged necessary by the firm to ensure
+the safety of the food. Firms would also be responsible for taking appropriate corrective actions whenever a CCP deviation
+has occurred. The system would be considered out of compliance when a critical limit of a CCP has been exceeded and corrective
+actions are not taken or are ineffective.
+Regulated industry segments would also be responsible for providing appropriate training for personnel involved
+in implementing HACCP in each facility. Each facility would have to maintain an accurate, up-to-date HACCP plan,
+which would be available for review by FDA investigators during an inspection. Records pertinent to the monitoring
+of the CCP's in the HACCP plan would also have to be available for review by FDA.
+FDA is seeking comment on the appropriateness of imposing these obligations on the food industry under a mandatory
+HACCP system. The agency is especially interested in receiving comments on records access, including: 
+ (1) What records should be considered HACCP records, and therefore be accessible to FDA (and State and local) investigators?
+Under FDA's proposed HACCP regulations for seafood, HACCP records include the HACCP plan itself, records of the monitoring
+of critical control points, and records of corrective actions. In the case of seafood, FDA tentatively concluded
+that the agency should have access to all records deemed to be HACCP records, because without such access, the regulatory
+requirements would not be meaningful. 
+(2) How should consumer complaint files relating to CCP failures be utilized in a HACCP system? In FDA's proposed HACCP
+regulations for seafood, the agency tentatively concluded that each HACCP system should take advantage of consumer
+complaints as they relate to the operation of CCP's. The agency proposed that procedures for monitoring CCP's include
+procedures for monitoring relevant consumer complaints, and that consumer complaints that potentially relate
+to the performance of critical control points be considered HACCP records. FDA invites comment on this approach for
+foods generally. Should FDA have access to consumer complaint files relating to CCP failures? What criteria should
+be used to determine whether a consumer complaint is linked to a CCP failure? 
+(3) How long should HACCP records be kept? The proposed HACCP regulations for seafood mandate 1 year for fresh products
+and 2 years for frozen and preserved products. 
+As an additional matter, FDA is aware that there is substantial public interest in the extent to which industry-generated
+HACCP records could or should be publicly available. FDA invites comment on the general question of public disclosure
+of HACCP records and on the agency's preliminary analysis of the availability of such records, which follows.
+FDA has long had explicit statutory authority to obtain access to certain industry records during inspections involving
+infant formula, drugs, and devices (21 U.S.C. 374), and has had access by virtue of agency regulations to certain processing
+records during inspections of low acid canned food processors and manufacturers of infant formula. The agency has
+the right to copy and take possession of these records, but does not routinely do so. FDA typically copies and takes
+possession of records only when they may be needed for regulatory purposes. As a preliminary matter, FDA expects to
+continue this practice with regard to HACCP records.
+The public availability of those HACCP documents that would become part of FDA's official records as a result of copying
+during an inspection would be governed by section 301(j) of the act and by the Freedom of Information Act (FOIA) and
+regulations issued under the FOIA by the Department of Health and Human Services (HHS) and by FDA. Section 301(j) of
+the act expressly prohibits any person from disclosing trade secret information obtained during the course of an
+inspection. The agency's FOIA regulations also state that FDA will not disclose either trade secret or confidential
+commercial information. FDA's preliminary view is that HACCP plans and monitoring records fall within these two
+categories of protected records. As a consequence, FDA may have little discretion to disclose such records. Moreover,
+under HHS FOIA regulations, processors may be entitled to challenge in court a pending disclosure of records on the
+ground that the records to be disclosed are confidential commercial or trade secret. 
+Additionally, there are significant legal and practical questions as to whether FDA has the authority to require
+disclosure of industry records that are not in FDA's possession. 
+ The agency is also seeking comments on whether there should be a standardized format (structure and organization)
+for written HACCP plans. If so, how should this standard format be developed and who should develop it?
+As is the case today, the overall goal of FDA's inspection program would be to ensure that foods are safely prepared,
+packed, and held. To achieve this goal under a HACCP system, FDA's inspection would seek to verify that a HACCP plan
+is adequate to ensure food safety and that it is being implemented and maintained properly. The agency is seeking comments
+on the appropriate frequency of agency inspections under a mandatory HACCP program to achieve its goal of ensuring
+food safety.
+The agency is also interested in receiving comments on the possible role that FDA could play to assist the food industry
+in developing and establishing HACCP programs. This assistance could take the form of agency guidelines for developing
+HACCP plans and generic HACCP plans developed in cooperation with the industry. FDA could also promote and participate
+in educational programs to encourage the use of HACCP and FDA could continue to represent the United States at international
+meetings on HACCP. The agency could work with interested groups to identify new food safety hazards and to develop
+new strategies for their control.
+The agency expects that the States would play a major role in enhancing FDA's enforcement coverage. State authorities
+could participate in HACCP inspections both as part of their own enforcement activities and under FDA contract. State
+and local authorities could also be involved in actively promoting the use of HACCP at the retail level.
+The agency is seeking comments on what its role should be relative to the review, verification, monitoring, and certification
+of HACCP plans. In the seafood proposal, FDA is not proposing to require that HACCP plans be submitted to FDA in advance,
+or that preapproval by FDA be a condition of the adoption or implementation of these plans. If FDA proposes to make HACCP
+mandatory for other portions of the food industry, should it adopt this approach? Should FDA indentify CCP's and establish
+critical limits in its HACCP regulation, or should it defer to firms to develop these themselves? What role should
+FDA serve in overseeing the corrective actions taken when a deviation has occurred? Can any HACCP oversight function,
+including review of plans and monitoring, be performed by certified third parties? If so, how should they be certified
+and by whom?
+For implementation of HACCP for fish and fishery products, FDA is developing guidelines for processors. These guidelines
+inventory and describe the likely hazards associated with both products and processes, and provide advice on how
+these hazards can be controlled. These guidelines also include a fill-in-the-blank HACCP plan to serve as an example
+of how a basic HACCP plan could be developed. Are such guidelines necessary for other commodities and, if so, who should
+develop them? What specifically should be included? What role should the food industry play in the development of
+these materials? What other forms of assistance should FDA provide? To what extent, if any, should any of this additional
+guidance be made mandatory?
+
+
+F. Training and Education
+
+
+The agency's experience with low acid canned foods established that appropriate training is critical to the successful
+implementation of HACCP in the food industry. The industry will need training on how to develop HACCP plans, i.e.,
+how to identify hazards and establish critical limits, control measures, corrective actions, and recordkeeping
+procedures. Investigators employed by regulatory agencies, including FDA, will need training to understand how
+to review HACCP plans as well as industry records pertaining to implementation and operation of such plans.
+Based upon its low acid canned food experience, FDA believes that employee training is an essential element of an effective
+HACCP program. Should FDA mandate training for plant personnel responsible for developing and maintaining the HACCP
+program? In the seafood proposal, FDA is proposing to require that each processor and importer employ at least one
+individual who has successfully completed a training course on the application of HACCP to fish and fishery products
+processing. Moreover, the regulations propose to require that those at each establishment who have received training
+be responsible for reviewing records of CCP monitoring, recognizing critical limit deficiencies, and assessing
+the need for corrective actions relative to the product in question and the HACCP plan itself. FDA seeks comment on
+the question of training. Are there reasons why such training should not be mandated? If such training is required,
+as FDA currently believes it should be, who should conduct these training courses? Who should be required to attend?
+What role, if any, should FDA have regarding course materials and instructors? Should a third party be certified by
+FDA to review and approve the training courses? Should one, some, or all responsible plant employees be certified?
+
+
+G. International Harmonization
+
+
+As the international community moves toward HACCP, FDA believes an opportunity exists to improve the safety of the
+U.S. food supply by working toward harmonized approaches that would elevate FDA's confidence that food entering
+the United States meets U.S. safety standards. Such harmonization would also support U.S. exports. For example,
+after January 1, 1995, unless seafood products for import into the EU are produced under HACCP, the EU will carry out
+extensive end-product testing, and the competitiveness of importers will be significantly affected. How should
+FDA approach any effort to harmonize HACCP standards with those of other countries? What role should the Codex play?
+
+
+
+H. Potential Costs and Benefits
+
+
+The agency is also requesting relevant economic information. In particular, FDA seeks estimates of the following
+costs: (1) The initial costs of developing a HACCP plan and the frequency and costs of altering the plan; (2) costs of
+monitoring and recordkeeping by type of process, product, and packaging, and the costs of reviewing records before
+shipment; (3) costs of necessary training of employees, and rate of turnover of employees; (4) administrative costs
+to oversee all phases of HACCP implementation and operation; (5) the cost of monitoring equipment and other types
+of equipment needed to implement a HACCP program; (6) the cost and frequency of corrective actions when critical limits
+are exceeded; (7) the potential cost to the industry of FDA inspections of HACCP programs; (8) cost of testing for chemical
+and contaminant residues as a component of HACCP; (9) cost of process redesign; (10) cost of new product design; and
+(11) the costs of any consultants that might be required under a HACCP approach. FDA also seeks comments about the costs
+of expanding HACCP to elements of the food industry other than manufacturers and processors, such as retail supermarkets
+and restaurants, food transporters, and raw material suppliers. FDA is particularly interested in the cost experience
+of small firms who have implemented HACCP, and how HACCP implementation by these firms is different from that of large
+firms. 
+FDA is also announcing its intention to survey the food processing industry (except for seafood) to estimate the costs
+of complying with mandatory HACCP requirements and requests comments on how such a survey should be designed and implemented.
+FDA is also interested in receiving comments on benefits of mandating HACCP for particular products, processes,
+and packaging. Thus, FDA is seeking information about the existing risk levels presented by various foods, including
+risk from microorganisms, contaminants, and chemical residues from all interested parties, including State and
+other Federal agencies. FDA is also interested in receiving information concerning any quantitative reductions
+in risk that have been documented by firms now using HACCP, or other evidence that would document that illness or other
+food borne risks have been reduced through use of HACCP. FDA also is interested in receiving information that documents
+savings in production costs or indirect benefits, such as increased quality, that firms using HACCP have experienced.
+Because many risks are the result of consumer mishandling, FDA requests comments on the extent of this source of illness
+or other food borne risks, and how this information should be used to target HACCP efforts. Finally, FDA requests comments
+on the benefits of extending HACCP to the other areas of the food industry that are mentioned above.
+
+
+
+I. Potential Environmental Effects
+
+
+The agency is also requesting relevant environmental information because, under the National Environmental Policy
+Act, FDA must consider the environmental impact of its actions. The agency does not currently possess the data that
+would permit detailed analysis of the environmental impact of the action under consideration by the agency, as described
+in this document. 
+Therefore, the agency is requesting information on the potential environmental impact including: (1) Potential
+for increased energy consumption, (2) potential for increased disposal of defective foods, (3) potential for new
+or increased disposal of sanitizing products, (4) a description of measures that could be taken to avoid or mitigate
+adverse environmental impacts that might result from this action, and (5) potential for increased paper consumption.
+
+
+III. References
+
+
+The following references have been placed on display in the Dockets Management Branch (address above) and may be seen
+by interested persons between 9 a.m. and 4 p.m., Monday through Friday. 
+
+
+1. Bennett, J. V., S. D., Holmberg, M. F., Rogers, and S. L., Solomon, ``Infectious and Parasitic Diseases,'' in ``Closing
+the Gap: The Burden of Unnecessary Illness,''Amlet, R. W. and H. B., Dull, ed., Oxford University Press, pp. 102114,
+New York, 1987.
+2. Todd, E. C. D., ``Preliminary Estimates of the Costs of Food borne Disease in the United States,'' 
+
+Journal of Food Protection
+
+, 52:595601. 
+3. Archer, D. L., and J. E., Kvenberg, ``Incidence and Cost of Food borne Diarrheal Disease in the United States,''
+
+
+Journal of Food Protection
+
+, 48:887894.
+4. NACMCF, ``National Advisory Committee on Microbiological Criteria for Foods, Hazard Analysis and Critical Control
+Point System Adopted March 20, 1992,'' ``HACCP: Principles and Applications,'' Van Nostrand Reinhold, 1992. 
+5. GATT Secretariat, ``Final Act Embodying the Results of the Uruguay Round of Multilateral Trade Negotiations,''
+December 15, 1993.
+
+
+IV. Comments
+
+
+Interested persons may, on or before December 2, 1994, submit to the Dockets Management Branch (address above) written
+comments regarding this document. Two copies of any comments are to be submitted, except that individuals may submit
+one copy. Comments are to be identified with the docket number found in brackets in the heading of this document. Received
+comments may be seen in the office above between 9 a.m. and 4 p.m., Monday through Friday. 
+This document is issued under sections 402, 404, 701, and 704 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C.
+342, 344, 371, and 374).
+
+
+
+
+Dated: July 29, 1994
+
+</SUPPLEM>
+<SIGNER>
+David A. Kessler,
+
+</SIGNER>
+<SIGNJOB>
+Commissioner of Food and Drugs.
+
+</SIGNJOB>
+<SIGNER>
+Donna E. Shalala,
+
+</SIGNER>
+<SIGNJOB>
+Secretary of Health and Human Services.
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 9418970 Filed 8194; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 416001F
+</BILLING>
+
+

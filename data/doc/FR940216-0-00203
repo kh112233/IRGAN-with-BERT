@@ -1,0 +1,271 @@
+ 
+
+(C) The range (R) for duplicate samples should be 
+less than the following limits: 
+
+
+<TABLE>
+
+
+
+
+1Oxygenate 
+1Concentration mass percent 
+1Upper limit for range 
+mass percent
+
+
+
+
+Methanol 
+0.271.07 
+0.010+0.043C 
+Methanol 
+1.0712.73 
+0.053C 
+Ethanol 
+1.0112.70 
+0.053C 
+MTBE 
+0.2515.00
+0.069+0.029C 
+DIPE 
+0.9817.70
+0.048C 
+ETBE 
+1.0018.04
+0.074C 
+TAME 
+1.0418.59
+0.060C
+
+</TABLE>
+
+
+where: 
+
+
+
+C=(C
+
+o
+
++C
+
+d
+
+)/2 
+C
+
+o
+
+=concentration of the original sample 
+C
+
+d
+
+=concentration of the duplicate sample 
+R=Range, 
+
+|
+
+C
+
+o
+
+-C
+
+d
+
+|
+
+ 
+
+
+
+(D) If the limits in paragraph (g)(8)(i)(C) of this 
+section are exceeded, the sources of error in the analysis 
+should be determined, corrected, and all analyses subsequent 
+to and including the last duplicate analysis confirmed to be 
+within the compliance specifications must be repeated. The 
+specification limits for the range and relative range of 
+duplicate analyses are minimum performance requirements. 
+The performance of individual laboratories may indeed be 
+better than these minimum requirements. For this reason it 
+is recommended that control charts be utilized to monitor 
+the variability of measurements in order to optimally detect 
+abnormal situations and ensure a stable measurement process. 
+(E)
+
+ (1)
+
+ For reference purposes, a single 
+laboratory study of repeatability was conducted on 
+approximately 27 replicates at each of five concentrations 
+for each oxygenate. The variation of MTBE analyses as 
+measured by standard deviation was very linear with respect 
+to concentration. Where concentration is expressed as mass 
+percent, over the concentration range of 0.25 to 15.0 mass 
+percent this relationship is described by the equation:
+
+ 
+
+standard deviation=0.00784&times;C+0.0187
+
+
+
+
+
+(2)
+
+ The other oxygenates of interest, methanol, 
+ethanol, DIPE, ETBE, and TAME, had consistent coefficients 
+of variation at one mass percent and above: 
+
+
+<TABLE>
+
+
+
+
+1Oxygenate 
+1Concentration mass percent 
+1Coefficient of variation 
+percent of point
+ 
+
+
+
+Methanol 
+1.0712.73 
+1.43 
+Ethanol 
+1.0112.70 
+1.43 
+DIPE 
+0.9817.70 
+1.29 
+ETBE 
+1.0018.04 
+2.00 
+TAME 
+1.0418.59 
+1.62 
+
+</TABLE>
+
+
+
+
+(3)
+
+ The relationship of standard deviation and 
+concentration for methanol between 0.27 and 1.07 mass 
+percent was very linear and is described by the equation: 
+
+
+
+standard deviation=0.0118&times;C+0.0027
+
+
+
+
+
+(4)
+
+ Based on these relationships, repeatability for 
+the selected oxygenates at 2.0 and 2.7 mass percent oxygen 
+were determined to be as follows, where repeatability is 
+defined as the half width of the 95 percent confidence 
+interval (i.e., 1.96 standard deviations) for a single 
+analysis at the stated concentration: 
+
+
+<TABLE>
+
+
+
+
+1Oxygenate 
+1Concentration
+
+2Mass percent oxygen
+2Mass percent oxygenate 
+2Volume percent oxygenate
+1Repeatability mass percent
+
+
+
+
+Methanol
+2.0
+4.00
+3.75
+0.11 
+Ethanol
+2.0
+5.75
+5.41
+0.16 
+MTBE
+2.00
+11.00
+11.00
+0.21 
+DIPE
+2.0
+12.77
+13.00
+0.32 
+ETBE
+2.0
+12.77
+12.74
+0.50 
+TAME
+2.0
+12.77
+12.33
+0.41 
+Methanol
+2.7
+5.40
+5.07
+0.15 
+Ethanol
+2.7
+7.76
+7.31
+0.21 
+MTBE
+2.7
+14.88
+14.88
+0.26 
+DIPE
+2.7
+17.24
+17.53
+0.43 
+ETBE
+2.7
+17.24
+17.20
+0.67 
+TAME
+2.7
+17.24
+16.68
+0.55
+
+</TABLE>
+ 
+
+(ii) The laboratory shall routinely monitor the 
+accuracy of its analyses. The recommendations are: 
+
+
+
+
+
+

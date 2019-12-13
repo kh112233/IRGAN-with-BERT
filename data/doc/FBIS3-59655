@@ -1,0 +1,214 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article: "Railway Research Review 1993"] </F>
+  [Text] 
+<H5>  Introduction </H5>
+  Although over 25 years have passed since development began 
+on 
+superconducting magnetic levitation (maglev) rail systems, the 
+steady stream of research results is at the verge of blossoming. 
+As reflected in the recent name change from ultra high-speed 
+rail to magnetic levitation rail, not only is high speed sought, 
+but importance is placed on the low noise and ease of 
+maintenance characteristics of a noncontact railway, which has a 
+drive method that does not depend on adhesion, and on energy 
+conservation by using lighter weight cars, which is a feature of 
+a primary ground system (driving and controlling the car is 
+mainly performed by ground facilities). 
+  Since superconducting maglev rail possesses these superior 
+qualities, it is awaited not only as a practical application of 
+superconduction but as a new means of transportation for the 
+next generation. 
+<H5>  System Improvements </H5>
+  Before development began at the Railway Technical Research 
+Institute, the MLU002 test vehicle was completed in March 1987 
+and began trial runs on the Miyazaki test track. However, 
+quench, the state where superconductivity is not maintained, 
+occurred frequently in the superconducting magnet, the most 
+important element in superconducting magnetic levitation. 
+Therefore to move closer to practical realization, the whole 
+system was reviewed and improvements were made to the system by 
+placing importance on stability and reliability. The 
+improvements are as follows. 
+  (1) From the perspective of the development level of the 
+superconducting magnets, such as their durability and 
+reliability, the surface propulsion coils are placed at two 
+levels with a phase of 240&deg; where the electromagnetic effect 
+on the superconducting magnet becomes small. 
+  (2) To achieve improved reliability of the superconducting 
+magnets and low magnetic field leakage into the cars, the pole 
+pitch of the superconducting magnets is shortened. This action 
+is taken because power supply conversion by a GTO inverter could 
+be used. 
+  (3) In order to increase energy savings, the method used is 
+sidewall levitation where the levitation coils are shaped like 
+the number eight and have small magnetic repulsive force 
+(magnetic resistive force). A large levitation force is obtained 
+by using sidewall levitation. 
+  These system changes are planned for use in the Yamanashi 
+test track. Therefore, final performance verification is being 
+performed on the Miyazaki test track. 
+<H5>  Recent Major Developments </H5>
+  As explained earlier, the most important issue in 
+implementing a maglev railway is improving the stability and 
+reliability of the superconducting magnets. In order to solve 
+this problem, the objective was to understand the quench 
+phenomenon of superconducting magnets and suppress its 
+occurrence in the magnets. With funds from all of the Japan 
+Railways (JR) companies, surveys and tests were performed on the 
+electromagnetic oscillation characteristics under a wide range 
+of test conditions for superconducting magnets using 
+electromagnetic oscillation test equipment. In addition, 
+prototypes of the superconducting coil and magnet were made by 
+JR Tokai. Quench resistance tests and electromagnetic 
+oscillation tests were conducted in parallel. Through these 
+tests, a great deal of new information was gained on the effect 
+of electromagnetic oscillations on heat generation in the 
+superconducting magnet section. Moreover, useful insight was 
+gained on how to improve the characteristics of the 
+superconducting magnet's response to electromagnetic 
+disturbances. 
+  The results of various tests and investigations demonstrated 
+that the quench phenomenon is, for the most part, sliding 
+friction heat between the inside groove and the coil caused by 
+an external oscillating force. Superconducting magnets to be 
+manufactured in the future will have sufficient margin in coil 
+stability, stronger cross-sectional coil structures, and low 
+current densities. This series of results is reflected in the 
+design and manufacture of the superconducting magnets to be used 
+in the newly constructed MLU002N test vehicle and the Yamanashi 
+test vehicle. 
+  The development of wheel disc brakes and tires that can be 
+used from a speed of 500 km/h in the car and the development of 
+an axle for the undercarriage and air brakes were given priority. 
+  Various repetition durability and climate resistance tests 
+were performed on the surface coils. In particular, the 
+mechanical strength of the epoxy resin that is the mold material 
+for the sidewall levitation coils was carefully checked. Also, 
+research and development was diligently performed on the coil 
+installation method and on maintaining installation precision. 
+In addition to the major effect these factors have on the 
+difficulty or ease of construction, they are important from the 
+perspective of the feel of the ride. 
+  A large-capacity 10 MVA class GTO inverter was built as the 
+ground facility for the Miyazaki test track. We analyzed the 
+major waveform characteristics in its output characteristics and 
+high-frequency filter design. Based on these test results, we 
+are starting to construct a practical GTO inverter for the 
+Yamanashi test track. 
+  As for developments related to branching equipment, 
+development continues on branching equipment for high speeds and 
+development is under way on branching equipment for the terminal 
+and car bases. 
+  In addition, the development is beginning on the control 
+system, that includes the train drive control, operation 
+control, and driving maintenance system, and the information 
+transmission system. 
+<H5>  Noise </H5>
+  Maglev railways do not have the unavoidable wheel rotation 
+noise and electricity collection noise of the pantograph found 
+in wheel and rail systems, the only source of noise is the noise 
+of air flowing around the cars. This is a superior feature. 
+However, since air flow noise is proportional to the sixth to 
+eighth power of the speed, it becomes large. Thus, not only 
+conventional noise measures centered on soundproof walls, but 
+measures to specifically control noise from the cars are 
+required. By implementing noise reduction measures like reducing 
+the cross-sectional area of the cars, removing projections from 
+the cars, smoothing the surfaces of the cars, optimizing the 
+front shape of the cars, and smoothing the surfaces of the 
+surface coils, we can expect a 10 dB decrease in noise. In 
+particular, aerodynamic optimization of the shape of the front 
+section is essential to noise reduction. The front section's 
+shape is not only important in terms of noise, but from the 
+perspective of reducing drag. Hence, large-scale wind tunnel 
+tests are being performed often. 
+  The Shinkansen noise standard in Japan evaluates the peak 
+value of the train during transit. In contrast, the noise 
+standards in Europe and the United States use the equivalent 
+noise level that includes the continuous noise period and the 
+number of trains. Similar to airplanes, cars in maglev railway 
+travel are not in contact with anything when traveling in the 
+high-speed region, therefore, the quality of the noise differs 
+from that of railroads. In addition, continuous periods of noise 
+are extremely short since running is at ultra high speeds. 
+Because the WECPNL (Weight Equivalent Continuously Perceptible 
+Noise Level), which is the airplane noise standard (Environment 
+Agency notice), is tentatively used in the Yamanashi test track 
+as the noise evaluation method that is able to account for the 
+running frequency of the cars, the continuous time, and the time 
+range, 75WECPNL (Airplane Standard Type II compatible) is 
+adopted. 
+<H5>  Energy </H5>
+  Experts have pointed out that the reason for the large power 
+consumption in the running tests at the Miyazaki test track is a 
+maglev railway is a transportation method with poor energy 
+efficiency. In order to perform high-speed tests on a short 7 km 
+test track, Miyazaki test track that requires a maximum 0.3 g 
+acceleration and deceleration is considered unusual. 
+  If the railways become faster, energy consumption will 
+increase in response to the running resistance. Because 
+aerodynamic drag is proportional to the square of the speed, 
+most of the running resistance in the high-speed range is 
+occupied by aerodynamic drag. As we move towards faster speeds 
+in the future, how to decrease the running resistance, that is, 
+aerodynamic drag, becomes a problem. Therefore, using the front 
+shape with the least aerodynamic drag and reducing the 
+cross-sectional areas of the cars are required. But this comes 
+with the drawbacks of less comfort for the passengers in cars 
+with small cross-sectional areas and fewer seats. 
+  In trying to address the desire for faster speeds, the 
+advantage of faster speeds to improve express service is 
+overcome by the disadvantages of increased energy consumption 
+caused by the faster speeds and decreased living space. As a 
+consequence, social consensus and marketing decisions by 
+businessmen are probably needed. 
+  Since the ground facilities for a maglev railway use many 
+drivers and controllers in the primary ground method, the cars 
+can be much slimmer than conventional cars. Consequently, the 
+percentage of a car weight occupied by passenger weight, namely, 
+the payload ratio, increases (occupied car state: 20.0 tons, 
+empty car state: 15.5 tons in a middle car). Because the system 
+was constructed based on the idea that what does not have to be 
+moved is not moved, it has the benefit of energy efficiency. 
+  When energy efficiency in the energy (kcal) per person's 
+weight in kilograms are compared without regard to speed, a 
+domestic airport has a value of 579; an automobile, 527; the 
+Tokaido Shinkansen, 105, while JR Maglev's value is only 315. 
+<H5>  Magnetism </H5>
+  There is the impression that a maglev railway generates 
+strong magnetic fields that harm the human body. In fact, the 
+effect of the magnetic fields generated by the superconducting 
+magnets on the passengers and on people who live along the track 
+is at the same level as the magnetic fields they normally live 
+in. Many electrical appliances like electric razors, hair 
+dryers, televisions, and washing machines that everyone uses 
+have magnetic fields. The magnetic fields of medical treatment 
+pads (1,300 gauss) for stiff shoulders or magnetic necklaces are 
+also close to the body. Furthermore, the whole body is exposed 
+to a maximum of 20,000 gauss (stationary magnetic field) in 
+magnetic resonance imaging (MRI) equipment that is rapidly 
+spreading in the medical field to image tomograms. Of course, 
+artificial precision devices such as heart pacemakers in the 
+body and video cameras are sensitive to magnetic fields. 
+  No safety standards concerning magnetic fields have been 
+established in Japan. While there is no proof that magnetic 
+fields are harmful to health, example standard values for 
+fluctuating magnetic fields established nationally in foreign 
+countries are 50 gauss or less at 50 Hz in the German Industrial 
+Standard and 20 gauss or less at 100 Hz established by the 
+British Radiation Protection Committee. 
+<H5>  Conclusion </H5>
+  The development of the maglev railway is entering the stage 
+where efforts will center on improving reliability and reducing 
+costs in the move towards practical use. By considering 
+development and evaluation methods in other fields like 
+automobiles and airplanes and actively incorporating the 
+development technology from each field, development is 
+proceeding at a rapid pace. A variety of tests are planned for 
+the Yamanashi test track as a compilation of these technology 
+developments. The results may lead to a deeper understanding of 
+most of the technical issues and the final evaluation of the 
+maglev railway may become possible. 
+

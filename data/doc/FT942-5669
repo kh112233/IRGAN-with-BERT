@@ -1,0 +1,29 @@
+FT  03 JUN 94 / Technology: Robot lifts the load
+A robot fork lift truck that carries loads between lorry trailer and factory
+floor could extend automation to the loading bay. A prototype now being
+tested maps its surroundings continuously and plots its routes.
+'There is no system in the world that loads and unloads conventional
+trailers fully autonomously,' says Malcolm Roberts, director of Guidance
+Control Systems of the UK. 'We built a system four years ago that relied on
+mirrors in the trailers to reflect positioning lasers but now we don't need
+them.'
+Drivers of trailers up to 16m long cannot park them accurately enough for a
+fixed robot loader to work. The GCS robot copes with such variables and also
+detects changes in its surroundings - for instance, when a pallet is in its
+path. A central computer communicates the tasks by radio to the robot, which
+is otherwise autonomous.
+The robot uses a variety of sensors to detect its own location and the
+trailer. A laser system scans ahead up to 25m; for local positioning,
+ultrasound is accurate for between 20cm and 2m. The ultrasound data is
+interpreted quickly by an off-the-shelf transputer but an infra-red sensor
+cuts in when data of a higher resolution is needed - to cope with an
+odd-shaped load, for example.
+The robot analyses when it has nudged up close to a load using a force
+sensor and torque measurement on each wheel. More sensors control the
+sideways movement of the forks so that loads are deposited hard up against
+the trailer wall.
+'A fork-lift truck driver can unload a trailer in half an hour with relative
+ease and our prototype hasn't yet shown it can work so quickly. We expect to
+be there later this year,' says Roberts.
+However, time is not the only cost factor as robots are not so prone to
+accidental damage to loads.

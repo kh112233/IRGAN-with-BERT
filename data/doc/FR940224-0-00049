@@ -1,0 +1,32 @@
+ 
+
+
+
+Note X: 
+
+For a ``CE'' that performs multiple operations of a specific type in a single cycle (e.g., two additions per cycle or
+two identical logic operations per cycle), the execution time t is given by: 
+
+
+
+
+
+
+<IMPORT>
+
+
+E:GraphicsER24FE94.027
+
+
+</IMPORT>
+
+
+
+``Computing elements'' (``CEs'') that perform different types of arithmetic or logic operations in a single machine
+cycle are to be treated as multiple separate ``computing elements'' (``CEs'') performing simultaneously (e.g.,
+a ``CE'' performing an addition and a multiplication in one cycle is to be treated as two ``CEs'', the first performing
+an addition in one cycle and the second performing a multiplication in one cycle). 
+If a single ``computing element'' (``CE'') has both scalar function and vector function, use the shorter execution
+time value. 
+
+

@@ -1,0 +1,144 @@
+ 
+
+e.FIPS PUB 83, Guideline of User Authentication Techniques for Computer Network Access Control.
+
+f.FIPS PUB 112, Password Usage.
+
+g.FIPS PUB 113, Computer Data Authentication.
+
+h.FIPS PUB 171, Key Management Using ANSI X9.17.
+
+i.FIPS PUB 180, Secure Hash Standard.
+
+j.Special Publication 500157, Smart Card Technology: New Methods for Computer Access Control.
+
+k.Special Publication 8002, Public Key Cryptography.
+
+Other NIST publications may be applicable to the implementation and use of this standard. A list (NIST Publications
+List 91) of currently available computer security publications, including ordering information, can be obtained
+from NIST.
+
+7. Applicability. 
+
+This standard is applicable to all Federal agencies that use cryptographic-based security systems to protect unclassified
+information within computer and telecommunication systems (including voice systems) that are not subject to Section
+2315 of Title 10, U.S. Code, or Section 3502(2) of Title 44, U.S. Code. This standard shall be used in designing, acquiring
+and implementing cryptographic-based security systems within computer and telecommunication systems (including
+voice systems), operated by a Federal agency or by a contractor of a Federal agency or other organization that processes
+information (using a computer or telecommunications system) on behalf of the Federal Government to accomplish a
+Federal function. Federal agencies which use cryptographic-based security systems for protecting classified
+information may use those systems for protecting unclassified information in lieu of systems that comply with this
+standard. Non-Federal government organizations are encouraged to adopt and use this standard when it provides the
+desired security for protecting valuable or sensitive information.
+
+8. 
+
+Applications. 
+
+Cryptographic-based security systems may be utilized in various computer and telecommunication (including voice)
+applications (e.g., data storage, access control and personal identification, radio, facsimile, video) and in
+various environments (e.g., centralized computer facilities, office environments, hostile environments). The
+cryptographic services (e.g., encryption, authentication, digital signature, key management) provided by a cryptographic
+module will be based on many factors which are specific to the application and environment. The security level of a
+cryptographic module shall be chosen to provide a level of security appropriate for the security requirements of
+the application and environment in which the module is to be utilized and the security services which the module is
+to provide. The security requirements for a particular security level include both the security requirements specific
+to that level and the security requirements that apply to all modules regardless of the level. System characteristics
+not related to security (e.g., telecommunications interoperability) are beyond the scope of this standard.
+
+9. 
+
+Specifications. 
+
+Federal Information Processing Standard (FIPS) 1401, 
+
+Security Requirements for Cryptographic Module 
+
+(affixed).
+
+10. 
+
+Implementations. 
+
+This standard covers implementations of cryptographic modules including, but not limited to, hardware components
+or modules, software programs or modules, computer firmware, or any combination thereof. Cryptographic modules
+that are validated by NIST, or that comply with the requirements of the FIPS 1401 implementation and FIPS 140
+acquisition schedules in Section 14 of the announcement of this standard, will be considered as complying with this
+standard. Information about the FIPS 1401 validation program can be obtained from the National Institute
+of Standards and Technology, Computer Systems Laboratory, Gaithersburg, MD 20899.
+
+11. 
+
+FIPS Approved Security Methods. 
+
+Cryptographic modules that comply with this standard shall employ cryptographic algorithms, cryptographic key
+generation algorithms and key distribution techniques, and authentication techniques that have been FIPS approved
+for protecting Federal Government unclassified information. FIPS approved cryptographic algorithms, cryptographic
+key generation algorithms and key distribution techniques, and authentication techniques include those that are
+either:
+
+a. Specified in a Federal Information Processing Standard (FIPS), or
+
+b. Adopted in a FIPS and specified either in an appendix to the FIPS or in a document referenced by the FIPS.
+
+If a cryptographic module is required to incorporate a trusted operating system, then the module shall employ trusted
+operating systems that have been evaluated by a NIST accredited evaluation authority and against a FIPS approved
+evaluation criteria.
+
+Information about approved cryptographic methods and approved operating system evaluation authorities and criteria
+can be obtained from NIST.
+
+12. 
+
+Interpretation. 
+
+Resolution of questions regarding this standard will be provided by NIST. Questions concerning the content and specifications
+should be addressed to: Director, Computer Systems Laboratory, ATTN: FIPS 1401 Interpretation, National
+Institute of Standards and Technology, Gaithersburg, MD 20899.
+
+13. 
+
+Export Control. 
+
+Certain cryptographic devices and technical data regarding them are deemed to be defense articles (i.e., inherently
+military in character) and are subject to Federal government export controls as specified in Title 22, Code of Federal
+Regulations, parts 120128. Some exports of cryptographic modules conforming to this standard and technical
+data regarding them must comply with these Federal regulations and be licensed by the U.S. Department of State. Other
+exports of cryptographic modules conforming to this standard and technical data regarding them fall under the licensing
+authority of the Bureau of Export Administration of the U.S. Department of Commerce. The Department of Commerce is
+responsible for licensing cryptographic devices used for authentication, access control, proprietary software,
+automatic teller machines (ATMs), and certain devices used in other equipment and software. For advice concerning
+which agency has licensing authority for a particular cryptographic device, please contact the respective agencies.
+
+
+
+
+<IMPORT>
+
+
+
+
+E:GRAPHICSEN11JA94.000
+
+
+
+</IMPORT>
+
+
+
+14. 
+
+Implementation Schedule. 
+
+Table 1 summarizes the implementation schedule for FIPS 1401. The effective date of this standard is June 30,
+1994.
+
+From approval of FIPS 1401 to its effective date, agencies may purchase equipment with FIPS 1401 cryptographic
+modules that have been affirmed in writing from the manufacturer as complying with this standard. From June 30, 1994
+until six months after the establishment of the FIPS 1401 validation program by NIST, agencies that have determined
+a need for equipment with cryptographic modules shall purchase equipment with FIPS 1401 cryptographic modules
+that have been affirmed in writing by the manufacturer as complying with this standard. A copy of the written affirmation
+shall have been sent to the Director, Computer Systems Laboratory, National Institute of Standards and Technology,
+Gaithersburg, MD 20899.
+ 
+

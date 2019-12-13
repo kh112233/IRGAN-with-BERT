@@ -1,0 +1,71 @@
+FT  23 JUN 92 / Survey on A-Z of Computing (26): New bugs play havoc in the
+office - Yankee Doodle
+IF COMPUTER users had never heard of Michelangelo, by March 6 this year, the
+name was firmly fixed in their minds. On this day, the anniversary of the
+Renaissance painter's birth, the computing world held its breath as it
+waited for the Michelangelo virus to activate and destroy data stored on
+thousands of computers around the globe.
+Computer viruses - so named because of their similarity to human viruses in
+the way they enter and 'infect' the 'body' of the computer have become one
+of the greatest problems facing users. With nick-names like 'Yankee Doodle',
+they can be benign, doing little more than announcing their 'infection' of
+the system with an on-screen message. At their worst, however, they can
+cause incalculable damage to the information a corporate user holds.
+As computers grow in power and sophistication, and as more business users
+come to rely on systems for critical applications, the results of infection
+by a virus have grown from being an annoying interruption to a major
+catastrophe.
+As a result of massive publicity of the virus, users were able to take
+precautionary measures and the effects of Michelangelo were limited. But the
+potential for disaster is still great.
+A computer virus is usually a small program written in such a way that it
+will be automatically transfered from one computer to another without the
+users detecting it.
+The two most popular methods of implanting a virus are by attaching it to
+the boot sector of a floppy disk, or by making it work itself into another
+application program.
+Its effects can vary enormously. It may simply put a message on the screen
+to announce its presence, or disrupt the information displayed - text can
+break up on the screen or characters being keyed in may appear to fall into
+a heap at the bottom of the screen. Such effects are annoying, but need not
+be terminal to the computer system or the data it holds.
+Others, however, carry with them what those in the virus-hunting business
+refer to as a significant 'destructive payload'. One version of the 1701
+virus is said to reformat a computer's hard disk on any day between October
+1 and December 31 of any year except 1993. Reformatting removes all the data
+stored on a disk.
+Time bomb viruses are date-driven in this way, watching for the date and
+time counters of the computer to come round to preset values before
+activating their 'payload' - the Michelangelo virus waited for the birthday
+of the artist to activate itself while 'Friday the 13th' wreaks havoc only
+when the computer's date counter comes round to a 13th of the month that
+falls on a Friday.
+Like many human viruses, they infect by contact and their success is based
+upon the willingness of individuals to share information and applications
+programs with each other, usually by swapping disks. Once an application is
+copied from a floppy disk to a hard disk, the system is infected and the
+destructive payload is ready to be activated. As soon as another file is
+copied to floppy disk, the virus goes with it to infect another computer.
+This can even happen with what users would think are brand new, 'clean'
+disks from established suppliers.
+Novell is not alone in having had to withdraw disks from sale because it was
+discovered they were contaminated. With the growth of public-access
+electronic mail and Bulletin Board Systems (BBS), such as CompuServe and
+CompuLink, a new method of infection has been found. The viruses which bury
+themselves in applications programs, many of which are freely available on
+these systems, can be readily distributed to a wide range of users if one
+user uploads an infected file.
+Many of those who write viruses view the task purely as an intellectual
+exercise. Others, however, have malicious intent. Perhaps the most notorious
+of these was the so-called AIDS virus, which was sent out embedded in disks
+containing information on the disease. This was an alleged blackmail where
+the virus, once run, would install itself in the computer and then demand
+payment of Dollars 378 for the supply of an antidote.
+There is much individual users can do to protect themselves from virus
+infections, however. The most obvious step is to stop or cut down on disk
+swapping and sharing, which may indirectly help reduce software theft and
+illegal copying.
+Several anti-virus packages are available, such as Norton's Anti-Virus from
+Symantec and Dr Solomon's Toolkit from S&amp;S International, and their regular
+use is recommended, especially after each new application is copied from
+either a floppy disk or BBS.

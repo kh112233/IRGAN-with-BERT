@@ -1,0 +1,103 @@
+FT  25 JAN 94 / Technology: Exorcising Satan Bug - A new breed of multiple
+viruses is threatening PCs
+Can a computer virus change its spots? Yes, say computer security experts,
+who warn that a new breed of sophisticated computer virus that changes
+itself into multiple versions is becoming more common and that it can outwit
+some anti-virus software.
+Known as polymorphic viruses, they are designed to hide from popular
+anti-virus programs by changing themselves slightly each time they
+replicate.
+Businesses relying on older versions of anti-virus scanning software risk
+leaving their PCs open to infection from polymorphic viruses. Such viruses
+can produce as many as 2.3 trillion versions of themselves, making them
+impossible to detect without the help of a new generation of anti-virus
+software.
+'There is no question about it, polymorphic viruses are definitely the wave
+of the future,' says Phil Talsky, product manager at leading US anti-virus
+software developer McAfee Associates. Talsky adds that the most common
+polymorphic virus is the Satan Bug and it is infecting increasing numbers of
+PC users. 'It recently entered our top 10 list of most often reported
+viruses, at number nine.'
+David Stang, head of US-based Norman Data Defense Systems and founder of the
+International Computer Security Association, agrees that the Satan Bug poses
+a computer security challenge. 'We are hearing more reports daily of Satan
+Bug infections and it is a major problem for some organisations.'
+The Satan Bug has turned up at some US government agencies where it has
+infected several hundred PC systems. These include the Social Security
+Administration and the Army Corp of Engineers. There have also been reports
+that the Satan Bug has been found in European PC systems, and that Tremors,
+another polymorphic virus, is affecting PC users in Germany.
+However, they should not panic, Stang says. 'Becoming infected by any kind
+of virus is rare and coming across the Satan Bug is even rarer. But if you
+are unlucky enough to get infected, it is going to be expensive.'
+The Satan Bug is not designed to erase data like some viruses, such as
+Michelangelo, but it interferes with users trying to connect to a local area
+network and will change file dates. It replicates quickly and can travel
+across a local area network to infect other users.
+Computer virus experts at IBM say polymorphic viruses should not trouble
+most users. 'If users take proper precautions, polymorphic viruses are easy
+to deal with,' says Steve White, manager of the high integrity computing
+laboratory at the IBM Thomas J. Watson Research Center. 'We have not found a
+very high infection rate among users by the Satan Bug and the whole issue of
+polymorphic viruses has received more attention than it deserves.'
+White and his colleagues at IBM have completed several detailed studies of
+how computer virus infections propagate. They were the first to label the
+Michelangelo virus scare two years ago as overblown and correctly predicted
+that it would not cause much damage.
+White points out that PC users face about the same chance of a virus
+infection as they do of a hard disc failure, so proper backup procedures
+should be a routine task. To eliminate a virus, users must detect and often
+erase infected files and then reinstall them from an uninfected backup disk.
+This can take several hours for each PC infected. The US Army Corps of
+Engineers estimates that it lost more than Dollars 12,000 per hour in trying
+to exorcise the Satan Bug.
+McAfee's latest version of its ViruScan software can detect Satan Bug, but
+users must delete all infected files.
+While Stang says he has developed an anti-virus program that can detect and
+erase the Satan Bug without requiring users to reinstall infected files,
+Talsky says polymorphic viruses are more difficult to guard against since
+they use encryption to hide from virus scanning software. 'Polymorphic
+viruses are algorithm-based so we have to essentially crack their code first
+and produce algorithms to counter them. Normally, it takes our programmers
+one hour to modify our software to detect a regular virus, but with a
+polymorphic virus, it can take us 48 hours to develop software that can
+detect it.'
+Researchers at IBM say they are working on an automatic system to detect and
+analyse new polymorphic viruses. This will enable a faster response in
+producing updates of anti-virus software and help slow their spread.
+While computer virus experts concede that polymorphic viruses are written by
+very talented programmers, the developer of the Satan Bug is believed to be
+a 16-year-old computer enthusiast who uses the pseudonym Hacker4Life. There
+is no US law prohibiting the writing of a virus program and programmers
+often post their latest virus creation quite openly on local computer
+bulletin board systems. There are about 2,500 known PC viruses.
+Advancing computer technology could help solve this growing problem. Western
+Digital, a US company making hard discs, has developed a chip, the
+Immunizer, designed to monitor system activity and to block any suspicious
+writing to the hard disc. However, the chip works only with certain newer
+PCs.
+On the software side, companies are developing different types of anti-virus
+programs that, like the Immunizer chip, monitor what is happening within the
+PC. If the software detects suspicious activity, it blocks it and flags an
+alert.
+Talsky warns that more polymorphic viruses are coming.
+While the risk from a PC virus infection is small, there are important
+safeguards all PC users should adopt. These include using the latest
+anti-virus software. 'We produce new versions of ViruScan every six weeks,'
+says Talsky. 'But there are a lot of people using older versions and they
+won't get the full protection.' Any anti-virus software version written
+before August 1993 is unlikely to offer protection against polymorphic
+viruses. Users should contact their vendor and update their software.
+All new software, no matter what its source, must be scanned for viruses.
+'Most people avoid computer bulletin boards and shareware software, thinking
+that they might be infected. But most of our calls are from users that have
+been infected from commercial software, especially demo software disks,'
+says Talsky.
+Stang recommends that users with many PCs decide on a computer security
+strategy. 'Some users apply the same security to all their systems. The
+problem with this approach is that some systems should be better protected
+while others may not need quite so much protection. If you tell each user
+that they must spend five to 10 minutes each day scanning for viruses, that
+translates into a huge cost in terms of staff time over the course of a
+year. That can turn out to be more expensive than dealing with a virus
+infection.'

@@ -1,0 +1,156 @@
+FT  07 JUL 92 / Survey of Software at Work (15): New-found confidence - Case
+Study / RAC Enterprises' Booking Operation / The RAC went for bespoke work
+on a software package - and the supplier ended up advising on everything
+from furniture to staff recruitment
+A BESPOKE system contract based on an existing software package was the
+approach adopted by the RAC's holidays and continental travel services unit
+when it set up its central booking operation.
+This approach was felt to be best mainly because of the time constraints:
+the RAC had six months to get the system running before the next big holiday
+booking season started in January 1991.
+The RAC has offered ferry and travel services for many years from its 17
+local administration centres. The operation is part of RAC Enterprises,
+which includes information, vehicle inspection, hotel inspection and other
+services.
+'Customers would post bookings to the local centre or phone or visit,
+although the centres are generally not in the high street, so they are not
+in the most accessible places,' says Miss Fiona Holdsworth, general manager
+of travel and information services.
+'We felt that a central system would make for a smoother operation and
+improve customer service. It would help with staff training and management.
+There would be one Freefone number from anywhere in the country, which would
+help customers and also enable us to promote the service nationally.'
+Under the old system booking forms were filled in by hand, ferries were
+booked by telephone or through a viewdata system and the forms were sent to
+the RAC's IBM mainframe computer centre at Milton Keynes, where the
+information was keyed into a basic accounting system. It could be a
+fortnight before a postal booking got a response.
+The new system was going to handle bookings on-line, while the customer was
+on the telephone, so fast communications and processing were important. It
+was therefore decided after discussion between RAC Enterprises, based in
+Croydon, in south London, and the Milton Keynes computing centre, that a
+local self-contained system would be the best approach for what is a largely
+autonomous business.
+In addition, the computing centre was already committed to major development
+of the membership database system and could not have taken on another big
+project. RAC Enterprises' time constraints also weighed against developing
+the system from scratch.
+Evaluation of the need and the options was done by a working group
+consisting of RAC Enterprises' finance director, Mr Niall Addison; the
+administration manager for the RAC Enterprises' European services, Mr Frank
+Cleghorn; the then reservations manager; plus RAC Enterprises' own systems
+manager, Mr Jeremy Lewis. Mr Lewis is the only computing specialist at the
+Croydon office: he advises RAC Enterprises and liaises with the Milton
+Keynes computing centre.
+RAC Enterprises only found four software packages which even came close to
+meeting its need. The contract went to Travellog Systems for three main
+reasons, Frank Cleghorn says - 'they had a system running at the Caravan
+Club, which has a similar business to our own. They had a major grasp of the
+ferry industry and the complexities of timetabling, pricing, promotional
+offers and so on. This knowledge was vital, because there had to be a short
+learning curve, given our timescale. Thirdly, they were fairly well advanced
+with the Unicorn electronic data interchange protocol which links
+reservation systems with ferry companies' systems.'
+Travellog's knowledge of the ferry holidays business led the RAC to contract
+the company to manage the whole project, not only providing the reservations
+system but also overseeing installation of an automatic call distribution
+system, drawing up furniture selection criteria and handling staff
+recruitment. This was despite concern about Travellog's size.
+'There was a question mark over Travellog's size and we discussed this at
+some length and visited their premises and met the staff,' Mr Cleghorn says.
+'They're not a large company - but this was also a plus: we got very close
+to people of all levels, from the chairman to the people on the job from
+day-to-day. We had an excellent relationship: we saw everything they were
+doing and could get some quick fixes when necessary.'
+He adds: 'I'm convinced that we got a lot more development done than we
+might have with a big company, because we could contact anyone in Travellog
+and they all knew all about us.'
+This involvement of all levels of Travellog staff is reflected in the offer
+by the company's chairman, Mr David Stern, to chair the project management
+team, which also included the RAC managers from the initial evaluation
+group, plus a telecommunications specialist and a hardware specialist from
+corporate systems, the Travellog project leader, and outside suppliers, such
+as British Telecom and the provider of the Pounds 110,000 automatic call
+distribution system, 'David Stern has big project management experience, but
+we did feel he might be biased if Travellog failed to meet a target,' Mr
+Cleghorn says. 'But Travellog certainly did not escape his whip when
+necessary.'
+A lot of time was spent on the system specification, at Travellog's
+insistence - 'we feel it is essential to get a black-and-white
+specification,' says Travellog director Andrew Osborne. 'That way the
+customer knows what he's getting and we know precisely what we're doing. We
+always put a lot of emphasis on this stage and make the customer sign it off
+formally.'
+Mr Cleghorn at the RAC says: 'We, too, spent a long time on the
+specification, distributing it to users, finance people and marketing
+people. We knew what we wanted - in particular that the on-line system
+should be driven by our sales approach. So, for example, a ferry booking is
+usually sold first, but the system then flows into breakdown assistance and
+insurance screens, to encourage add-on sales.'
+Mr Osborne at Travellog says the system eventually delivered is probably
+around 80 per cent standard core software used at other customers and 20 per
+cent bespoke. The core software is mainly parts of the system invisible to
+the user but controlling the whole process, while the 20 per cent is mainly
+associated with the screen displays presented to the users and tailored to
+the RAC's needs.
+There was also bespoke work on the insurance processing, because RAC
+Enterprises handles this differently from other Travellog customers.
+Travellog originally sold its systems on minicomputers from US manufacturer
+Prime, using Pick, in effect an operating system with a built-in database
+management system. 'We have always used a fourth-generation programming
+language, because it gives the flexibility we need for customising systems,'
+Mr Osborne says. 'Pick has a very flexible database: for example, there is
+no pre-definition of the sizes or numbers of data records.'
+However, the RAC has a strong IBM policy at both mainframe and personal
+computer level.
+'Corporate systems said they would prefer us to go IBM - and the central
+3090 installation certainly gives us muscle in getting support and service,'
+says Mr Cleghorn. Travellog therefore picked IBM's RS/6000 system,
+well-known for its speed. Mr Osborne says it has outstanding price
+performance and Mr Cleghorn describes it simply as an amazing machine. The
+system's response to an RAC user's instruction is virtually instantaneous
+and well inside the four seconds specified by the RAC.
+However, the RS/6000 runs under IBM's AIX version of the Unix operating
+system, so Travellog had to convert its core software to run with Unix. For
+this, it found a software product called Universe from US company, Vmark.
+This, in effect, runs Pick under Unix. Mr Osborne says the entire system was
+transferred to Unix in just two or three days using Universe.
+The RAC system was Travellog's first experience of the RS/6000. Since then
+it has used the machine in six other contracts.
+Once the project was under way the tight deadlines meant the management team
+had to meet at least weekly - 'we couldn't afford to put anything off,' says
+Frank Cleghorn.
+'While we were driving the system development along, we were planning the
+office layout, choosing furniture and drawing up staff recruitment criteria.
+All this was running in parallel.'
+The RAC relied heavily on Travellog in all these activities, because of its
+experience with other companies. The office was to be semi-open plan to
+encourage an open, friendly and team atmosphere, with low, sound absorbing
+screens to provide a degree of privacy. Cables and power points were to be
+hidden to ensure tidiness and efficiency. And furniture had to be
+ergonomically designed. Several chair and desk combinations were tested by
+users before the final choice was made.
+In addition, the RAC called on Travellog's experience to determine the
+number of staff who would be needed to handle the predicted business. Frank
+Cleghorn says they had to have good keyboard skills and a good telephone
+manner and be fairly extrovert - 'they shouldn't be afraid of asking a
+customer if he would like insurance or something else on top of the ferry
+booking he had phoned up for.'
+He adds that most people can become reservation agents on the system after
+two weeks' training.
+The RAC has found that development can become never-ending - 'it wasn't long
+after we went live that managers realised just what we had and wanted more
+management information from it, even though we had asked them before
+implementation what reports they wanted,' Mr Cleghorn says. 'This extra
+development started as soon as the system was installed. It's difficult to
+sign something off completely when you've never had it before.'
+Fiona Holdsworth adds: 'You have to make sure, nonetheless, that it's
+information that will be used and that you're not just producing some extra
+report because someone thought it might be useful to see this or that moving
+average.'
+The system has proved its worth by helping RAC Enterprises to beat its
+budget forecasts by 15 per cent in the first four months of 1992.
+But its success is also reflected in the fact that it is being taken into
+other areas - 'our success on the continental travel side has given us the
+confidence to use the system in these other services,' says Fiona
+Holdsworth.

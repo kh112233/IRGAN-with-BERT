@@ -1,0 +1,110 @@
+FT  26 OCT 93 / Survey of Technology in the Office (17): High level of
+vulnerability - Many companies fail to take basic precautions, despite the
+high cost of computer fraud which may exceed Dollars 4bn a year worldwide /
+Computer Security
+A COMPANY director was visiting his doctor's surgery recently. He noticed
+that the receptionist was away from her desk and the computer on the desk
+was turned on. He pressed 'enter,' got a menu, chose patient records, and
+called one up on screen. He could have amended it or printed it out, and no
+one would have known.
+The director in question happened to work for government computing
+specialist Lynwood Scientific Development, and his intentions were not
+malicious: he had in fact, called up his own record. But what if he had been
+someone with a grudge against another patient?
+Security on computers is becoming more, rather than less of an issue, now
+that many organisations are using PCs and PC-networks instead of holding
+their data in separate computer centres (see further report on this page on
+IT business security issues).
+Many companies, as in the above case of the doctor's surgery, do not
+recognise the PC as a potential source of security breaches.
+In financial terms, computer-based fraud is thought to cost up to Dollars
+4bn a year worldwide. But as electronic purchase and payment transfers
+increase with the advance of electronic data interchange (EDI) between
+businesses, the financial targets for computer 'hackers' may also increase.
+'Companies don't seem to have adjusted well to the changing pattern of
+corporate computing. There is a feeling out there that 'it's only a personal
+computer,'' says Keith Hearnden, lecturer in security management at
+Loughborough University.
+Mr Hearnden suggests that companies should work out what would happen if
+that PC were stolen, or lost in a fire. Replacing it, he says, would not be
+as simple as going to the high street and buying a similar model.
+'You need the same operating system, configuration, software add-ons, and
+communications set-up,' he says.
+In addition, the loss of data held on it, could cause more financial damage
+than the loss of the actual hardware - unless the precaution had been taken
+to keep disk back-ups in another location.
+David Cockarill, Lynwood's business development manager, advises that
+common-sense measures should be taken in the office as a first line of
+action.
+A simple precaution that could have been taken in the doctor's surgery, for
+example, would have been to use a key which blanks the screen, and turns off
+the keyboard. The casual browser cannot read anything. Confidential memos
+should be stored on floppy disks and locked away - 'You wouldn't leave a
+typescript on the desk, so don't do it with the electronic version,' says Mr
+Cockarill.
+Mr Hearndon advises that staff should be told about computer security
+issues: the best time to do this is on an induction course when they join an
+organisation. He recently conducted a survey of 421 UK organisations, which
+showed that two-thirds do not bother to take this precaution.
+It is common for staff to write their password on yellow stickers, posted on
+their screen. Anyone - clients or suppliers - visiting the office could see
+it, and use it later to hack into the network to access files. Training
+should include basics such as why staff should not reveal their password,
+and how viruses can be introduced to a computer, as well as proper
+procedures for taking disk-back-ups.
+The best protection against viruses is simply to ban people from using any
+disk other than one that has been checked by the systems department  -
+computer games, brought in by staff to play on their perosnal computers at
+lunch time, are a common hazard. Another sensible precaution is to forbid
+the uploading software from bulletin boards.
+ONE simple course of action against hacking is to be more strict on the
+choice of passwords. According to Geof Soulsby, marketing manager at Racal
+Datacom, 80 per cent of all passwords are contained in 100 known names or
+words - 'it isn't difficult for a hacker to guess those 100 words,' he says.
+They include the 10 most popular boys and girls names, a few swear words,
+and several four-to-six letter words. 'Dog' and 'cat' are the third and
+fourth most popular passwords.
+David Clark, partner specialising in computer security at management
+consultants Touche Ross, says that there are no statistics on the extent of
+the problem of hacking, because few organisations will admit to it. But he
+added: 'Fifteen per cent of the organisations I deal with have a concern
+about hacking. They may either have experienced it or they are worried about
+it.'
+It therefore follows that where a computer system or network is carrying
+information of high value to the organisation or its clients, something more
+than a password is needed.
+Encryption of the data is not necessarily the answer. Encryption makes it
+impossible to read the data while it is travelling along the lines, but does
+not prevent unauthorised access. Normally, encryption is part of a package
+of measures which utilise other cryptographical techniques to protect
+against and to authenticate the message.
+Unauthorised access can be prevented by a 'challenge and response' system.
+Staff are given an electronic gadget that looks similar to a calculator.
+When someone logs on to the system, it sends back a challenge which appears
+on the screen. The challenge is entered into the gadget, which uses
+complicated mathematical algorithms to calculate a response, which must be
+entered into the system. If the gadget has obtained the correct response,
+the user is permitted to access the system.
+Challenge and response systems make life difficult for hackers because the
+codes are different every time.
+Even if a hacker obtained one code, they would not be able to use it to get
+in to the system. The algorithms used - known as DES - is licenced by the US
+Department of State, and its use is strictly controlled.
+Challenge and response systems are used by Barclays and Natwest banks, as
+well as other commercial organisations, to protect sensitive payment and
+order data.
+They are also used where people are regularly dialling in to a system from
+remote locations.
+But the cost is not cheap. According to Mr Soulsby, the 'calculator' gadget
+costs around Pounds 50, but a large organisation such as a bank might buy
+10,000.
+Authentication of messages is done using a digital signature - an indication
+to the recipient that they have not been tampered with.
+Mathematical algorithms scramble the characters in a message, and produce a
+64-digit message string, which is then appended to the original text. The
+recipient uses the same algorithms to decode the string. If the message has
+been tampered with a different string would be produced.
+Mr Clark recommends that a digital signature is used 'where it is vital that
+the recipient is assured of the source of the transaction.'
+Typically, this would be in a banking environment, where large sums of money
+are involved.

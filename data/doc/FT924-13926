@@ -1,0 +1,79 @@
+FT  13 OCT 92 / Survey of Computers and Communications (3): Fending off the
+fraudsters - Security Systems
+OPEN systems have been portrayed by almost all in the computer industry as
+'a good thing' - but they have also made life more difficult for those who
+design security systems for computer systems.
+In a true open system - where systems from different manufacturers can
+connect with one another - the security of the whole system is no weaker
+than the weakest link in the chain. The weakest of those links has
+traditionally been the personal computer.
+The PC was originally designed as a personal productivity tool - only one
+person was expected to use it and few considered the possibility that
+crucial corporate data would ever appear on its screens. The PC was
+something you would use to do word-processing, a little spreadsheet work and
+perhaps keep electronic versions of your address book.
+Today's PC is far more powerful and is used for all manner of applications -
+many of which involve 'networking' these PCs together with one another as
+well as with minicomputer and mainframe systems. For this reason, PC
+industry local area network (LAN) market leader Novell has had to serious
+come to grips with implementing credible data security technology.
+According to Novell UK spokesman Mr Dominic Storey, many companies do not
+think about LAN security. He said a recent survey suggested few companies
+conducted risk analysis, developed security guidelines, set up security
+configurations, co-ordinated security training or periodically reviewed
+security compliance for the networked PCs.
+'LANs are basically distributed multi-user computer systems and, as such,
+have similar security requirements,' he says. 'The computer needs to be
+protected from physical damage, the software programs from virus attack and
+the data from accidental or intentional damage.'
+He says that the advent of viruses make the PC much more prone to breaches
+of security than minicomputer systems or mainframes - and therefore sensible
+precautions must be taken.
+'Virus detection can be performed by specialised programs which look for
+sequences within program code,' explains Mr Storey. 'No virus detection
+program is foolproof, as new viruses are created on a distressingly regular
+basis. The best form of cure is prevention - and to do this, users must be
+discouraged from uploading suspect software or else have their rights
+restricted to prevent virus contagion.'
+One of the other keys to building a secure PC network lies in the features
+contained in the network operating system - such as Novell's NetWare. It
+starts with the 'log-in' password, which must be entered every time a user
+starts working on the network.
+Passwords under NetWare are stored in special files on the file server
+called 'bindery' files. Within these files, all user passwords are stored in
+encrypted form using a one-way or 'trap-door' encryption function. When a
+user logs in, the password is never seen. Instead, a special code (called a
+key) is passed to the PC. The PC uses the password to encrypt the key, and
+the encrypted key is passed back to the server.
+Passwords under NetWare must also be of a minimum length (thus reducing the
+statistical chances of a hacker guessing them) and can be 'force-changed' by
+the network administrator, must be unique (so that no two users have the
+same password).
+Most network system also allow network administrators to specify which
+system features each user will have access to. These can limit the times of
+the day the system can be used, the amount of time, the amount of disk space
+they use and the way they use dial-in 'modems'.
+Mr Storey says that PC networks also need to offer an 'audit trail' of their
+use. He admits that NetWare is still not ideal in this respect. 'No security
+system is perfect; it is essential to log information, so that a security
+compromise can be traced,' he says.
+'System audit information is available in a limited form for NetWare and
+will be extended to full file system audit in future releases. At present
+various logs are stored - the error log logs all hardware and system errors,
+and account information (bindery logs) can be generated using a supervisor
+utility.'
+In the end, however, security on PC networks is all about using common
+sense. And that means instituting company-wide procedures for PCs in the
+same way as for minicomputer and mainframe systems.
+'To maintain good standards of security, companies should employ tried and
+tested authentication procedures,' says Mr Storey. 'Use of initial passwords
+during account generation ensures that new accounts do not represent a
+security hole. Use of existing security features make a system which is
+flexible to the user, yet secure.
+'If implementing a secure system with high expectations of data integrity,
+lock the file server away. A system will never be truly secure while the
+file server is easily accessible.
+Above all, train users to think securely. Make sure, for example, that they
+use hard to guess passwords and do not place the password under the desk.
+This will reduce the possibility of user ignorance leading to unexpected
+security compromises.'

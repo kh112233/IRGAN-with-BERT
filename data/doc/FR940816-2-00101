@@ -1,0 +1,77 @@
+ 
+
+
+
+
+<RINDOCK>[Docket No. 50461]</RINDOCK>
+
+
+
+
+<DOCTITLE>Consideration of Issuance of Amendment to Facility Operating License, Proposed No Significant Hazards Consideration
+Determination, and Opportunity for a Hearing; Illinois Power Co.</DOCTITLE>
+
+
+
+The U.S. Nuclear Regulatory Commission (the Commission) is considering issuance of an amendment to Facility Operating
+License No. HPF62, issued to the Illinois Power Company (the licensee), for operation of the Clinton Power
+Station, Unit 1, located in Dewitt County, Illinois.
+
+The proposed amendment would modify Technical Specification (TS) Table 4.8.1.1.21, ``Diesel Generator
+Test Schedule,'' to exclude three valid failures of the Division 1 emergency diesel generator (EDG) from contributing
+towards accelerated diesel generator testing.
+
+The last three valid failures (occurring on August 3, 1993, June 7 and July 12, 1994) were determined not as the result
+of an actual surveillance test, but the confirmation of the failure of one of two CV2 relays associated with
+the Division 1 EDG output breaker. The relays are checked each shift for visible indication of failure. Failure of
+the relay could cause premature closure of the breaker upon receipt of an automatic start signal due to or coincident
+with a loss of offsite power. The cause of these failures was subsequently attributed to undersized current-limiting
+resistors that were installed in the relays by the vendor. These resistors were replaced with appropriately sized
+resistors and testing has been performed to ensure operability. The relay is normally tested only during the 18-month
+shutdown test that assures proper functioning of the EDG and associated equipment upon receipt of a loss-of-offsite
+power test signal. Weekly testing, as required by TS Table 4.8.1.1.21, allows for manual loading which bypasses
+the CV2 relay.
+
+The valid failure of the Division 1 EDG on June 7, 1994, brought the number of failures in the last 100 valid tests up to
+seven. In addition, the valid failure of July 12, 1994, was the second failure in the last 20 tests. In accordance with
+TS Table 4.8.1.1.21, the frequency of testing increases from monthly to weekly until at least seven consecutive
+successful tests are performed and there is a maximum of only one failure in the last 20 tests. Weekly testing, which
+began following the failure of June 7, 1994, must now continue until at least the first week of October 1994.
+
+In a letter dated August 5, 1994, the licensee requested an exigent technical specification change to modify TS Table
+4.8.1.1.21 to exclude these three valid failures from contributing to accelerated testing of the Division
+1 diesel generator. The licensee's basis for this request included the following:
+
+&bull;Additional weekly testing is inappropriate because the increased surveillance testing does not test the
+relay that failed;
+
+&bull;The undersized current-limiting resistors found in the CV2 relays have been replaced which should
+eliminate similar failures in the future;
+
+&bull;Plant operators, who identified the previous three failures, will continue to tour the equipment once per
+shift and check for targets that may have dropped;
+
+&bull;Testing of the EDG at the Clinton power Station involve paralleling the diesel generators to the grid. NRC Information
+Notice 8469 warns against operating diesel generators connected to offsite power unnecessarily as disturbances
+in the offsite power system can adversely affect availability of the EDG; and
+
+&bull;Excessive or unnecessary testing of diesel generators can cause unnecessary wear or degradation and thus
+contribute to their reduced reliability.
+
+Approval of the proposed TS change will eliminate unnecessary testing of the diesel generator and will permit the
+licensee to resume a monthly test frequency. Prompt action by the staff is necessary to eliminate unnecessary testing
+and precludes the time available to permit the customary public notices in advance of this action.
+
+Before issuance of the proposed license amendment, the Commission will have made findings required by the Atomic
+Energy Act of 1954, as amended (the Act) and the Commission's regulations.
+
+Pursuant to 10 CFR 50.91(a)(6) for amendments to be granted under exigent circumstances, the NRC staff must determine
+that the amendment request involves no significant hazards consideration. Under the Commission's regulations
+in 10 CFR 50.92, this means that operation of the facility in accordance with the proposed amendment would not (1) involve
+a significant increase in the probability or consequences of an accident previously evaluated; or (2) create the
+possibility of a new or different kind of accident from any accident previously evaluated; or (3) involve a significant
+reduction in a margin of safety. As required by 10 CFR 50.91(a), the licensee has provided its analysis of the issue
+of no significant hazards consideration, which is presented below:
+
+
+

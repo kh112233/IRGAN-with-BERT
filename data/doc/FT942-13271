@@ -1,0 +1,124 @@
+FT  26 APR 94 / Technology: Every day in every way - Many PC users need
+constant expert backup as well as rescue services / A look at a UK council
+It's 10 minutes past 10 in the morning. Dozens of people are working on
+their personal computers. Suddenly the screens all go fizz-bang, as an
+electrical contractor accidentally touches a positive to a negative wire.
+The surge of power leaves 65 PCs dead or smoking, plus their printers and
+five Novell file servers - the hubs of a PC network. Even the two UPSs -
+Uninterruptable Power Supply units - are dead. The UPS is designed to
+protect computers from damaging surges in power, but not to withstand 480
+volts.
+This sounds like a 'disaster recovery' scenario, dreamt up to test crisis
+procedures. But the nightmare really happened, in the building which houses
+many of Brent Council's social services staff, in March this year.
+Lubna Ibrahim, Brent social services client IT manager, was already very
+busy as users are in the process of upgrading from mainframe applications
+and Wang minicomputers to standardised PC software. All are supplying vital
+care management and support services, and could not do their jobs without
+the computer system.
+Her first call was to BIT Information Services, one of the new breed of
+council-owned contractors. BIT, formed from the former IT department of
+Brent, competed independently to win the support business for social
+services and for two other large internal client departments.
+Following government directives on efficiency, Brent has devolved from a few
+large divisions into almost 100 business units, each of which can choose its
+own IT hardware and software. A corporate IT team, CIT, is responsible for
+council-wide policy, setting standards where appropriate in software,
+hardware and procedures, and co-ordinating generic systems such as local
+area networks.
+Brent's decentralisation, coupled with a new open systems policy, has
+brought about a system consisting of 30 interlinked Unix and Novell file
+servers, which are taking over many of the mainframe functions. It serves
+3,000 Brent Council employees, more than 1,000 of whom are PC users, in 30
+buildings.
+BIT supports all the telephony at Brent, but it is up to individual
+departments whether they use BIT's services for support. Social Services is
+one of the three large departments that have opted to use BIT.
+So when disaster struck, Ibrahim immediately contacted BIT support manager
+Jim Sarath and asked him to replace all the damaged equipment, about Pounds
+100,000 worth. According to Bob Roberts, deputy customer-services manager of
+BIT: 'By 3pm we'd ordered 40 replacement PCs. By Thursday, they were all up
+and running with centralised printing services. We have a number of
+strategic alliances with suppliers, so in a crisis, we can get help
+quickly.'
+Software is often a greater problem than hardware. The power cut jeopardised
+all the procedures and data the PC users had built up: desktop publishing
+formats, standard electronic mail forms for exchanging information, and
+other frameworks embedded in their day-to-day operations.
+'What BIT did to rescue the data was to mop it up from the hard disks,
+saving the data, the formats, the forms, and the libraries. What we
+preserved was the working environment as well as the actual data,' says
+Roberts.
+BIT seldom has to respond to such urgent purchasing requirements. It takes
+an everyday role in supporting users and training them to use new systems.
+Ibrahim's role is a good example of how the mushrooming of IT services on
+PCs and networks has produced a need for localised, specialised support. She
+is on the spot for Social Services, part of their operation rather than an
+IT person first and foremost, and sympathetic to IT novices.
+'In the past year, we've migrated from the old system to the new, from Wang
+or even mainframe applications to the PC, using Microsoft Office and cc:mail
+applications,' she says. 'We already have 123 users, all trained and
+supported by BIT. I always insist that people have the new system as soon as
+they've finished training, so that they become users straight away.'
+Brent social services department uses a well-established software package,
+SSID, for Unix and PCs, as well as its customised applications. New needs
+are always arising. Ibrahim defines the problem, then turns to BIT for the
+solution: she can even browse through the technology available in a
+'one-stop showcase' in their nearby office.
+'I have a bad habit of ringing them and saying: can I have this yesterday.
+So far, they've always delivered,' she says. 'They're not just doers,
+they're thinkers, they have helped us evolve our IT practices. They also
+have to be good all-rounders because from 8am to 6pm they are dealing with
+every sort of inquiry, from 'what is my password?' to a PC catching fire.
+BIT loans us equipment in the case of any hardware problems, but software is
+much more tricky.'
+Roberts agrees. 'It is the help-desk's job to analyse where a problem
+originates. If it is software, it could be anything from a software package
+on a Unix minicomputer, to a PC application built in-house. We try to fix
+the problem here in the help-desk, before involving any outside supplier or
+even our own support engineers.'
+Software support involves expensive expertise, on call all day. Lack of
+communication is the biggest hazard, resulting in help-desk bottlenecks and
+frustrated users. Without central control, it is only too easy for several
+help-desk staff to be chasing the same problem, unaware that it is a common
+one, with a known correction.
+From the user's point of view, talking to a help-desk can be daunting,
+especially when - like talking to a bank or a utility - they never get the
+same member of staff twice, and have to start from the beginning with every
+call.
+Anxious to avoid these pitfalls, BIT drew up a shortlist of three help-desk
+tools from 20 or so suppliers, and tested three. HDE, from Digital Networks
+International in East Grinstead, won on three counts. HDE software could
+work on PC Lans as well as Unix servers, and development of modifications
+was easy with a quick programming language, or 4GL. Its inbuilt inventory
+management facilities cover hardware and software, right down to the
+individual user level. Knowing who is using what can be a problem in any
+organisation where a free rein with IT purchasing has led to different
+generations of the same software, running on hybrid hardware.
+'You have to have something to control the help-desk traffic,' says Roberts.
+'We tried a home-grown solution but while it gave us a log, there was no
+real control ability, which is what HDE provides. It gives us dynamic
+control over the current situation.'
+HDE logs support calls, and allows work to be shared out between the
+help-desk team. The logged data can be 'sliced and diced' to look at
+individual workloads, specific problem areas, or focus on the origins of
+problems. Behind it is a database of premises, addresses, and users. HDE
+'learns' from the fixes logged in the system, proffering menus of possible
+solutions, and instant checklists for the support staff to suggest to the
+user.
+'HDE has been very successful because we can see what the issues are, and
+how we can allocate resources. It allows us to know about common problems
+that are happening to various different people: we can draw on the prior
+knowledge of fixes, and apply it the next time around,' says Roberts.
+Remote access to the user's terminal is an important HDE feature. Taking
+this one step further, BIT is currently testing the Intel LAN Desk Manager,
+which provides 'over the shoulder' remote control of the user terminal (on
+the same principle as the dual controls used for driving instruction), plus
+remote control of the network.
+The information provided by HDE provides analytical fodder for BIT's
+purchasing policy, and even a way of measuring and monitoring third-party
+service contracts.
+BIT has become hard-nosed, according to Roberts. 'A few years ago, what you
+would have seen is a standard centralised IT department. These days, what
+you find is more of a commercial organisation. Our job is not to make a
+large profit from our users, but to break even.'

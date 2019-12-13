@@ -1,0 +1,976 @@
+ 
+
+<TABLE>
+
+
+
+
+Table 
+
+4
+
+d._Average Hourly Wage for Urban Areas 
+
+
+
+1Urban area 
+
+1Average hourly wage 
+
+
+
+
+
+Abilene, TX 
+
+15.6799 
+Aguadilla, PR 
+
+8.4764 
+Akron, OH 
+
+17.2298 
+Albany, GA 
+
+16.1099 
+Albany-Schenectady-Troy, NY 
+
+16.1957 
+Albuquerque, NM 
+
+17.0208 
+Alexandria, LA 
+
+15.1130 
+Allentown-Bethlehem-Easton, PA-NJ 
+
+18.4674 
+Altoona, PA 
+
+16.8070 
+Amarillo, TX 
+
+14.6970 
+Anchorage, AK 
+
+23.8324 
+Ann Arbor, MI 
+
+23.0180 
+Anniston, AL 
+
+14.5274 
+Appleton-Oshkosh-Neenah, WI 
+
+16.1474 
+Arecibo, PR 
+
+6.9358 
+Asheville, NC 
+
+16.7477 
+Athens, GA 
+
+16.5317 
+Atlanta, GA 
+
+18.7055 
+Atlantic City-Cape May, NJ 
+
+19.8522 
+Augusta-Aiken, GA-SC 
+
+15.7238 
+Austin-San Marcos, TX 
+
+16.4196 
+Bakersfield, CA 
+
+19.9373 
+Baltimore, MD 
+
+18.0216 
+Bangor, ME 
+
+17.3217 
+Barnstable-Yarmouth, MA 
+
+25.2260 
+Baton Rouge, LA 
+
+15.7376 
+Beaumont-Port Arthur, TX 
+
+15.7684 
+Bellingham, WA 
+
+20.5119 
+Benton Harbor, MI 
+
+14.8759 
+Bergen-Passaic, NJ 
+
+20.5959 
+Billings, MT 
+
+15.9221 
+Biloxi-Gulfport-Pascagoula, MS 
+
+15.0572 
+Binghamton, NY 
+
+16.7629 
+Birmingham, AL 
+
+15.9479 
+Bismarck, ND 
+
+15.7880 
+Bloomington, IN 
+
+15.5760 
+Bloomington-Normal, IL 
+
+15.5045 
+Boise City, ID 
+
+16.4848 
+Boston-Boston-Nashua, MA-NH 
+
+21.0242 
+Boulder-Longmont, CO 
+
+18.1601 
+Brazoria, TX 
+
+15.9482 
+Bremerton, WA 
+
+17.6611 
+Brownsville-Harlingen-San Benito, TX 
+
+15.0688 
+Bryan-College Station, TX 
+
+15.8389 
+Buffalo-Niagara Falls, NY 
+
+16.6972 
+Burlington, VT 
+
+18.1503 
+Caguas, PR 
+
+7.9854 
+Canton-Massillon, OH 
+
+15.7864 
+Casper, WY 
+
+15.1989 
+Cedar Rapids, IA 
+
+14.8441 
+Champaign-Urbana, IL 
+
+16.1590 
+Charleston-North Charleston, SC 
+
+16.1537 
+Charleston, WV 
+
+15.6757 
+Charlotte-Gastonia-Rock Hill, NC-SC 
+
+17.3740 
+Charlottesville, VA 
+
+17.0943 
+Chattanooga, TN-GA 
+
+16.3584 
+Cheyenne, WY 
+
+13.6175 
+Chicago, IL 
+
+19.4830 
+Chico-Paradise, CA 
+
+18.7297 
+Cincinnati, OH-KY-IN 
+
+17.2034 
+Clarksville-Hopkinsville, TN-KY 
+
+13.7119 
+Cleveland-Lorain-Elyria, OH 
+
+17.9437 
+Colorado Springs, CO 
+
+16.9767 
+Columbia, MO 
+
+16.8243 
+Columbia, SC 
+
+16.3607 
+Columbus, GA-AL 
+
+14.1755 
+Columbus, OH 
+
+17.8306 
+Corpus Christi, TX 
+
+15.2095 
+Cumberland, MD-WV 
+
+14.9137 
+Dallas, TX 
+
+17.4528 
+Danville, VA 
+
+14.7798 
+Davenport-Moline-Rock Island, IA-IL 
+
+15.0227 
+Dayton-Springfield, OH 
+
+17.0612 
+Daytona Beach, FL 
+
+15.7116 
+Decatur, AL 
+
+14.5969 
+Decatur, IL 
+
+14.4506 
+Denver, CO 
+
+19.3789 
+Des Moines, IA 
+
+15.7603 
+Detroit, MI 
+
+19.7641 
+Dothan, AL 
+
+14.5621 
+Dover, DE 
+
+16.6236 
+Dubuque, IA 
+
+13.7683 
+Duluth-Superior, MN-WI 
+
+16.8727 
+Dutchess County, NY 
+
+19.2454 
+Eau Claire, WI 
+
+15.3631 
+El Paso, TX 
+
+15.4859 
+Elkhart-Goshen, IN 
+
+15.8724 
+Elmira, NY 
+
+15.6636 
+Enid, OK 
+
+14.9984 
+Erie, PA 
+
+16.3068 
+Eugene-Springfield, OR 
+
+19.3300 
+Evansville, Henderson, IN-KY 
+
+16.4926 
+Fargo-Moorhead, ND-MN 
+
+16.8334 
+Fayetteville, NC 
+
+15.8069 
+Fayetteville-Springdale-Rogers, AR 
+
+13.2254 
+Flint, MI 
+
+18.9698 
+Florence, AL 
+
+13.9337 
+Florence, SC 
+
+15.5718 
+Fort Collins-Loveland, CO 
+
+17.7671 
+Fort Lauderdale, FL 
+
+19.3381 
+Fort Myers-Cape Coral, FL 
+
+17.4771 
+Fort Pierce-Fort St. Lucie, FL 
+
+18.1523 
+Fort Smith, AR-OK 
+
+14.0151 
+Fort Walton Beach, FL 
+
+16.1725 
+Fort Wayne, IN 
+
+16.1351 
+Fort Worth-Arlington, TX 
+
+16.6281 
+Fresno, CA 
+
+18.8501 
+Gadsden, AL 
+
+14.9006 
+Gainesville, FL 
+
+16.1053 
+Galveston-Texas City, TX 
+
+18.4232 
+Gary, IN 
+
+17.5613 
+Glens Falls, NY 
+
+16.6860 
+Goldsboro, NC 
+
+15.4377 
+Grand Forks, ND-MN 
+
+16.2914 
+Grand Rapids-Muskegon-Holland, MI 
+
+17.9324 
+Great Falls, MT 
+
+15.7732 
+Greeley, CO 
+
+19.1455 
+Green Bay, WI 
+
+16.1023 
+Greensboro-Winston-Salem-High Point, NC 
+
+16.7368 
+Greenville, NC 
+
+16.3414 
+Greenville-Spartanburg-Anderson, SC 
+
+16.6335 
+Hagerstown, MD 
+
+16.3387 
+Hamilton-Middletown, OH 
+
+16.1746 
+Harrisburg-Lebanon-Carlisle, PA 
+
+17.5461 
+Hartford, CT 
+
+22.5979 
+Hickory-Morganton, NC 
+
+15.9128 
+Honolulu, HI 
+
+21.3363 
+Houma, LA 
+
+14.0576 
+Houston, TX 
+
+17.8660 
+Huntington-Ashland, WV-KY-OH 
+
+16.3419 
+Huntsville, AL 
+
+14.7596 
+Indianapolis, IN 
+
+17.9355 
+Iowa City, IA 
+
+16.5438 
+Jackson, MI 
+
+16.7467 
+Jackson, MS 
+
+13.8228 
+Jackson, TN 
+
+15.0882 
+Jacksonville, FL 
+
+16.4406 
+Jacksonville, NC 
+
+13.1433 
+Jamestown, NY 
+
+13.7544 
+Janesville-Beloit, WI 
+
+15.7055 
+Jersey City, NJ 
+
+20.1808 
+Johnson City-Kingsport-Bristol, TN-VA 
+
+15.7582 
+Johnstown, PA 
+
+15.7335 
+Joplin, MO 
+
+14.1473 
+Kalamazoo-Battle Creek, MI 
+
+19.1022 
+Kankakee, IL 
+
+17.1314 
+Kansas City, KS-MO 
+
+17.2955 
+Kenosha, WI 
+
+16.0882 
+Killeen-Temple, TX 
+
+17.6560 
+Knoxville, TN 
+
+15.6051 
+Kokomo, IN 
+
+16.4989 
+LaCrosse, WI 
+
+15.5484 
+Lafayette, LA 
+
+14.4264 
+Lafayette, IN 
+
+15.1766 
+Lake Charles, LA 
+
+15.0433 
+Lakeland-Winter Haven, FL 
+
+14.7941 
+Lancaster, PA 
+
+17.0658 
+Lansing-East Lansing, MI 
+
+18.3031 
+Laredo, TX 
+
+12.7235 
+Las Cruces, NM 
+
+16.0660 
+Las Vegas, NV-AZ 
+
+19.4913 
+Lawrence, KS 
+
+15.6222 
+Lawton, OK 
+
+15.5118 
+Lewiston-Auburn, ME 
+
+17.6436 
+Lexington, KY 
+
+15.3463 
+Lima, OH 
+
+15.8233 
+Lincoln, NE 
+
+16.4101 
+Little Rock-North Little Rock, AR 
+
+15.1390 
+Longview-Marshall, TX 
+
+15.9127 
+Los Angeles-Long Beach, CA 
+
+22.8969 
+Louisville, KY-IN 
+
+17.2240 
+Lubbock, TX 
+
+15.8490 
+Lynchburg, VA 
+
+15.1754 
+Macon, GA 
+
+16.4206 
+Madison, WI 
+
+18.0981 
+Mansfield, OH 
+
+14.9778 
+Mayaguez, PR 
+
+8.1304 
+McAllen-Edinburg-Mission, TX 
+
+14.6517 
+Medford-Ashland, OR 
+
+17.6432 
+Melbourne-Titusville-Palm Bay, FL 
+
+16.3510 
+Memphis, TN-AR-MS 
+
+15.4887 
+Merced, CA 
+
+17.9930 
+Miami, FL 
+
+18.5575 
+Middlesex-Somerset-Hunterdon, NJ 
+
+19.5314 
+Milwaukee-Waukesha, WI 
+
+17.5426 
+Minneapolis-St. Paul, MN-WI 
+
+19.7966 
+Mobile, AL 
+
+13.7051 
+Modesto, CA 
+
+20.4129 
+Monmouth-Ocean, NJ 
+
+19.4962 
+Monroe, LA 
+
+13.9777 
+Montgomery, AL 
+
+14.6928 
+Muncie, IN 
+
+17.3507 
+Myrtle Beach, SC 
+
+14.5015 
+Naples, FL 
+
+17.7633 
+Nashville, TN 
+
+17.0518 
+Nassau-Suffolk, NY 
+
+24.6970 
+New Haven-Bridgeport-Stamford-Danbury-Waterbury, CT 
+
+22.5646 
+New London-Norwich, CT 
+
+21.1702 
+New Orleans, LA 
+
+17.3291 
+New York, NY 
+
+25.6447 
+Newark, NJ 
+
+21.7897 
+Newburgh, NY-PA 
+
+18.6043 
+Norfolk-Virginia Beach-Newport News, VA 
+
+15.1146 
+Oakland, CA 
+
+26.6653 
+Ocala, FL 
+
+16.0357 
+Odessa-Midland, TX 
+
+15.3382 
+Oklahoma City, OK 
+
+15.4527 
+Olympia, WA 
+
+20.3246 
+Omaha, NE-IA 
+
+17.8621 
+Orange County, CA 
+
+22.2936 
+Orlando, FL 
+
+17.2217 
+Owensboro, KY 
+
+14.3219 
+Panama City, FL 
+
+13.7129 
+Parkersburg-Marietta, WV-OH 
+
+14.4674 
+Pensacola, FL 
+
+14.9950 
+Peoria-Pekin, IL 
+
+15.3566 
+Philadelphia, PA-NJ 
+
+20.2418 
+Phoenix-Mesa, AZ 
+
+18.4081 
+Pine Bluff, AR 
+
+15.7140 
+Pittsburgh, PA 
+
+17.9035 
+Pittsfield, MA 
+
+20.6961 
+Ponce, PR 
+
+8.0275 
+Portland, ME 
+
+17.2961 
+Portland-Vancouver, OR-WA 
+
+20.4183 
+Providence-Warwick, RI 
+
+20.2583 
+Provo-Orem, UT 
+
+18.7888 
+Pueblo, CO 
+
+14.1899 
+Punta Gorda, FL 
+
+15.9683 
+Racine, WI 
+
+15.7220 
+Raleigh-Durham-Chapel Hill, NC 
+
+17.4465 
+Rapid City, SD 
+
+14.8116 
+Reading, PA 
+
+16.7253 
+Redding, CA 
+
+20.0800 
+Reno, NV 
+
+20.2340 
+Richland-Kennewick-Pasco, WA 
+
+17.6183 
+Richmond-Petersburg, VA 
+
+17.0553 
+Riverside-San Bernardino, CA 
+
+21.3851 
+Roanoke, VA 
+
+15.0995 
+Rochester, MN 
+
+19.0900 
+Rochester, NY 
+
+17.9083 
+Rockford, IL 
+
+15.8339 
+Rocky Mount, NC 
+
+15.5922 
+Sacramento, CA 
+
+20.5987 
+Saginaw-Bay City-Midland, MI
+
+17.0890 
+St. Cloud, MN 
+
+17.4372 
+St. Joseph, MO 
+
+15.7097 
+St. Louis, MO-IL 
+
+16.6361 
+Salem, OR 
+
+17.4562 
+Salinas, CA 
+
+24.9907 
+Salt Lake City-Ogden, UT 
+
+17.5358 
+San Angelo, TX 
+
+13.0251 
+San Antonio, TX 
+
+14.6955 
+San Diego, CA 
+
+21.9881 
+San Francisco, CA 
+
+25.6122 
+San Jose, CA 
+
+26.0941 
+San Juan-Bayamon, PR 
+
+7.9610 
+San Luis Obispo-Atascadero-Paso Robles, CA 
+
+22.3764 
+Santa Barbara-Santa Maria-Lompoc, CA 
+
+21.2153 
+Santa Cruz-Watsonville, CA 
+
+24.5190 
+Santa Fe, NM 
+
+19.6904 
+Santa Rosa, CA 
+
+23.4906 
+Sarasota-Bradenton, FL 
+
+17.6658 
+Savannah, GA 
+
+16.1442 
+Scranton-Wilkes Barre-Hazleton, PA 
+
+15.5977 
+Seattle-Bellevue-Everett, WA 
+
+20.0458 
+Sharon, PA 
+
+16.2992 
+Sheboygan, WI 
+
+14.6933 
+Sherman-Denison, TX 
+
+16.1308 
+Shreveport-Bossier City, LA 
+
+16.5027 
+Sioux City, IA-NE 
+
+15.5079 
+Sioux Falls, SD 
+
+15.8117 
+South Bend, IN 
+
+17.5707 
+Spokane, WA 
+
+19.3897 
+Springfield, IL 
+
+15.9339 
+Springfield, MO 
+
+14.4034 
+Springfield, MA 
+
+19.2715 
+State College, PA 
+
+18.0846 
+Steubenville-Weirton, OH-WV 
+
+15.4737 
+Stockton-Lodi, CA 
+
+21.2618 
+Sumter, SC 
+
+14.6395 
+Syracuse, NY 
+
+17.7012 
+Tacoma, WA 
+
+18.9982 
+Tallahassee, FL 
+
+14.9889 
+Tampa-St. Petersburg-Clearwater, FL 
+
+16.9475 
+Terre Haute, IN 
+
+15.6697 
+Texarkana, TX-Texarkana, AR 
+
+14.8819 
+Toledo, OH 
+
+18.1171 
+Topeka, KS 
+
+18.0500 
+Trenton, NJ 
+
+18.6489 
+Tucson, AZ 
+
+17.1274 
+Tulsa, OK 
+
+15.0046 
+Tuscaloosa, AL 
+
+14.9033 
+Tyler, TX 
+
+15.6242 
+Utica-Rome, NY 
+
+15.4642 
+Vallejo-Fairfield-Napa, CA 
+
+23.8150 
+Ventura, CA 
+
+21.2819 
+Victoria, TX 
+
+15.8948 
+Vineland-Millville-Bridgeton, NJ 
+
+18.7995 
+Visalia-Tulare-Porterville, CA 
+
+18.8058 
+Waco, TX 
+
+14.6442 
+Washington, DC-MD-VA-WV 
+
+20.0174 
+Waterloo-Cedar Falls, IA 
+
+15.7836 
+Wausau, WI 
+
+17.9018 
+West Palm Beach-Boca Raton, FL 
+
+18.3519 
+Wheeling, WV-OH 
+
+13.8778 
+Wichita, KS 
+
+18.2479 
+Wichita Falls, TX 
+
+12.5172 
+Williamsport, PA 
+
+15.3868 
+Wilmington-Newark, DE-MD 
+
+19.5698 
+Wilmington, NC 
+
+16.6887 
+Yakima, WA 
+
+17.3416 
+Yolo, CA 
+
+21.6301 
+York, PA 
+
+16.4426 
+Youngstown-Warren, OH 
+
+17.0986 
+Yuba City, CA 
+
+18.6136 
+Yuma, AZ 
+
+15.8434 
+
+
+</TABLE>
+
+

@@ -1,0 +1,200 @@
+FT  23 JAN 92 / Technology (Software at Work): Recovering well after surgery
+ -Continuing a series on getting the most out of software, Claire Gooding
+visits Glan Clwyd Hospital to see IT under medical supervision
+Innovation in information technology is not often associated with Britain's
+National Health Service. Yet the NHS is Europe's largest employer and a good
+deal more complex than any commercial business.
+Despite the undoubted quality of its IT staff, computerisation has an
+unhappy history in the NHS. Since the late 1960s healthcare professionals
+have had to submit data to centralised systems. They resent the paperwork,
+see no benefits from their toil and distrust the statistics that result.
+In January 1989 the government's Working for Patients white paper focused
+attention on the cost and efficiency of health services, posing questions
+that had never been raised before. It also put aside a large budget for
+information systems to support the changes.
+Glan Clwyd Hospital, on the North Wales coast not far from Rhyl, is the
+Welsh 'pilot site' for implementing this change of culture. It is a pioneer
+in the field of information systems and what, in the commercial world, would
+be termed 'change management'.
+Clwyd was one of six early sites designated to develop its own systems for
+Resource Management (RM), an experiment now extended to 50 more UK sites.
+The aim of RM is to improve the organisation, as explained by Roger Dunshea,
+Clwyd's general manager of surgery, an ex-nurse and self-confessed 'IT
+ignoramus', who was involved in the project from the start.
+'RM is about working with consultants to bring them into the management
+process, from procurement onwards. It must involve them. I have to encourage
+them to focus their thinking on non-clinical matters such as cost and
+planning.'
+Newly-developed Hospital Information Systems and RM systems emphasise
+measurement: it is not possible to deliver efficiency, increase throughput
+or adjust budgets without first being able to measure all those elements.
+Gren Kershaw, the unit general manager, says Clwyd made a strong bid to the
+Welsh Office to become the one RM pilot site allotted to Wales. 'They chose
+us because we demonstrated a deep interest in using information to improve
+patient care and the way we manage hospital services.'
+David Thomas, a consultant gynaecologist and obstetrician, is also the Clwyd
+project leader. Long interested in management issues, he has given up some
+clinical time to the project but still keeps all his operating and on-call
+commitments. 'We were able to demonstrate a close relationship between staff
+and management' he says. 'And we had enough committed clinicians to make it
+work.' No decisions will be made on the experiment until the end of 1992,
+but if it is accounted a success Clwyd's work solution is likely to be
+adopted elsewhere.
+Thomas is concerned that healthcare professionals and others often
+misunderstand both the motives for collecting information, and the data
+itself. 'A good example is beds. We had 930 beds in 1983 and we now have
+700, but there's been a huge increase in patients treated each year, partly
+because the length of stay has gone down, from eight days to
+five-and-a-half,' he says.
+'In the past, we haven't known what the costs are, or what the implications
+are of using one treatment rather than another. Some healthcare
+professionals worry about a hidden agenda, even feel it's an attack on their
+professionalism. But information is for identifying good clinical practice,
+not for undermining health services or attacking doctors.'
+Kershaw claims his team has achieved some quantifiable results in 18 months,
+delivering useful information for clinicians and managers.
+Clwyd's approach has been pragmatic. First, it has concentrated on creating
+operational systems which would be useful to the end-users in such tasks as,
+for example, delivering the results of blood tests.
+The management information has been derived merely as a by-product of
+day-to-day activities, a point stressed by everyone involved.
+Second, it has bought in packaged solutions, and made them work with a
+variety of existing systems, aiming for 'interoperability' of disparate
+systems. Open systems, under which all new systems would run under a common
+operating system such as Unix, has arrived too late for the NHS. A couple of
+Clwyd systems are Unix-based: communications experts are still linking the
+older proprietary systems into the patchwork.
+Last, but most important, was the effort Clwyd put into involving the staff.
+A total of 11 'task teams' were set up to consult colleagues. Nurses,
+consultants and secretaries were among those who contributed ideas to the
+Patient Administration System (PAS). 'We had to proselytize, inform and
+educate,' explains Dunshea. 'The fear of IT had to be removed.'
+There were meetings with hundreds of staff, many of whom had never used a
+keyboard, and needed reassurance that their lack of expertise could not ruin
+the system. Newsletters, site visits and demonstrations were all part of the
+effort.
+Four IT providers were invited to tender in September 1989, all according to
+strict procurement rules. Some of the offerings were too oriented to the US,
+where the emphasis is on billing and profit, not care and efficiency.
+McDonnell Douglas won the deal on Clwyd's 'scoring system', and supplied
+several new systems, including PAS and the Order Communication System (OCS),
+plus 24-hour facilities management. These also had to be linked with other
+systems such as office automation.
+Systems manager Joyce Hall, a former ward sister, took charge of the OCS.
+She set out to test the viability of the system as a key element in Clwyd's
+'operational' strategy, describing OCS as the 'glue' for all other systems.
+'The exercise forced us to look at current working practices. It's not about
+computers, it's about managing resources based on proper information,' she
+states. Now, transactions - for instance, orders for blood tests - are keyed
+in by the people concerned at source, and results are instantly available
+from any terminal, cutting down on paperwork. The OCS extends beyond the
+hospital itself to family doctors, who have access to test results and
+similar information via PCs linked into the hospital.
+'A by-product of the OCS is that the information gained can be used to build
+up patient profiles, and compare that information across different
+specialities. Any shop or manufacturer can tell you the cost of any product
+and its components. To my knowledge no one in the NHS can do that as yet:
+that's what we'll be able to do.'
+Mick Webb, the director of information services, agrees that the primary aim
+of RM is to support the operational processes, benefiting the clinicians in
+their day-to-day tasks. He sees the information coming full circle, from
+operational to management information, feeding back, eventually, into
+operational and clinical practice.
+'Because it is recording day-to-day activities we can react more quickly,
+plan for the future, and see trends. In the past it would have taken two or
+three months: now we can see at the end of the week what resources a
+patient, or specific group of patients, consumes,' says Webb.
+'We think we're at the leading edge in operational terms, even if we're
+using long-established systems. We firmly believe what we're doing here will
+be of direct benefit to the patients, the care providers and the management:
+that's putting things in the right order,' he adds.
+Thomas already finds the new systems valuable, and wants others to see the
+benefits. 'What I can do now is to get a good idea of the resources I need
+for a particular treatment at patient level. The hospital is using
+Diagnostic Related Groups with the aim of comparing costs with other
+hospitals in other parts of the country. We can find out what works; see how
+one consultant manages hysterectomies more effectively than others, and put
+those techniques to work.'
+Kershaw concludes: 'We still have a long way to go to involve everybody, and
+we're not there yet. It's relatively new in a complex world. What we've done
+so far is successful, but we must continue driving it hard to get the
+benefits.'
+The series will continue on the Technology page next month. The Quarterly
+Review of Software at Work will appear on March 19.
+BUZZWORDS
+RESOURCE MANAGEMENT involves healthcare professionals in management
+decision making.
+PATIENT ADMINISTRATION SYSTEMS record patient andtreatment details.
+HOSPITAL INFORMATION SYSTEMS provide management information.
+DIAGNOSTIC RELATED GROUPS are 'patient care profiles' for specific
+treatments, for example, for a broken leg.
+CONSULTANT'S CRITIQUE
+THE CHANGES in the NHS have struck deep into the corporate culture. New
+techniques and treatments mean that the expectations of patients have been
+raised. Heart transplants, for example, have moved from the pages of science
+fiction to those of local newspapers.
+With finite financial resources the NHS has had to look at efficiency. It
+now matters how much treatments cost and whether they are effective. But the
+infrastructure does not yet exist and there are decades of established
+practice to be overcome. In most cases, there is no means of assessing the
+problem, let alone producing solutions.
+It is in this context that we need to examine the Clwyd study. The issue is
+not so much a computer system as a revolution in working methods. Happily,
+Clwyd Hospital has avoided many of the pitfalls of earlier systems. The team
+has recognised the need to involve all levels of people in the
+implementation.
+It has wisely gone for a set of small solutions rather than a grand design.
+This has introduced a number of interoperability problems but these are
+easier to overcome then the difficulties which accompany the
+all-encompassing systems. Grand systems have a habit of becoming
+over-complex and never working at all. It is much easier to steer a moving
+Lada than a pile of Rolls-Royce parts.
+I liked the focus on getting the most useful things working first. Too
+often, the order of implementation is left to the programmers who implement
+the areas which interest them most.
+The Clwyd approach ensures that users get value from the system early on.
+This generates goodwill for the inevitable snags.
+It has also allowed the team to draw in outsiders such as family doctors who
+are an essential part of the referral mechanisms. They too are more likely
+to co-operate with form filling if they can see improvements in their own
+practices.
+The author is a consultant with Software Design and Construction, of Milton
+Keynes
+HEALTH AUTHORITY CLWYD
+COMPANY SNAPSHOT
+Glan Clwyd Hospital is a 700-bed District General Hospital outside Rhyl,
+North Wales.
+NATURE OF BUSINESS:
+Healthcare, treating 32,500 in-patients per year, and 175,000
+out-patients, including accident and emergency.
+ANNUAL BUDGET:
+Pounds 42m, of which 1-1.5 per cent spent on Resource Management
+information technology.
+EMPLOYEES:
+2,100 including 60 consultants.
+TECHNOLOGY FILE
+Clwyd in an example of interoperability, tying together disparate systems.
+It used tight contract and project management techniques to keep the project
+within time and on budget, and also drew on the technical expertise of the
+Welsh Health Common Services Authority for the initial specification.
+SOFTWARE AND INSTALLATION DETAILS:
+From McDonnel Douglas, on Reality Series 19, installed since March 1990:
+Minimum Data Set statistics and contracts for reporting;
+Patient Administration System, used by ward staff to admit patients
+(June 1990); Inpatient and Waiting List (Sept 1990); Order
+Communications and Results (February 1991), which links all wards,
+secretaries, and some family doctors to laboratories and departments;
+Case note Tracking and medical records.
+OTHER SYSTEMS INCLUDE:
+Wordperfect 5.1 word processing; Case Mix, set up in Oct 1990 to
+accept input from PAS, OCS and older systems for general ledgers
+and finance; Orsos Theatre Management from Atwork was linked in July
+1990 to feed PAS details to theatre.
+SUPPLIER:
+McDonnel Douglas Information Systems won the prime contract in
+December 1989 using a Pick-based multi-user operating system.
+MDD to supply systems on a variety of different computers, and link them
+together.
+OVERALL COST:
+Systems and communications infrastructure was pounds 7m including
+24-hour facilities management for three years.

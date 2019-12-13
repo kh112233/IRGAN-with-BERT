@@ -1,0 +1,75 @@
+ 
+
+i. Practical Issues 
+
+
+(a) Risk Premium. There are several procedures for estimating the risk premium. One common approach is to use the historical
+arithmetic average return differential between rates of return actually earned on investments in common-stock
+equities and bonds. This approach is expressed mathematically as follows: 
+
+
+
+
+K
+
+e
+
+=K
+
+d
+
++Historical bond-equity spread
+
+
+
+
+The historical bond-equity spread, in turn, is often based on the data series published annually in the SBBI Yearbook.
+The portfolio of common stocks used as the benchmark for estimating the risk premium should be one that is composed
+of a broad array of firms and is well diversified, in order to minimize the potential for it to be contaminated by the
+peculiarities of a particular group of common stocks. The SBBI Yearbook database is based upon the Standard 
+Poor's 500 Index, which meets these criteria. The range of companies in such a broad group as the Standard  Poor's
+500 Index covers the broad dimensions of investor perceptions of the trade-off between risk and return, and serves
+as a benchmark for investor-required returns. The Commission's proposed rule stipulates the use of the historical
+bond-equity spread based on the data published in the SBBI Yearbook. 
+Risk premiums based on the historical differential can be extremely volatile and may fluctuate as macroeconomic
+and microeconomic conditions change. The time period over which the risk premium is selected should, therefore,
+be sufficiently long that short-term aberrations are smoothed out. Such a time period must encompass at least several
+business and interest rate cycles. The Commission's proposed rule requires the use of the entire data series (1926present)
+published annually in the SBBI Yearbook in estimating the risk premium. 
+(b) Debt Security. The particular debt security used to implement the RP model should be one which is, at least in theory,
+risk-free and embodies a premium for inflation similar in magnitude to that reflected in common stocks. Satisfying
+these criteria would isolate the spread component of the return and obviate the need to make any type of adjustment
+to the debt yield to account for default risk, which can vary over time, and obscure the long-term relationship between
+returns on common stocks and debt. These criteria are the same as those identified for selecting a debt security to
+measure the risk-free rate in implementing the CAPM. 
+Accordingly, the Commission's proposed rule stipulates the use of the six-month average five-year Treasury Note
+yield in implementing the RP model, for the reasons identified for selecting this same yield as the risk-free rate
+in implementing the CAPM. 
+(c) Risk Adjustment. The risk premium estimate derived from a composite market index is sometimes adjusted if there
+are differences in the risk of the firms represented in the common-stock equity index and that of the regulated firm
+under consideration. The CAPM (which is actually the company-specific form of the general RP model), for example,
+adjusts for such risk differences by multiplying the risk premium by ``beta,'' which serves as the measure of relative
+risk in the CAPM model. The Commission's proposed rule specifies that the RP model be used in its general form without
+making any adjustment for risk, because the generic form provides a useful benchmark for the range of companies contained
+in the Standard  Poor's 500 Stock Index on which it is based and, therefore, measures the broad dimensions of investor
+perceptions of the trade-off between risk and return. The cost of capital estimate produced using the RP model is not
+to be used as the estimate, but instead is to be used as a check on, and in combination with, the cost of capital company-specific
+estimates produced using the DCF and CAPM models. 
+d. Market-to-Book Ratio Method. The MBR method is based on the notion that the market value of a regulated firm's common-stock
+equity should be equal to its book value (plus some allowance for underpricing), and will be so if the firm's allowable
+rate of return on common-stock equity capital is equal to the firm's cost of common-stock equity capital. The MBR approach
+is considered solid conceptually, but is criticized widely for being impractical or even impossible to implement.
+In order to apply the MBR, a regulator must be able to accurately predict the effect that its rate order will have on the
+common stock price of a regulated firm in attempting to maintain the equality between the market value and book value
+of the firm's common stock. Critics argue that regulators are unable to produce such accurate forecasts even when
+sophisticated econometric models are used. In addition, a regulator may influence, but cannot control completely,
+the market price of the regulated firm's stock. Even if it could, the exercise of such control would produce violent
+swings in rate levels which would be uneconomical to both the ratepayer and the regulated firm alike. Finally, diversification
+by the regulated firm into unregulated activities could result in a market price that differs from book value, although
+the earnings of the regulated segment are restrained. 
+
+
+
+
+
+

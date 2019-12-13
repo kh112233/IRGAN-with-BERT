@@ -1,0 +1,235 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+  [Text]A group including professor Go Endo and assistant 
+professor Tomiki Ikeda, Resource Chemistry Laboratory, Tokyo 
+Institute of Technology, and Akihiko Kanezawa, Japan Chemical 
+Industry Association, have synthesized a new cation type 
+antibacterial agent. The new antibacterial agent is a 
+phosphonium salt polymer with long alkyl group side chains. 
+Researchers have confirmed that it is more potent than the 
+quaternary ammonium salt polymers that are currently in use, it 
+kills bacteria rapidly, and it has high heat resistance. Because 
+cation antibacterial agents are also effective against MRSA 
+(methicillin resistant Staphylococcus aureus), the 
+group will proceed with applied research for use of this polymer 
+as an antibacterial material. 
+  Cation antibacterial agents have received attention in 
+recent 
+years because of problems with infections spreading inside 
+hospitals. Currently quaternary ammonium salt compounds are 
+widely used because of their effective antibacterial action, 
+etc. The structures of these compounds feature a dimethyl or 
+trimethyl core with long alkyl group side chains, and it is 
+believed that the long chain alkyl groups play an important role 
+in antibacterial activity. 
+  Professor Endo's group began research on the antibacterial 
+action of phosphonium salt polymers with structures containing 
+trialkyl phosphonium salts as their side chains. They based 
+their study on their knowledge of phosphorus from research on 
+epoxy hardening agents and on assistant professor Ikeda's 
+research on antibacterial action. Their experiments confirmed 
+antibacterial action of phosphonium salts. 
+  They synthesized phosphonium salts (see diagram) by taking a 
+long chain alkyl dimethylphosphine, which was formed by a new 
+method, as a starting material and synthesizing a methyl 
+chloride (1), by using chloromethylstyrene and ethylbenzyl 
+chloride monomers to form a polymer (2), and by synthesizing a 
+model compound (3). 
+
+
+  In the CD software market for home use, a wide range of 
+applications is seen not only in simple full motion playback but 
+also in music software combining FMV and still pictures, 
+education, and electronic publishing. In order to interface with 
+this software group, the 704x480 pixel high resolution still 
+picture playback specification, and playback control were added 
+to the playback menu. 
+
+
+
+  Table 1. Video CD Specifications 
+
+Physical Format                            CD-ROM (XA) 
+
+Digital Video                              MPEG 1 Based 
+
+Pixel Dimension (Number of Pixels) / 
+Frame 
+
+Frequencies: 
+
+352x240/29.97Hz (NTSC) 
+
+352x240/23.976Hz (Film) 
+
+352x288/25Hz (PAL) 
+
+Data Transmission Speed: 
+
+Maximum 1.152 M bit/second 
+
+Video Pack: 2296 byte 
+
+Digital Audio                              MPEG 1 Layer II 
+
+Sampling Frequency : 44.1 Khz 
+
+Data Transmission Speed: 224 k 
+bit/second 
+
+Audio Pack: 2279 byte 
+
+Playback Time                              Maximum 74 minutes 
+
+Number of Pixels of Still Picture          Standard level: 352 x 240 
+
+High Resolution Level: 704 x 480 
+
+Playback Specification                     Regular Playback, Slow, Pause, 
+                                           etc. 
+
+Menu playback Using Playback Control 
+
+Video signal output                        NTSC/PAL 
+
+Applications                               Movies, Karaoke, Music, Education, 
+                                           Photo Album 
+
+
+  Figure 2 shows a block diagram of the CD player. The 
+complicated OS part is eliminated, and by adding a MPEG chip and 
+RAM to the CD player, the hardware was organized so as to make 
+it possible to create an inexpensive player including various 
+models such as a radio-cassette player. 
+
+
+  Since the purpose of Video CD is to explore the home market, 
+it is important for it to be compatible with existing CD-I FMV. 
+Continuity and compatibility with existing products is 
+maintained by bridging the regulations and enabling playback on 
+a CD-I FMV player. 
+  Furthermore, the Video CD regulation is different from that 
+of CD-I. Since the OS is not specified, a personal computer or 
+game computer with an MPEG animation board can be used. 
+  Video CD disks can be manufactured at existing CD factories. 
+The manufacturing cost is less than that of tape, and large 
+scale duplication is easy. Business functions have already been 
+established and range from a rich resource of video software, 
+disk manufacturing, and sales, to distribution. By preparing for 
+an MPEG encoder necessary for the production of software, new 
+disk media for video playback with music software will become 
+feasible. 
+<H5>  Establish Memory Area For Disk Information </H5>
+  The CD organization for Video CD, is based on the form 1 
+specification of CD-ROM XA. File management follows the ISO 9660 
+format. 
+  The disk memory area roughly consists of read-in block, data 
+block (track 1-99), and read-out block. The video CD information 
+block (INF VCD), which is new, was added at this time. In this 
+block disk information is recorded. Full motion and still 
+picture IDs recorded on the disk are stored in the list, which 
+is the ID offset table (LOT) located in that block. The playback 
+procedure is recorded with a list of descriptive forms in 
+playback control (PBC). It became possible to write data in the 
+segment play area for still pictures used for the screen menu. 
+
+
+
+  CD-I application software is also established. When the disk 
+regulated by the Video CD is played back by a CD-I FMV player, 
+the player first reads this part, and playback is processed 
+according to the procedure specified by the application. If 
+directory management is necessary as in the case of a personal 
+computer, the file is managed according to the file structure 
+shown in figure 4. 
+
+
+
+  Usual MPEG data is recorded in track 2 or a later track. A 
+maximum of 99 tracks can be used. However, in the case of Video 
+CD, it is possible to playback high resolution still pictures 
+using only track 1, rather than using simple interactive 
+software utilizing playback control. 
+<H5>  FMV And Voice Recording Based On MPEG 1 </H5>
+  Full motion Video CD and audio signal recording formats are 
+based on MPEG 1; 1.2M bit/second for video and 0.2 M bit/second 
+for audio were assigned. Screen dimensions are: 352x240 pixels 
+in the case of NTSC (30 Hz), and film (24 Hz); and 352 x 288 
+pixels for PAL (25 Hz). Image quality will be almost the same as 
+the home VHS video. 
+
+
+
+  If a player with NTSC specification is used to playback a 
+Video CD disk with PAL specification, then about 20 lines are 
+lost. If an NTSC disk is played back with a PAL player then a 
+black band will appear on the top and bottom of the screen. 
+Also, in the specification this time, the ratio of horizontal to 
+vertical lines is 4 : 3, suitable for regular TV reception, and 
+it is hard to say if it will be suitable for 16 : 9 wide screen 
+TV. This problem will be a future topic to study. 
+  The audio format of Video CD uses MPEG1 layer II. MPEG audio 
+can interface with a wide range of high speed encoding from 32 k 
+bit/second to 448 k bit/second. Considering simple software 
+production and high quality sound, the speed is limited to 224k 
+bit/second. Playback mode is stereo (2 channels). It is also 
+suitable for Karaoke software enabling Channel 0 for music 
+recording, and channel 1 for music and songs. 
+  Figure 6 shows the organization of the Video CD tracks. The 
+MPEG video MPEG and audio data are stored with interleave on the 
+disk, and set with a ratio of 6 : 1 on average. Assuming a 
+search by track number just like existing CD players, there is a 
+front and rear margin of 15 sectors and a pause margin of 150 
+sectors. This is done so to reduce the influence of the bit 
+stream when searching. 
+
+
+
+  As seen in figure 7, the MPEG video sector format consists 
+of a pack header and pack data. One pack is 2324 bytes which is 
+1 sector of a user data block in a CD-ROM. 
+
+
+
+  The MPEG audio sector format is basically the same as that 
+of video. However 12 bytes are a pack header, 13 bytes are a 
+packet header, and 2279 bytes are allocated to data and with the 
+left over 20 bytes (record 0) added make 2324 bytes as one pack. 
+<H5>  Simple Interactive Software Realized </H5>
+  Interactive playback of FMV and still pictures on the Video 
+CD is realized by a function called playback control. Figure 8 
+shows an example of playback using this feature. The example 
+shows the possibility of simple branch playback by preparing 
+several menus of still pictures in the segment play area of 
+track 1 and combining the MPEG FMV and still pictures stored on 
+or after track 2. 
+
+
+
+  [Text] Playback control is also called play sequence 
+descriptor, 
+and branching playback procedures are listed descriptively. 
+There are play lists and selection lists in playback control. 
+The full motion playback procedure is described in the section 
+list, and the menu playback procedure is described in the 
+selection list. Access the desired full motion or still picture 
+data by following the playback control function here, the 
+address of the full motion and still picture stored in the list 
+ID offset table (LOT) should be referenced. The size of the 
+control data necessary to realize the playback control function 
+is about 512K bytes maximum. 
+<H5>  Toward ``General Video'' Era </H5>
+  The best characteristic of the Video CD regulation this time 
+is to be able to provide consumers with an inexpensive playback 
+function as well as rich video software in form of CD by 
+utilizing the existing huge CD industrial base. If a real time 
+encoder is available, then production of video software using 
+CD-R, which can add descriptions and can record once, will be 
+possible. The era of ``General Video'' in which people enjoy 
+digital video comfortably and easily will have arrived. 
+  The CD Video is expected to be used in various fields once 
+the market is penetrated successfully, which will be in 1994. 
+The contribution of those people who helped to establish the 
+Video CD regulations is appreciated. 
+

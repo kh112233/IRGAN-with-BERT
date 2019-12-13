@@ -1,0 +1,288 @@
+CSO 
+
+<F P=106> [Article by Tang Xinfeng [0781 2450 1496], correspondent, </F>
+Zhang Lianmeng [1728 5144 4145], and Yuan Runzhang [5913 3387 
+4545] of the State Key Laboratory for Synthesis and Processing 
+of Advanced Materials, Wuhan University of Technology, Wuhan 
+430070: ``Thermal Stress Relaxation Design and Fabrication of 
+PSZ-Mo Functionally Gradient Materials,'' funded by the ``863'' 
+Program of the State Science and Technology Commission; MS 
+received 12 Sep 92] 
+  [Text] 
+<H5>  Abstract </H5>
+  The thermal stress relaxation of PSZ-Mo functionally 
+gradient 
+material (FGM) during fabrication is optimally designed. The 
+thermal stress distribution induced during the fabrication of a 
+two-layer laminated PSZ-Mo material (a non-FGM or NFGM) is 
+analyzed by the finite element method (FEM). The distribution 
+and relaxation pattern of thermal stress in the PSZ-Mo system 
+FGM during fabrication are also analyzed. The relationship 
+between the thermal stress and the composition distribution 
+exponent P for PSZ-Mo FGM during fabrication is 
+obtained. The optimum thermal relaxation P value for 
+the material system in this investigation is determined by 
+thermal stress analysis. In this investigation, the FGM 
+fabrication technique is also studied. FGM specimens with the 
+dimensions of 24mm x 5.6mm (diameter x thickness) and 30mm x 
+5mm, respectively, are successfully fabricated by a powder 
+metallurgy method. 
+<H5>  1. Introduction </H5>
+  A study of functionally gradient materials (FGMs) with 
+thermal relaxation property is conducted to meet future 
+high-tech demands such as for space materials. The FGMs to be 
+developed are the high-quality insulation and heat-resistant 
+materials with continuous variations of composition, structure, 
+and properties.[.sup]1[/] 
+  This investigation measures the property parameters of the 
+PSZ-Mo system FGM in different compositions. Based on these 
+measured data, the distribution and relaxation rules of 
+diametrical stress _s_[.sub]rr[/], circumferential stress 
+_s_[.sub]_th__th_[/], and axial stress _s_[.sub]zz[/] for a 
+
+circular specimen are analyzed; the relationship between the 
+thermal stress magnitude of the PSZ-Mo system FGM and the 
+composition distribution index P is disclosed; and 
+the best P value for thermal stress relaxation is 
+determined through thermal stress analysis of the system under 
+study. The FEM is used to analyze the _s_[.sub]rr[/], 
+_s_[.sub]_th__th_[/], and _s_[.sub]zz[/] distributions of a 
+
+two-layer laminated PSZ-Mo material during processing. 
+Additionally, based on the analytical results, FGM fabrication 
+techniques are researched, and FGM specimens free from 
+macro-defects are produced. 
+<H5>  2. Thermal Stress Relaxation Design, Optimum Composition </H5>
+Distribution Design of PSZ-Mo System FGM 
+  The raw materials used for the experiment are as follows: 
+ZrO[.sub]2[/] with an average particle size of 0.5 m and a 
+purity of 99.9 percent; Y[.sub]2[/]O[.sub]3[/], 0.03 m 
+and 99.99 percent; Mo, 3 m and 99.90 percent. The test 
+specimens of the six compositions are made according to the 
+following procedure: pressed with cold isostatic pressure of 200 
+MPa, sintered at 1500C for 2 hours under a vacuum of 1 x 
+10[.sup]-3[/] Pa. The specimens are polished for property 
+parameter measurement. The elastic moduli and bending stresses 
+are measured by the three-point bending test with a MTS-810 
+material tester (the averaged value of five specimens is adopted 
+for the analysis). The thermal expansion coefficient is measured 
+with a PZ-2 quartz expansometer (the averaged value of three 
+specimens is adopted). Table 1 displays the property parameter 
+test data. It shows that there is a quasi-linear relationship 
+between the thermal expansion coefficient _a_ and the specimen 
+volume fraction. However, the relationship of either Young's 
+modulus E or bending strength _s_[.sub]b[/] with the specimen 
+composite volume fraction does not follow a simple linear rule, 
+as both are affected by the microstructure of the sintered 
+material. 
+
+
+
+  ----------------------------------------------------------------------------- 
+|Table 1. Data for the Mechanical and Thermal Properties of PSZ-Mo Composit-| 
+|es Sintered in Vacuum                                                      | 
+----------------------------------------------------------------------------- 
+|PSZ _P_/%      |E/GPa             |_s_[.sub]b[/]/|_a_ x 10[.sup]6  | 
+|                  |                  |MPa               |[/]/K[.sup]-1   | 
+|                  |                  |                  |[/]            | 
+----------------------------------------------------------------------------- 
+|0                 |149.45            |188.76            |5.00              | 
+----------------------------------------------------------------------------- 
+|20                |117.95            |191.23            |6.25              | 
+----------------------------------------------------------------------------- 
+|40                |86.45             |195.45            |7.96              | 
+----------------------------------------------------------------------------- 
+|60                |96.55             |167.29            |9.96              | 
+----------------------------------------------------------------------------- 
+|80                |97.27             |120.25            |8.82              | 
+----------------------------------------------------------------------------- 
+|100               |123.96            |135.11            |8.14              | 
+----------------------------------------------------------------------------- 
+
+
+  One quarter of the circular test specimen is analyzed with 
+the FEM. The test specimen is designed to contain 15 layers. The 
+aforementioned test values are used as the parameters for 
+thermal stress analysis. The properties of the specimen 
+compositions other than those of the 15 layers are determined by 
+Lagrangian interpolation. For FEM analysis, one-quarter specimen 
+from the two-layer laminated PSZ/Mo material is divided into 960 
+elements; and one-quarter specimen of FGM is divided into 1,400 
+elements. In the calculation, it is assumed that during cooling 
+from 1500C to 25C, the specimen deformation is 
+elastic, not plastic. 
+<H5>  2.1 Thermal Stress Analysis of Two-Layer Laminated PSZ/Mo </H5>
+Materials (NFGM) 
+  Figures 1a and 1b show respectively the iso-stress line 
+profiles of _s_[.sub]rr[/] and _s_[.sub]zz[/] for a 
+two-layer laminated PSZ-Mo NFGM specimen as calculated by the 
+FEM. The calculation shows that the distributions of 
+_s_[.sub]_th__th_[/] and _s_[.sub]rr[/] are same. Table 2 
+shows the maximum stress of the PSZ-Mo boundary surface 
+calculated by the FEM. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 1. Iso-Stress Line Profiles of 
+_s_[.sub]rr[/] and _s_[.sub]zz[/] 
+for a PSZ-Mo NFGM&lt;/graphic&gt; 
+
+
+
+
+
+    ----------------------------------------------------------------------------- 
+|Table 2. Calculated Results of the Thermal Stresses for PSZ-Mo NFGM        | 
+----------------------------------------------------------------------------- 
+|                  |_s_[.sub]rr[/]|_s_[.sub]zz[/]|_s_[.sub]_th&amp;| 
+|                  | (max)/MPa        | (max)/MPa        |thgr;[/] (max)/| 
+|                  |                  |                  |MPa               | 
+----------------------------------------------------------------------------- 
+|Metal side        |-318              |+180              |-318              | 
+----------------------------------------------------------------------------- 
+|Ceramic side      |+278              |-136              |+278              | 
+----------------------------------------------------------------------------- 
+
+
+  Figures 1a and 1b show the stress distributions on both 
+sides 
+of the two-layer boundary. Figure 1a shows that 
+_s_[.sub]rr[/] is compressive on the metal side, and tensile 
+on the ceramic side. The maximum stress concentration is located 
+close to either side of the boundary surface. The stress 
+gradually decreases away from the boundary surface. This 
+phenomenon is caused by the fact that in the PSZ-Mo system 
+selected for this study the thermal expansion coefficient of Mo 
+is smaller than that of PSZ. Hence, at high temperature, the 
+expansion magnitude of PSZ is larger than that of the metal. 
+Consequently, near the boundary, the metal side endures 
+compression, and the ceramic side endures tension. But in the 
+locations farther away from the boundary, the metal endures 
+tension, and the ceramic, compression. This pattern of 
+_s_[.sub]rr[/] stress distribution causes warping of the 
+specimen toward the ceramic side. Figure 1b shows the pattern of 
+_s_[.sub]zz[/] distribution: tension on the metal side, and 
+compression on the ceramic side. The maximum stresses also 
+concentrate in areas close to both sides of the boundary 
+surface. This stress mode tends to cause fracture along the 
+boundary between the layers. The conclusions are that the 
+deformation of PSZ-Mo two-layer laminated material after 
+sintering will cause warping toward the ceramic side, and the 
+separation of layers along the boundary surfaces are identical 
+with the deformation observed in the prepared specimens. The 
+aforementioned also describes the deformation of the Mo and PSZ 
+layered specimen made by cold iso-static pressing and then 
+sintered at 1500C for 2 hours under 1 x 10[.sup]-3[/] Pa 
+vacuum. 
+<H5>  2.2 Thermal Stress Analysis of the PSZ-Mo System FGM </H5>
+  The PSZ-Mo system FGM contains 15 layers, whose compositions 
+vary continuously from the metallic to the ceramic. The 
+composition distribution curves are based on the equation _P_ 
+= 
+(x/d)[.sup]P[/],[.sup]2[/] where _P_ is the PSZ 
+volume fraction; d, the specimen thickness; x, the position of a 
+certain PSZ composition; and P, PSZ composition 
+distribution pattern index. Figure 2 shows the distribution 
+curves. The composition distribution pattern indices, 
+P = 0.6, 1.0, 1.4, 1.6, 1.8, and 2.2, are selected 
+for the design and calculation of thermal stress relaxation and 
+improvement. Figure 3 shows the results. It shows that within 
+the range P = 0.6 to 2.2, the maximum stress of any 
+one composition distribution is smaller than the maximum stress 
+of the two-layer laminated material, which means that 
+composition gradient obviously relaxes the material's internal 
+thermal stress and the stress induced during fabrication. 
+Besides, at the initial stage, the _s_[.sub]rr[/] and 
+_s_[.sub]zz[/] (the distribution and the magnitude of 
+_s_[.sub]_th__th_[/] and _s_[.sub]rr[/] are approximately 
+the same) decrease with increase in P, and reach 
+their minimum values when P = 1.6. After this point, 
+the stresses increase with increase in the P value. 
+The data show that for the PSZ-Mo system FGM, there exists an 
+optimum P value, i.e. 1.6, which induces the least 
+thermal stress with the largest range for thermal stress 
+relaxation. Compared with the two-layer laminated material, the 
+_s_[.sub]rr[/] and _s_[.sub]zz[/] decrease by 32 percent 
+and 76 percent, respectively. This demonstrates that the 
+gradient composition of a material obviously relaxes the thermal 
+stress induced during fabrication. Especially, the wide 
+_s_[.sub]zz[/] relaxation range greatly reduces the 
+delamination tendency along the Z-axis. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 2. Distribution Curves of Composition&lt;/graphic&gt; 
+
+
+  &lt;graphic&gt; 
+&lt;capt&gt; Figure 3. _s_[.sub]rr[/] and 
+_s_[.sub]zz[/] as a Function of P&lt;/graphic&gt; 
+
+  Figures 4a and 4b show respectively the iso-stress profiles 
+of _s_[.sub]rr[/] and _s_[.sub]zz[/] of the gradient 
+material, calculated by the FEM when P = 1.6. The 
+iso-stress profiles disclose that the maximum stresses of 
+_s_[.sub]rr[/] and _s_[.sub]zz[/] do not occur at the 
+metal-ceramic boundary, but distribute within certain different 
+composition zones. This illustrates that the composition 
+gradient eliminates fractures due to maximum boundary stresses. 
+Furthermore, comparing Figures 1a and 1b with 4a and 4b, we can 
+see that the maximum tensile stress of _s_[.sub]rr[/] drops 
+from +278 MPa to +189 MPa, the maximum tensile stress of 
+_s_[.sub]zz[/] drops from +180 MPa to +42.6 MPa, and the 
+maximum compression stress on the ceramic side rises from -136 
+MPa to -170 MPa. As far as ceramic materials are concerned, the 
+decrease of tensile stress and the increase of compressive 
+stress are beneficial. To sum up, the composition gradient of a 
+material not only relaxes the material from internal thermal 
+stress, but also changes its internal stress distribution, thus 
+greatly improving the material. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 4. Iso-Stress Line Profiles of 
+_s_[.sub]rr[/] and _s_[.sub]zz[/] 
+for PSZ-Mo FGM&lt;/graphic&gt; 
+
+<H5>  3. Fabrication of PSZ-Mo System FGM </H5>
+  Fifteen PSZ-Mo powder mixes of different compositions are 
+prepared. Based on the aforementioned optimal design for thermal 
+stress relaxation and improvement, P = 1.6 is 
+selected. According to the equation _P_ = 
+(x/d)[.sup]P[/], the corresponding filling 
+thickness of each composition is determined. Figure 5 shows the 
+graph of composition distribution versus layer thickness. The 
+specimen is first filled layer by layer with powders of 
+different compositions. Then it is cold iso-static pressed under 
+a pressure of 200 MPa, and subsequently sintered at 1500C 
+for 2 hours in a 10[.sup]-3[/] Pa vacuum. A FGM specimen with 
+dimensions of 24mm x 5.6mm (diameter x thickness) and free of 
+macro-defects is made. Figure 6 shows the electron microprobe 
+spectra of the specimen cross section from the metal side to the 
+ceramic side. It shows the continuous composition change from 
+the metal side to the ceramic side: the Mo content gradually 
+decreases as the Zr content gradually increases. In addition, 
+another PSZ-Mo system FGM specimen with dimensions of 30mm x 5mm 
+without macro-defects is made by a hot-pressing process with a 
+pressure of 30 MPa at 1700C for 3 hours, followed with 
+pressure release at 1200C. Figure 7 [photographs not 
+reproduced] shows specimens made by hot pressing and vacuum 
+sintering, respectively. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 5. Compositional Distribution Profile of PSZ-Mo 
+FGM&lt;/graphic&gt; 
+
+
+  &lt;graphic&gt; 
+&lt;capt&gt; Figure 6. Compositional Distribution Profiles of FGM 
+Measured by Electron Probe&lt;/graphic&gt; 
+
+<H5>  4. Conclusions </H5>
+  (1) The composition gradient of the PSZ-Mo system material 
+relaxes the thermal stress induced during fabrication, and when 
+P = 1.6, the most obvious relaxation occurs. 
+  (2) Based on the optimal design results of thermal stress 
+relaxation, two FGM specimens with dimensions of _P_24mm x 
+5.6mm 
+and _P_30mm x 5mm, respectively, are made by a powder-layering 
+method. The specimens do not display any macro-defects. 
+References 
+  1. Niino, Masayuki, ``Original Ideas, Development Trends for 
+FGMs,'' KOGYO ZAIRYO, 1990; 38 (12): 18. 
+  2. Watanabe, Shozo, ``Fabrication of FGMs,'' KINO ZAIRYO, 
+1988; (4): 15. 
+

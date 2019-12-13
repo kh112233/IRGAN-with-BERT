@@ -1,0 +1,151 @@
+ 
+
+(4) Combinations of nonmass-detonating ammunition and explosives of different class 1 divisions shall be treated
+as follows: 
+
+(1) Determine the required separation of each division. 
+
+(ii) Use the greatest separation of those determined. 
+
+(b) 
+
+Q/D computations and determinations. 
+
+(1) Throughout these requirements, NEW is used to calculate distance by means of formula D=KW
+
+1/3,
+
+ where D is the distance in feet, K is the appropriate risk factor and W is the NEW in pounds. Distance requirements are
+sometimes expressed by the value of K, such as K9, K11, and K18 to signify K=9, K=11, K=18, respectively. 
+
+
+(2) The quantity of explosives in a magazine, operating building, or other explosives site shall be the new weight
+of all the explosives contained therein. Q/D shall be based on the H/D requiring the greatest separation, unless the
+NEW is divided by walls or shields for that purpose.
+
+
+(i) When dividing a quantity of mass-detonating explosives into smaller stacks, a suitable barrier or adequate separation
+distance shall prevent propagation from one stack to another. Barriers designed and constructed in accordance with
+TM 51300/AFM 8822/NAVFAC P397,
+<FOOTCITE>5</FOOTCITE>
+ 
+
+Structures to Resist the Effects of Accidental Explosions, 
+
+satisfy this requirement. In such cases, the explosives content of the stack requiring the greatest distance shall
+govern. Otherwise Q/D computations shall be based on the sum of the mass-detonating explosives in all of the stacks.
+
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+5
+
+</FOOTNAME>
+Tri-service document. Copies may be obtained from Superintendent of Documents, U.S. Government Printing Office,
+Washington, DC 20402.
+
+</FOOTNOTE>
+
+
+(ii) Blast waves shall coalesce when two or more stacks of mass-detonating explosives detonate within short time
+intervals (that is, when the time in milliseconds is less than 4 times the cube root of the explosive weight in pounds
+for lateral target positions and less than 5.6 times the cube root of the explosive weight in pounds for axial target
+positions). The resultant shock wave shall be that of a single detonation of a charge equal to the sum of the several
+stacks. The actual separation time between successive detonations is influenced by the spatial separation, geometry,
+and distribution of explosives; the character of the dividing wall or other barrier; and the sensitivity of the explosives.
+
+
+
+(3) The quantity of explosives permitted in each of two or more locations shall be determined by considering each location
+as a potential explosion site (PES). The quantity of explosives permitted in each of these locations shall be the amount
+permitted by the distance specified in the appropriate Q/D tables considering each as a potential target site in turn,
+except for service magazines (see 184.43(a)(7) and 184.43(b)(6)). 
+
+(4) Quantity/distance tables are in Subpart F of this part. The formulae specified in Appendices A through D to Subpart
+F of this part may be used to interpolate exact distances for Hazard Division 1.1 explosives. The notes to Appendix
+L to Subpart F of this part provide distance formulae for Hazard Division 1.3 distances. 
+
+(5) It is impractical to specify Q/D separations large enough to allow for the designed flight range of propulsive
+units (rockets, missile motors, and catapults) that properly belong in Hazard Divisions 1.1, 1.2 or 1.3. Therefore,
+maximum flight ranges for self-propelling munitions shall be disregarded. The distance required to afford protection
+from fragments in credible accident situations, however, shall be established in accordance with the principles
+in 184.52(f). 
+
+(6) Separation distances for Q/D purposes shall be measured from the nearest part of an exposed structure or site,
+to the nearest wall of the controlling subdivision or structure containing explosives, as appropriate. Separation
+distances are measured along straight lines. 
+
+(7) Where railroad cars or motor vehicles containing ammunition and explosives are not separated from operating
+buildings, magazines, or open AE storage sites in a manner precluding their mass detonation, the separation
+distance shall be based on the total quantity of explosives (see 184.41(a)) and measured form the outside wall
+of the building, railcar, vehicle, or edge of open stack closest to the target. If the explosives are separated into
+smaller units so that mass detonation of the explosives in the railcars and motor vehicles and inside unit or units
+shall not occur, the separation distance shall be measured from the controlling explosives unit, railcar or vehicle
+closest to a target. 
+
+
+
+(c) 
+
+Hazard Division 1.1, explosion effects, exposure controls, and degrees of safety afforded. 
+
+Facility damage and personnel injury from Hazard Division 1.1, AE, principally depend on blast overpressure
+and impulse, although for limited quantities fragment hazards may control Q/D. For general purposes, peak incident
+overpressure is the blast parameter defining maximum permissible levels of exposure. However, in specific instances
+the physical characteristics of exposed structures (such as mass, stiffness, ductility, and so forth) can make blast
+impulse the principal damage-causing factor. 
+
+
+
+(1) Separation distances for earth covered magazines (see Appendices D and E to Subpart F of this part) provide virtually
+complete protection against propagation of explosions among earth-covered magazines by blast, fragments, or fire.
+Some cracking of concrete barrels and rear walls, spalling and severe cracking of front walls, and damage to doors
+and ventilators may, however, occur. 
+
+
+(2) Aboveground magazine distances (see columns 10 and 12, Appendix D to Subpart F of this part) provide considerable
+protection against propagation of explosions among above-ground magazines by blast. Depending on ammunition type,
+however, there is a risk of delayed propagation by fragments or of fire spreading from one magazine to another. Properly
+designed and placed barricades reduce the risk of communicating explosion through high-velocity, low-angle fragments.
+Without barricades, this risk is high. 
+
+(i) The above ground magazine separation distance of 6W
+
+1/3
+
+ feet corresponds to a peak overpressure level of 27 psi (1.8 bars) (1 bar=14.5 psi) when the explosion source is in the
+open. Neither the overpressure nor any other pertinent blast parameter, such as impulse, shall be significantly
+reduced by an ordinary storage building of conventional unstrengthened industrial construction at the explosion
+site, or by the barricade required between aboveground magazines at this distance. A conventional unstrengthened
+building exposed at this distance shall be destroyed, vehicles overturned and crushed, and all occupants killed.
+
+
+
+(ii) The unbarricaded aboveground magazine separation distance of 11W
+
+1/3
+
+ feet corresponds to a peak overpressure level of 8 psi (0.5 bars) from an explosion source in the open. Blast observed
+at this distance shall be suppressed only slightly by a storage building of conventional construction at the explosion
+site. A conventional unstrengthened building exposed at this distance shall be destroyed. Blast will seriously
+injure eardrums and lungs of any survivor, as will being blown down or stuck by fragments or building debris. Vehicles
+will be severely damaged by blast and may be inoperable. 
+
+
+(3) At blast overpressure of 12 psi (0.7 bars) occurring at scaled distance of 9W
+
+1/3
+
+ feet (see Appendices B and C to Subpart F of this part): 
+
+(i) Unstrengthened buildings will suffer severe structural damage approaching total destruction. 
+
+(ii) People at the exposed site will be killed or severely injured by being thrown about by blast or by building collapse.
+
+
+(iii) Aircraft will be damaged beyond repair. If the aircraft are loaded with explosives, delayed explosions are
+likely to result from subsequent fires. 
+

@@ -1,0 +1,122 @@
+FT  07 SEP 94 / Byte of the new bank managers: The rise of in-house
+computers - rather than humans - as financial supervisors
+They sit, gleaming and humming, on the trading floor of every large bank in
+the world. They are consulted by traders before decisions are taken to buy
+and sells bonds or shares. They trace curves plotting the price of options,
+the financial contracts giving the right to buy and sell other securities.
+They are 'black boxes', the high-powered computers that no large bank which
+trades securities can now afford to be without.
+Software 'models', run on these machines and used to analyse masses of data
+to predict prices, now have a substantial impact on financial markets. By
+telling banks which securities to buy and sell, at what price, they have
+become the new masters of many trading floors. But they are now set for even
+greater recognition. Central banks and other banking supervisors worldwide
+are working on plans to allow banks to use their models to fix how much
+capital they need to keep in reserve to support their trading.
+The implications are large. By accepting the use of banks' own models in a
+regulatory role, supervisors would be taking a big step towards a new form
+of oversight. Instead of the traditional close, human, examination of
+individual transactions, they would instead monitor the way in which banks
+use computers to control risk. They would do so as part of new capital
+requirements for trading activities.
+The financial impact of these new rules could be enormous. Since 1988, when
+the Basle Committee of international bank supervisors agreed the first
+global standards on capital needed to back lending, banks have built up
+stronger reserves. They have also cut the types of lending, such as loans to
+companies, which are rated as requiring a lot of capital under the Basle
+accord.
+But the growth of banks' trading activities in the 1990s has been encouraged
+by the fact that they are not yet required to allocate any capital to cover
+the risks of trading in financial instruments. In practice the risk of
+default on securities is low - so that under Basle rules only minimal
+capital needs to be allocated. Yet banks risk losses from falls in the price
+of securities - as they found to their cost this year when European interest
+rates rose.
+Supervisors have wanted to plug this gap since 1988. Their first effort to
+do so came 18 months ago when the Basle group published its 'market risk'
+proposals. Supervisors say that these could add up to 1 percentage point to
+the average 8 per cent capital-to-assets ratio required for lending risks.
+This would have required big UK banks alone to hold a total of Pounds 400m
+more capital, and could lead to banks restricting some forms of trading.
+The original Basle proposals provoked alarm among banks. Instead of using
+what banks regarded as state of the art modelling methods, the Basle
+supervisors proposed a set of pre-determined rules to calculate capital
+requirements. Different products such as equities and bonds would be treated
+separately. In the case of bonds - a complex area - banks would have to
+allocate capital to cover their risk of loss in each of a set of 13
+timeframes.
+'The proposals came from an era when you added up positions on a piece of
+paper,' says Mr Steven Hellinger, director of research at the State of New
+York banking department. 'Banks had constructed ways (of using computers) to
+measure risk at no small expense, and it seemed as if they would get no
+recognition for that,' says Mr Mark Brickell, head of derivatives strategy
+at US bank JP Morgan, which uses some of the most sophisticated computer
+models.
+Such models have developed through necessity. Because the pricing of
+instruments such as financial derivatives - products that derive their value
+from that of an underlying security or index - depends on mathematical
+theory, banks have to use models to understand them.
+Banks now use models to measure the total risk of loss in trading
+portfolios. Mr Charles Taylor, executive director of the Group of 30, an
+association of senior bankers, says that models can not only aggregate
+different forms of risk but are 'much more analytically rigorous than the
+old rules of thumb that bankers used to use'.
+Such arguments lay behind the banks' objections to using the Basle formulae
+instead of their computer models. They had two main complaints:
+First, it would add to their costs. Although banks could rewrite software to
+collect the data required by the Basle committee, it would not be simple.
+Models add together the risks of different products, and give an immediate,
+rounded picture of the total trading risk the bank is running. 'It is hard
+to collect extra data that puts a portfolio into different boxes,' says one
+supervisor.
+Second, by treating all banks equally, it might discriminate against the
+more sophisticated institutions. Banks argued that they would have to hold
+less capital if they had better risk management methods. This argument was
+received sympathetically by supervisors. 'Standards of sound practice are
+moving forward all the time, and we want to encourage banks to be in the
+front line,' says another bank supervisor.
+These arguments persuaded the Basle committee to change its mind. At
+meetings in March and June, it decided to examine whether banks could use
+their own computer models as an alternative to the standard rules. The
+difficulty for supervisors is to construct a framework for approving
+computer models. If rival banks' models led to them allocating different
+amounts of capital for the same trading activities, it would distort
+competition. Banks might also be able to rig their models to ensure that
+they needed less capital. A free-for-all of this kind would be very alarming
+for supervisors.
+Supervisors have now drawn up a draft set of rules with which models would
+have to comply. This includes regulations on the number of years of past
+market movements against which banks' portfolios would have to be tested.
+Supervisors will shortly start testing models by running the same trading
+pattern through each model, and seeing if they produce a similar capital
+requirement. If they do not, the framework will be tightened.
+There is no guarantee of success. The regulator which has come the closest
+so far to allowing the use of models to measure risk is the Securities and
+Futures Authority in the UK. But the SFA only allows models to translate
+financial derivatives into bonds and equities with comparable risks. These
+are then judged according to a set of rules similar to the original Basle
+list. The latest Basle approach is more ambitious.
+Allowing the comprehensive use of models envisaged by bank supervisors would
+be tricky even if they were tried and tested. In practice, they are a recent
+innovation, and are still being developed. It is not clear that they can
+assess properly the risks of instruments such as options, the most complex
+form of derivatives. Some supervisors say options will have to be treated
+separately in new Basle proposals, which could undermine their coherence.
+The supervisors are working against time. They would like to see common
+capital standards not only for banks across the world, but for both banks
+and securities firms. But capital requirements for European banks and
+securities firms have been set in the European Union's capital adequacy
+directive that will come into force in 1996. It could only be amended to fit
+with the Basle framework before then.
+But probably the greatest challenge for bank supervisors is to ensure that
+they do not weaken management controls by allowing banks to use internal
+models. 'It would be intolerable if a company started to market its models
+as 'central bank approved',' says a supervisor. 'People get hooked on
+mathematics, but the most important thing is that the management understands
+what is going on.'
+Mr Tommaso Padoa Schioppa, chairman of the Basle committee, admits there is
+a danger that approval of banks' models will be misunderstood. 'If internal
+models were accepted, it would not amount to a relaxation of supervisory
+standards. If there is a misunderstanding about this, it will have to be
+clarified,' he says. Black boxes already rule some bank trading floors;
+supervisors will have to watch how their influence spreads.

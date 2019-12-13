@@ -1,0 +1,203 @@
+ 
+
+During the public comment period for supplement B, EPA received requests to consider several additional new modeling
+techniques and suggestions for enhanced technical guidance.
+<FOOTCITE>3</FOOTCITE>
+ However, because there was not sufficient time for the public to review the new techniques and technical guidance
+before promulgation of supplement B, the new models and enhanced technical guidance could not be included in the supplement
+B rulemaking. Thus, in this subsequent regulatory proposal, EPA is proposing to revise the Guideline and is seeking
+public comment on the four items described below. Once promulgated, these four items will be included in supplement
+C to the Guideline. A copy of supplement C (draft) is available for public review (Docket Item IIIB1).
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+3
+
+</FOOTNAME>
+The official public hearing for EPA's proposal to adopt supplement B was the Fifth Conference on Air Quality Modeling,
+March 1991 (56 FR 7694). Full transcripts filed in Docket No. A8804; IVF1 (see ADDRESSES).
+See also ``Summary of Public Comments and EPA Responses on the Fifth Conference on Air Quality Modeling: March 1991'',
+February 1993. (Docket No. A8804; VC1)
+</FOOTNOTE>
+
+
+Proposed Action 
+
+
+Appendix W of 40 CFR part 51 will be appropriately amended to effect the following revisions, proposed as supplement
+C to the Guideline. EPA solicits comment on each of the following revisions. 
+
+
+1. Enhancements
+<FOOTCITE>4</FOOTCITE>
+ to the Industrial Source Complex Model (ISC2) 
+
+
+<FOOTNOTE>
+<FOOTNAME>
+4
+
+</FOOTNAME>
+For clarification, these enhancements are discussed separately. EPA intends to integrate these enhancements into
+one model for actual use.
+</FOOTNOTE>
+
+
+A. Area Source Algorithm 
+
+
+Today's action proposes to replace the area source algorithm in the Industrial Source Complex model (ISC2) with a
+new one based on a double integration of the Gaussian plume kernel for area sources. 
+(1) 
+
+Short-term algorithm: ISCST2. 
+
+A previous EPA study
+<FOOTCITE>5</FOOTCITE>
+ indicated that the currently implemented ISCST2 area source algorithm, based on a finite line segment approximation,
+estimates concentration distributions with limited accuracy, especially for receptors located close to the area
+source. An independent but later evaluation confirmed these findings.
+
+6,7
+
+ These studies suggested that the integrated line source algorithm for modeling impacts from area sources provides
+a better treatment of near-source geometry than that currently recommended in ISCST2, and a reasonable far-field
+behavior. Based on these performance evaluations and limited field data, the integrated line source algorithm is
+a candidate to substitute for the current ISCST2 area source algorithm. Responding to public comments received at
+the time supplement B was proposed, steps were taken to develop and test this algorithm. In the new algorithm,
+<FOOTCITE>8</FOOTCITE>
+ the ground-level concentration at a receptor downwind of all or a portion of the area source is given by a double integral
+in the upwind and crosswind directions. The integral in the lateral direction is solved analytically. The integral
+in the longitudinal direction (i.e., the summation of the contributions from the line sources in the upwind direction)
+is approximated with a Romberg integration technique.
+<FOOTCITE>9</FOOTCITE>
+ The new algorithm, essentially equivalent to PAL
+<FOOTCITE>10</FOOTCITE>
+ and the convergent mode of the FDM
+<FOOTCITE>11</FOOTCITE>
+ integrated line source algorithm, has been shown to perform very well in terms of efficiency and of the reasonableness
+of the results.
+<FOOTCITE>12</FOOTCITE>
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+5
+
+</FOOTNAME>
+Environmental Protection Agency, 1989. Review and Evaluation of Area Source Dispersion Algorithms for Emission
+Sources at Superfund Sites. EPA Publication No. EPA450/489020. U.S. Environmental Protection
+Agency, Research Triangle Park, NC. (NTIS No. PB 90142753)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+6
+
+</FOOTNAME>
+American Petroleum Institute, 1992. Evaluation of Area and Volume Source Dispersion Models for Petroleum and Chemical
+Industry Facilities, Phase I (Final Report). API Publication No. 4539. (Docket No. A9265; IIA1)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+7
+
+</FOOTNAME>
+American Petroleum Institute, 1992. Area and Volume Source Air Quality Model Performance Evaluation, Phase II (Final
+Report). API Publication No. 4540. (Docket No. A9265; IIA2)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+8
+
+</FOOTNAME>
+``User Instructions for a New Area Source Algorithm'' (August 1993), uploaded to the SCRAM BBS. (Docket No. A9265;
+IIA3)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+9
+
+</FOOTNAME>
+W.B., B. Flannery, S. Teukolsky, and W. Vetterling, 1986. 
+
+Numerical Recipes. 
+
+Cambridge University Press, New York; 797 pp.
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+10
+
+</FOOTNAME>
+Petersen, W.B., 1978. User's Guide for PAL_A Gaussian-Plume Algorithm for Point, Area, and Line Sources. EPA Publication
+No. EPA600/478013. U.S. Environmental Protection Agency, Research Triangle Park, NC. (NTIS
+No. PB 281306)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+11
+
+</FOOTNAME>
+Environmental Protection Agency, 1991. User's Guide for the Fugitive Dust Model (FDM) (Revised). EPA Publication
+No. EPA910/988202R. U.S. Environmental Protection Agency, Region X. (NTIS No. PB 90502410)
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+12
+
+</FOOTNAME>
+Environmental Protection Agency, 1992. Comparison of a Revised Area Source Algorithm for the Industrial Source
+Complex Short Term Model and Wind Tunnel Data. EPA Publication No. EPA454/R92014. U.S. Environmental
+Protection Agency, Research Triangle Park, NC. (NTIS No. PB 93226751)
+</FOOTNOTE>
+
+
+Existing field studies of impacts within and nearby area sources being scarce and limited in scope, EPA compared model
+predictions to measured results using a wind tunnel simulation at the Fluid Modeling Facility, Atmospheric Research
+and Exposure Assessment Laboratory.
+<FOOTCITE>13</FOOTCITE>
+ Both qualitative physical and quantitative statistical analyses were performed. The analysis results12 show that
+the new algorithm predicts the concentration distribution with relatively good accuracy (i.e., 
+
+# ~&cent;
+
+10%), especially for the ground-level receptors located near the downwind edge of the area source, a situation of
+concern to regulatory modeling applications. For receptors near ground level and within or near the area 
+
+# 
+
+source, the normalized modeled concentrations generally matched the wind tunnel measured concentrations to within
+
+
+# 
+
+20%. EPA considers this to be an acceptable correspondence. 
+
+
+<FOOTNOTE>
+<FOOTNAME>
+13
+
+</FOOTNAME>
+Snyder, W.H., 1991. DATA REPORT: Wind Tunnel Simulation of Dispersion from Superfund Area Sources. Part: Neutral
+Flow. (Docket No. A9265; IIa4)
+
+</FOOTNOTE>
+

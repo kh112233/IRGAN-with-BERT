@@ -1,0 +1,171 @@
+ 
+
+
+
+Control channel. 
+
+In the Cellular Radiotelephone Service and the Air-ground Radiotelephone Service, a channel used to transmit information
+necessary to establish or maintain communications. In the other Public Mobile Services, a channel that may be assigned
+to a control transmitter.
+
+
+
+Control point. 
+
+A location where the operation of a public mobile station is supervised and controlled by the licensee of that station.
+
+
+Control transmitter. 
+
+A fixed transmitter in the Public Mobile Services that transmits control signals to one or more base or fixed stations
+for the purpose of controlling the operation of the base or fixed stations, and/or transmits subscriber communications
+to one or more base or fixed stations that retransmit them to subscribers.
+
+
+
+Dead spots. 
+
+Small areas within a service area where the field strength is lower than the minimum level for reliable service. Service
+within dead spots is presumed.
+
+
+
+Dispatch service. 
+
+A radiotelephone service comprising communications between a dispatcher and one or more mobile units. These communications
+normally do not exceed one minute in duration and are transmitted directly through a base station, without passing
+through mobile telephone switching facilities.
+
+
+
+
+Effective radiated power (ERP). 
+
+The effective radiated power of a transmitter (with antenna, transmission line, duplexers etc.) is the power that
+would be necessary at the input terminals of a reference half-wave dipole antenna in order to produce the same maximum
+field intensity. ERP is usually calculated by multiplying the measured transmitter output power by the specified
+antenna system gain, relative to a half-wave dipole, in the direction of interest.
+
+
+
+Emission. 
+
+The electromagnetic energy radiated from an antenna.
+
+
+Emission designator. 
+
+An internationally accepted symbol for describing an emission in terms of its bandwidth and the characteristics
+of its modulation, if any. See 2.201 of this chapter for details.
+
+
+
+Emission mask. 
+
+The design limits imposed, as a condition or type acceptance, on the mean power of emissions as a function of frequency
+both within the authorized bandwidth and in the adjacent spectrum.
+
+
+Equivalent isotropically radiated power (EIRP). 
+
+The equivalent isotropically radiated power of a transmitter (with antenna, transmission line, duplexers etc.)
+is the power that would be necessary at the input terminals of a reference isotropic radiator in order to produce the
+same maximum field intensity. An isotropic radiator is a theoretical lossless point source of radiation with unity
+gain in all directions. EIRP is usually calculated by multiplying the measured transmitter output power by the specified
+antenna system gain, relative to an isotropic radiator, in the direction of interest.
+
+
+Extension. 
+
+In the Cellular Radiotelephone Service, an area within the service area boundary of a cellular system, but outside
+of the market boundary. See 22.911(c) and 22.912.
+
+
+
+
+Facsimile service. 
+
+Transmission of still images from one place to another by means of radio.
+
+
+Fill-in transmitters. 
+
+Transmitters added to a station, in the same area and transmitting on the same channel or channel block as previously
+authorized transmitters, that do not expand the existing service area, but are established for the purpose of improving
+reception in dead spots.
+
+
+
+Five year build-out period. 
+
+A five year period during which the licensee of the first cellular system authorized on each channel block in each cellular
+market may expand the system within that market. See 22.947.
+
+
+Fixed transmitter. 
+
+A stationary transmitter that communicates with other stationary transmitters.
+
+
+Frequency. 
+
+The number of cycles occurring per second of an electrical or electromagnetic wave; a number of representing a specific
+point in the electromagnetic spectrum.
+
+
+
+
+Ground station. 
+
+In the Air-ground Radiotelephone Service, a stationary transmitter that provides service to airborne mobile stations.
+
+
+Height above average terrain (HAAT). 
+
+The height of an antenna above the average elevation of the surrounding area.
+
+
+In-building radiation systems. 
+
+Supplementary systems comprising low power transmitters, receivers, indoor antennas and/or leaky coaxial cable
+radiators, designed to improve service reliability inside buildings or structures located within the service areas
+of stations in the Public Mobile Services.
+
+
+Initial cellular applications. 
+
+Applications for authority to construct and operate a new cellular system, excluding applications for interim operating
+authority.
+
+
+Interfering contour. 
+
+The locus of points surrounding a transmitter where the predicted median field strength of the signal from that transmitter
+is the maximum field strength that is not considered to cause interference at the service contour of another transmitter.
+
+
+Interoffice transmitter. 
+
+A fixed transmitter in the Rural Radiotelephone Service that communicates with other interoffice transmitters
+for the purpose of interconnecting rural central offices.
+
+
+
+Meteor burst propagation mode. 
+
+A long distance VHF radio communication path occurring as a result of the refraction of electromagnetic waves by ionized
+meteor trails.
+
+
+Mobile station. 
+
+One or more transmitters that are capable of operation while in motion.
+
+
+Necessary bandwidth. 
+
+The calculated spectral width of an emission. Calculations are made using procedures set forth in part 2 of this chapter.
+The bandwidth so calculated is considered to be the minimum necessary to convey information at the desired rate with
+the desired accuracy.
+
+

@@ -1,0 +1,126 @@
+FT  10 MAR 92 / Technology: Computers go it alone - Why corporate IT
+departments no longer need the human touch
+How would you cope if you received 40 postcards a second and had to read
+them all because one in 1,000 needed a reply? That's the kind of task that
+operators of corporate computers face every day.
+Computer-generated messages from all over a company's network arrive at IT
+centres as fast as those postcards. The operators, surrounded by banks of
+monitors, do their best to sort out the messages and keep the system
+running.
+But humans cannot react as fast as computers, and whenever they intervene it
+slows things down. Only in the late 1980s, with the advent of software
+designed to automate some of the operators' tasks, did solutions start to
+arrive.
+Robots are now available for loading and unloading memory tapes, and
+schedulers for pre-arranging the flow of work through a computer over a
+period of time. Other automation products will recover failed applications
+or start or close the whole system in a safe and systematic way at the press
+of a button.
+Software can also attack the gush of messages, cutting out the junk-mail and
+sending back standard replies. After most messages have been filtered out,
+the remaining ones can be displayed on a single screen as a colour-coded
+chart, for example. One glance can quickly show how the whole system is
+performing.
+Another way of cutting down the messages would be to stop writing software
+that generates so many. Every year hardware gets faster and faster and more
+and more messages are spewed out by software packages that were designed for
+a slower environment maybe 20 years ago.
+Operators have generally welcomed automation rather than seeing it as a
+threat. The new technology makes their job more interesting.
+'Software is taking over the grunt work,' says George Kurtz, an automation
+expert with Computer Associates, the US systems house. Computer operators
+are freed to become computer analysts, a more creative occupation with big
+benefits for the employer. 'By the turn of the century I expect them to be
+called network engineers. Their role will develop into the management of an
+enterprise network.'
+Despite its advantages, automated operations has been slow to take off. The
+technology, centred on IBM mainframes, is five years old, says Suzanne
+Nicastro, director of strategic planning with Legent, a US automation
+supplier.
+'In the first year, people were just poking at it. Some jumped right on but
+others were scared off because it appeared untested or they thought it could
+lead to them losing their jobs. Two years ago though it was shooting up like
+crazy because there were more visible success stories to point to.'
+Since then the recession has slowed things down. 'People have got distracted
+and they're trying to make things work that they've already invested in,'
+says Nicastro. 'But the automation market is only 25 per cent penetrated, so
+there's still a lot of potential there.'
+The threat to jobs is not as great as one might expect. US computer centres
+are growing at an average of 25 per cent a year in terms of computer power
+and workload, says Nicastro. Automated operations allows them to grow at
+this rate without increasing staff, she claims.
+When automation products first arrived, it seemed that completely unattended
+or 'lights-out' computer centres would be the ultimate goal. There would be
+no human operators - just a 'babysitter' or security guard.
+Nowadays, few companies entertain ambitions of this kind. A more common aim
+is to run a computer centre remotely, from a PC at home perhaps, or from
+another building if the computer centre is on a split-site. This latter idea
+offers big savings for a company faced with integrating two computer sites
+after a merger or acquisition.
+But the physical location of the nearest human expert is still of concern to
+many. 'The idea of leaving a corporate nerve-centre totally unattended sends
+chills up and down my spine,' says Kurtz. 'The last data centre I managed
+would have sustained serious damage if personnel had not been on site.'
+Automated operations have a more wide-ranging significance, he argues. 'It
+forces a company to sit down and rethink the way it does everything. If you
+want to automate the management of a company then automated operations is
+nothing more than the foundation on which to build.'
+Current products automate several different operational tasks on mainly IBM
+machines. But the future is about systems that work across a wide range of
+hardware and integrate the different automation products so that they feed
+each other.
+Computer Associates claims to be the only company offering such a system
+today. Its products are designed for the company's open architecture called
+CA90s which embraces any kind of hardware. 'Companies can't afford to build
+interfaces to different platforms,' says Kurtz. 'The only way you can solve
+the complexity is with an integrated system.'
+Such integration promises to unlock the full benefits of automation as it
+moves up to the higher levels of a company.
+'Eventually it will be like flying an aeroplane,' says Kurtz. 'A jet engine
+has maybe 30,000 components and the pilot sits in the middle and controls it
+with a couple of levers. Every component is dependent on every other
+component. Managing a company will be like that.'
+*****
+SHELL UK OIL wants its staff to have direct control of the computers they
+use.
+It is installing a voice-activated system for users who are spread across
+many different sites in the UK.  Staff will phone the computer centre in
+Manchester and be guided through a digitised meny to trigger the computer
+programs they want.  They will be able to request recorded information,
+cancel an application when it goes wrong, or speak to a human being, for
+example.
+This is part of the company's move into automated operations.  An automation
+product called OPS/MVS from Goal Systems of the US is the hub of a strategy
+that will move most operators away from Shell's central control room.
+'Nowadays operators are not necessary for things like lifts, cashpoint
+machines or phone calls - all of these gave users direct control of their
+environment.  There's no reason why the same ideas are not applicable to
+us,' says Ian Lowe, automation project leader.
+All electronic messages coming into Shell's computer from various parts of
+the network will be handled automatically.  Only 0.2 percent need a human
+reaction.  These will be filtered out and relayed via BT to experts who
+could be based anywhere.
+'We're removing the trivia from the operators' job and giving them an
+opportunity to get involved in more rewarding activities,' says Lowe.
+*****
+BOB JONES is one of his computer's best friends.  Sometimes it phones him up
+to tell him its problems.
+Jones is technical services manager at Physicians Mutual, an insurance
+company in Omaha, Nebraska.  The company was one of the first in the US to
+use automated operations software and last year took a further step by
+introducing two new products developed by the US automation supplier Candle
+Corporation.
+One of these, AF/Performer, monitors and tunes the computers automatically.
+ When it was installed, it uncovered technical problems and inefficiences
+that no one had noticed before.  The other product, AF/Remote, allows the
+computer to phone someone for help it it gets into trouble.
+Together, the products allow the computer to work unattended.  This has
+allowed Physicians Mutual to end weekend shifts for computer operators and
+save more than Dollars 8,000 (Pounds 4,500) a year.
+'If AF/Performer faces a problem, it attempts to correct it first, but if it
+can't it calls out through, AF/Remote to an operator with a PC,' explains
+Jones.
+AF/Performer hs already saved four stoppages which would have knocked out
+600 terminals and cost the company several thousand dollars.  'We haven't
+eliminated any staff.  We've redirected them from being a slave to the
+machine to making the machine a slave to them,' says Jones.

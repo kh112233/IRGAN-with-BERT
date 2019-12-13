@@ -1,0 +1,15 @@
+FT  30 SEP 94 / Technology (Worth Watching): Keying in to both text and
+pictures
+Electronic databases can usually retrieve either pictures or text but not
+both. Although scanned representations of pages can be stored by databases,
+they cannot be manipulated.
+Cascade Systems, an Ipswich-based software company, has overcome this
+problem in an electronic library system that allows users to work with whole
+pages of text and pictures which are presented in the same layout with which
+they were published.
+The Cascade system also allows users to extract information from the
+database using a request couched in ordinary language, rather than by
+requesting specific keywords. It depends on a probabilistic search
+mechanism, which works by weighting each word in the request according to
+its frequency in the database.
+Cascade Systems: UK, tel 0449 722900; fax 0449 722960

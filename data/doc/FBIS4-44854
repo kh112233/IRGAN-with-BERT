@@ -1,0 +1,128 @@
+Internal   Combustion Engines 
+
+<F P=102> 94WS0318A Berlin INGENIEUR DIGEST in German, Apr 94 pp 20-21 </F>
+<F P=103> 94WS0318A </F>
+<F P=104>  Berlin INGENIEUR DIGEST </F>
+<F P=105>  German, </F>
+CSO 
+
+<F P=106> [Article by Guenther Ludwik: "Autonomous Hybrids" </F>
+  [Text] The hybrid drive combines the cleanliness of 
+an electric motor and the mobility of a combustion engine. 
+However, series production is sill far away. 
+  The principle is easily understood: The conventional 
+combustion engine is engaged for driving under conditions where 
+it operates optimally in terms of fuel consumption and 
+environmental protection, and at the same time will charge the 
+battery. The electric motor is engaged when the combustion 
+engine would run at a low efficiency and thus harmfully to the 
+environment. This is the case when only little driving power is 
+required as, for instance, in city traffic or in a stop-and-go 
+situation particularly often encountered in the inner city, 
+where emission of pollutants and noise needs to be avoided. 
+  This idea is not new, but there are still stumbling blocks 
+along the way to its practical realization. The optimum 
+configuration is being sought. In order to approach this goal, 
+the German Research Association has established a new special 
+research program, "Autonomous Hybrid Drive Set," at the 
+Technical University in Munich. 
+  "By a simulation process we want to develop a model and with 
+that configuration then build a prototype," explains Prof Dr 
+Bernd-Robert Hoehn. "Conventional drive components must be 
+optimized for this special application. Stepless transmissions 
+and regulators must be designed from scratch and tested. These 
+components will, however, be usable not only in a future hybrid 
+vehicle but also in conventional ones and in electric ones as 
+well." 
+  The concept of an autonomous hybrid is explained by the 
+basic 
+diagram on page 20 [shown below]: The axle is driven by either 
+the combustion engine or the electric machine operating as a 
+motor, through a common stepless mechanical transmission 
+featuring a wide range of speed ratios. When operating as a 
+motor the electric machine draws energy from the battery, in 
+turn charging the battery when it operates as a generator during 
+light-load or slow-traffic conditions while the combustion 
+engine is engaged. Boosting the battery charge is possible but 
+not required during normal operation. An appropriately designed 
+transmission makes it feasible to engage the combustion engine 
+throughout its most fuel-favorable operating range and outside 
+this range to use a high-speed and thus light-weight electric 
+machine delivering full power over a wide speed range. 
+
+<FIG ID=JPRS-EST-014-15A>      Figure </FIG>
+
+
+  Further advantages are: 
+  1. Use of smaller combustion engines is made feasible by 
+higher start-up transmission ratios. 
+  2. Use of smaller and lighter batteries is made feasible by 
+autonomous recharging. 
+  3. There is no need for a lighting generator and a starter. 
+  4. The fuel saving in the ECE cycle is about 40 percent and 
+emission of pollutants can be drastically minimized. 
+  5. Noise emission is reduced owing to lower engine speed and 
+wide overdrive range. 
+  Among electric motors for hybrid vehicles, permanent-magnet 
+(PM) motors have recently been found to offer great promise. The 
+advantage of using them in vehicles lies in lossless maintenance 
+of the magnetic flux. A breakthrough in required 
+high-performance magnetic materials came about with the 
+appearance of rare-earth magnets, Sm-Co in the nineteen 
+seventies and Nd-Fe-B in the nineteen eighties. 
+  "The previously high costs pose no problem today. Thus 
+Nd-Fe-B magnets for mass products are now purchased at a price 
+also acceptable for vehicles," believes Prof Sture Eriksson of 
+the ASEA Brown Boveri (ABB) Automation and Drives [ASEA--Swedish 
+General Electric Co]. "Drives with PM motors cost about 15 
+percent more than comparable ones with induction motors. For 
+that, however, in test runs they indicate an about 
+15-percent-longer travel range. 
+  Both the ASEA Brown Boveri (ABB) AG and the Bayerische 
+Motorenwerke (BMW) AG got together with the U.S. engine 
+manufacturer Unique Mobility for further development of this 
+technology. Prototype engines were already tested in BMW's 
+experimental vehicles. The engine shown on page 21 [not 
+reproduced] is coupled through a speed reducer to a 
+transmissionaxle unit. The tests verify that drive systems with 
+PM synchronous motors, while certainly not the only candidates 
+for electric vehicles, are probably the high-performance "number 
+one" for this application. 
+  Since several years ago the research departments of the 
+large 
+automobile manufacturers have already been been looking for the 
+ideal configuration. Electric motors were coupled to gasoline 
+and Diesel engines, even to gas turbines (Volvo ECC-ID 3/93, 
+S.38/39). All designs to date have one thing in common: they are 
+by far not ready for mass production. Thus even the second 
+generation of the BMW E1 will not likely be produced in its 
+present form, if at all. Also the Mitsubishi people have crammed 
+so many innovations into its first hybrid research vehicle ESR 
+(Ecological Science Research) that their study of it just shows 
+what would be technically feasible if only the production cost 
+could be to a reasonable level. The ESR concept is based on the 
+series hybrid system, which means an exclusively electric drive. 
+The four-cylinder tandem gasoline engine with 1.5-liter-capacity 
+has a turbogenerator. Fuel is supposed to spare also the 
+mufflerless exhaust system, electronically controlled 
+counternoise compensating the exhaust noise. Body structure 
+along with exterior and interior designs are setting standards. 
+  Closer to practical implementation is the Ford design. Its 
+drive consists of a 1,2-1 2-stroke 3-cylinder engine (60 kW = 82 
+hp), an electric induction motor (40 kW = 54 hp), and a Ni-Cd 
+battery (40 kW, 7 kWh) weighing 200 kg. When mounted in an 
+Escort Turnier, the system accelerates from standstill to 100 
+km/h within 10.9 s and in the electric drive mode to 50 km/h 
+within 6.8 s. Driving at speeds up to 65 km/h is emission-free, 
+the combustion engine automatically cutting in for higher 
+speeds. Both sets together provide a power of 100 kW. 
+  The questions remain as to whether there is at all a demand 
+for such cars and how much they would cost. The results of a 
+survey commissioned by Opel and covering 3000 car drivers 
+indicate that 95 percent would buy a hybrid vehicle and 45 
+percent would pay 20,000 German marks for it. A top speed of 100 
+km/h satisfies 55 percent and a 200-km-long travel distance 
+without recharging is adequate for 48 percent of them. These are 
+interesting data to be included in the specification sheets for 
+engineers. 
+

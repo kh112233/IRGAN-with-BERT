@@ -1,0 +1,126 @@
+ 
+
+
+
+c. Benchmark Analyses.
+
+ Another approach to deriving an RfC estimate is the benchmark dose (BMD) approach, which has been described by Crump
+(1984) and others (e.g., Kimmel and Gaylor, 1988; Faustman et al., 1994; Allen et al., 1994). A BMD is an estimate of
+the dose (the term dose is used interchangeably here with concentration, although the latter is more appropriate
+for inhalation exposure) that will produce a specified effect (e.g., a 10% increase in the prevalence of abnormal
+scores on a neurobehavioral test in the case of the study by Roels et al. (1992)). The BMD is calculated by fitting a mathematical
+model to the available data and obtaining a maximum likelihood estimate of the dose associated with a specified increase
+in response (typically 10, 5, or 1%). A lower confidence limit is then calculated for the BMD (usually the 95th percentile),
+and the result is denoted as a benchmark dose level (BMDL), which has been proposed as a substitute for a NOAEL in deriving
+RfDs or RfCs (Crump, 1984; Barnes et al., 1994). Subscripts designate the effect level (10, 5, or 1%) for which the BMDL
+has been calculated, as in BMDL
+
+10
+
+, BMDL
+
+5
+
+, or BMDL
+
+1
+
+. 
+
+A large number of mathematical models could be used for deriving BMDLs, but six frequently used models have been selected
+for the present exercise (as discussed in Appendix A). In applying these models to the dataset provided by Roels (1993),
+it appears that the models fit the CRD and ACRD data better than the LIRD data. (As explained in Appendix A, it made little
+difference whether the LIRD values were obtained from the group data provided in the report by Roels et al. (1992) or
+from the individual exposure data supplied by Roels (1993), so the latter LIRD data were used here.) In principle,
+LIRD is superior to CRD as a measure of long-term or cumulative exposure. One reason for the difference in goodness
+of fit between LIRD and either CRD or ACRD is that two workers with low LIRD values had abnormal eye-hand coordination
+responses (exceeding the 95th percentile of control scores). These two subjects appear to have had rather short exposure
+durations (0.3 and 0.4 years) and moderately high CRD values (201 &mu;g/m3 each). Thus, these two data points suggest
+an LIRD exposure-response relationship that is better fit by a supralinear curve with a power term &lt;1 (see Figures
+A3 and A5 in Appendix A) than by the more nearly linear curve such as that produced by the quantal linear
+or restricted Weibull model (see Figures A1 and A4 in Appendix A). If CRD or ACRD exposure data are used,
+however, the two individuals tend to fall in line better with a linear model (see Figures A7 to A10 in Appendix
+A). Another factor contributing to difficulty in fitting the Roels (1993) data with linear models is a tendency for
+the prevalence of abnormal eye-hand coordination responses to decline slightly at the highest LIRD, CRD, and ACRD
+concentrations (evident in Figures A1 to A6). 
+
+The supralinear exposure-response curve for abnormal eye-hand coordination scores suggests a possible corollary
+to the healthy worker phenomenon; namely, the existence of newly employed, relatively sensitive workers vis-&aacute;-vis
+long-term, relatively nonsensitive workers. It may be that the two above-noted workers happened to be rather susceptible
+to Mn toxicity but had not been employed long enough for their greater sensitivity to become otherwise evident. There
+could be a tendency for such workers to move to other types of employment, leaving a greater proportion of relatively
+less sensitive individuals among the older workers. Although irregularities of the type posed by the data for these
+two workers create complexities for model fitting, it is important to recognize that statistical curve fitting is
+secondary to the objective of selecting the most biologically appropriate exposure variable. However, given that
+the final results obtained with LIRD, CRD, and ACRD are roughly equivalent, ACRD has been selected for discussion
+here because it estimates an average exposure over time and yet provides as good or better goodness of fit as CRD or LIRD
+for most of the models considered. 
+
+Of the six models considered, the quantal linear model fits the data reasonably well and is the least complex (see Appendix
+A). It also gives equivalent results to the restricted Weibull model for BMDL calculations (although the two models
+differ slightly when used in the Bayesian analyses, to be described below). Although much more conservative results
+would be obtained if the unrestricted Weibull or unrestricted log-logistic model were used, the NOAEL/LOAEL surrogates
+obtained with the latter models are so small as to be practicably incalculable and extend far below the range of actual
+measurements. Therefore, the following discussion is focused on the results obtained with the quantal linear model.
+
+
+In addition to choosing a model, a specified rate of increase in the effect of concern must be selected in using the BMD
+approach. This percentage increment is expressed in terms of the effective concentration that would yield the stated
+increase. Increases of 10, 5, and 1% in the incidence of abnormal eye-hand coordination scores (as dichotomized by
+Roels et al., 1992) have been considered, with the concentrations associated with these levels called ``effective
+concentrations'' and designated as EC
+
+1
+
+, EC
+
+5
+
+, and EC
+
+10
+
+, respectively. One guide to the choice of an effect level is that the resulting BMD (before calculating the lower confidence
+limit) is preferably near or within the range of observed exposure concentrations (cf. Barnes et al., 1994). Because
+the BMD for EC
+
+1
+
+ falls outside this range of observed concentrations, the primary focus in this discussion is devoted to the BMDL
+
+5
+
+ and the BMDL
+
+10
+
+. 
+
+It should be kept in mind that the BMDL represents the lower 95th percent confidence interval for the effective concentration
+in question, and therefore the BMDL probably inherently reflects some degree of conservatism. However, the degree
+of conservatism obviously varies with the effective concentration for different percentage effect levels and with
+the nature of the effect (e.g., severe versus moderate impairment). For the purposes of this assessment, if one treats
+the BMDL
+
+10
+
+ derived from the dichotomized (quantal) data of Roels as if it were a minimal (less severe) LOAEL and the BMDL
+
+5
+
+ as if it were a NOAEL, uncertainty factors of 3 and 1, respectively, would be warranted. On this basis, as shown in Figure
+1 and in Table A39 of Appendix A for the quantal linear model using ACRD, an RfC estimate of 0.09 &mu;g/m3 would
+be obtained by using the quantal BMDL
+
+10
+
+ as if it were a LOAEL and a total uncertainty factor of 300 (10 for intraspecies sensitivity, 10 for database limitations,
+and 3 for a minimal severity LOAEL). Similarly, the quantal BMDL
+
+5
+
+ would yield an RfC estimate of 0.1 &mu;g/m3, based on a total uncertainty factor of 100 (10 for intraspecies sensitivity,
+10 for database limitations, and 1 for a NOAEL). As applied here, the benchmark approach yields candidate RfC estimates
+of 0.09 to 0.1 &mu;g/m3.
+
+

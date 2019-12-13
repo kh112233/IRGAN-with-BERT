@@ -1,0 +1,179 @@
+ 
+
+Federal Information Processing Standard Publication XXX
+
+
+
+Draft 1993 September 30 Draft
+
+
+
+Announcing a Standard Security Label for the Government Open Systems Interconnection Profile
+
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100235.
+
+
+
+Name of Standard:
+
+ Standard Security Label for the Government Open Systems Interconnection Profile.
+
+
+
+Category of Standard:
+
+ Computer Security, Security Labels
+
+
+
+Explanation:
+
+ This standard specifies the security label for the U.S. Government Open Systems Interconnection Profile (GOSIP).
+GOSIP security labels carry information used by protocol entities to determine how to handle data communicated between
+open systems. Information on a security label can be used to control access, specify protective measures, and determine
+additional handling restrictions required by a communications security policy.
+
+This standard specifies the syntax for the labels and relies on a Computer Security Objects Register (CSOR) to provide
+the semantics. The separation of the label syntax from its semantics enables a common label format to support multiple
+security policies and facilitate cross-domain communications.
+
+Given the inherent differences in layer functionality the security label defined in this document is expressed both
+as an abstract label syntax specification for the OSI Application Layer and an encoding optimized for use at the Network
+Layer. The Application and Network Layers are the initial targets of GOSIP security.
+
+The label presented here defines security tags that may be combined into tag sets to carry security-related information.
+Five basic security tag types allow security information to be represented as bit maps, attribute enumerations,
+attribute range selections, hierarchical security levels, or as user-defined data.
+
+
+
+Approving Authority:
+
+ Secretary of Commerce.
+
+
+
+Maintenance Agency:
+
+ Computer Systems Laboratory, National Institute of Standards and Technology.
+
+
+
+Cross Index:
+
+
+
+Federal Information Resources Management Regulations, subpart 20120.303, Standards, and subpart 20139.1002,
+Federal Standards.
+
+``Procedures for Registering Computer Security Objects'', NISTIR XXXX, September 1993.
+
+``U.S. Government Open Systems Interconnection Profile'' (GOSIP), FIPS PUB 1461, April 1991.
+
+
+
+
+
+
+Scope:
+
+ This standard specifies a security label for GOSIP-complaint implementations. It includes two label specifications,
+one suitable for the OSI Application Layer, and the other for the Network Layer. GOSIP will call for the use of this standard
+when optional security protocols at these layers require the use of security labels.
+
+
+
+Applicability:
+
+ The specified Standard Security Label (SSL) applies to OSI communications systems handling U.S. Government unclassified
+but sensitive data. The SSL shall be used on OSI systems required to label data as indicated in the security chapter
+of GOSIP. Although this standard is intended for use on systems handling unclassified information, it could be adopted
+by the appropriate authorities for use on systems handling classified information.
+
+The SSL may be used by OSI protocols to control access, specify protective measures, and indicate handling restrictions
+required by a network security policy as registered in a Computer Security Objects Register.
+
+Complying implementations shall be capable of transmitting, receiving, and obtaining information from security
+labels based on the specifications in this document.
+
+
+
+Specifications:
+
+ Federal Information Processing Standard (FIPS xxx) Standard Security Label for the Government Open Systems Interconnection
+Profile (affixed).
+
+
+
+Implementation Schedule:
+
+ This standard becomes effective six months after publication of a notice in the 
+
+Federal Register
+
+ of its approval by the Secretary of Commerce.
+
+
+
+Waiver Procedure:
+
+ Under certain exceptional circumstances, the heads of Federal departments and agencies may approve waivers to Federal
+Information Processing Standards (FIPS). The head of such agency may redelegate such authority only to a senior official
+designated pursuant to section 3506(b) of title 44, United States Code. Waiver shall be granted only when:
+
+a. Compliance with a standard would adversely affect the accomplishment of the mission of an operator of a Federal
+computer system; or
+
+b. Compliance with a standard would cause a major adverse financial impact on the operator which is not offset by Government-wide
+savings.
+
+Agency heads may act upon a written waiver request containing the information detailed above. Agency heads may also
+act without a written waiver request when they determine that conditions for meeting the standard cannot be met. Agency
+heads may approve waivers only by a written decision which explains the basis on which the agency head made the required
+finding(s). A copy of each decision, with procurement sensitive or classified portions clearly identified, shall
+be sent to: National Institute of Standards and Technology; ATTN: FIPS Waiver Decisions, Technology Building, room
+B154, Gaithersubrg, MD 20899.
+
+In addition, notice of each waiver granted and each delegation of authority to approve waivers shall be sent promptly
+to the Committee on Government Operations of the House of Representatives and the Committee on Government Affairs
+of the Senate and shall be published promptly in the 
+
+Federal Register
+
+.
+
+When the determination on a waiver applies to the procurement of equipment and/or services, a notice of the waiver
+determination must be published in the Commerce Business Daily as a part of the notice of solicitation for offers of
+an acquisition or, if the waiver determination is made after that notice is published, by amendment of such notice.
+
+A copy of the waiver, any supporting documents, the document approving the waiver and any accompanying documents,
+with such deletions as the agency is authorized and decides to make under United States Code section 552(b), shall
+be part of the procurement documentation and retained by the agency.
+
+
+
+Where to Obtain Copies:
+
+ Copies of this publication are for sale by the National Technical Information Service, U.S. Department of Commerce,
+Springfield, VA 22161. When ordering, refer to Federal Information Processing Standards Publication XX (FIPS PUB
+XX), and identify the title. When microfiche is desired, this should be specified. Prices are published by NTIS in
+current catalogs and other issuances. Payment may be made by check, money order, deposit account or charged to a credit
+card accepted by NTIS.
+
+
+
+
+<FRFILING>
+[FR Doc. 941819 Filed 12794; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 3510CNM
+</BILLING>
+
+
+

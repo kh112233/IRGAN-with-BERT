@@ -1,0 +1,134 @@
+Language: <F P=105> German </F>
+Article Type:CSO 
+
+<F P=106> [Article by Franz Miller, Fraunhofer Society, Munich, under </F>
+the rubric "Research and Technology": "Immune Diagnostics/Quick 
+HIV Test Could Reduce Risk in Blood Transfusions. Sensor Enables 
+Testing of Blood Donation As Late As Just Before the 
+Transfusion"; first paragraph is an introduction] 
+  [Text] Wednesday, 10 Nov 93 (HANDELSBLATT)--Microsystem 
+engineers at the Fraunhofer Institute for Solid-State Technology 
+(IFT) in Munich together with microbiologists at the Institute 
+for Medical Microbiology and Health of Regensburg University 
+have developed a new testing method by means of which banked 
+blood can be tested for HIV immediately before transfusion. The 
+first testing instruments are available as prototypes, but they 
+still have to be certified first by the Paul Ehrlich Institute 
+before series production. 
+  A car accident. The profusely bleeding front-seat passenger 
+is taken to the hospital. Diagnosis: just cuts and lacerations, 
+which are sutured. But blood transfusions become necessary 
+because of heavy loss of blood. The patient, afraid of HIV 
+infection, panics. "Don't worry," the doctor reassures, "I am 
+now putting a sample of the blood into this testing instrument, 
+and in 10 minutes you will be able to see for yourself that the 
+banked blood is free of HIV antibodies." This could soon be 
+everyday medical practice if the new HIV test goes into 
+production. 
+<H5>  Up to 1000 Specimens Tested Automatically </H5>
+  The heart of the analysis system is a biosensor that detects 
+an antigen- antibody reaction. This highly sensitive biological 
+sensing device causes any antibody to attach to just its quite 
+specific antigen. This is usually described, approximately and 
+in simplified fashion, by the lock-and-key principle. If the 
+proper antigen is put into the blood specimen and the reaction 
+takes place, then this is proof that the antibodies looked for 
+are present in the specimen. 
+  Antibodies are detectable in the blood of any HIV-infected 
+patient several weeks after the infection. The analysis reaction 
+just has to be transformed into a visible or other kind of 
+signal. Most conventional HIV tests are based on this 
+measurement principle and indicate the existence of antibodies 
+by means of a change of color. The new HIV test employing a 
+biosensor is essentially a further development of the 
+conventional tests and is closely similar. However, the enzyme 
+immune tests used thus far take several hours, whereas the 
+biosensor makes its test result known in 10 minutes. "But this 
+quick result cannot be obtained in diagnostic tests, because 
+positive test results first have to be confirmed by a second 
+independent test," qualifies Professor Hans J. Wolf, a 
+microbiologist and director of Regensburg University's Institute 
+for Medical Microbiology and Health. 
+  The biosensor can produce a substantial cost saving with 
+very 
+large test quantities and relatively low hit rates--as is 
+usually the case in HIV tests: It is not consumed so long as no 
+positive specimen appears. No bothersome specimen preparation, 
+pipetting, dilution, purification and so forth are required for 
+a test. A single compact analyzer is sufficient, in which up to 
+1000 specimens are automatically inserted, prepared one by one, 
+and, clocked online, pumped through the biosensor measuring 
+chamber. 
+  The decisive advantage of the biosensor analysis system lies 
+in its automated system configuration--and this is the 
+trend-setting direction for all advanced test development. The 
+complicated handling with the dangerous, in this case 
+potentially infectious, specimens was integrated into the 
+instrument. Accordingly it is suited not only for serial tests 
+at blood banks or other blood-processing establishments, but is 
+also plainly cut out for on-site use. So the doctor needs only 
+to put the blood specimen into the unit and then the test 
+proceeds automatically. 
+  That the two so different institutions cooperated 
+intensively 
+as early as from the first idea--over four and a half years 
+ago--was decisive for the scientists' success. There was basic 
+preliminary work to do in finding out how microelectronic 
+sensors can be coupled with proteins. HIV was chosen as the 
+model system from the start. Finally a suitable measurement 
+principle was found and investigated and further developed into 
+a functioning signal converter for the detection of antibodies. 
+<H5>  Quartz Oscillators Convert the Measuring Signal </H5>
+  Quartz oscillators--thin wafers made of pure quartz 
+crystal--that because of their high reliability are used as 
+frequency-, cycle- or time-regulating components are the heart 
+of the measuring system. They are found in timepieces, in 
+advanced digital scales and also in computers or engine 
+controllers. As mass-produced electronic products they are not 
+particularly expensive. Quartz oscillators are excited to 
+oscillate by means of an electronic alternating field. If 
+something is deposited on the quartz oscillator, with the 
+increase in mass the frequency also changes. This change is 
+detected by an oscillator and frequency counter. 
+  Once the measuring principle was functioning, the team dealt 
+for a long time with the problem of how biological material can 
+be put onto quartz wafers. Unlike other research teams, they 
+used gold electrodes here, which permit good adhesion and 
+stability of the biological material. Then there was a 
+breakthrough too: The hydrophobic interaction between a protein 
+and gold surface brings about such good adhesion that the 
+proteins are not washed off. 
+  Finding suitable antigens for the coating was the job of 
+Professor Hans J. Wolf, who has already developed several 
+conventional HIV tests and other virus tests. "We know the 
+general sequence of the HIV genome, and with the aid of our 
+self-developed computer-aided protein analyses selected virion 
+envelope regions which we knew are well recognized by the immune 
+system of infected patients." These proteins--the regions are 30 
+to 40 amino acids long--were produced chemically and tested with 
+normal sera. Color reactions indicated whether the sera 
+recognize this little piece of the virion envelope. 
+  The now finished testing system is based on the flow 
+injection principle, which consists of two liquid circuits 
+driven by pumps: a circuit in which the specimens are prepared 
+and automatically lined up in a waiting loop. An injection valve 
+feeds them, precisely timed, into the liquid stream of the 
+measuring circuit. The carrier stream constantly flows through 
+the measuring chamber containing the sensitive quartz oscillator. 
+  The flow-through compartment's geometry is chosen so that 
+the 
+antibodies come into as good as possible contact with the quartz 
+oscillator. The quartz oscillator's mass increases as soon as 
+antibodies attach to the quartz oscillator. This is detected and 
+the infective specimens are labeled. The quartz oscillator 
+employed has to be replaced now. 
+  "Every test by the new analysis system presented a clearly 
+discernible signal," Professor Hans Wolf reports. The analysis 
+system is so sophisticated in terms of medical standards and 
+system engineering that it can be transformed into a marketable 
+product, he says. However, it still has to be certified by the 
+Paul Ehrlich Institute, which should be no problem according to 
+Professor Wolf's experience thus far. The time frame for the new 
+analytical method's being employed in medicine: three to five 
+years. 
+

@@ -1,0 +1,104 @@
+ 
+
+
+
+9.3
+
+Nonstandard features of implementations of PHIGS should be used only when the needed operation or function cannot
+reasonably be implemented with the standard features alone. Although nonstandard features can be very useful, it
+should be recognized that the use of these or any other nonstandard elements may make the interchange of graphics programs
+and future conversion more difficult and costly.
+
+
+
+10. Specifications.
+
+ American National Standard Programmer's Hierarchical Interactive Graphics System, ANSI/ISO 9592.1-3:1989 and
+ANSI/ISO 9592.1a, 2a, 3a, 4:1992, define the scope of the specifications, the syntax and semantics of the PHIGS elements
+and requirements for conforming implementations. All of these specifications apply to Federal Government implementations
+of this standard.
+
+ANSI/ISO 9592.103:1989 and ANSI/ISO 9592.1a,2a,3a,4:1992 define a language independent nucleus of a graphics
+system for integration into a programming language. Thus, it is embedded in a language layer obeying the particular
+conventions of the language. FIPS 153-1 is therefore divided into two parts. Part 1 represents the functional aspects
+of PHIGS. Part 1 consists of the following:
+
+
+
+
+(1) Functional description (ANSI/ISO 9592.1:1989) and (ANSI/ISO 9592.1a:1992, Amendment 1)
+
+
+
+The functional description of PHIGS provides a set of functions for the definition, display and modification of 2D
+or 3D graphical data. It also provides for the definition, display and manipulation of geometrically related objects,
+along with the modification of graphics data and the relationships between that graphical data.
+
+
+
+(2) Archive file format (ANSI/ISO 9592.2:1989) and (ANSI/ISO 9592.2a:1992, Amendment 1)
+
+
+
+The archive file provides a file format suitable for the storage and retrieval of PHIGS structures and structure network
+definitions. It allows structure definitions to be stored in an organized way on a graphical software system. And,
+facilitates transfer of structure definitions between different graphical software systems.
+
+
+
+(3) Clear-text encoding (ANSI/ISO 9592.3:1989) and (ANSI/ISO 9592.3a:1992, Amendment 1)
+
+
+
+The clear-text encoding provides a representation of the archive file syntax that is easy to type, edit and read. The
+file is human-readable (allows editing), human friendly (easy and natural to read) and machine readable (parsable
+by software).
+
+
+
+(4) Plus Lumiere and Surfaces, PHIGS PLUS (ANSI/ISO 9592.4:1992)
+
+
+
+The Programmer's Hierarchical Interactive Graphics System (PHIGS) Plus Lumiere and Surfaces (PHIGS PLUS) extends
+the basic PHIGS functionality by adding facilities for the specification of curved lines, curved and facetted surfaces,
+lighting and other effects such as depth modulation.
+
+
+
+
+Part 2 of FIPS 153-1 consists of the bindings of PHIGS and PHIGS PLUS functions to actual programming languages, defined
+in ANSI/ISO 9593:1990. These bindings are developed in cooperation with the voluntary standards committees of the
+various languages. The following bindings currently exist, and form part 2 of FIPS 153-1:
+
+
+
+
+_The FORTRAN Language binding for PHIGS (ANSI/ISO 9593.1:1990);
+_The ADA Language binding for PHIGS (ANSI/ISO 9593.3:1990);
+_The C Language binding for PHIGS (ANSI/ISO 9593.4:1991).
+
+
+
+
+Subsequent language bindings, including those for PHIGS PLUS, will be added periodically as they become available.
+As these bindings are approved by ANSI, each language binding will become part of this standard.
+
+
+
+11. Implementation.
+
+ Implementation of this standard involves four areas of consideration: the effective date, acquisition of PHIGS
+software system implementations, interpretations of PHIGS implementations, and validation of PHIGS implementations.
+
+
+
+11.1Effective Date.
+
+ This revised standard is effective six (6) months after approval by the Secretary of Commerce. Requirements for the
+use of basic PHIGS functionality (defined in ANSI/ISO 9592.1-3;1989 and ANSI/ISO 9593.1:1990, 9593.3:1990, 9593.4:1991)
+are unchanged and continue in effect. Validation of PHIGS implementations is required after the effective date in
+accordance with section 11.4.
+
+
+

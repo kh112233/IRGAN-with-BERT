@@ -1,0 +1,212 @@
+ 
+
+The Amex will calculate and maintain the Index, and pursuant to Exchange Rule 901C(b) may at any time or from time to
+time substitute stocks, or adjust the number of stocks included in the Index, based on changing conditions in Israel.
+However, the Exchange will not decrease the number of Index component stocks to less than nine or increase the number
+of component stocks to greater than fourteen without prior Commission approval. 
+
+The value of the Index will be calculated continuously and disseminated every 15 seconds over the Consolidated Tape
+Association's Network B. 
+
+
+
+Expiration and Settlement
+
+
+
+The Exchange proposes to trade cash-settled, European-style Index options (
+
+i.e.
+
+, exercises are permitted to expiration only). The Exchange also proposes that Israeli Index options will have trading
+hours from 9:30 a.m. to 4:15 p.m. EST.
+<FOOTCITE>8</FOOTCITE>
+ As with other index options traded on the Amex, the options on the Index will expire on the Saturday following the third
+Friday of the expiration month (``Expiration Friday''), The last trading day in an option series will normally be
+the second to last business day preceding the Saturday following the third Friday of the expiration month (normally
+a Thursday). Trading in expiring options will cease at the close of trading on the last trading day.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+8
+
+</FOOTNAME>
+
+
+See
+
+ Amendment No. 3.
+
+</FOOTNOTE>
+
+
+The Index value for purposes of settling a specific Israeli Index option will be calculated based upon the primary
+exchange regular way opening sale prices for the component securities.
+<FOOTCITE>9</FOOTCITE>
+ In the case of NM securities, the first reported sale price will be used. As trading begins in each of the Index's component
+securities, its opening sale price is used in the calculation. Once all of the component stocks have opened, the value
+of the Index is determined and that value is used as the settlement value of the option. If any of the component stocks
+do not open for trading on the last trading day before expiration, then the prior day's last sale price is used in the
+calculation.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+9
+
+</FOOTNAME>
+In the case of ADRs, the primary exchange refers tot he primary exchange for the ADR and not the underlying security.
+Telephone conversation between Claire McGrath, Special Counsel, Derivative Securities, Amex, and Stephen Youhn,
+Derivative Products Regulation, SEC, on Aug. 19, 1994.
+
+</FOOTNOTE>
+
+
+The Exchange plans to list options series with expirations in the three near-term calendar months and in the two additional
+calendar months in the March cycle. In addition, longer term option series having up to thirty-six months to expiration
+may be traded. In lieu of such long-term options on a full-value Index level, the Exchange may instead list long-term,
+reduced-value put and call options based on one-tenth (1/10th) the Index's full-value. In either event, the interval
+between expiration months for either a full-value or reduced-value long-term option will not be less than six months.
+
+
+
+Eligibility Standards for Index Components 
+
+
+
+The Index's component securities all have major business interests in Israel, and have been selected on the basis
+of their market capitalization, trading liquidity, and representation of Israeli business industries. The Amex
+believes the components represent the largest and most liquid of all Israeli securities trading in the U.S., and that
+the Index tracks closely the performance of larger broad market Israeli indexes, such as the Oscar Gruss Israel Index,
+which contains all of the more than 50 Israeli securities currently traded in the U.S. this index is carried in the Israeli
+press as well as by Bloomberg L.P., a major U.S. data vendor.
+
+In choosing among Israeli stocks that meet the minimum criteria set forth in Exchange Rule 901C, the Exchange will
+select stocks that: (1) Have a minimum market value in U.S. dollars of at least $75 million, except that for each of the
+lowest weighted component securities in the Index that in the aggregate account for no more than 10% of the weight of
+the Index, the market value may be at least $50 million; (2) have an average monthly trading volume in the U.S. markets
+over the previous six month period of not less than 500,000 shares (or ADRs); (3) have at least 85% of the numerical Index
+value and at least 80% of the total number of component securities meeting the current criteria for standardized option
+trading set forth in Exchange Rule 915; and (4) are reported securities that trade on either the NYSE, Amex (subject
+to the limitations of Rule 901C), or are NM securities.
+
+
+The Amex will ensure that not more than 20% of the weight of the Index is represented by ADRs overlying foreign securities
+that are not subject to comprehensive surveillance sharing agreements.
+<FOOTCITE>10</FOOTCITE>
+ Currently no Index components have the majority of their trading volume occurring on an exchange with which the Amex
+does not currently have in place an effective surveillance sharing agreement.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+10
+
+</FOOTNAME>
+
+
+See
+
+ Amendment No. 2.
+
+</FOOTNOTE>
+
+
+Exchange Rules Applicable to Stock Index Options
+
+
+
+Amex Rules 900C through 980C will apply to the trading of regular and long-term contracts based on the Index. These
+Rules cover issues such as surveillance, exercise prices, and position limits. Surveillance procedures currently
+used to monitor trading in each of the Exchange's other index options will also be used to monitor trading in options
+on the Index. The Index is deemed to be a Stock Index option under Rule 901C(a) and a Stock Index Industry Group under
+Rule 900C(b)(1). With respect to Rule 903C(b), the Exchange proposes to list near-the-money (
+
+i.e.
+
+, within ten points above or below the current index value) options series on the Index at 21/2 point strike (exercise)
+price intervals when the value of the Index is below 200 points. In addition, the Exchange proposes to establish, pursuant
+to Rule 904C(c), a position limit of 7,500 contracts on the same side of the market. 
+
+The Exchange seeks to have the ability to utilize its Auto-Ex system for orders in Index options of up to 50 contracts.
+Auto-Ex is the Exchange's automated execution system which provides for the automatic execution of market and marketable
+limit orders at the best bid or offer at the time the order is entered. The Amex represents that it has the necessary systems
+capacity to support new series that would result from the introduction of Israeli Index Options.
+<FOOTCITE>11</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+11
+
+</FOOTNAME>
+
+
+See
+
+ Letter from Warren I. Kaiser, Senior vice President, Information Technology, Amex, to Michael Walinskas, Derivative
+Products Regulation, SEC, dated August 8, 1994. Additionally, the Options Price reporting Authority (``OPRA'')
+has stated that it has the necessary systems capacity to support those new series of index options that would result
+from the introduction of Index options an Index LEAPS. 
+
+See
+
+ Memorandum from Joe Corrigan, Executive Director, OPRA, to Charles Faurot, Managing Director, Market Data Services,
+Amex, dated August 8, 1994.
+
+</FOOTNOTE>
+
+
+II. Discussion
+
+
+
+The Commission finds that the proposed rule change is consistent with the requirements of the Act and the rules and
+regulations thereunder applicable to a national securities exchange, and, in particular, the requirements of Section
+6(b)(5).
+<FOOTCITE>12</FOOTCITE>
+ Specifically, the Commission finds that the trading of Israeli Index options, including full-value and reduced-value
+Index LEAPS, will serve to promote the public interest and help to remove impediments to a free and open securities
+market by providing investors with a means of hedging exposure to market risk associated with Israeli securities.
+<FOOTCITE>13</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+12
+
+</FOOTNAME>
+15 U.S.C. 78f(b)(5) (1988).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+13
+
+</FOOTNAME>
+Pursuant to Section 6(b)(5) of the Act, the Commission must predicate approval of any new option proposal upon a finding
+that the introduction of such new derivative instrument is in the public interest. Such a finding would be difficult
+for a derivative instrument that served no hedging or other economic function, because any benefits that might be
+derived by market participants likely would be outweighed by potential for manipulation, diminished public confidence
+in the integrity of the markets, and other valid regulatory concerns. In this regard, the trading of listed Index options
+and full-value Index LEAPS will provide investors with a hedging vehicle that should reflect the overall movement
+of Israeli stocks and ADRs in the U.S. securities markets. The Commission also believes that these Index options will
+provide investors with a means by which to make investment decisions regarding Israeli securities traded in the U.S.
+securities markets, allowing them to establish positions or increase existing positions in such markets in a cost
+effective manner. Moreover, the Commission believes that the reduced-value Index LEAPS, which will be traded on
+an index computed at one-tenth the value of the Israeli Index, will serve the needs of retail investors by providing
+them with the opportunity to use a long-term option to hedge their portfolios from long-term markets moves at a reduced
+cost.
+
+</FOOTNOTE>
+

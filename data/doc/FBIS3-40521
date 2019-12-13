@@ -1,0 +1,228 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Toshio Saito, Takenaka Corp., Technical Research </F>
+Institute] 
+  [Text] In the early part of the 21st century, a lunar base 
+is scheduled to be built for the purpose of exploiting lunar 
+resources and making astronomical and scientific observations. 
+The first lunar base will be for short-term stays so most of the 
+materials will be shipped from earth, but ultimately plans call 
+for a long-term colony-type lunar base that will be entirely 
+self-sufficient. 
+  The surface of the moon is an extremely inhospitable 
+environment for humans to live or work in, not merely because it 
+lacks oxygen, but also because of the marked differences between 
+daytime and nighttime temperatures and other factors such as 
+cosmic radiation and meteorites, so one of the important 
+functions of a lunar base is to protect its people against those 
+type of harsh conditions. There have been a variety of 
+suggestions put forward on the type of lunar base to build, but 
+among these, the underground lunar base seems to have the 
+distinct advantage of being able to use the surface layer of the 
+moon as a barrier against cosmic radiation and meteorites. 
+  Based on the above perspective, the Takenaka Corp. has 
+proposed a gas-balloon method in which a gas-balloon is inserted 
+into the surface of the moon and inflated in such a way as to 
+form an underground space. 
+  In this paper, we outline the gas-balloon method and discuss 
+the proposal in terms of the materials used for the gas-balloon. 
+<H3>  1. Technical Problems Faced in Constructing an Underground 
+Space on the Moon </H3>
+  The first thing that we do when constructing an underground 
+space on earth is to drill a narrow vertical space, which in 
+construction terminology is called a shaft, and then build an 
+underground space at the prescribed depth. In the case of the 
+moon, however, we cannot expect any cohesion because the soil 
+has no water content. This is quite similar to drilling a hole 
+in the desert in which the soil cannot hold on its own so the 
+drilling surface crumbles. 
+  If we drilled a hole into the lunar soil at an angle between 
+20 and 30, we would have to drill a shaft having 10 
+times the volume of lunar soil in order to drill to the required 
+depth. That being the case, we adopted a method in which the 
+drilling surface is reinforced using temporary building 
+materials such as steel panels and frames. Nevertheless, in 
+building the underground lunar base, the following points below 
+had to be taken into account because it would be impossible to 
+use the same construction methods on the moon as are used on 
+earth. 
+  (1) Because of the high cost involved in transporting 
+materials and machinery from earth to the moon, we feel it would 
+be better to limit the use of large drilling equipment and 
+temporary materials used in building surface reinforcements. 
+  (2) Working in the harsh lunar environment is extremely 
+dangerous, so we advise a method of construction that is 
+predicated on small workloads and short work periods. 
+<H5>  2. Gas-Balloon Construction Method Outlined </H5>
+  As we have illustrated in Figure 1, the gas-balloon 
+construction method involves building and maintaining an 
+underground space by inflating a gas-balloon by means of gas 
+pressure. After the balloon is inflated, the living quarters 
+inside the underground lunar base are filled with air having the 
+same atmospheric pressure as earth (1 atm). If we assume that 
+the specific gravity of the soil on the lunar surface is 2.0, 
+and that gravity is 1/6 that of earth, we find that the internal 
+pressure (1 atm) of the space and the gravity of the lunar soil 
+at upper part of the space achieve a balanced state at 
+approximately 30 meters below the surface in the interface 
+between the 1-atm space and the lunar soil. This puts very 
+little stress on the materials used for the interface and allows 
+a space to be obtained that has excellent durability and 
+structural stability. 
+
+
+<FIG ID=JPRS-JST-007LC-17A>  Figure 1.  Caricature of Gas Balloon Method </FIG>
+
+
+
+  Below, we list some of the basic reasons for constructing an 
+underground space using gas pressure. 
+  (a) A gas-balloon will inflate according to the pressure of 
+the gas that is introduced into it. 
+  (b) A gas-balloon starts to inflate by passive destruction 
+of 
+the soil in the area near the gas balloon. In Figure 2, we 
+illustrate the equation for passive destruction of the soil 
+surrounding the gas-balloon. For example, the initial pressure 
+(Pi) with a hemisphere having a 2.5 m radius can be found in 
+Table 1. 
+
+
+<FIG ID=JPRS-JST-007LC-17B>           Figure 2.  Basic Idea of Gas-Balloon Lunar Base </FIG>
+
+
+
+
+
+
+  ---------------------------------------------------------------------------- 
+|Table 1. Computations of Initial Internal Pressure (R[.sup]o[/] = 2.5 m)| 
+---------------------------------------------------------------------------- 
+|Depth (m)     |10            |15            |20            |30            | 
+---------------------------------------------------------------------------- 
+|Initial Press-|8             |22            |47            |135           | 
+|ure (Pi) (kgf/|              |              |              |              | 
+|cm[.sup]2[/]|              |              |              |              | 
+|)             |              |              |              |              | 
+---------------------------------------------------------------------------- 
+
+
+  (c) The expansion process of the gas-balloon follows both 
+Boyles and Charles laws. 
+  (1) P[.sup]g[/] x V[.sub]g[/] 
+= N[.sup]g[/] x R x 
+T[.sup]g[/] 
+  Here, P[.sup]g[/] is the internal pressure of 
+the gas-balloon, V[.sup]g[/] the volumetric 
+capacity of the gas-balloon, N[.sup]g[/] the 
+number of gas moles within the gas-balloon, R the gas 
+constant, and T[.sup]g[/] the temperature of the 
+gas balloon. 
+  In Figure 3, we show a model of the process of opening up 
+the 
+underground space by gas-balloon. By introducing an initial 
+pressure (P[.sup]i[/]) into the gas-balloon at a 
+prescribed setting that causes a passive destruction of the 
+surrounding soil, the gas-balloon forces aside the surrounding 
+soil and starts to inflate. 
+
+
+<FIG ID=JPRS-JST-007LC-17C>           Figure 3. Inflation Process of Gas Balloon </FIG>
+
+
+
+  After starting the inflation process, the gas-balloon 
+continues to expand by controlling the incoming gas pressure and 
+keeping it at a higher level than the external pressure 
+(P[.sup]o[/]) working on the gas-balloon, i.e., 
+the soil pressure from the surrounding soil. After the 
+underground space is formed to the desired size, a balance is 
+created between the gas pressure inside the balloon and the 
+external pressure working on the balloon, i.e., soil pressure 
+from the surrounding soil. 
+  The gas-balloon construction method offers the following 
+features: 
+  (a) It requires no major drilling work because the 
+construction is done by means of gas pressure. 
+  (b) It can reduce the amount of temporary construction 
+materials and work required for construction by maintaining the 
+space by means of gas pressure inside the balloon until the 
+construction work on the structures inside the base are complete. 
+  (c) It can reduce the amount of structural materials used by 
+counting the gas pressure used to maintain the space as part of 
+the actual structure. 
+<H5>  3. Proposals Concerning Gas-Balloon Materials </H5>
+  In the gas-balloon construction method, a base is built 
+within an underground space that is formed by balancing external 
+pressures such as soil pressure with the gas pressure of the 
+balloon. When a gas-balloon is used that is made with an elastic 
+material such as rubber, the gas pressure within the balloon 
+must be maintained at a certain minimum level until such time 
+that the building of structures bearing external pressures such 
+as the soil pressure are complete. For that reason, a 
+complicated gas control mechanism is required that can account 
+for the workers and materials entering and leaving the complex 
+gas-balloon during the time that the structure is being built. 
+Based on that, the construction process is expected to be quite 
+complex. In order to solve this problem, we proposed that a 
+superplastic alloy be used for the gas-balloon material. 
+  (1) Superplastic Alloy Gas-Balloon 
+  When the temperature and distortion rate of a metal having 
+an 
+isometric and extremely fine crystal grain structure reaches 
+certain levels, the material begins to deform with much less 
+stress than it would normally, and indicates a high elasticity 
+(superplastic deformation). By controlling this elasticity, it 
+becomes possible not to cause large differences in strength and 
+mechanical properties before and after superplastic deformation. 
+  In Figure 4, we show the gas pressure and temperature 
+control 
+patterns when a gas-balloon made from a superplastic alloy is 
+used. By keeping the temperature in the superplasticity region, 
+the superplastic gas-balloon is inflated by gas pressure in the 
+same way that a gas-balloon made from a material such as rubber 
+would do. When the desired space has been formed and the gas 
+pressure adjusted so that the inflation stops and the 
+superplastic gas-balloon cools, the balloon loses its plasticity 
+and recovers its mechanical properties as a metal. As a result, 
+the construction of the base becomes extremely easy if the space 
+can be maintained by the material strength of the gas-balloon 
+itself. 
+
+
+
+  (2) Prototype of Superplastic Alloy Gas Balloon 
+  We prototyped a superplastic gas-balloon using the prototype 
+equipment shown in Figure 5 by sandwiching together two 1.6mm 
+thick panels made of an aluminum-based superplastic alloy 
+
+<FIG ID=JPRS-JST-007LC-18A>  Figure 4.  Pressure and Temperature Control Patterns... </FIG>
+
+(AA7475). In Photograph 1 [photograph not reproduced], we show a 
+longitudinal view of the inflation process of the prototype 
+superplastic gas-balloon. Superplastic deformation in the upper 
+panel began as N2 flowed in under superplastic temperatures, and 
+60 minutes after gas pressurization began, a space was formed 
+with a dome height/base of 0.71. 
+
+
+<FIG ID=JPRS-JST-007LC-18B>           Figure 5. Superplastic Balloon Prototype </FIG>
+
+
+
+<H5>  Conclusion </H5>
+  When we consider the harshness of the lunar surface, the 
+possibility of a lunar base seems almost impossible. Therefore, 
+the gas-balloon method could be one of the more effective ways 
+of building an underground lunar base. 
+  Nonetheless, there are quite a number of technical problems 
+that still remain to be solved before the gas-balloon method can 
+be implemented practically, so we would like to see future 
+research tackle these problems. 
+Bibliography 
+  1. T. Saito, et al.: Takenaka Corp., ``Development on 
+Construction Technology for Under-Surface Lunar Base Using 
+Superplastic Alloy,'' Superplasticity in Advanced Materials, 
+1991. 
+

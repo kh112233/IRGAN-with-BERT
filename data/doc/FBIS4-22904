@@ -1,0 +1,429 @@
+CSO 
+
+<F P=106> [Article by L. S. Dzhindoyan, M. Yu. Tarasov and A. V. </F>
+Shipin, Scientific Research Institute of Microbiology, Main 
+Command of the CIS United Armed Forces, Kirov] 
+  [Text] Boxing systems, so-called micrological safety or 
+protective boxes, are usually used to protect personnel in 
+microbiological and virological laboratories working with and 
+conducting research on infectious materials. Foreign and 
+domestic experience accumulated to this day allows us to 
+differentiate boxing systems into different classes depending on 
+their structure, which is determined in turn by the danger of 
+the infectious material to man and by the nature of the research 
+operations and processes. 
+  These principles determine division of bioprotection boxes 
+into structures which keep the infectious material within the 
+volume of the corresponding systems partially (class 1 and 2 
+boxes) or completely (class 3 boxes). 
+  A modern approach to designing and correctly using boxing 
+systems would be impossible without developing scientifically 
+substantiated criteria of their protective effectiveness which 
+would ensure the required protection for personnel. In turn, the 
+necessary protection for personnel must be based on strictly 
+grounded infection risk criteria derived from the degree of 
+danger of the infectious materials under investigation and of 
+the corresponding laboratory operations to which they are 
+subjected. 
+  Various criteria are used today to describe the protective 
+effectiveness of boxing systems depending on their type. For 
+class 1 and 2 boxing systems the protection factor is such a 
+criterion, while for class 3 boxing systems it is the degree to 
+which pressure falls over a certain time in an airtightness 
+test. In addition, as was noted above, the risk of infection to 
+working personnel in the course of their research, which is a 
+probability characteristic, is the regulated parameter 
+determining the specific choice of boxing system. The importance 
+of developing scientific methodological approaches in this area 
+and substantiating, on their basis, optimum requirements on the 
+structure of boxing systems depending on the degree of danger of 
+research with infectious material carried out within them is 
+completely obvious, and it is the main goal of this paper. 
+  Let us examine a typical situation associated with operating 
+a boxing system in correspondence with the objective posed 
+above. Let us assume that a researcher must perform certain 
+manipulations with infectious materials during his work using a 
+boxing system. We know that an aerosol containing infectious 
+material is formed as a result of various research operations, 
+and that this aerosol may enter the laboratory's air 
+environment with circulating air. In order to reduce the 
+concentration of infectious material in aerosol form in the 
+boxing system and prevent its escape into the room, both the 
+boxing system and the laboratory are ventilated. The natural 
+processes by which the concentration of infectious material 
+decreases--owing to sedimentation and inactivation in response 
+to various factors--should be kept in mind in this case. 
+Possible infection of laboratory personnel is a stochastic--that 
+is, probablistic--process. If we assume that particles of 
+infectious material in the air environment of a laboratory 
+follow a Poisson distribution, then the probability of uptake of 
+a certain quantity (k) of particles by working personnel will be 
+determined by the expression: 
+&lt;graphic&gt; &lt;/graphic&gt;
+
+  where P--probability; C[.sub][/]--concentration of 
+infectious material in the room, number of cells per 1 
+m[.sup]3[/] (cells.m[.sup]-3[/]); Q--pulmonary ventilation 
+volume, m[.sup]3[/].sec[.sup]-1[/]; II--infecting dose, 
+cells; _t_--time, sec. 
+  An expression for the probability of uptake of at least one 
+particle of infectious material by working personnel may be 
+obtained from equation (1): 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  Naturally equation (2) will be valid for the case when no 
+devices are used in the course of the research to protect the 
+personnel (that is, the work is done without a boxing system). 
+When a boxing system is used in research as a primary barrier, 
+the probability of infection of working personnel will be 
+significantly lower. Equation (2) would have to be modified for 
+this case. This is associated primarily with the fact that a 
+boxing system is a technical device, failure of which reduces 
+its protective effectiveness during the failure interval. A term 
+accounting for the probability of infection of personnel in the 
+event of the boxing system's failure must be introduced into 
+equation (2) in this connection. We can arrive at a general 
+equation for the probability of infection of working personnel 
+in this way: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  where _l_--intensity of infection of personnel when the 
+boxing system works without failure, sec[.sup]-1[/], 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  _l_[.sub]O[/]--intensity of infection of personnel in the 
+event of the boxing system's failure, sec[.sup]-1[/], 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  _l_--intensity of the boxing sytsem's failure, sec; 
+C[.sub][/]--concentration of the infectious material in 
+the room prior to the boxing system's failure, 
+cells.m[.sup]-3[/]; C[.sub]o[/]--concentration of 
+infectious material in the room created as a result of the 
+boxing system's failure, cells.m[.sup]-3[/]; t--time of 
+boxing system's failure, sec; _t_--current time of work of the 
+boxing system, sec. 
+  Equation (3) is inconvenient for analysis in the form shown 
+here, which is why it is suitable to simplify it. Because 
+variables _l__t_, _l_[.sub]_s_[/]_t_ _l_[.sub]O[/]_t_ 
+are 
+less than unity, expanding the exponents into a series and 
+limiting ourselves to just linear terms, we can arrive at a 
+transformed expression for the probability of infection of 
+personnel working with infectious material in a boxing system: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  In the case where the permissible probability (risk) of 
+infection of working personnel is known, equation (4) may be 
+used to calculate infection intensity. The authors of [2] 
+proposed a value of permissible infection risk equal to 
+1.10[.sup]-5[/] per person (over the course of a year) on the 
+basis of an analysis of the frequency of cases of infection in 
+different laboratories and the risk of death of people 
+(accidents) owing to various random natural and social factors. 
+Basing ourselves on this value of infection risk, we can 
+calculate the permissible intensity of infection 
+(_l_[.sub]II[/]), which is 1.10[.sup]-8[/] 
+hr[.sup]-1[/] (on the condition that on the average, 
+personnel are in contact with infectious material on the order 
+of 1,000 hours per year). The resulting infection risk value 
+agrees with published data [7]. Thus, performing the 
+corresponding substitutions and transformations, we can arrive 
+at the following equation for the intensity of infection of 
+working personnel: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  Let us analyze this equation. In the case of trouble-free 
+operation of the boxing system, the intensity of its failure 
+_l_[.sub]_s_[/] is equal to zero, from which it follows that 
+_l_=_l_[.sub]II[/]=1.10[.sup]-8[/]hr[.sup]-t[/]--that 
+is, that the intensity of infection of working personnel when 
+the boxing system operates trouble-free is equal to the 
+permissible infection intensity. However, the intensity of 
+failure of the boxing system is always greater than zero, and 
+therefore the protective effectiveness of the boxing system must 
+provide for a personnel infection intensity of less than 
+1.10[.sup]-8[/] hr[.sup]-1[/]. In the theory of the 
+reliability of technical systems, redundancy is introduced into 
+these systems with the purpose of reducing the failure 
+intensity. However, if we assume that the time of operation of a 
+back-up fan is from 10-50 sec, a back-up ventilation system 
+would not result in a significant decrease in _l_[.sub]_s_[/] 
+During this time, a certain quantity of infectious material may 
+be released into the laboratory room depending on the 
+concentration of the infectious material in the boxing system 
+and its infecting dose, which will cause infection of personnel. 
+  The risk of infection of personnel may be reduced by 
+decreasing the intensity of infection of personnel in the event 
+of failure of the boxing system (_l_[.sub]O[/])--that is, by 
+correctly (justifiably) selecting the type of boxing system. The 
+value of _l_[.sub]O[/] depends on the concentration and form 
+(infecting dose) of the infectious material, and therefore the 
+optimum type of boxing system should be selected for particular 
+operations with certain pathogenic microorganisms. Many years of 
+experience of microbiological research are generalized in WHO 
+recommendations to permit selection of the type of boxing system 
+on the basis of information on the operations being conducted 
+and the form of the investigated microorganism [3]. However, the 
+boxing system characteristics presented in these recommendations 
+are descriptive (for example, airtight boxing systems, boxing 
+systems with laminar flow, etc.), and they do not contain 
+quantitative characteristics necessary for substantiated design 
+and operation of different classes of boxing systems. Equation 
+(5) obtained above may be used to substantiate the principal 
+technical requirements on particular types of boxing systems. 
+  Let us assume as before that a researcher is performing 
+various manipulations with infectious material in a boxing 
+system, as a result of which infectious material spreads in 
+aerosol form, including out into the laboratory room. The 
+processes occurring here may be diagrammed, and they may be 
+described by the following system of differential equations: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  where k[.sub]p[/]--atomization factor, sec[.sup]-1[/]; 
+C--concentration of the investigated sample, 
+cells.m[.sup]-3[/]; k'[.sub]o_s_[/], 
+k[.sub]o_s_[/]--air exchange factor for the boxing system's 
+ventilation system and the room, sec[.sup]-1[/]; 
+k[.sub]c[/]--sedimentation coefficient, sec[.sup]-1[/]; 
+k&Ngr;&EEgr;--inactivation coefficient, sec[.sup]-1[/]; 
+K[.sub]&Bgr;[/]--constant characterizing release of infectious 
+material out of the box into the room, sec[.sup]-1[/]; 
+k[.sub]B;--constant characterizing transfer of infectious 
+material from the room to the box, sec[.sup]-1[/][/]; 
+C[.sub]_s_[/], C[.sub][/]--current concentrations of 
+infectious material in the boxing system and in the room, 
+cells.m[.sup]-3[/]. 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  Spread of Infectious Material Out of a Boxing System: 
+  C[.sub]Q[/], C[.sub]_s_[/], 
+C[.sub][/]--initial concentration of infectious material, 
+and the concentration formed in the boxing system and room; 
+k[.sub]p[/]--process of formation of aerosol out of the 
+infectious material at a rate k[.sub]p[/]; 
+k[.sub]c[/]--process of sedimentation of infectious material 
+at a rate k[.sub]c[/]; k[.sub]&Ngr;&EEgr;[/]--process of 
+inactivation of infectious material at a rate 
+k[.sub]&Ngr;&EEgr;[/]; k'[.sub]o_s_[/], 
+k[.sub]o_s_[/]--process of removal of infectious material by 
+means of the ventilation system of the boxing system and the 
+room at a rate k'[.sub]o_s_[/]k[.sub]o_s_[/]; 
+k'[.sub]B'[/] k[.sub]B[/]--process of movement of 
+infectious material out of the room and out of the boxing system. 
+  This equation system may be solved in general form by 
+numerical methods; however, we are practically interested in the 
+stationary case, in which all processes are in equilibrium and 
+dC[.sub]_s_[/]/d_r_=dC[.sub][/]/d_t_=0. Equating 
+equation (6) to zero and performing a number of manipulations, 
+we can obtain an expression for the steady-state concentrations 
+of infectious material in the boxing system and in the room: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  We know that the protective effectiveness of class 1 and 2 
+boxing systems is characterized by the protection factor 
+k[.sub]3[/], which is determined experimentally as the ratio 
+of the concentration of aerosol simulating infectious material 
+in the boxing system to its concentration in the room [5]. The 
+protection factor is not used with a class 3 boxing system 
+because the sensitivity of methods for recording simulated 
+aerosols is below the real protective effectiveness of a class 3 
+boxing system. However, the obtained equation (7a) allows us to 
+calculate the protection factor for any class of boxing system: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  It should be noted that two parameters are used in the 
+calculations in equation (8) (k[.sub]&Bgr;[/] and 
+k'[.sub]&Bgr;[/], which cannot be determined directly by 
+experimental means. Both of these parameters may be calculated 
+on the basis of the laws of aerodynamics. However, the formulas 
+for the above parameters will differ in application to different 
+classes of boxing systems due to the structural features of each 
+class of boxing system. 
+  Thus, class 1 and 2 boxing systems are exhaust systems with 
+open access from the front panel. As a rule the protective 
+effectiveness of such boxing systems is the product of the 
+laminar nature of air flow in the opening in the boxing system 
+provided for the operator, and restriction of the operator's 
+access into the boxing system by reduction of the area of the 
+opening. In this case transport of aerosol from the boxing 
+system into the room is associated with turbulization of the air 
+flow in the boundary layers of the opening, and with 
+manipulations carried out with the operator's hands. A class 3 
+boxing system is an airtight one in which access into its 
+interior is achieved with hermetically attached gloves. In this 
+case transport of infectious aerosol into the room would be 
+possible due to its diffusion through existing leaks. 
+  It should be noted that different types of boxing systems, 
+including similar class 1, 2 and 3 boxing systems intended for 
+microbiological research, are widely used today in research on 
+toxic and radioactive substances. Theory permitting us to 
+calculate protective effectiveness when working with these 
+substances has been developed sufficiently well on the basis of 
+the laws of aerodynamics for such boxing systems. Because 
+calculation of parameters k[.sub]&Bgr;[/] and k'[.sub]&Bgr;[/] 
+(coefficients characterizing transport of aerosol from the 
+boxing system into the room and its return back into the boxing 
+system) does not require knowledge of numerical characteristics 
+inherent to microbiological aerosols, the formulas used to 
+calculate them will also be valid for boxing systems intended 
+for work with infectious material. The following formulas are 
+presented in [4] for calculating coefficients k[.sub]&Bgr;[/] 
+and k'[.sub]&Bgr;[/]: 
+  for class 1 and 2 boxing systems: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  for class 3 boxing systems: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  where f--cross section of the opening (or leaks) in the 
+boxing system, m[.sup]2[/]; v[.sub]m[/]--rate of air flow 
+in the opening (or leaks), m.sec[.sup]-1[/]; a--thickness of 
+the wall of the boxing system, m; A--coefficient of turbulent 
+exchange, m[.sup]2[/].sec[.sup]-1[/]; D--diffusion 
+coefficient, m[.sup]2[/].sec[.sup]-1[/]; 
+V[.sub]_s_[/]--volume of the boxing system, m[.sup]3[/]; 
+_D_p--drop in pressure in the boxing system in an airtightness 
+test, kg.m[.sup]-2[/]; p[.sub]&EEgr;[/]--absolute pressure in 
+the room, kg.m[.sup]-2[/]; t[.sub]p[/]--duration of 
+airtightness test on boxing system, sec. 
+  The entire complex of equations (5) and (8) may be used with 
+regard for formulas (9-9c) to calculate the necessary protective 
+effectiveness of different classes of boxing systems using a 
+principal indicator such as the protection factor. 
+  Let us first examine class 1 and 2 boxing systems. Work not 
+leading to formation of a large quantity of aerosol may be 
+carried out in boxing systems of this type in accordance with 
+WHO recommendations. In addition work with infectious material 
+of low pathogenicity is also recommended in such protective 
+systems. The following boundary conditions may be adopted for 
+this case: an average concentration in the boxing system of 
+C[.sub]_s_[/]10 cells.m[.sup]-3[/] (typical of the 
+following operations: preparing streak cultures in Petri dishes, 
+placing a wire loop bearing inoculation material in a flame, 
+pouring culture into test tubes, and so on [5], an infecting 
+dose of II|G1.10[.sup]4[/] cells (typical of microorganisms 
+evoking typhoid fever, cholera, anthrax and so on [5], a boxing 
+system volume (V[.sub]_s_[/]) of 1 m[.sup]3[/] and room 
+volume (V[.sub][/]) of 200 m[.sup]3[/] (a 6x8 m 
+laboratory). In the event of failure of the boxing system's 
+ventilation, it may be assumed that infectious material in 
+aerosol form in the boxing system will spread uniformly 
+throughout the entire room. Then the concentration of infectious 
+material in aerosol form in the room may be calculated using the 
+formula: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  and for the conditions presented above it will be 
+5.10[.sup]-2[/] cells.m[.sup]-3[/]. Substituting the 
+obtained value of C[.sub]II[/] in equations (5) and (8), we 
+can determine the required protection factor of class 1 and 2 
+boxing systems. It will be found to be equal to 
+1.2.10[.sup]5[/]. What this value means physically is that 
+when an aerosol concentration of, for example, on the order of 
+1.10[.sup]5[/] cells.m[.sup]-3[/] is created in class 1 
+and 2 boxing systems, the concentration of aerosol in the room 
+will not exceed 1 cell.m[.sup]-3[/]. Next, using equation 
+(9a), we can determine the rate of air flow that must be 
+maintained in the opening of the boxing system in order to 
+ensure the boxing system's required protection factor of 
+1.2.10[.sup]5[/]. It will be equal to 0.7 
+m.sec[.sup]-1[/]. The air flow rate obtained here by 
+calculation confirms the numerous recommendations for this value 
+contained in the literature [2,5]. Analysis of information in 
+Soviet and foreign literature [6,8] shows that as a rule, class 
+1 and 2 boxing systems that have presently been developed in 
+different countries satisfy the requirements presented above, 
+and consequently provide protection to personnel. 
+  Let us examine class 3 boxing systems. Boxing systems of 
+this 
+type are intended for any laboratory operations with any 
+pathogenic microorganisms. In this case we can assume the 
+following boundary conditions: average concentration in the box 
+(C[.sub]_s_[/]) on the order of 1.10[.sup]3[/] 
+cells.m[.sup]-3[/] (the indicated concentration may arise in 
+the following operations: centrifugation, vibration of a wire 
+loop in the course of inoculation, and intranasal administration 
+of infectious material to mice [5]) and an infecting dose (II) 
+of one cell (typical for example of Marburg and Lassa viruses as 
+well as of bacterial infections such as plague, tularemia and so 
+on [5]). Substituting the adopted values into equations (5), (8) 
+and (9a), we can come to the conclusion that a properly working 
+class 3 boxing system provided guaranteed protection to 
+personnel. In the event of failure of the ventilation system of 
+a class 3 boxing system (the probability of failure 
+_l_[.sub]_s_&gt; reset&gt;  is equal to 1.10[.sup]-4[/][/] 
+hr[.sup]-1[/] [1]), an excess pressure in relation to the 
+room may be created within it for a short time. The 
+concentration of infectious material in the room created as a 
+result of failure will depend wholly on the airtightness of the 
+system, and it may be calculated by the equation: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  It was noted above that the intensity of infection of 
+personnel in the case of trouble-free operation of a class 3 
+boxing system is practically equal to zero. In this case an 
+expression may be obtained from equations (5) and (10) by which 
+to calculate the required airtightness of a class 3 boxing 
+system: 
+&lt;graphic&gt; &lt;/graphic&gt; 
+
+  Substituting the concentration of infectious material that 
+could be created in a class 3 boxing system into formula (11), 
+we can obtain the required leakage factor for the boxing system 
+(for example, at an average concentration of 1.10[.sup]3[/] 
+cells.m[.sup]-3[/] the leakage factor is 
+1.44.10[.sup]-3[/] hr[.sup]-1[/]). Boxing systems intended 
+for work with radioactive materials are often used today for 
+work with infectious materials. According to the All-Union State 
+Standard* they are ``airtight'' if the pressure drop 
+accompanying an excess air pressure of not less than 1,000 Pa 
+(100 kg.m[.sup]-2)[/] does not exceed 10 percent over a time 
+interval of not less than 30 minutes. Substituting the indicated 
+data into equation (9a), we can determine the leakage factor for 
+both boxes, which is 1.9.10[.sup]-3[/] hr[.sup]-1[/]. We 
+can also use equation (11) to calculate the permissible average 
+concentration of infectious material in this type of boxing 
+system, which will be 0.7.10[.sup]3[/] 
+cells.m[.sup]-3[/]--that is, for practical purposes the 
+necessary protection is afforded to personnel by a boxing system 
+of this type. 
+  Thus a scientific methodological approach is presented here 
+making it possible to substantiate the principal technical 
+requirements on boxing systems in relation to different 
+conditions of their use. The main thing is that design and 
+operation of boxing systems must be directly interrelated with 
+the actual conditions of their work, inasmuch as characteristics 
+such as the system's reliability, the possible concentrations of 
+infectious material in the aerosol formed when performing 
+various research operations, the degree of danger of the 
+material in question, and the permissible risk to personnel 
+carrying out particular types of research must be accounted for. 
+BIBLIOGRAPHY 
+  1. Bortkevich, V. S., Moroz, A. G., Votyakov, V. I. and 
+Pivchenko, A. G., GIG. I SAN., No. 5, 1984, pp 12-16. 
+  2. Drozdov, s. G., Garin, N. S., Dzhindoyan, L. S. and 
+Tarasenko, V. M., ``Osnovy tekhniki bezopasnosti v 
+mikrobiologicheskikh i virusologicheskikh laboratoriyakh'' 
+[Principles of Safety in Microbiological and Virological 
+Laboratories], Moscow, 1987. 
+  3. ``Rukovodstvo po biologicheskoy bezopasnosti v 
+laboratornykh usloviyakh: [Handbook on Biological Safety in 
+Laboratory Conditions]'', translated from English, Moscow, 1985. 
+  4. Elterman, V. M., ``Ventilyatsiya khimicheskikh 
+proizvodstv'' [Ventilation of Chemical Production Operations], 
+Moscow, 1980. 
+  5. Collons, C. H., ``Laboratory-Acquired Infections,'' 
+London, 1983. 
+  6. McGarrity, G. J. and Coriell, L. L., APPL. MICROBIOL., 
+Vol. 28, No. 4, 1974, pp 647-650. 
+  7. Phillips, G. B., J. CHEM. EDUC., Vol. 42, No. 1, 1965, pp 
+43-48. 
+  8. White, P. A. F., LAB. PRACT., Vol. 29, No. 11, 1980, pp 
+1183-1188. 
+  Izdatelstvo ``Meditsina,'' 1993 
+
+    *``Boksy zashchitnyye'' [Protective Boxes], GOST 23 309-78, 
+Moscow, 1978. 
+
+

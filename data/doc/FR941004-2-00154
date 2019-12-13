@@ -1,0 +1,129 @@
+ 
+
+Because correction processing occurs at the New York and American Stock Exchanges and at the National Association
+of Securities Dealers before the trade input is transmitted to NSCC, Add-by-Seller tickets, as well as Delete-by-Seller,
+Delete Add-by-Seller and Delete-by-Buyer instructions, will no longer be accepted under the proposed rule.
+<FOOTCITE>3</FOOTCITE>
+ This change is being proposed in order to standardize correction processing.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+3
+
+</FOOTNAME>
+For a complete description of the New York Stock Exchange, American Stock Exchange and National Association of Securities
+Dealers corrections processing systems, refer to Securities Exchange Act Release Nos. 26773 (May 1, 1989), 54 FR
+20227 [File No. SRNYSE8903] (order approving the New York Stock Exchange's system for the resolution
+of uncompared transactions); 28069 (May 29, 1990), 55 FR 23324 [File No. SRAMEX9001] (order
+approving the Intra-Day Comparison System for resolving uncompared transactions); and 28583 (November 1, 1990),
+55 FR 46120 [File No. SRNASD8925] (order granting accelerated approval of amendment to proposed
+rule change relating to the Automated Confirmation Transaction Service).
+
+</FOOTNOTE>
+
+
+NSCC will provide comparison services for corporate bond new issue transactions on the same basic terms and conditions
+as are currently provided for municipal securities transactions with the exception of syndicate takedown processing.
+<FOOTCITE>4</FOOTCITE>
+ Original trade input for new issue corporate bond transactions will be accepted until the third day prior to the initial
+settlement date for the issue. Original input may set forth either (1) A final settlement price and a settlement date
+that is either the initial settlement date or a specified number of days after the initial settlement date or (2) a dollar
+price. Original trade input that is submitted between three and five days prior to the initial settlement date but
+does not set forth a final settlement price and settlement date or does not set forth a dollar price will be treated as
+regular input. Any corporate bond new issue transactions that remain uncompared at the opening of business on the
+day prior to the initial settlement date will be deleted from NSCC's system.
+<FOOTCITE>5</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+4
+
+</FOOTNAME>
+NSCC defines ``new issue'' transactions in this context to mean transactions which are to settle on the initial settlement
+date for an issue or a specified number of days after the initial settlement date.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+5
+
+</FOOTNAME>
+This means that some new issue transactions may not be able to be put through the entire range of available trade resolution
+procedures prior to being dropped. In the extreme case, new issue submissions made on the second day prior to the initial
+settlement date that do not compare will be dropped without any opportunity for resolution. These unresolved trades
+will be reported on a separate unresolved trade report, and any trade dropped without the opportunity for resolution
+may be resubmitted after the initial settlement date.
+
+</FOOTNOTE>
+
+
+NSCC's fee structure relating to correction fees will be amended to reflect that correction capabilities will be
+accelerated in conformity with comparison capabilities. These fee changes will conform all bond correction fees
+to the fees implemented in connection with municipal securities transaction processing in that participants will
+be charged for supplemental input on or after T+1.
+<FOOTCITE>6</FOOTCITE>
+ Currently, NSCC charges participants for supplemental input relating to corporate bond and UIT transactions on
+or after T+2. In addition, the bond system correction fees for ``don't know'' and ``questioned trade'' input will
+be deleted because NSCC no longer processes such transactions. The proposed rule change also makes certain conforming
+changes and deletions to NSCC's Procedures in order to reflect greater uniformity in NSCC's bond comparison system
+and to eliminate certain language which has become obsolete.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+6
+
+</FOOTNAME>
+For a detailed description of NSCC's correction fees or municipal securities transactions, refer to Securities
+Exchange Act Release No. 34193 (June 10, 1994), 59 FR 31284 [File No. SRNSCC9408] (notice of filing
+and immediate effectiveness of a proposed rule change modifying NSCC's fee schedule for correction fees).
+
+</FOOTNOTE>
+
+
+The proposed changes to NSCC's comparison procedures should help achieve higher rates of trade comparison at earlier
+points in the comparison process and thus increase certainty and reduce risk in the clearance and settlement of corporate
+bond and UIT transactions. Moreover, the expansion of corporate bond processing to cover baby bond and new issue transactions
+will promote the prompt and accurate clearance and settlement of securities transactions. Therefore, NSCC believes
+the proposed rule change is consistent with Section 17A of the Act.
+
+
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+
+
+NSCC does not believe that the proposed rule will have an impact or impose a burden on competition.
+
+
+
+C. Self-Regulatory Organization's Statement on Comments on the Proposed Rule Change Received From Members, Participants,
+or Others
+
+
+
+NSCC has not solicited or received any comments. NSCC will notify the Commission of any written comments received
+by NSCC.
+
+
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for Commission Action
+
+
+
+Within thirty-five days of the date of publication of this notice in the 
+
+Federal Register
+
+ or within such longer period (i) As the Commission may designate up to ninety days of such date if it finds such longer
+period to be appropriate and publishes its reasons for so finding or (ii) as to which the self-regulatory organization
+consents, the Commission will:
+

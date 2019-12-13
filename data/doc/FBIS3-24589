@@ -1,0 +1,23 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by I. A. Zhuravlev, Dnepropetrovsk Mining </F>
+Institute, Dnepropetrovsk, Ukraine; UDC 550.831] 
+  [Abstract] This article describes an algorithm to calculate 
+corrections for sea bottom relief. The main problems to be 
+solved in developing this type of algorithm are automating the 
+construction of a digital model of the sea bottom, and 
+simplifying and speeding up calculations of the effects of 
+elementary bodies (approximated by a layer of water). The 
+article presents a new approach to solving these problems. 
+Points at which the depth of the sea is known are arranged in an 
+irregular grid, and depths are calculated in a regular grid 
+within that portion of the survey area. Two interpolation 
+methods are described. The collection method is described. It is 
+used to calculate the gravitational effect of rock beneath the 
+sea. The algorithm has been implemented in the software of an 
+automated system to process on-board gravimagnetic measurements. 
+Product testing is described Results of its use are presented. 
+The algorithm is used to study Bouguer anomalies. Figures 2; 
+references 6 (Russian). 
+

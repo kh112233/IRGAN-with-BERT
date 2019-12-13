@@ -1,0 +1,20 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by A. V. Nazin; UDC62-506.1] </F>
+  [Abstract]An algorithm is examined for adaptive control of 
+a multidimensional linear stochastic plant. This algorithm is 
+based on the usage of recurrent estimates of stochastic 
+approximations with weighted averaging. Of primary interest was 
+the speed with which the quality criterion converges with the 
+optimal operating mode for a closed system. It is shown that the 
+usage of a stochastic approximation algorithm with weighted 
+averaging allows the maximum possible convergence speed to be 
+achieved, if the necessary a priori information is available. 
+The objective of control is to minimize threshold values of the 
+output signal second moment, which is time averaged. The 
+asymptotic properties in the sequence of estimates and average 
+losses are researched. Conditions are established for asymptotic 
+efficiency of the control algorithm. 29 references. 
+
+

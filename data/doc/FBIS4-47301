@@ -1,0 +1,63 @@
+CSO 
+
+<F P=106> [Article by S.M. Veperentsev, V.G. Gorosh, N.N. Kopylov, </F>
+candidate of chemical sciences, and G.K. Kholopov, candidate of 
+technical sciences, Scientific-Industrial Association ``State 
+Institute of Applied Optics'', Kazan; UDC 681,785.63] 
+  [Abstract] A laboratory goniometer has been developed and 
+built by the authors for studying the spatial reflection 
+patterns of particularly three- dimensional objects but also of 
+predominantly diffusely reflecting objects. Its optical system 
+includes an illuminator with a 30 V - 300 W (stabilized) 
+incandescent lamp and a photometer with a photomultiplier tube, 
+the optical axes of their respective objectives intersecting at 
+an angle _a_ at a point 0.6 m equidistant from both. The object 
+is placed with its geometrical center at that point of 
+intersection. Two sets of diaphragms are provided, one with 1-5 
+mm diameters to be placed in the focal plane of the illuminator 
+objective and with 3-12 mm diameters to be placed in the focal 
+plane of the photometer objective. The object is placed with its 
+geometrical center at that point of intersection. Two light 
+absorbers, each in the form of a sheave with a set of 
+black-coated 30 V-grooves, are placed 0.6 m behind the 
+object: one diametrically opposite the illuminator aperture so 
+as to completely cover the collimated light beam after its 
+passage through the object and one diametrically opposite the 
+photometer aperture so as to completely cover its field of view. 
+The object is oriented and rotated by means of a device with 
+DVSh80-06 stepper motors and three degrees of freedom. Two 
+degrees of freedom are with respect to two orthogonal axes: 
+rotation about one through any angle within the full 0  
+_P_  360 range and about the other through any angle 
+within the -88  _th_  +90 range. The third 
+degree 
+of freedom is added by rotation of the photometer axis about the 
+illuminator axis through any angle within the the -22  
+_ps_  180 range. Within the interference zone on the 
+illuminator and photometer side the range of _P_ angles is 
+narrower, depending on both _a_ and _ps_ angles. Goniometer 
+control as well as signal recording and processing, including 
+digital-to-analog conversion, are automated with the aid of a 
+personal IBM PC-XT type computer which executes the operations 
+according to a given program and displays the results on the 
+screen of a SETU-10 multipurpose monitor. In this way was, for 
+instance, tested a conical body. The dependence of its effective 
+reflecting surface area on its orientation angle _P_ relative 
+to 
+the illuminator axis was measured with its position around the 
+photometer axis at angle _th_= 0, the position of the 
+photometer axis at around the illuminator axis at angle _ps_= 
+90, and with three different angular distances between the 
+two axes: _a_= 25, 90, 132. The main sources of 
+possible errors are: nonuniform luminance distribution over the 
+light beam cross-section and nonuniform sensitivity distribution 
+over the photometer field of view, instability of both 
+distributions, nonlinearity of photometer components, ambiguity 
+of object position angles due to inaccurate initial setup and 
+backlash in the drive mechanism. The relative mean-square error 
+is, however, not likely to exceed 15 % (20 % in 
+speckle 
+photometry) and the object position angles can be measured 
+accurately within 45' relative to both object and photometer 
+rotation axes. Figures 3; references 5. 
+

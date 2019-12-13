@@ -1,0 +1,409 @@
+Treatment 
+
+<F P=102>   94FE0230B Tokyo ATOMIC ENERGY SOCIETY OF JAPAN in Japanese 
+Vol 35 No 10, Oct 93 pp 885-890--FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0230B </F>
+<F P=104>  Tokyo ATOMIC ENERGY SOCIETY OF JAPAN </F>
+<F P=105>  Japanese </F>
+CSO 
+
+<F P=106> [Article revised from a special lecture at the Kyushu Energy </F>
+Institute on 13 April 1993 by Takuyoshi Fukumoto, Proton Medical 
+Research Center, University of Tsukuba] 
+  [Text] 
+<H5>  I. Introduction </H5>
+  Cancer is a highly complicated disease which completely 
+differs in characteristics from such diseases as tuberculosis, 
+which formerly was called the national disease of Japan, or more 
+recently, AIDS. According to the "Science and Technology in the 
+Year 2020" which was a survey study of anticipated technology 
+published by the Science and Technology Agency in December 1992, 
+tremendous efforts have been made to develop anti-cancer drugs, 
+and great expectations are held for future developments. Up to 
+this point in time, however, drugs have been largely ineffective 
+for solid cancer, and external surgery and radiation (proton and 
+electron) continue to hold an important role in actual 
+treatment. There are some cancer cells that have a high 
+resistance to radiation treatment, and because this resistance 
+is considered to be a cause of recurrence, accelerated neutron 
+beams having strong physiological effects are considered a more 
+effective form of radiation, and are gaining greater use at the 
+National Institute of Radiological Sciences (NIRS), at the 
+Medical Science Research Laboratory, Tokyo University, as well 
+as in Europe and the United States. 
+  As a part of the 1976 bicentennial independence memorial 
+activities in the United States, particle beam therapy research 
+for the elimination of cancer was undertaken using 
+[.sup]-[/] meson and heavy ion beams. More than 10 years 
+ago in Japan, the Science and Technology Agency commissioned a 
+survey study by the Japan Radiological Society relating to 
+medical uses of accelerators as one link in the peaceful use of 
+atomic energy. Selecting from [.sup]-[/] (negative pi 
+meson) and heavy ions, the latter was given priority as the 
+radiation for the 21st century. Based on this policy, the heavy 
+ion synchrotron HIMAC is currently under construction at the 
+National Institute of Radiological Sciences (NIRS), and the goal 
+is to begin treatment of patients from the 1994 fiscal year. 
+Elsewhere, Massachusetts General Hospital (MGH) is using the 
+synchrotron at Harvard University, and excellent results have 
+been shown in the proton beam treatment of certain kinds of 
+retinal cancer. From the results of these facilities, the 
+Tsukuba University Particle Beam Medical Center was established 
+in 1980, and experimental treatment began in 1983. This facility 
+uses the 500 MeV proton beam from the booster synchrotron at the 
+National Laboratory for High Energy Physics (KEK), and in 1990 
+this center was reorganized into the current Research Center for 
+the Medical Use of Proton Beams. Because positive results are 
+being obtained which reflect on the kind of deep cancers, such 
+as liver cancer, which continue to afflict many Japanese, this 
+survey of the current trends in particle beam treatment places 
+the emphasis on proton beam therapy. 
+<H5>  II. Special Characteristics of Particle Beams Seen From the </H5>
+Perspective of Cancer Treatment-LET and Bragg Peak 
+  When X-rays and electrons penetrate into water (or into the 
+human body), the water molecules along that path undergo 
+electrolytic dissociation or excitation. This electrolytic 
+dissociation or excitation is the principle effect by which the 
+radiation beam affects the living body. Nuclear reactions have a 
+vastly smaller cross-sectional area, and have been found to 
+contribute little. The unit length along the routes of the 
+radiation beam per energy given is called LET (Linear Energy 
+Transfer). In X-rays and electrons, which are the conventional 
+forms of therapeutic radiation, the dosage given attenuates 
+almost exponentially as it progresses through the body from the 
+point of irradiation (except for high energy X-ray buildup). 
+Because radiation sensitivity depends on the kinds of tissue and 
+cancer, treatments must, of course, be studied individually. 
+Generally, however, the dosage distribution in which the dosage 
+administered near the surface of the body attenuates almost 
+exponentially the deeper it goes, is inappropriate for deeper 
+cancers. Thus, at hospitals, variegated radiation from differing 
+directions is performed by a lineac mounted on a rotating 
+gantry, and the dosage on the skin is lowered while 
+concentrating the dosage on the cancer. 
+  Protons and particles with heavier electric charges 
+(including [.sup]-[/]) have a range that corresponds to 
+their energy when penetrating into water, and they have a large 
+electrolytic dissociative action that is called the Bragg peak 
+near the terminus of that range. From the point of entry through 
+to this Bragg peak is a region of nearly fixed electrolytic 
+dissociative action, and is called a plateau. As R. Wilson 
+proposed in 1946, if proton energy is selected such that the 
+Bragg peak agrees with the cancer, it would be possible to 
+administer the dosage necessary for treatment of that cancer 
+while doing very little damage to normal cells (Figure 1). 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 1. Comparison of Dosage Distribution When Proton 
+Beams, X-rays, _g_-rays and Electron Beams Pass 
+Through Tissue&lt;/graphic&gt; 
+
+  From the results of research at Uppsala, Sweden, etc., the 
+LET of protons is lower than that of neutrons and heavy ions, 
+and it was clarified that the physiological effects RBE 
+(Relative Biological Effectiveness) is almost equal to that of 
+conventional radiation. Ordinarily, RBE is expressed by the 
+dosage ratio of the protons (or other particle beams) and [.sup]60[/] 
+
+Co (or X-rays) in which 10 percent of the 
+irradiated cells survive (Figure 2). The larger the surviving 
+fraction of cells at low dosage, the larger this dosage ratio. 
+In low LET radiation, curved parts appear on the recovery in the 
+low dosage regions as indicated in the survival curves of Figure 
+2, and because there is no recovery in high LET radiation, the 
+survival curve becomes a straight line. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 2. Cell Survival Curve When Irradiating With 
+Neutrons and X-rays of Differing Energy&lt;/graphic&gt; 
+
+  There is something in cancer cells that shows a strong 
+resistance to conventional radiation, and this is thought to be 
+a cause of recurrence after a part has gotten well by radiation 
+therapy. Moreover, the radiation resistance of cells depends on 
+the oxygen concentration of the environment which surrounds the 
+cell, and it is known that when cancer cells are in a low oxygen 
+state, the resistance to radiation becomes stronger (OER: Oxygen 
+Enhancement Ratio). Particle beams with a high LET also have a 
+high RBE, and the capacity by which cancer cells are injured is 
+not affected by the oxygen concentration to the same degree as 
+in conventional radiation. Consequently, it is thought that high 
+LET particle beams are probably more effective on radiation 
+resistance cancer. Thus, even though they are not electrically 
+charged particle beams, high LET accelerated neutron beams are 
+used in therapy. The radiation used in therapy is classified as 
+follows. 
+  Low LET radiation: photon, n, p, He, [.sup]-[/] 
+plateau. 
+  High LET radiation: n, C, O, ... Si, Ne, Ar, etc. 
+  heavy ions, [.sup]-[/] star. 
+<H5>  III. Accelerated Neutron Beams </H5>
+  The dosage distribution of accelerated neutrons is not 
+greatly different from conventional radiation, and attenuates 
+almost exponentially in the body. Accelerated neutron beam 
+therapy was conducted at Berkeley even before the war, but all 
+the patients died. After the war, they were begun again at 
+Hammersmith Hospital in England, and because positive results 
+were reported, the specialized cyclotrons at NIRS and at the 
+Medical Science Research Laboratory, University of Tokyo were 
+introduced in Japan, and therapy began being conducted. However, 
+a significant difference in effectiveness compared to 
+conventional radiation was found only in cancers of extremely 
+limited positions such as salivary glands, pancoast lung cancer, 
+and the prostate gland, etc. Up to this point, approximately 
+10,000 people in the world have received accelerated neutron 
+therapy, but compared to conventional radiation, it is said that 
+there is greater tardive injury, and these clinical results 
+strongly suggest the effectiveness of high LET radiation. 
+Treatments have already been terminated at the Medical Science 
+Research Laboratory, University of Tokyo. 
+<H5>  IV. Proton Beams </H5>
+  Proton beams belong to low LET radiation, and have 
+physiological characteristics similar to X-rays and electron 
+beams. Based on these characteristics, H. Suit of MGH could 
+anticipate the results and the injury involved in using proton 
+beams, and was able to apply the experiences of conventional 
+radiation therapy to the treatment of retinal melanoma using the 
+160 MeV synchrocyclotron of Harvard University. The results were 
+dramatic, and it was possible to not extract the eyeball, and to 
+preserve vision. Fortunately, this cancer is rare in Asians, but 
+the majority of proton beam treatment in the United States and 
+Europe is targeted to this kind of patient (Table 1). 
+Recognizing these results, custom proton beam treatment 
+facilities have been newly built at MGH mentioned above, and at 
+University of California Davis Cancer Center in Sacramento, 
+California. 
+&lt;graphic&gt; 
+&lt;capt&gt; Table 1. History of Particle Beam Therapy&lt;/graphic&gt; 
+
+  In particle beam therapy, correct information about the 
+position and size of the cancer is necessary, and this is 
+possible by introducing computer tomography (CT) and magnetic 
+resonance imaging (MRI). However, it was probably the brilliance 
+of H. Suit to select the particular disease he did because 
+retinal cancer can be accurately targeted without all this 
+equipment. While some researchers believed proton beams to be 
+effective only in cancers of the eye, it was the Tsukuba 
+University Particle Beam Medical Center that tried applying the 
+500 MeV proton accelerator at KEK to therapy by reducing the 
+speed to 250 MeV. After 10 years, this Center became the 
+Research Center for the Medical Utilization of Proton Beams in 
+1990. In addition to the use of 500 MeV protons, pulse neutrons 
+are being applied to biological research by the m Meson 
+Group 
+of Tokyo University. 
+  The proton synchrotron operates about 4,000 hours annually, 
+and this time is consumed in three periods of continuous 
+operation punctuated with long periods of shutdowns. On the 
+other hand, because one person receives a total of about 80 Gy 
+radiation which is divided up into one dose per day for 20-30 
+times, the number of patients treated per afflicted area is not 
+that great, but already noteworthy results are being obtained 
+(Table 2). 
+  Specifically, liver cancer and pancreatic cancer, which are 
+prevalent among Japanese, have a five year survival rate of 3 
+percent, which is the worst among the cancers. Even with surgery 
+and follow-up therapy, the possibility of recurrence is high. 
+Liver cancer has not been a target for radiation therapy thus 
+far, but if the liver function is good, the success is vastly 
+improved as shown in the data marked in Table 2. It was 
+demonstrated that even if the cancer is rather large, it can be 
+controlled, and that treatment can also be applied to cases of 
+recurrence (Figure 1). 
+
+
+
+  ---------------------------------------------------------------------------- 
+|Table 2. Results of Proton Beam Therapy at Tsukuba University (Cumulative | 
+|total, July 1993)                                                         | 
+---------------------------------------------------------------------------- 
+|Location      |No. of patien-|Local therape-|3 year surviv-|Sequela       | 
+|              |ts            |utic rate (Es-|al rate       |              | 
+|              |              |timated %)    |              |              | 
+---------------------------------------------------------------------------- 
+|Skin          |8             |7(87.5)       |87.5          |0             | 
+---------------------------------------------------------------------------- 
+|Brain: Glioma |17            |5(29.4)       |18.5          |3             | 
+---------------------------------------------------------------------------- 
+|Brain: Mening-|14            |12(85.7)      |75.0          |0             | 
+|ioma, etc.    |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Neck and head |21            |14(66.7)      |73.3          |0             | 
+---------------------------------------------------------------------------- 
+|Lungs         |21            |15(71.4)      |45            |1             | 
+---------------------------------------------------------------------------- 
+|Esophagus     |28            |22(78.6)      |53.8          |4             | 
+---------------------------------------------------------------------------- 
+|Liver         |70            |59(84.3)      |41.4*         |3             | 
+---------------------------------------------------------------------------- 
+|Stomach       |5             |3(60.0)       |61.0          |0             | 
+---------------------------------------------------------------------------- 
+|Kidney        |5             |2(40.0)       |60.0          |0             | 
+---------------------------------------------------------------------------- 
+|Uterus        |26            |21(80.8)      |80            |3             | 
+---------------------------------------------------------------------------- 
+|Bladder       |19            |14(73.7)      |86            |2             | 
+---------------------------------------------------------------------------- 
+|Prostate      |8             |8(100.0)      |86            |0             | 
+---------------------------------------------------------------------------- 
+|Pediatric tum-|6             |5(83.3)       |75.0          |0             | 
+|ors           |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Other         |4             |3(75.0)       |100.0         |1             | 
+---------------------------------------------------------------------------- 
+|Total         |252           |190(75.4)     |              |17(6.7%)      | 
+---------------------------------------------------------------------------- 
+
+
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 1. Plan For Liver Cancer Treatment Based on a CT 
+Image. When there are two points of entry for radiation, the 
+irradiation of deep normal tissue rather than the cancer is 
+prevented by manufacturing, from a material which has a 
+radiation absorption factor equal to that of the tissue, a bolus 
+that matches the shape of the cancer in each direction.&lt;/graphic&gt; 
+
+  Irradiation by a proton beam during respiration has been 
+accomplished for the first time. It can also be applied to 
+inoperable esophageal cancers. Because there is little normal 
+tissue damage compared to conventional radiation treatment, 
+proton beam therapy has the great advantage that the patient 
+undergoes no loss of hair or fatigue. Not only for cancer, 
+attempts have been made to apply it to inoperable deformations 
+of veins and arteries deep in the brain (Figure 2). 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 2. Deformation of Cerebral Arteries and Veins. Left 
+photograph is before treatment, and right photograph is one year 
+two months after. This differs from cancer in that therapy is 
+complete after irradiating from several directions in one 
+day.&lt;/graphic&gt; 
+
+  In cancer treatment, it is necessary to have a uniform 
+dosage 
+distribution within a maximum volume of about 15 cm in each of 
+the three dimensions. Because there is a time structure in the 
+KEK booster synchrotron beam of many 10 ns pulses every 50 ms, 
+the most simple radiation equipment is being adopted (Figure 3). 
+Specifically, the proton beam is spread in the direction of 
+progress and in a right angle direction by multiple Coulomb 
+diffusion using a 6mm thick lead plate. The width of the 
+operational amount is spread in the direction of progress by a 
+ridge filter. Also, for the maximum adjustment of energy, 
+plastic wedge-shaped fine degraders are used downstream from the 
+lead scatterer. Then, a bolus (a bolus is a proton energy 
+accumulator made by a process of cutting away a block of a 
+material that resembles wax to match the shape of the cancer in 
+the depth direction) is made to match the depth contour of the 
+cancer, a slit is made to match the shape in the direction at 
+right angles to the beam, and these are placed immediately 
+before the patient. One dosage of radiation is approximately 2 
+minutes, or if done during respiration, 5-10 minutes. Initially, 
+only a vertical beam was used, but radiation from multiple 
+angles is desirable in proton beams. Currently, a horizontal 
+beam is also being used, and the frequency of use for both is 
+about equal. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 3. Irradiation System of the Vertical Beam 
+Irradiation Room at the Research Center for Medical Utilization 
+of Proton Beams, Tsukuba University. 250 MeV protons are 
+irradiated by a system using a 90 deflection electromagnet, 
+and the required proton beam distribution is formed using many 
+kinds of equipment.&lt;/graphic&gt; 
+
+  Initial data from Tsukuba was presented in the opening 
+address at the first PTCOG (Proton Therapy Cooperative Group) 
+Conference in January 1985. Loma Linda University, at the 
+request of the Fermi National Accelerator Laboratory, 
+constructed a dedicated use proton therapy device whose 
+principal accelerator is a compact synchrotron, and use for 
+therapy began in 1990. Currently, the form of the accelerator is 
+adapted to target prostate cancer. A 200 MeV synchrocyclotron in 
+Orthez, France, was completely converted from nuclear physics 
+research to medical use, and proton beam therapy began from 
+1992. Melanoma of the retina is treated at several locations 
+such as the PSI (Paul Scherrer Institute) in Switzerland. 
+  Originally, the purpose of the KEK facility was to verify 
+the 
+efficacy of proton beams, and now that this has been verified, 
+it is highly desirable to build a new dedicated use facility. 
+However, the greatest problem is that both the scale and budgets 
+for such a facility is markedly larger compared to conventional 
+medical equipment. A synchrotron, cyclotron or lineac are all 
+accelerators capable of producing for this amount of energy. The 
+strength of the beam necessary for therapy is about 10 nA. The 
+high strength beam acceleration of a lineac is capable of this, 
+but because high frequency equipment is expensive, a unique 
+synchrotron was designed at Tsukuba University with the 
+cooperation of KEK. Subsequently, in future attempts to control 
+a three dimensional beam, the manufacturer is studying the 
+development of a commercial system which adds a rotating gantry 
+to a compact cyclotron. 
+<H5>  V. Negative Pi Meson </H5>
+  A star (a `star' occurs when [.sup]-[/] is absorbed by 
+the nucleus, the nucleus divides, and several lightweight 
+particles are emitted in a radial shape) is produced when 
+[.sup]-[/] energy is absorbed by the atomic nuclei 
+composing the human body such as C, O, and N, and a mass of 140 
+MeV is converted to energy. Because [.sup]-[/] is a large 
+emitted energy, it was expected to have superior results, and 
+clinical research was being conducted at all three of the 
+world's meson sites; namely, Los Alamos in the United States, 
+and PSI, and TRIUMF in Vancouver. In Japan, Dr. Yukawa predicts 
+that meson radiation will gain social support as a clinical 
+therapy. However, at Los Alamos this radiation was evaluated as 
+not having the same efficacy as conventional radiation, and as 
+indicated in Table 1, they quickly terminated research. The 
+other two facilities are continuing, and PSI is combining this 
+with proton beam therapy and TRIUMF is planning to do the same. 
+  Because [.sup]-[/] is a secondary particle that is 
+produced by high energy protons or electrons striking a target, 
+the strength of the beam is weak; because it must be 
+concentrated in a beam poor in mass, convergence is poor; and 
+because the radiation time is long and their lifetime is short 
+at 2.6 x 10-8 s, severe limitations are imposed on the radiation 
+system. Furthermore, when stars are produced, there is high 
+probability that two neutrons are released, and in that case, 
+the dosage does not concentrate in the cancer. 
+<H5>  6. Heavy Ions </H5>
+  Biological and cancer treatment research using particle 
+beams 
+has been conducted at LBL (Lawrence Berkeley Laboratory) for a 
+long time. Progress has been made in clinical research using Ne 
+in the heavy ion synchrotron BEVALAC. Because they have both a 
+high LET and a Bragg peak, heavy ions including Ne are 
+considered to be the ideal radiation which combines both a good 
+dosage distribution and efficacy in relation to cancers with 
+high radiation resistance. Therefore, the Science and Technology 
+Agency is constructing a heavy particle beam cancer treatment 
+device at NIRS as a part of its anti-cancer 10-year plan, and 
+clinical research is to begin from the 1994 fiscal year. The 
+results of Ne thus far have not always been satisfactory, and 
+because the BEVALAC closed down in February, 1993, as previously 
+described, and a proton beam facility is being planned for 
+Sacramento, the NIRS facility will be the only heavy ion 
+clinical research facility in the world, and its results will be 
+closely watched. 
+<H5>  7. Conclusions </H5>
+  In order to make radiation treatment of cancer more 
+effective, neutron, proton, [.sup]-[/], and heavy ion 
+research are being conducted in addition to conventional proton 
+and electron research, and from the rapid increase of facilities 
+that have recently begun treatment, proton beam therapy is 
+taking root as the next generation of practical radiation. 
+Around the world, there are plans for at least 10 facilities at 
+MGH, UC Davis Cancer Center, and Tsukuba University, etc., and 
+it is highly desirable to develop a medical dedicated use proton 
+beam facility that fulfills the difficult conditions of compact 
+size, low cost, and high reliability. 
+  Finally, I would like to take the opportunity of this 
+presentation to give heartfelt thanks to Director Yoshihisa 
+Wakuto and Manager Masaji Sakae of the Kyushu Energy Institute 
+which provided the opportunity for this presentation, and to 
+Office Manager Moriyama and all related parties of the Kyushu 
+Atomic Energy Forum. 
+  Postscript: At the 18th PTCOG Conference convened 15-19 
+April 
+1993 in France, it was clarified that PSI will terminate 
+[.sup]-[/] therapy, and that half of the operational time 
+of the superconductor cyclotron AGOR recently completed in 
+Holland will be offered for proton beam therapy. 
+

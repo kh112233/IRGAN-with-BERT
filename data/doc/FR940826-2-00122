@@ -1,0 +1,69 @@
+ 
+
+However, on outage days 5 and 6, the RHR and DHR systems will be available for decay heat removal; thus, the unit will
+not be susceptible to either single failure with respect to core decay heat removal.
+This proposal does not involve any changes to the secondary containment, secondary containment ventilation systems,
+the standby gas treatment system or any other radiological release control systems. Therefore, the consequences
+of a loss of decay heat removal event are not increased.
+This evolution is being performed in the refueling mode of operation, outside the realm of FSAR [Final Safety Analysis
+Report] assumed accidents, except for a refueling accident. Since this proposal does not involve changes to any fuel
+handling mechanisms, the probability of a refueling accident is not increased. Furthermore, this proposal does
+not involve any changes to the operation or maintenance of any safety-related component designed to prevent or mitigate
+the consequences of previously analyzed events.
+Therefore, based on this discussion, the proposed Technical Specifications change does not increase the probability
+or consequences of any previously analyzed accident or transient.
+2. Create the possibility of a new or different event from any previously analyzed.
+This proposed change does not introduce any new modes of operation. All affected system; i.e., the RHR systems, DGs,
+and the DHR system, will be operated within their design specifications. Although the nonsafety-related DHR is a
+relatively new system, it was installed, successfully tested, and used for decay heat removal during the Spring 1994
+Unit 2 outage. Therefore, no failure modes that have not been previously considered are introduced by this proposed
+change.
+3. Significantly reduce the margin of safety.
+The proposed decay heat removal configuration, which will be in use during outage days 5 and 6, uses the DHR system as
+the primary decay heat removal mechanism, with RHR loop A as a backup. Although the DHR system is not designed as a safety-related
+system, it is conservatively designed with sufficient heat removal capacity and redundancy to provide full heat
+removal capacity in a variety of conditions. In fact, testing during the Unit 2 Spring 1994 outage showed that even
+early in the outage (approximately day 3) the DHR system is fully capable of handling the decay heat load of the reactor
+and the spent fuel pool. Additionally, even though the DHR system takes a suction from, and discharges to, the spent
+fuel pool, adequate natural circulation is firmly established between the pool and the reactor vessel such that adequate
+decay heat removal is taking place for both the pool and the reactor. This was demonstrated via special test performed
+during the Spring Unit 2 refueling outage. In addition, duplicates of major components are provided so that loss of
+any one component does not result in loss of system function. Therefore, as far as decay heat removal capability is
+concerned, the margin of safety is not reduced.
+As discussed previously, if an LOSP occurs, failure of DG 1C will result in a total loss of RHR shutdown cooling capacity,
+since RHR loop 1B will be out of service for LLRT. However, a loss of decay heat removal will not occur, since the DHR system
+is in service and is supplied power for the Baxley, Georgia, substation. However, if the Baxley power supply should
+fail, the DHR system has its own backup diesel that can be placed in service manually within 4-hour period. Therefore,
+the margin of safety associated with an LOSP is not reduced as a result of this proposal.
+Furthermore, the configuration of decay heat removal systems on days 5 and 6 in is compliance with the existing Unit
+2 Specifications, which only require one RHR pump and one DG in Condition 5 (Specifications 3.9.12 and 3.8.1.2, respectively).
+Thus, the margin of safety, with respect to the exiting Unit 2 Specifications, is not reduced.
+
+
+
+The NRC staff has reviewed the licensee's analysis and, based on this review, it appears that the three standards of
+10 CFR 50.92(c) are satisfied. Therefore, the NRC staff proposes to determine that the amendment request involves
+no significant hazards consideration.
+The Commission is seeking public comments on this proposed determination. Any comments received within 30 days after
+the date of publication of this notice will be considered in making any final determination.
+Normally, the Commission will not issue the amendment until the expiration of the 30-day notice period. However,
+should circumstances change during the notice period such that failure to act in a timely way would result, for example,
+in derating or shutdown of the facility, the Commission may issue the license amendment before the expiration of the
+30-day notice period, provided that its final determination is that the amendment involves no significant hazards
+consideration. The final determination will consider all public and State comments received. Should the Commission
+take this action, it will publish in the 
+
+Federal Register
+
+, and notice of issuance and provide for opportunity for a hearing after issuance. The Commission expects that the
+need to take this action will occur very infrequently.
+Written comments may be submitted by mail to the Rules Review and Directives Branch, Division of Freedom of Information
+and Publications Services, Office of Administration, U.S. Nuclear Regulatory Commission, Washington, DC 20555,
+and should cite the publication date and page number of this 
+
+Federal Register
+
+ notice. Written comments may also be delivered to Room 6D22, Two White Flint North, 11545 Rockville Pike, Rockville,
+Maryland, from 7:30 a.m. to 4:15 p.m. Federal workdays. Copies of written comments received may be examined at the
+NRC Public Document Room, the Gelman Building, 2120 L Street, NW., Washington, DC 20555.
+

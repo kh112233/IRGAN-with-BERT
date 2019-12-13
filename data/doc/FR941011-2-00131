@@ -1,0 +1,127 @@
+ 
+
+
+
+
+<RINDOCK>[Release No. 3434779; File No. SRDTC9413]</RINDOCK>
+
+
+
+
+<DOCTITLE>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing and Order Granting Accelerated
+Approval on a Temporary Basis of Proposed Rule Change Implementing the Prime Broker Option in the Institutional Delivery
+System</DOCTITLE>
+
+
+
+October 3, 1994.
+
+
+
+Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 (``Act''),
+<FOOTCITE>1</FOOTCITE>
+ notice is hereby given that on September 12, 1994, The Depository Trust Company (``DTC'') filed with the Securities
+and Exchange Commission (``Commission'') the proposed rule change (File No. SRDTC9413) as
+described in Items I and II below, which Items have been prepared primarily by DTC. The Commission is publishing this
+notice to solicit comments on the proposed rule change from interested persons and to grant accelerated approval
+of the proposed rule change on a temporary basis through May 31, 1995.
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+1
+
+</FOOTNAME>
+15 U.S.C. 78s(b)(1) (1988).
+
+</FOOTNOTE>
+
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance of the Proposed Rule Change
+
+
+
+The proposed rule change involves the primary broker option in DTC's Institutional Delivery (``ID'') system and
+will permit DTC's ID system to be used for the confirmation and affirmation of trades which are to be settled by prime
+brokers. The proposed rule change also includes a procedure whereby prime brokers can disaffirm trades which they
+previously had affirmed.
+
+
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change
+
+
+
+In its filing with the Commission, DTC included statements concerning the purpose of and basis for the proposed rule
+change and discussed any comments it received on the proposed rule change. The text of these statements may be examined
+at the place specified in Item IV below. DTC has prepared summaries, set forth in sections (A), (B), and (C) below, of
+the most significant aspects of such statements.
+
+
+
+(A) Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change
+
+
+
+In its letter dated January 25, 1994, to the Prime Brokerage Committee of the Securities Industry Association (``Prime
+Brokerage Committee''), the Division of Market Regulation (``Division'') specified certain conditions for providing
+prime brokerage services, including requiring that the parties to a prime broker arrangement utilize the facilities
+of a clearing agency registered pursuant Section 17A of the Act
+<FOOTCITE>2</FOOTCITE>
+ to confirm and affirm prime broker transactions.
+<FOOTCITE>3</FOOTCITE>
+ DTC is a clearing agency registered pursuant to Section 17A of the Act. The proposed rule change contains procedures
+which will permit DTC's ID system to be used to comply with the Division's prime broker letter and to facilitate the
+option of settling affirmed prime broker trades through the National Securities Clearing Corporation's (``NSCC'')
+continuous net settlement (``CNS'') system.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+2
+
+</FOOTNAME>
+15 U.S.C. 78q1 (1988).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+3
+
+</FOOTNAME>
+Letter from Brandon Becker, Director, Division, Commission, to Jeffrey Bernstein, Prime Broker Committee (January
+25, 1994).
+
+</FOOTNOTE>
+
+
+A prime broker is a broker-dealer participating in the ID system that provides a custodial facility for institutional
+customers. Under the proposed rule change, broker-dealers that are members of both DTC and the NSCC and that participate
+in DTC's ID system and NSCC's CNS system, will have the option to settle affirmed prime broker trades through the ID
+system or through NSCC's CNS system. A common member executing trades on behalf of an institutional customer (``executing
+broker'') will report trade details to DTC for initial processing through the ID system. At the time of submission,
+the executing broker will be required to determine whether a trade will settle on a trade-for-trade basis through
+the ID system or through CNS. If the executing brokers choose the former, the trade will settle through DTC's customary
+ID procedures. If the executing brokers chooses to settle the trade through CNS, they will submit a prime broker's
+CNS agent ID number to DTC when reporting the details of the trade.
+<FOOTCITE>4</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+4
+
+</FOOTNAME>
+Prime brokers are required to maintain two or more agent ID numbers. One of these numbers will be reserved as a special
+number to be used only for trades that are directed to settle through NSCC's CNS system.
+
+
+</FOOTNOTE>
+

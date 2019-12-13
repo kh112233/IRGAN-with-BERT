@@ -1,0 +1,168 @@
+FT  26 JUN 93 / Calling Dr Dalek - your patient is waiting: A revolution in
+surgery where robots are taking an increased role in the operating theatre
+YOU ARE about to have the anaesthetic before an operation to remove a brain
+tumour. Would you feel happier knowing that the most delicate part of the
+procedure was to be carried out by the gently trembling hand of the world's
+most skilful surgeon - or by a rock-steady robot? That question will soon be
+more than a fantasy because surgery is in the early stages of a technical
+revolution. The first step has been the spread of 'keyhole' operations over
+the past five years. Instead of cutting open the patient, the surgeon uses
+instruments guided by telescope through tiny incisions. Soon, it will be
+possible to work by remote control on patients thousands of miles away,
+using a combination of telecommunications and virtual reality.
+The most striking sign of change, though, is the way surgeons are starting
+to welcome robotic assistants into their operating theatres. Within the past
+few months, robots have helped to carry out hip replacements in California,
+prostate operations in London and brain surgery in Grenoble, France. Later
+this year, gall bladder removal, hernia repair and a variety of other
+abdominal operations will be added to the list of robotic accomplishments.
+Despite this, even the most enthusiastic surgeons say it is likely to be
+several years before they would consider leaving a robot to operate on its
+own.
+The late Hap Paul, chief inventor of California's Robodoc, cautioned: 'We
+have to move very slowly and carefully because one false move by a surgical
+robot - and this whole technology is set back by many years.' Robodoc is the
+world's largest and best-financed project in medical robotics. Since
+November, 10 patients at Sutter general hospital in Sacramento have had hip
+replacements with the aid of Robodoc, a 250 lb automaton programmed to carve
+the cavity for an implant in the thigh bone.
+Although Paul died two months ago (at only 44), Integrated Surgical Systems,
+the company he founded with financial and scientific backing from IBM, is
+forging ahead. It is waiting for approval from the Food and Drug
+Administration to carry out a clinical trial of Robodoc with 300 patients in
+three US hospitals.
+Why should a patient trust a robotic tool rather than the skilled hands of a
+human specialist? The most important reason is that an electronic arm is
+capable of precision well beyond that of the steadiest and best-trained
+surgeon. ISS hopes to prove this through its trial, in which patients will
+be allocated at random into one group treated by Robodoc and another
+receiving conventional hip replacements.
+Surgical robots promise more than improvements in existing procedures, says
+Patrick Finlay, managing director of Armstrong Projects, a fledgling UK
+medical robotics company based at Beaconsfield near London. 'The reduced
+collateral damage and greater precision of the robot will make it possible
+to do operations that would otherwise be too risky to contemplate. For
+example, a tumour very close to the optic nerve can be tackled without
+making the patient blind.'
+Several different types of surgical robot are under development around the
+world. Robodoc is an 'active' robot that actually cuts human tissue.
+'Orthopaedic work is an attractive application because the robot is working
+on hard tissue that doesn't move if you prod it,' notes Brian Davies, an
+engineer specialising in medical robotics at Imperial College, London.
+Most operations, however, involve cutting soft tissues - a task that is more
+delicate than carving bone. So far, only 'passive' robots have been used for
+this type of surgery. They may move instruments inside the patient, under
+the surgeon's direction, but they do not yet wield a scalpel or laser beam.
+An example is Laparobot, which Armstrong Projects is developing with Mark
+Ornstein, a surgeon at the London Clinic. Laparobot will give someone
+carrying out keyhole surgery the impression of 'walking around' inside the
+patient's body, using tele-presence techniques. A keyhole surgeon views the
+operating site with a miniature video camera at the end of a thin optical
+tube, inserted into the body through a puncture hole (typically, in the
+tummy button). This instrument, called a laparoscope, projects the scene on
+to a TV screen above the patient.
+Normally, an assistant has to hold the laparoscope and move it when the
+surgeon needs a different view. But Laparobot itself senses the position of
+the surgeon's head and moves the image accordingly. If the surgeon pushes a
+foot button and moves his head to the left, the robot will change the view
+inside the patient's body. For this year's initial trials at the London
+Clinic, Laparobot will work with an existing TV monitor - but the next stage
+will be for the surgeon to wear a helmet-mounted display which will give the
+impression of being immersed in the operating environment. As he looks
+around, the scene will change as though he were actually inside the
+abdominal cavity.
+Further in the future lies the prospect of linking the surgeon's finger
+movements to the control of micro-instruments within the body. 'Laparobot
+will make the surgery more efficient - less stressful for the surgeon,
+faster and more accurate, and with less risk of damage to the patient,' says
+Ornstein.
+Armstrong is also working with Professor David Thomas, of London's National
+Hospital for Neurology, to develop Neurobot, a system for carrying out brain
+surgery. By the end of this year, they hope to have demonstrated an
+'image-guided robot' that will help the surgeon position his instruments at
+the correct point in the brain to perform the operation. The next stage will
+be for Neurobot itself to insert the instruments.
+A surgical robot is given as much prior information as possible about
+relevant parts of the patient's body - usually, from a CT or MRI scan. Its
+computer converts this into a digital model of the patient. Although the
+surgeon works out in advance the path of the operation, based on the
+computer model, the system must be flexible enough to respond to unexpected
+events.
+Neurobot, for example, will have a sensor inside the patient's head. If it
+detects the presence of an unexpected blood vessel, it will prompt the
+surgeon for advice. Its software might propose a modified route, taking the
+new information into account, but the robot will not go ahead until the
+surgeon has signalled his approval.
+Finlay says a good indicator of progress in surgical robotics will be the
+increasing amount of freedom given to the robot. 'Although the surgeon will
+never cease to participate, it is realistic to envisage a situation similar
+to the relationship between an airliner captain and his autopilot, in which
+the human provides a supervisory and monitoring role and is available to
+take over the critical manoeuvres,' he says.
+The consultant need not be in the operating theatre with the patient. In
+tele-surgery projects under way in the US and France, an experienced surgeon
+uses a video link to supervise a junior doctor in a hospital hundreds of
+miles away. The surgeon could equally well supervise a distant robot,
+although local medical and nursing staff would still have to be present in
+case the system crashed.
+Everyone involved in medical robotics is obsessed with safety. Yet, as
+Davies points out, there are no agreed safety standards for robots operating
+on people, whereas regulations require industrial robots to work in metal
+cages. (The fact that two workers in Japan have been killed by factory
+robots going out of control shows the need for such rules).
+'There are two views on safety,' says Davies. 'One is that it's acceptable
+to start out with an industrial robot provided you put in a top-level
+software system to bring the thing to a halt in the event of some failure.
+But, in my view, that's not safe enough. I think you need to re-develop the
+robot from the basic servo level upwards, building in safety at every
+level.'
+That means giving the surgical robot the equivalent of a metal cage, with
+duplicated software and hardware constraints to prevent it moving beyond
+pre-defined limits. And it must move slowly enough for the supervising
+surgeon's hand to hit the stop button in time to avoid damage if all the
+safety systems fail. Demonstrating safety is not enough, though. Growing
+concerns about the financial costs of medical care are forcing both public
+health authorities and private hospitals to demand evidence that new
+technology will deliver benefits that outweigh its expense.
+Drugs have long had to justify their effectiveness in large-scale clinical
+trials but, until now, new surgical procedures and medical equipment have
+been introduced with remarkably little systematic assessment. A report on
+medical research earlier this year by the UK government's Advisory Council
+on Science and Technology (Acost) pointed out: 'With the exception of
+pharmaceuticals, demands for evaluation have been questioned because it
+'stands to reason' that the new techniques will be 'better'.'
+Peter Doyle, research director of ICI and chairman of Acost's medical
+research committee, gives keyhole surgery as an example of a procedure that
+has been introduced 'haphazardly' without proper evaluation. The report says
+the National Health Service should require all new medical devices to be
+assessed under controlled conditions, and their cost effectiveness measured.
+Miles Irving, professor of surgery at Manchester University's Hope Hospital,
+says that such assessment is all the more necessary 'because surgeons face
+strong consumer pressure to introduce new procedures before they have been
+properly evaluated.'
+Hap Paul felt that pressure when he was looking for sites to test Robodoc.
+'Tertiary care centres in the US - the big university hospitals - see this
+as an advance that will help them attract patients,' he said. 'So, we have
+to be very careful in choosing our sites, to make sure it's not just a
+publicity stunt for them.'
+Indeed, says John Hutton, a health economist at York University, US
+experience shows that patients regard hi-tech equipment in itself as an
+indicator of quality, whether or not there is any clinical evidence to prove
+its superiority. Therefore, hospitals compete by buying more and more flashy
+machines - and their charges shoot up far faster than inflation. The
+introduction of an internal market in the NHS is likely to lead to similar
+competitive pressures in the UK.
+ISS believes its clinical trial will enable orthopaedic hospitals to justify
+buying a Dollars 750,000 Robodoc, doing 400 hip replacements a year, on the
+basis that implants from robotic operations last longer than those inserted
+manually and so save money in the long run. But the recent history of
+medical research and technology, from antibiotics to diagnostic scanners,
+shows that while each development can be justified in isolation as being
+cost-effective, the overall result is to add substantially to the financial
+burden of health care by creating new demand from patients and adding to the
+number of elderly people in the population.
+Two decades from now, only second-class patients will choose to have a
+purely manual operation. But, in contrast to labour-saving robots in a car
+factory, surgical robots can only make the process more expensive.
+Enthusiastic medical technologists can answer any question except one: how
+will we pay for it?

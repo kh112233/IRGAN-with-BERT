@@ -1,0 +1,39 @@
+ 
+
+GPS provides two levels of service: Standard Positioning Service (SPS) and Precise Positioning Service (PPS). SPS
+is the standard level of positioning, velocity, and timing accuracy that is available to any user on a continuous worldwide
+basis. The horizontal positioning accuracy of this service is 100 meters (2 distance root mean squared (drms), 95%
+probability) and 300 meters with 99.99% probability. PPS will be limited to authorized U.S. and allied Federal government
+and military users and to those civil users who can satisfy U.S. requirements. These requirements are: the use must
+be in the U.S. national interest; the user must meet specific GPS security requirements; and a reasonable alternative
+to the use of PPS must not be available. Unauthorized users will be denied access to PPS through encryption of the signals.
+PPS military user equipment will provide horizontal positioning accuracy of 21 meters (2 drms). The SPS is affected
+by a process called Selective Availability (SA), which degrades the basic accuracy of the SPS through adjustment
+and encryption of some of the signals and data.
+One of the shortcomings of GPS for civil navigation use is its problem meeting integrity requirements. Integrity
+is the ability of a system to provide timely warnings to users when the system should not be railed upon for navigation.
+According to DOD's concept of operation, GPS satellites are monitored more than 95 percent of the time by a network
+of five monitoring stations spread around the world. The information collected by the monitoring stations is processed
+by the GPS Master Control Station (MCS) and used to periodically update the navigation message, including the satellite
+health message, transmitted by each satellite. The health message is transmitted as part of the GPS navigation message
+for reception by both PPS and SPS users. Additionally, satellite operating parameters such as navigation data errors,
+signal availability failures, and certain types of satellite clock failures are monitored internally within the
+satellite. If such internal failures are detected, users are notified within six seconds. Other failures detectable
+only by the control segment may take from 15 minutes to several hours before users are notified of a problem. This is
+unsatisfactory for many modes and phases of navigation, and, from the maritime perspective, it is particularly deficient
+for the harbor and harbor approach (HHS) phase of navigation. The integrity required for HHA navigation will be provided
+through augmentation of the GPS SPS by the Coast Guard's Differential GPS (DGPS) service, now being implemented.
+As with Loran-C and Transit (the Navy Navigation Satellite System), the GPS should not be used by itself in or near restricted
+waters. As described above, the accuracy of the system is not monitored continuously and it may take 26 hours
+to be aware of a problem or fix a problem with a satellite. Additionally, mariners need to be aware of the real accuracy
+of the system. GPS receivers may produce a latitude and longitude position that appears accurate to several decimal
+places, which may mislead a mariner to believe the system is really that accurate. GPS SPS will only give an accuracy
+to within 100 meters, with 95% probability. That means that the mariner can be anywhere within a 100 meter radius of
+the position indicated by the receiver. It also means that 5% of the time, the actual position could be greater than
+100 meters from the indicated location. Mariners must constantly be aware of this and navigate with due caution, using
+all means available, most importantly in more restricted locations such as harbor and harbor approach areas.
+The FRP outlines navigation accuracies required for the different phases of navigation. While the Ocean and Coastal
+phases have been satisfied for some time, the harbor and harbor-approach phase requirements have been unattainable
+with existing systems. Additionally, a similar need for higher accuracy exists for other Coast Guard missions such
+as positioning aids to navigation and Vessel Traffic Services. DGPS is a solution to all of these needs.
+

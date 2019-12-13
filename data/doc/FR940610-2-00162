@@ -1,0 +1,228 @@
+ 
+
+
+
+
+<RINDOCK>[Release No. 3434153; File No. SRNYSE9408]</RINDOCK>
+
+
+
+
+<DOCTITLE>Self-Regulatory Organizations; New York Stock Exchange, Inc.; Order Approving Proposed Rule Change Relating to
+the Same-Day Comparison of Initial Trade Data in Listed Stocks Through the NYSE's On-Line Comparison System</DOCTITLE>
+
+
+
+June 3, 1994.
+
+
+
+On March 10, 1994, the New York Stock Exchange, Inc. (``NYSE'') filed with the Securities and Exchange Commission
+(``Commission'') a proposed rule change (File No. SRNYSE9408) under section 19(b) of the Securities
+Exchange Act of 1934 (``Act'').
+<FOOTCITE>1</FOOTCITE>
+ Notice of the proposed rule change was published in the 
+
+Federal Register
+
+ on May 18, 1994, to solicit comments from interested persons.
+<FOOTCITE>2</FOOTCITE>
+ No comments were received by the Commission. This order approves the proposal.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+1
+
+</FOOTNAME>
+15 U.S.C. 78s(b) (1988).
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+2
+
+</FOOTNAME>
+Securities Exchange Act Release No. 34023 (May 6, 1994), 59 FR 25979.
+
+</FOOTNOTE>
+
+
+I. Description of the Proposal
+
+
+
+The proposed rule change will allow the NYSE to implement its On-Line Comparison System (``OCS''). With OCS, NYSE
+clearing members will be able to submit trade data on listed stocks to NYSE on trade date for initial comparison. Implementation
+of NYSE's same-day comparison will be in a phased-in approach similar to that which was used to implement next-day
+(``T+1'') comparison of NYSE transactions.
+<FOOTCITE>3</FOOTCITE>
+ The NYSE's target date for full implementation of trade-date comparison is June 30, 1995. The NYSE filed this proposal
+with the Commission to provide the NYSE community with almost eighteen months advance notice in order to afford them
+time to plan and implement the operational changes that may be necessary.
+<FOOTCITE>4</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+3
+
+</FOOTNAME>
+In March 1989, the Commission approved the NYSE's Rule 130. That rule, which was used to implement overnight comparison
+over the eighteen months following its approval, established the principle that ``regular way'' transactions in
+listed stocks, rights, and warrants must be compared or closed out within one business day after the trade date. Securities
+Exchange Act Release No. 26627 (March 14, 1989) 54 FR 11470 [File No. SRNYSE8836] (order approving
+proposed rule change).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+4
+
+</FOOTNAME>
+The NYSE has distributed to its members a circular, dated January 29, 1994, describing implementation of trade date
+comparison.
+
+</FOOTNOTE>
+
+
+Beginning on June 1, 1994, the NYSE will require its member clearing firms to submit to it periodically during the trading
+day trade data for transactions in listed stocks, rights, and warrants effected on the NYSE for ``regular way,''
+<FOOTCITE>5</FOOTCITE>
+ ``next day,''
+<FOOTCITE>6</FOOTCITE>
+ ``cash,''
+<FOOTCITE>7</FOOTCITE>
+ and ``seller's option'' settlement.
+<FOOTCITE>8</FOOTCITE>
+ Trade data for transactions in listed stocks traded on an ``issued,'' ``when issued,''
+<FOOTCITE>9</FOOTCITE>
+ and ``when distributed''
+<FOOTCITE>10</FOOTCITE>
+ basis also will have to be submitted periodically during the trading day. The NYSE's existing Overnight Comparison
+System will be the main processor of the data submitted for initial comparison. Accordingly, the NYSE has changed
+that system's name to the On-Line Comparison System and will continue to use the same acronym of OCS. Compared trades
+will be submitted by the NYSE to a ``qualified clearing agency''
+<FOOTCITE>11</FOOTCITE>
+ to complete the clearance and settlement process.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+5
+
+</FOOTNAME>
+The term ``regular way'' settlement means settlement on T+5. NYSE Rule 64(3).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+6
+
+</FOOTNAME>
+``Next day'' settlement means settlement on T+1. NYSE Rule 64(2).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+7
+
+</FOOTNAME>
+``Cash'' settlement means settlement on trade date. NYSE Rule 64(1).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+8
+
+</FOOTNAME>
+``Seller's option'' settlement means settlement within the time specified in the contract. NYSE 64(4).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+9
+
+</FOOTNAME>
+A ``when issued'' stock refers to a stock which trades after the date of issue but before the certificates have been
+issued. NYSE Rule 440B.16; D. Scott, Wall Street Words 385 (1988).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+10
+
+</FOOTNAME>
+A ``when distributed'' stock refers to a stock which trades after the date of issue but before the certificates have
+been issued. NYSE Rule 440B.16; D. Scott, Wall Street Words 385 (1988).
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+11
+
+</FOOTNAME>
+For this purpose, the term ``qualified clearing agency'' means a clearing agency that is registered under the Act,
+that maintains facilities through which NYSE trades may be compared or settled, that has agreed to supply the NYSE
+with data in connection with the NYSE's compliance duties under the Act, and that has agreed to establish rules and
+procedures to facilitate comparison of transactions as provided in NYSE Rule 130. NYSE Rules 130, Supplementary
+Material .10, and 132, Supplementary Material .10.
+
+</FOOTNOTE>
+
+
+Implementation of trade-date comparison will require clearing firms to meet three general requirements. First,
+they will have to suppress certain comparison data submissions to qualified clearing agencies as the NYSE locks-in
+additional trades. Second, they will have to submit their comparison data to the NYSE for comparison rather than to
+a qualified clearing agency. Third, they will have to submit virtually all comparison data to the NYSE during the trading
+session rather than after the close of trading.
+<FOOTCITE>12</FOOTCITE>
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+12
+
+</FOOTNAME>
+While the NYSE's ultimate goal is to lock-in all trades electronically and to have all trades compared during the trading
+session, as a practical matter, there will be trades at the close or immediately before or after the close that are not
+submitted for comparison during the trading session. This will be especially true in the early stages of the proposal's
+implementation. Conversation between Harry F. Day, Counsel-Regulation, NYSE; Stanley Jacoby, Trade Comparison
+Specialist, Post Trade Services, NYSE; and Thomas C. Etter, Jr., Attorney, Division of Market Regulation, Commission
+(May 27, 1994).
+
+</FOOTNOTE>
+
+
+As mentioned above, the implementation of trade date comparison will use a phased-in approach, which the NYSE found
+successful in implementing T+1 overnight comparison. Beginning June 1, 1994, NYSE clearing members will be required
+to submit trade data directly to OCS within two hours of trade execution. In August or September of 1994, clearing members
+will be required to submit trade data within one hour of execution. In October of 1994, clearing members will be required
+to make on-line, real time submissions of trade data. These time frames are flexible and may be altered by the NYSE as
+it evaluates clearing firms' abilities to comply. The NYSE intends to monitor closely the implementation of each
+phase and will not implement a new phase until it is satisfied that no significant operational problems exist.
+
+
+
+

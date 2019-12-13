@@ -1,0 +1,260 @@
+ 
+
+(a) Gases present in the exhaust other than the one 
+being analyzed can interfere with the reading in several 
+ways. Positive interference occurs in NDIR and PMD 
+instruments when the interfering gas gives the same effect 
+as the gas being measured, but to a lesser degree. Negative 
+interference occurs in NDIR instruments by the interfering 
+gas broadening the absorption band of the measured gas and 
+in CLD instruments by the interfering gas quenching the 
+radiation. The interference checks described in this 
+section are to be made initially and after any major repairs 
+that could affect analyzer performance. 
+
+(b) 
+
+CO analyzer water and CO
+
+2
+
+ 
+
+interference checks. 
+
+
+Prior to its introduction into service and annually 
+thereafter, the NDIR carbon monoxide analyzer shall be 
+checked for response to water vapor and CO
+
+2
+
+: 
+
+(1) Follow good engineering practices for instrument 
+start-up and operation. Adjust the analyzer to optimize 
+performance on the most sensitive range to be used. 
+
+(2) Zero the carbon monoxide analyzer with either 
+zero-grade air or zero-grade nitrogen. 
+
+(3) Bubble a mixture of 3 percent CO
+
+2
+
+ in N
+
+2
+
+ through water at room temperature and record analyzer response. 
+
+(4) An analyzer response of more than 1 percent of full 
+scale for ranges above 300 ppm full scale or more than 3 ppm 
+on ranges below 300 ppm full scale requires corrective 
+action. (Use of conditioning columns is one form of 
+corrective action which may be taken.) 
+
+(c) 
+
+NO
+
+X
+
+ 
+
+analyzer quench check. 
+
+The two gases of 
+concern for CLD (and HCLD) analyzers are CO
+
+2
+
+ and water 
+vapor. Quench responses to these two gases are proportional 
+to their concentrations and, therefore, require test 
+techniques to determine quench at the highest expected 
+concentrations experienced during testing. 
+
+(1) 
+
+NO
+
+X
+
+ 
+
+analyzer CO
+
+2
+
+ 
+
+quench check. 
+
+A CO
+
+2
+
+ span gas 
+having a concentration of 80 percent to 100 percent of full 
+scale of the maximum operating range used during testing 
+shall be passed through the CO
+
+2
+
+ NDIR analyzer and the value 
+recorded as 
+
+a.
+
+ It is diluted approximately 50 percent with 
+NO span gas and then passed through the CO
+
+2
+
+ NDIR and CLD (or 
+HCLD), with the CO
+
+2
+
+ and NO values recorded as 
+
+b
+
+ and 
+
+c
+
+ 
+respectively. The CO
+
+2
+
+ shall then be shut off and only the 
+NO span gas passed through the CLD (or HCLD) and the NO 
+value recorded as 
+
+d.
+
+ Percent CO
+
+2
+
+ quench shall be calculated 
+as follows and shall not exceed 3 percent: 
+
+
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER17JN94.001
+
+
+</IMPORT>
+
+
+
+Where: 
+
+
+a
+
+=Undiluted CO
+
+2
+
+ concentration (percent) 
+
+
+b
+
+=Diluted CO2 concentration (percent) 
+
+
+c
+
+=Diluted NO concentration (ppm) 
+
+
+d
+
+=Undiluted NO concentration (ppm) 
+
+
+
+(2) 
+
+NO
+
+X
+
+ 
+
+analyzer water quench check. 
+
+(i) This check 
+applies to wet measurements only. An NO span gas having a 
+concentration of 80 percent to 100 percent of full scale of 
+a normal operating range shall be passed through the CLD (or 
+HCLD) and the response recorded as 
+
+D.
+
+ The NO span gas shall 
+then be bubbled through water at room temperature and passed 
+through the CLD (or HCLD) and the analyzer response recorded 
+as 
+
+AR.
+
+ Determine and record the analyzer absolute operating 
+pressure and the bubbler water temperature. (It is 
+important that the NO span gas contains minimal NO
+
+2
+
+ 
+concentration for this check. No allowance for absorption 
+of NO
+
+2
+
+ in water has been made in the following quench 
+calculations.) 
+
+(ii) Calculations for water quench must consider 
+dilution of the NO span gas with water vapor and scaling of 
+the water vapor concentration of the mixture to that 
+expected during testing. Determine the mixture's saturated 
+vapor pressure (designated as 
+
+Pwb
+
+) that corresponds to the 
+bubbler water temperature. Calculate the water 
+concentration (Z1, percent) in the mixture by the following 
+equation: 
+
+
+
+
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER17JN94.002
+
+
+</IMPORT>
+
+
+

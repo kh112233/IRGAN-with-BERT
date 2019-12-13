@@ -1,0 +1,100 @@
+FT  16 MAR 94 / Survey of Information and Communications Technology (36):
+Weak links mean big risks - System security / As increasing amounts of data
+are moved around the world, the need to maintain security integrity has
+become paramount
+There is a direct relationship between the number of information tools used
+by a company and the chances of its information system being insecure.
+A singleton PC used at home can be the victim of the occasional virus, which
+is often irritating to the user but rarely fatal to the system or the
+information. For a company with multiple, linked networks of PCs,
+workstations, departmental servers and enterprise repositories, however, the
+potential risks can border on the incalculable.
+The PC has moved from being little more than a toy used for tactical
+personal productivity applications to become one of the key strategic tools
+for delivering meaningful information to users. As such it has moved
+centre-stage in the on-going struggle to keep information secure and systems
+up and running.
+The problem is, of course, that the PC's history contains nothing to
+associate it with the concept of security. As security consultant, Robert
+Schifreen, suggested, even DOS, the PC's native operating system, can be
+readily re-written to make the machines a source of secure information.
+'For example, it is possible to embed code in the operating system that will
+log all keystrokes made on a PC,' he says. 'In that way, log-in sequences
+and passwords can be recorded for later use.'
+As increasing amounts of sensitive data are moved around the world using
+datacommunications technologies, the need to maintain security and integrity
+becomes paramount. This not only affects how users should view the weak
+links in their information systems - predominantly the PCs being used - but
+also security at a higher level.
+Until now this has started to look like a problem solved. The US Government
+is, however, currently considering throwing what many see as a large spanner
+in the works, in the form of what is generally referred to as the Clipper
+Chip technology.
+Currently, many companies regularly employ a data encryption technology
+known as DES (the Data Encryption System). This is one of several
+alternatives that are, ironically, published specifications. This would seem
+to degrade their value, but as Schifreen put it: 'Everyone knows how DES
+works, but it is not easy to crack. It can be done, but it would need a team
+of programmers a year and a Cray supercomputer to do it. By being a
+published specification everyone knows the weaknesses of DES and works to
+plug them.'
+The US Government is currently considering an alternative to these
+encryption systems, based around a hardware chip, known as the Clipper Chip,
+which would contain the encryption algorithm. A company using the chip would
+then be able to pass encrypted data to any other using the same system.
+What has upset users, according to Schifreen, is the fact that the US
+Government is considering passing use of this CIA-developed encryption
+technology into law. All US datacommunications users would then be legally
+obliged to employ Clipper, which would mean that recipients around the world
+would also be obliged to use it. What makes the situation worse is the fact
+that Clipper is a proprietary system, and that the CIA has written a back
+door into the technology allowing information to be decrypted.
+The fear is that, either through theft, or the actions of a disgruntled
+employee, this code could fall into the wrong hands. Another fear is that,
+because it is from the CIA, the backdoor code may be made available to other
+national authorities.
+Perhaps most important of all, however, is that because it is a proprietary
+solution, its method of working and its weaknesses remain unknown. As all
+encryption systems are ultimately breakable, this is being seen as a serious
+potential weakness of the system.
+As PCs become more prevalent as a strategic tool, other weaknesses may serve
+to compound the potential problems of Clipper encryption. For example,
+access control on PCs is still a weak area, though there are now products
+available to solve the problem, if companies are willing to make the
+investments necessary. This may be significant, for the most comprehensive
+solutions can cost up to Pounds 1,000 per PC.
+Many new PCs come with access control available as standard, but these tend
+to be simple password systems where the password is stored in a
+battery-backed CMOS memory. Removing the battery, therefore, will normally
+circumvent the password.
+Investment in security is a key factor not always considered by users. This
+starts with education about the simplest access issues. For example, it is
+rare for thought to be given to individual passwords and most people make
+obvious choices. 'Many users choose words like FRED, SECRET, PASSWORD and
+LETMEIN,' Schifreen said, 'which are easy to guess.'
+Even Unix systems, increasingly popular both as workstations and servers,
+suffer access control weaknesses. For example, there is a well-known bug in
+Unix Mail which will allow embedded code in a mail message, which runs when
+the message is read. The code can, for example, request the system to
+transmit the receiver's password file back to the sender.
+It can also be used to transmit a complete system's password listing. This
+contains user IDs and their apparently safely encrypted passwords. There
+are, however, shareware products available - such as Websters, a program
+with 234,000 unique English words - which, when passed through the Unix
+encryption algorithm, will produce a table against which the encrypted
+passwords can be compared, and cracked. Using numerals in passwords usually
+helps solve this problem.
+Many such routes into systems can be trapped with sufficient thought and
+planning by users. For example, an increasing number of these programs are
+now available from Bulletin Board Systems, so access by staff to such
+systems must be closely monitored, particularly on the larger networks. One
+way of doing this is to audit the applications being run.
+There is now a new class of application appearing that scans all the disks
+on a network to locate and report on all applications found. This should
+include those that are hidden behind filenames that do not include the
+standard applications file extensions such as . exe, .com and . bas.
+In this way, systems managers can know the location of all approved
+applications, as well as those that are not approved. The benefits of this
+are two-fold. Not only are potential security risk applications identified.
+It also ensures that no illegal copies of applications are being used,
+preventing possible legal action by the application's authors.

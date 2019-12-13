@@ -1,0 +1,86 @@
+FT  31 MAR 92 / Technology: BT ups the ante - Nuala Moran explains how to
+fight bugs with bugs
+BT is turning entomologist as it searches for a new software strategy to
+manage its network.
+Scientists in the advanced systems group at the company's Martlesham
+Research Laboratories near Ipswich are using ant colonies as a bizarre model
+of how to keep its network up and running at all times, cutting out the
+costly equipment duplication which is currently needed to prevent loss of
+service in the event of failure.
+Peter Cochrane, who is heading the software project, first had the idea as
+he observed the teeming life of an ant hill while on holiday in Spain. 'When
+you look at an ant colony it is remarkable that it can do so many different
+things and control so many different functions; yet it takes the equivalent
+of only five lines of code to control all the behavioural characteristics
+that keep the colony operating smoothly,' he says. If an ant colony is
+disrupted it has an amazing capacity for reorganising itself and carrying on
+as normal.
+A problem with BT's current network is that none of its equipment functions
+without software instructions. And because the elements of the network are
+so inter-related, one small software fault can lead to big disruptions.
+BT's engineers are casting a wary eye at a series of catastrophic network
+failures experienced by AT&amp;T and the regional telephone companies in the US
+over the past two years.
+Between January and November 1991 eight major network failures were reported
+in six states, affecting more than 27m customers.
+Many of the breakdowns have been attributed to faulty software in the
+networks, leading to 'brown outs'. These occur when the software fault leads
+a telephone exchange, or switch, to think it is overloaded and to pass a
+call on to the next exchange which also thinks it is overloaded. As the call
+is passed from switch to switch the network seizes up.
+Such a failure meant that 10m users lost service in Maryland and Washington
+DC on June 26 last year. On October 22 a similar fault interrupted service
+to 80,000 people in Florida - including the 911 emergency service - for
+three hours.
+AT&amp;T's exchanges not only handle the traffic flowing through the network but
+also have integrated customer services such as billing and caller
+identification. Such huge amounts of software are inevitably subject to
+bugs.
+'Put a full stop in the wrong place and it all goes wrong - the probe misses
+Jupiter by thousands of miles or the aeroplane crashes,' says Cochrane.
+Some breakdowns in the US have been blamed on a minor software upgrade that
+was not tested before it was installed in network switching equipment.
+Even with the most exhaustive testing, however, software bugs may only come
+to light when a network is up and running.
+Cochrane believes it is partly a matter of luck that such breakdowns have
+not happened in the UK.
+From his observations of ant colonies Cochrane has devised a principle of
+self-organisation whereby different elements of a network are managed by a
+small quantity of self-contained software. Each of these units is then
+immune from faults occurring in other units.
+When ants are sent off to collect food they may use different routes to and
+from the nest, but the result is the same. In Cochrane's analogy the ant is
+equivalent to a physical connection in the network and the food is
+equivalent to the information that is being passed down it. BT has now built
+the first stage of such a self-organising network on a personal computer.
+Cochrane stresses that self-organisation of networks is just one line of
+investigation that BT is following to get to grips with the problems of
+managing its network.
+The company is facing a seven-fold expansion in the volume of its network
+management software as it moves to create the kind of network which UK
+businesses will be demanding by the end of the decade, providing, for
+example, visual services.
+Its Martlesham project will devise ways of simplifying the software
+controlling the company's next generation of exchanges, which are due to
+start replacing the existing System X ones early in the next century.
+The company is 'tearing its existing software to pieces' and thoroughly
+testing any new software before it is installed.
+At the same time more reliable hardware is coming to the rescue. 'At the
+moment if we do have failures there is standby equipment, but obviously such
+redundancy increases costs,' says Cochrane. 'More reliable hardware has
+allowed BT to reduce duplication in the past 20 years. The amount of
+hardware has been cut 100 times while the network capacity has increased 100
+times.'
+BT is also studying the network failures in the US to pre-empt such
+breakdowns in the UK.
+Some of the US failures indicate that network back-up is a chimera. Not only
+does it make network management more complex, but if the back-up consists of
+the same equipment it can also be hit by the same software bug.
+In a sense, adopting the philosophy of self organisation will take BT back
+to the era of the Strowger electromechanical switches where every switch on
+the network was autonomous.
+The US failures have demonstrated, however, that the high capacity of a
+single piece of network equipment makes even a low probability of failure
+unacceptable.
+Customers want fewer small-scale failures but not at the expense of the
+occasional large breakdown which brings a whole city to a standstill.

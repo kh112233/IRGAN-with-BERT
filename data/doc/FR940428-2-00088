@@ -1,0 +1,89 @@
+ 
+
+The proposed change does not involve a significant hazards 
+consideration since: 
+1. A significant increase in the probability or consequences of an 
+accident previously evaluated will not occur. 
+It is proposed that the channel calibration frequency for the 
+Service Water Inlet Temperature Monitoring Instrumentation be 
+changed from every 18 months (+25%) to every 24 months (+25%). 
+A statistical analysis of channel uncertainty for a 30 month 
+operating cycle has been performed. Based upon this analysis it 
+has been concluded that sufficient margin exists between the 
+existing Technical Specification and the licensing basis Safety 
+Analysis to accommodate the channel statistical error resulting 
+from a 30 month operating cycle. The existing margin between the 
+Technical Specification and the Safety Analysis provides 
+assurance that plant protective actions will occur as required. 
+It is therefore concluded that changing the surveillance interval 
+from 18 months (+25%) to 24 months (+25%) will not result in a 
+significant increase in the probability or consequences of an 
+accident previously evaluated. 
+2. The possibility of a new or different kind of accident from any 
+accident previously evaluated has not been created. 
+
+The proposed change in operating cycle length due to an increased 
+surveillance interval will not result in a channel statistical 
+allowance which exceeds the current margin between the existing 
+Technical Specification and the Safety Analysis. Plant 
+equipment, which will be set at (or more conservatively than) 
+Technical Specification limits, will provide protective functions 
+to assure that Safety Analyses are not exceeded. This will 
+prevent the possibility of a new or different kind of accident 
+from any previously evaluated from occurring. 
+3. A significant reduction in a margin of safety is not involved. 
+The above change in surveillance interval resulting from an 
+increased operating cycle will not result in a channel 
+statistical allowance which exceeds the existing margin between 
+the current Technical Specification and the licensing basis 
+Safety Analysis. This margin, which is equivalent to the 
+existing margin, is necessary to assure that the protective 
+safety functions occur and that the Safety Analysis limits are 
+not exceeded. 
+[(11) Sampler Flow Rate Monitor:] 
+1. There is no significant increase in the probability or 
+consequences of an accident. 
+It is proposed that the channel calibration frequency for the 
+Sample Flow Rate Monitors be changed from every 18 months (+25%) 
+to every 24 months (+25%). 
+The flow rate monitors are used to estimate the total volume of 
+air passed through filters. There is no setpoint or safety 
+function served by these monitors. A high level of radioactivity 
+in the discharge stream is detected by R43 and/or R44. 
+Insofar as discharge via the unit vent is permissible with the 
+monitors inoperable, extension of the surveillance interval will 
+have no impact upon safety. 
+2. The possibility of a new or different kind of accident from any 
+previously analyzed has not been created. 
+As the nuclear safety function is provided by other monitors in 
+the event of high radioactivity levels in the discharge stream, 
+extension of the surveillance interval will have no impact upon 
+the creation of a new or different kind of accident. 
+3. There has been no reduction in the margin of safety. 
+These flow monitors are utilized to determine the total air flow 
+through filters for computational purposes. As adequate measures 
+(other monitors) exist to prevent the possibility of discharging 
+radioactivity in excess of applicable limits, there is virtually 
+no impact upon safety incurred by extending the surveillance 
+interval. 
+[(12) Boric Acid Makeup Flow System:] 
+The proposed change does not involve a significant hazards 
+consideration since: 
+1. A significant increase in the probability or consequences of an 
+accident previously evaluated will not occur. 
+It is proposed that the channel calibration frequency for the 
+Boric Acid Makeup Flow System be revised from every 18 months 
+(+25%) to every 24 months (+25%). A statistical analysis of 
+channel uncertainty for a 30 month operating cycle has been 
+performed. Based upon this analysis it has been concluded that 
+sufficient margin exists between the existing Technical 
+Specification limit and the licensing basis Safety Analysis limit 
+to accommodate the channel statistical error resulting from a 30 
+month operating cycle. The existing margin between the Technical 
+Specification limit and the Safety Analysis limit provides 
+assurance that plant protective actions will occur as required. 
+It is therefore concluded that changing the surveillance interval 
+from 18 months (+25%) to 24 months (+25%) will not result in a 
+significant increase in the probability or consequences of an 
+accident previously evaluated.
+

@@ -1,0 +1,1472 @@
+Material 
+<DATE1>  18 March 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Comprehensive Development of New Sunshine Plan -- Reference Material </TI></H3>
+<F P=102>  93FE1010A Tokyo INDUSTRIAL TECHNOLOGY COUNCIL, MITI in 
+Japanese Dec 92 pp 85-130 </F>
+
+<F P=103> 93FE1010A </F>
+<F P=104>  Tokyo INDUSTRIAL TECHNOLOGY COUNCIL, MITI </F>
+ Language: <F P=105>Japanese </F>
+Article Type:CSO 
+
+  [Text] 
+<H5>  Industrial Technology Council, MITI </H5>
+<H3>  New Energy Technology Development Committee, Energy 
+Conservation Technology Development Committee and World 
+Environment Technology Development Committee </H3>
+
+
+
+  ------------------------------------------------------------------------------- 
+|Joint Planning Committee Membership List                                     | 
+------------------------------------------------------------------------------- 
+|                         |Name                     |Affiliation              | 
+------------------------------------------------------------------------------- 
+|Chairman                 |Yoichi Kaya              |Professor, Technology De-| 
+|                         |                         |partment, Tokyo Universi-| 
+|                         |                         |ty                       | 
+------------------------------------------------------------------------------- 
+|Members                  |Hiroshi Ishida           |Executive Director, Ener-| 
+|                         |                         |gy Conservation Center   | 
+------------------------------------------------------------------------------- 
+|                         |Kazuya Oide              |Managing Director, Centr-| 
+|                         |                         |al Research Institute of | 
+|                         |                         |Electric Power Industry (| 
+|                         |                         |CRIEPI)                  | 
+------------------------------------------------------------------------------- 
+|                         |Takao Kashiwagi          |Professor, Technology De-| 
+|                         |                         |partment, Tokyo Universi-| 
+|                         |                         |ty of Agriculture and Te-| 
+|                         |                         |chnology                 | 
+------------------------------------------------------------------------------- 
+|                         |Tsutomu Kidahashi        |Director, The New Energy | 
+|                         |                         |and Industrial Technolog-| 
+|                         |                         |y Development Organizati-| 
+|                         |                         |on (NEDO)                | 
+------------------------------------------------------------------------------- 
+|                         |Yukinori Kuwano          |Assistant Director, Rese-| 
+|                         |                         |arch and Development Cen-| 
+|                         |                         |ter, Sanyo Electric Corp-| 
+|                         |                         |oration                  | 
+------------------------------------------------------------------------------- 
+|                         |Hiroshi Kuwabara         |Managing Director and He-| 
+|                         |                         |ad of the Electric Syste-| 
+|                         |                         |ms Division, Hitachi, Lt-| 
+|                         |                         |d.                       | 
+------------------------------------------------------------------------------- 
+|                         |Mitaka Kanaya            |Deputy Chairman, Environ-| 
+|                         |                         |mental Committee, Automo-| 
+|                         |                         |tive Industry Association| 
+------------------------------------------------------------------------------- 
+|                         |Koji Sekine              |Professor, Department of | 
+|                         |                         |Technology, Tokyo Scienc-| 
+|                         |                         |e University             | 
+------------------------------------------------------------------------------- 
+|                         |Masaaki Takeuchi         |Managing Director, Japan | 
+|                         |                         |Gas Association          | 
+------------------------------------------------------------------------------- 
+|                         |Takao Toyodate           |Managing Director, Cente-| 
+|                         |                         |r for Energy Economics   | 
+------------------------------------------------------------------------------- 
+|                         |Keiko Nakahara           |Director, Functional App-| 
+|                         |                         |lied Chemistry Departmen-| 
+|                         |                         |t, Osaka Industrial Tech-| 
+|                         |                         |nology Test Center       | 
+------------------------------------------------------------------------------- 
+|                         |Masao Nakamura           |Editorialist, Yomiuri Sh-| 
+|                         |                         |imbun Co.                | 
+------------------------------------------------------------------------------- 
+|                         |Keiichi Higuchi          |Managing Director, Mitsu-| 
+|                         |                         |bishi Yuka Co.           | 
+------------------------------------------------------------------------------- 
+|                         |Kunio Hijikata           |Professor, Tokyo Institu-| 
+|                         |                         |te of Technology         | 
+------------------------------------------------------------------------------- 
+|                         |Ken Hirata               |Professor, Systems Engin-| 
+|                         |                         |eering Department, Shiba-| 
+|                         |                         |ura Institute of Technol-| 
+|                         |                         |ogy                      | 
+------------------------------------------------------------------------------- 
+|                         |Kenji Fujisaki           |Executive Director, The  | 
+|                         |                         |Japan Society of Industr-| 
+|                         |                         |ial Machinery Manufactur-| 
+|                         |                         |ers                      | 
+------------------------------------------------------------------------------- 
+|                         |Takuya Homma             |Professor, Tsukuba Unive-| 
+|                         |                         |rsity                    | 
+------------------------------------------------------------------------------- 
+|                         |Tsuneo Mitsui            |Senior Advisor, Tokyo El-| 
+|                         |                         |ectric Power Corporation | 
+------------------------------------------------------------------------------- 
+|                         |Yoshihiro Mitsuhashi     |Deputy Chief, Editorial  | 
+|                         |                         |Committee, Nihon Keizai  | 
+|                         |                         |Shimbun Co.              | 
+------------------------------------------------------------------------------- 
+|                         |Masako Miwa              |Lifestyle Commentator    | 
+------------------------------------------------------------------------------- 
+|                         |Shozo Murakami           |Manager, Production Tech-| 
+|                         |                         |nology (Energy) Departme-| 
+|                         |                         |nt, Engineering Division,| 
+|                         |                         | Nippon Steel Corporation| 
+------------------------------------------------------------------------------- 
+|                         |Ken Yamaguchi            |Executive Director, Engi-| 
+|                         |                         |neering Promotion Associ-| 
+|                         |                         |ation                    | 
+------------------------------------------------------------------------------- 
+|                         |Tsutomu Yamaguchi        |Executive Director, Rese-| 
+|                         |                         |arch Institute of Innova-| 
+|                         |                         |tive Technology of the E-| 
+|                         |                         |arth (RITE)              | 
+------------------------------------------------------------------------------- 
+|                         |Koichi Yamanashi         |Managing Director, New E-| 
+|                         |                         |nergy Foundation         | 
+------------------------------------------------------------------------------- 
+|                         |Hitoshi Yoshizawa        |Executive Director, Ener-| 
+|                         |                         |gy Research and Engineer-| 
+|                         |                         |ing Institute            | 
+------------------------------------------------------------------------------- 
+
+
+<H5>  Reference </H5>
+  1. Scenario for the Development and Introduction of Key 
+Technologies Solar energy utilization Photovoltaic 
+power generation Fuel cell power generation Super 
+heat pump/energy accumulation 
+system Geothermal Distributed battery power storage 
+technology Ceramic gas turbine 
+engines Superconductor power applications 
+technology Coal liquefaction Coal 
+gasification Wind power generation Marine energy 
+(Ocean thermal energy power generation) Biomass 
+energy Magma power generation2. Analysis of 
+Achievements Contributing to the Simultaneous Resolution of 
+Sustained Economic Growth and Energy/Environmental Problems via 
+the Sunshine/Moonlight Plans3. R&amp;D Trends in 
+Energy/Environmental Technology in the United States and 
+Europe4. Overview of the Global Regeneration Plan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<H3>  (Reference 2) Analysis of Achievements Contributing Toward 
+the Simultaneous Resolution of Sustained Economic Growth and 
+Energy/Environmental Problems Via the Sunshine and Moonlight 
+Plans. </H3>
+<H5>  I. Position of Energy-related R&amp;D Investments Under the </H5>
+
+Sunshine and Moonlight Plans 
+  [1] Total investments in energy-related research and 
+development in Japan during 1990 came to &yen;915.0 billion 
+(7.5% of total R&amp;D investments for that year), of 
+which 
+&yen;402.1 billion (43.9%) went towards R&amp;D on 
+nuclear power 
+and the remaining &yen;512.9 billion (56.1%) was put 
+towards 
+non-nuclear power-related R&amp;D projects. 
+  [2] The combined FY1990 budget for the Sunshine and 
+Moonlight 
+Plans, which are playing central roles in the research and 
+development of renewable energy, coal conversion and energy 
+conservation technologies, was 51.2 billion yen (&yen;39.6 
+billion for the Sunshine Plan, and &yen;11.6 billion for the 
+Moonlight Plan). This accounted for 39% of MITI's energy 
+R&amp;D 
+budget of &yen;129.9 billion for that fiscal year (52% of 
+MITI's overall technology development budget), but only amounted 
+to a mere 10% of Japan's total investments in non-nuclear 
+energy R&amp;D for that period. 
+
+
+
+  ---------------------------------------------------------------------------- 
+|Table 1. Investments in Energy R&amp;D in Japan in FY1990 (in 100 million-| 
+|s of yen)                                                                 | 
+---------------------------------------------------------------------------- 
+|              |Industry (Man-|Research Inst-|Universities  |Total         | 
+|              |ufacturing In-|itutes[.sup]1) |              |              | 
+|              |dustry)       |[/]        |              |              | 
+---------------------------------------------------------------------------- 
+|Nuclear Power |827 (660)     |2922          |272           |4021          | 
+---------------------------------------------------------------------------- 
+|Non-nuclear P-|2665 (2159)   |2319          |145           |5129          | 
+|ower          |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Energy conser-|1882 (1693)   |1754          |66            |3702          | 
+|vation        |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Renewable ene-|145 (120)     |86            |52            |283           | 
+|rgies         |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Coal/coal con-|172 (117)     |185           |8             |365           | 
+|version       |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Petroleum/nat-|294 (177)     |198           |10            |502           | 
+|ural gas      |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Electric power|172 (52)      |96            |9             |277           | 
+---------------------------------------------------------------------------- 
+|Total         |3492 (2819)   |5241          |417           |9150          | 
+---------------------------------------------------------------------------- 
+|1) Special corporations, non-profit corporations, research cooperatives,  | 
+|etc.                                                                      | 
+---------------------------------------------------------------------------- 
+|[Source] General Affairs Agency ``Report of Investigation on Energy Resea-| 
+|rch'' (December, 1991)                                                    | 
+---------------------------------------------------------------------------- 
+
+
+
+
+
+  ------------------------------------------------------------------------------ 
+|Table 2. MITI's Energy R&amp;D Budget for FY90 (In 100 millions of yen)     | 
+------------------------------------------------------------------------------ 
+|Nuclear P-|Sunshine  |Moonlight |Coal      |Oil/Gas   |Electric  |Total     | 
+|ower      |Plan      |Plan      |          |          |Power     |          | 
+------------------------------------------------------------------------------ 
+|346       |396       |116       |66[.sup]1) |256       |119       |1299      | 
+|          |          |          |[/]    |          |          |          | 
+------------------------------------------------------------------------------ 
+|1) Coal conversion R&amp;D included under Sunshine Plan.                    | 
+------------------------------------------------------------------------------ 
+|[Source] MITI ``Overview of MITI's Industrial Science and Technology Polici-| 
+|es for 1991'' (March, 1991)                                                 | 
+------------------------------------------------------------------------------ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Table 3. Transition of Sunshine/Moonlight Plans' Budget Positions from 1980-90. 
+
+                      1980    1981    1982    1983    1984    1985    1986    1987    1988    1989    1990 
+
+Sunshine Plan         287     337     416     420     398     438     430     441     378     400     396 
+Budget (in 100 
+millions yen) 
+
+Moonlight Plan        78      92      95      96      96      112     123     115     100     107     116 
+Budget (in 100 
+millions yen) 
+
+Sunshine/Moonlight    48      44      51      48      45      48      47      48      43      42      39 
+Budgets (%) MITI 
+Energy R&amp;D Budget 
+
+Sunshine/Moonlight    14      12      13      14      13      13      13      13      11      11      10 
+Budgets (%) 
+Japanese Investment 
+in Non-nuclear 
+Power R&amp;D 
+
+[Source] General Affairs Agency ``Report on Investigation on Energy Research'' 
+
+MITI ``MITI's Annual Report,'' ``Overview of MITI Industrial Science and Technology Policies for FY91'' 
+
+
+
+
+
+
+
+
+<H3>  II. Roles of Sunshine and Moonlight Plans in Sparking 
+Related Research on the Part of Industry </H3>
+  The combined R&amp;D budgets for the Sunshine and Moonlight 
+Plans 
+works out to just 10% of Japan's total investment in 
+non-nuclear energy R&amp;D, but they have sparked strong R&amp;D 
+investments in new energies and energy conservation on the part 
+of industry and others. 
+
+
+
+<H3>  III. Contributions Toward Increased Technology Stocks and 
+Reduced Costs (Case of Solar Battery R&amp;D) </H3>
+  As discussed above, energy R&amp;D under the Sunshine Plan 
+is 
+sparking related research on the part of industry, which is 
+giving shape to the kind of favorable cycle we are witnessing in 
+the field of solar batteries where increased stocks of energy 
+technology held by industry are leading to increased production 
+of ``new energy products,'' which in turn is steadily lowering 
+costs, and this, in turn, is creating new demand (For example, 
+61% of the cost reductions realized in the field of solar 
+batteries between 198590 was attributed to technology 
+development and another 22% to increased production.). 
+
+
+
+
+
+
+
+
+<H5>  IV. Contributions Toward Reducing CO </H5>
+[.sup]2[/] Emissions 
+(In the case of the manufacturing industry) 
+<H5>  (1) Factors Contributing Toward Reduced CO </H5>
+[.sup]2[/] 
+  Fifty-eight percent (58%) of the reduction in 
+CO[.sup]2[/] emissions between 1970-90 (67% between 
+1974-86) 
+is attributed to energy conservation (This is followed by 
+changes in the industrial structure (27%) and fuel 
+conversions 
+(12%)). 
+
+
+
+
+
+
+
+
+
+<H3>  Contributions of the Sunshine/Moonlight Plans Toward Energy 
+Conservation (CO </H3>
+[.sup]2[/] Reductions) 
+  The ability of the Sunshine and Moonlight Plans to spark 
+industry-related energy R&amp;D is best seen in the progress 
+made by 
+the manufacturing industry in energy conservation, the key 
+factor contributing to reductions in CO[.sup]2[/] emissions. 
+
+
+
+
+
+
+  (Note 2) The remarkable impact on energy conservation 
+described above was made possible via the following mechanisms. 
+  [1] In response to tightened energy supply restrictions 
+during the energy crises, Japan substituted other essential 
+elements of the production process for energy in order to 
+maintain sustained economic growth (We substituted technology 
+(T), capital (K) and non-energy intermediate materials (M) for 
+energy). 
+  [2] The progress in energy conservation made during this 
+period was the result of this substitution process, with the 
+switch from energy to technology (E to T) forming the core of 
+the process (This subsequently resulted in increased technology 
+stocks and improved technology levels).[.sup]1)[/] 
+  [3] The switch from energy to technology led to increased 
+stocks of energy technology,[.sup]2)[/] with the Sunshine and 
+Moonlight Plans contributing toward the increases in these 
+stocks. 
+  [Contribution of the Sunshine and Moonlight Plans Toward 
+Increased Energy Technology Stocks: 1977-90] 
+
+
+  Production Y = f(L, K, M, E, T) 
+  Price C = c(Y, Pl, Pk, Pm, Pe, Pt) 
+  L: Labor, T: Technology stock T[.sup]t[/] = 
+R[.sup]t-m[/] + (1 - _r_ ) T[.sub]t-1[/] R: R&amp;D funds, 
+m: Lead time from R&amp;D to practicalization, _r_: Rate of 
+obsolescence 
+  These results are specified by estimating the translog 
+(phonetic) price coefficient using the above factors, and 
+measuring the rate of change of the ratio at which these 
+essential elements are introduced. 
+  This effect is specified by analyzing the elasticity value 
+of 
+the switch from energy to technology. 
+<H3>  (Reference 3) R&amp;D Trends in Energy/Environmental 
+Technology 
+in the United States and Europe </H3>
+<H5>  (1) Summary </H5>
+  Although each nation differs as to the particular 
+technology(ies) it is emphasizing and/or the degree to which it 
+is increasing or decreasing its R&amp;D budget, the trend in 
+energy 
+technology R&amp;D among OECD member nations seems to be toward 
+decreased R&amp;D budgets for nuclear power and increased budgets 
+for the development of alternate energies, the enhancement of 
+energy efficiency and R&amp;D into environmental countermeasures. 
+<H5>  [1] Changes in Energy R&amp;D in the United States and Europe </H5>
+
+  -  During the latter part of the 1980's, budgets slated for 
+the development of energy-related technologies decreased in line 
+with drops in petroleum prices. 
+  -  Beginning around 1991, we have seen signs of a resurgence of 
+interest in energy technology R&amp;D brought about by 
+apprehensions 
+concerning the stability of energy supplies as a result of the 
+Gulf War and by heightened interest in global environmental 
+problems. 
+  -  Opportunities for advanced western nations to support the 
+immature energy technologies of the central and eastern European 
+countries are on the rise. 
+
+<H5>    [2] Shifts in R&amp;D Priorities </H5>
+
+  -  R&amp;D budgets for energy-related technologies did not 
+increase much at all in 1991 compared to previous years, but we 
+have seen a shift in R&amp;D priorities within the scope of these 
+limited budgets. 
+  -  There has been a steady shift in emphasis to ``green energy'' 
+production, enhanced energy utilization efficiency and 
+alternative fuels, as R&amp;D activities related to existing 
+fossil 
+fuels have tended to decrease. 
+  -  Large nations are covering all the bases technologically, but 
+smaller countries are carrying out R&amp;D focused on specific 
+technologies that conform to their respective needs/resources. 
+  -  Governments are in the process of withdrawing from R&amp;D 
+fields 
+that should be carried out by the private sector. 
+
+<H5>    [3] R&amp;D on Environmental and Energy-related Technologies </H5>
+
+  -  Emphasis is on lowering costs and eliminating 
+technological barriers. 
+  -  As a means of diversifying sources of energy and reducing 
+their 
+environmental impact on the greenhouse effect, all nations are 
+striving to development renewable energies, a trend that is 
+leading to successes in solar battery and wind energy 
+technologies. 
+  -  All nations are pushing forward with development work on fuel 
+cell and heat pump technologies, and we are beginning to see 
+some commercialization in these fields. In addition, various 
+programs are being put together to promote R&amp;D efforts in the 
+field of energy conservation in industry, transportation and etc. 
+  -  Each nation in recent years has been placing emphasis on 
+R&amp;D 
+efforts aimed at developing technologies to counter the effects 
+of energy utilization on the global environment, but research on 
+carbon dioxide immobilization technologies is still in the basic 
+stages. 
+  -  Some countries have positioned their energy technology 
+R&amp;D 
+within the broader realm of R&amp;D tasks aimed at lowering the 
+burden on the environment, however, the Sunshine Plan is the 
+only example of a program that integrates R&amp;D on 
+energy-related 
+technologies with that of environmental technologies, and the 
+IEA has begun to show interest in the thinking behind this plan. 
+
+<H5>    (2) R&amp;D Trends and Policies in Major Countries </H5>
+<H5>  [1] United States </H5>
+  A. Energy Situation 
+  --Breakdown of United States' energy sources as of 1990: 
+petroleum 39.7%, coal 24.0%, natural gas 
+22.9% and nuclear 
+power 8.4%. 
+  --Although the United States is the world's largest energy 
+consumer and is the largest importer of petroleum in the IEA, it 
+supplies more than 80% of its own energy needs. 
+  --The United States is lessening its dependence on 
+petroleum, 
+and striving to increase use over the long term of coal, nuclear 
+power and renewable energies. 
+  B. Basic Energy Policies 
+  --Current Policies 
+  Relaxation of government regulations 
+  [1] Decontrol of natural gas (January 1993), 
+  [2] Simplification of nuclear power regulations 
+  Creation of an energy resources supply system rich in 
+diversity 
+  [1] Promotion of energy conservation, 
+  [2] Support for R&amp;D, 
+  [3] Security for energy supplies, 
+  [4] Emergency system for implementation in times of 
+crisis, 
+  [5] Support for domestic production 
+  ``National Energy Strategy'' (1991) 
+  Preparation of a four-point policy stressing 
+  [1] energy security, 
+  [2] the environment, 
+  [3] electric power, 
+  [4] the promotion of energy-related technology. 
+  Energy policies of the new Clinton Administration 
+  --Stresses more active involvement in new energy 
+development, 
+energy conservation, environmental countermeasures and 
+international cooperation than the republican administration. 
+  --Basis of energy policy (as per Clinton's presidential 
+campaign) 
+  [1] Improvement of energy utilization efficiency, 
+promotion of energy conservation: aimed at reducing energy 
+consumption unit requirements by 3% a year. 
+  [2] Increased utilization of natural gas (a clean 
+domestic energy): The deciding factor in lessening dependence on 
+petroleum. 
+  [3] Switch to renewable energy technologies that are easy 
+on the environment (including clean coal). 
+  --Maintain nuclear power at its present status, and do not 
+approve new construction of nuclear plants for the time being. 
+  --Promote R&amp;D of energy-related technologies from the 
+standpoint of strengthening the competitive power of domestic 
+industry as well. 
+  C. R&amp;D Overview 
+  --No major changes in the overall budget for R&amp;D on 
+energy-related technologies, but can see shifts in the 
+development fields being emphasized. 
+  --Stress being placed on the development of renewable 
+energies, with the budget for this R&amp;D increasing by 
+46% during 
+the two-year period starting in 1989. 
+  --Vital technology development fields 
+  [1] Reform the overall state of dependence on petroleum 
+in the transportation sector over the short haul using the 
+following methods: 
+  a. Enhancement of petroleum utilization efficiency. 
+  b. Introduction of alternative fuels 
+  c. Diversification of transportation methods. 
+  [2] Production of domestic energy resources with an eye 
+toward protecting the environment. 
+  [3] Enhancement of energy efficiency and expansion of 
+available choices of economical, clean technologies. 
+  --Maintain the United States' position as an R&amp;D leader 
+in a 
+broad range of fields related to new energies and energy 
+conservation. 
+<H5>  [2] United Kingdom </H5>
+  A. Energy Situation 
+  --Breakdown of the United Kingdom's energy sources as of 
+1990: petroleum 39.0%, coal 29.5%, natural gas 
+22.5% and 
+nuclear power 8.2% .... percentage of coal use was 
+relatively 
+high. 
+  --Supplying its own energy needs via North Sea oil, natural 
+gas and domestic coal. 
+  B. Basic Energy Policies 
+  --Based on the ``Energy Plan (Green Paper)'' of 1978. 
+  [1] Sustain energy self-sufficiency using North Sea oil 
+and natural gas, and movement toward renewed self-sufficiency 
+based on nuclear power and coal. 
+  [2] Effective use of coal resources 
+  [3] Promotion of nuclear power development (Active 
+promotion of nuclear power plants). 
+  [4] Promotion of energy conservation 
+  [5] Promotion of renewable energy development. 
+  C. R&amp;D Overview 
+  --The energy-related R&amp;D budget for 1991 was down 
+8% from 
+1990, and it looks like it will continue to drop in future. 
+  --R&amp;D programs in the non-nuclear power sector. 
+  [1] Support for marine development projects 
+  [2] Technology development aimed at marine safety 
+  [3] Recycling of crude oil 2-3 times 
+  [4] Renewable energies (wind power, tide power, 
+high-temperature rocks, biomass and solar energy). 
+  --Long-term strategy for renewable energies (1988). 
+  Stimulation and promotion of the commercialization of 
+economically superior technologies (passive solar energy 
+technologies). 
+  Study and select from among as-yet undeveloped technologies 
+such as geothermal energy from high-temperature rocks, wind 
+power and ocean thermal energy those with the highest prospects 
+for the future. 
+  --Looking forward to decreases in funding for nuclear power 
+and fossil fuel R&amp;D, and increases in funding for R&amp;D on 
+all 
+other energy-related technologies. 
+  Actively promote the development of renewable energies such 
+as wind power. 
+  Emphasize development of technology that will enable the 
+clean use of domestically-produced coal. 
+<H5>  [3] Germany </H5>
+  A. Energy Situation 
+  --Breakdown of Germany's energy sources as of 1990: 
+petroleum 
+40.9%, coal 26.7%, natural gas 17.3% and 
+nuclear power 13.8%. 
+  --Reliance on imports is high: 95% for petroleum, 
+roughly 
+50% overall. 
+  B. Basic Energy Policies 
+  --According to announcements by the Federal Economics 
+Ministry in 1986: 
+  [1] Secure economical and efficient supplies of energy. 
+  [2] Diversify sources of energy supplies and lower 
+dependence on petroleum. 
+  [3] Diversify sources of energy (especially petroleum) 
+imports. 
+  [4] Make energy consumption more efficient. 
+  [5] Improve the system for dealing with crises. 
+  [6] Suppress environmental pollution associated with the 
+supply and use of energies. 
+  --Energy policies for a unified Germany (1991) 
+  Basically in line with previous energy policies, but rather 
+ambiguous as far as the consensus on coal and nuclear power, the 
+two main alternatives to petroleum, are concerned. 
+  C. R&amp;D Overview 
+  --R&amp;D budget down slightly in line with cutbacks in 
+nuclear 
+power budgets. 
+  --Objectives of Third R&amp;D Program (adopted 1989; revised 
+1991). 
+  [1] Further development of present energies. 
+  [2] Development of energy sources that do not emit 
+CO[.sup]2[/]. 
+  [3] Conversion to efficient energies, and development of 
+energy conservation technologies. 
+  [4] Preparation of firm strategy for reducing greenhouse 
+effect gases. 
+  [5] Strive to secure energy supplies without damaging the 
+environment 
+  To expand renewable energy programs. 
+  --Reduce research budgets for sources of fossil energies and 
+nuclear power. 
+  Increase funds for renewable energies and energy 
+conservation. 
+<H5>  [4] France </H5>
+  A. Energy Situation 
+  --Breakdown of France's energy sources as of 1990: petroleum 
+40.3%, nuclear power 37.1%, natural gas 
+11.3% and coal 
+9.6%....High percentage of nuclear power. 
+  --High reliance on imports: 96% for petroleum and 
+53% 
+overall. 
+  Basic Energy Policies 
+  --Energy objectives specified in the ``Seventh Socioeconomic 
+Development Plan'' (1975). 
+  [1] Reduce reliance on petroleum to 40%. 
+  [2] Maintain current state of petroleum consumption. 
+  [3] Accelerate nuclear power program (All electric power 
+generation from nuclear power). 
+  [4] Promotion of energy conservation and a roughly 
+15% 
+savings in energy consumption. 
+  [5] Promote the development and use of new energies. 
+  --``Energy 2010'' (1990) 
+  [1] Lower the tendency toward nuclear power. 
+  [2] Introduction of alternative fuels into the 
+transportation sector. 
+  C. R&amp;D Overview 
+  --Policy statements in the Branner (phonetic) Report (1989). 
+  [1] Lighten the value-added tax burden on energy 
+technology equipment that is highly effective at conserving 
+energy. 
+  [2] Lighten the value-added tax burden on automobiles 
+with small displacement engines. 
+  [3] Increased budget for energy conservation related 
+research. 
+  [4] Increased R&amp;D budgets for new and renewable energies 
+  Despite the statements made in the report, France's 
+energy policies thereafter showed little change, and R&amp;D 
+budgets 
+have remained practically the same. 
+  --Place more emphasis on energy conservation technology 
+which 
+can be expected to show immediate results, rather than on 
+long-range new energy technology development. 
+<H5>  [5] Canada </H5>
+  A. Energy Situation 
+  --Breakdown of Canada's energy sources as of 1990: petroleum 
+36.8%, natural gas 26.4%, hydroelectric/geothermal 
+12.1%, 
+coal 11.6% and nuclear power 9.0%. 
+  --Canada has abundant energy resources, including natural 
+energies, and overall is an energy exporter. 
+  B. Basic Energy Policies 
+  --Promote the mining and development of vast buried energy 
+resources and establish an energy self-sufficiency system. 
+  --Strive to break free of petroleum imports by improving 
+energy conservation and efficiency and developing diverse energy 
+resources. 
+  --Place more importance on nuclear power as a source of 
+energy. 
+  C. R&amp;D Overview 
+  --National Energy Research and Development Plan (1988). 
+  Shift emphasis from fossil fuels to research and development 
+aimed at improving energy efficiency, developing alternate 
+energy sources and lowering the adverse affects on the 
+environment. 
+  --Being rich in energy resources, the desire to develop 
+renewable energies in Canada is rather low, but they are 
+ardently pursuing basic research in hydrogen energy. Canada is 
+also promoting the development of nuclear power centering on 
+CANDU (a natural uranium/heavy water reactor). 
+<H5>  [6] Italy </H5>
+  A. Energy Situation 
+  --Breakdown of Italy's energy sources as of 1990: petroleum 
+59.2%, natural gas 25.2%, coal 9.5% and 
+nuclear power 0.0%. 
+  --High reliance on petroleum, and highly dependent on 
+imports 
+for its supply. 
+  B. Basic Energy Policies 
+  --A national referendum in 1987 led to the renouncing of 
+nuclear power for the time being. 
+  --National Energy Plan (PEN: 1988) ... Prepared based on the 
+above cited referendum results. 
+  [1] Develop new technologies to reinforce various energy 
+conservation efforts. 
+  [2] Preserve the environment. 
+  [3] Develop domestic energy resources (Petroleum, natural 
+gas, water and geothermal). 
+  [4] Diversify suppliers of energy resources, and reduce 
+dependence on overseas suppliers. 
+  [5] Further strengthen competitiveness of energy 
+production system. 
+  C. R&amp;D Overview 
+  --Government R&amp;D budgets are dropping off slightly, but 
+those 
+of public enterprises have increased. 
+  --R&amp;D priorities 
+  Environmental preservation technologies: CO[.sup]2[/] 
+control, absorption and conversion technologies. 
+  Development of renewable energies: hydroelectric, 
+geothermal, wind power and PV modules. 
+  Coal-related technologies: CWM, combustion technologies. 
+  Nuclear fusion research. 
+  --As a result of announcements under PEN, there are 
+prospects 
+for increases in research funds for technologies other than 
+nuclear fission technologies. 
+<H5>  [7] Overview of R&amp;D Budgets of Seven Summit Nations </H5>
+<H3>  A. Transitions of Government Energy R&amp;D Budgets and Their 
+Breakdowns </H3>
+  a. Government budgets for energy-related research in the 
+seven (7) leading economic nations have remained relatively 
+unchanged in recent years, with Japan (&yen;383 billion) and the 
+United States, whose budget exceeded 2.5 billion dollars, heads 
+and shoulders above the others in this category. 
+  b. Broken down by research field, the percentage of funding 
+going toward research in nuclear energy has risen across the 
+board, with France and Japan jointly accounting for around 80 
+percent of the total (Japan alone has invested over 2.0 billion 
+dollars in nuclear energy research). The United States, Germany 
+and Japan, in that order, lead the pack in terms of overall 
+budgets slated for research on renewable energies, but Japan 
+comes in fourth place in this field after Germany, the United 
+Kingdom and Italy when it comes to actual R&amp;D funding. And 
+Japan's budget for energy conservation research is 
+overwhelmingly the lowest of any of the other nations at less 
+than 1% (R&amp;D on fuel cell power generation technology 
+under the 
+auspices of the Moonlight Plan falls into a different category 
+from electric energy conservation.). 
+
+
+
+
+
+
+<H3>  B. Transition of Government Energy R&amp;D Budgets as a 
+Percentage of GDP </H3>
+  a. The leading nations in terms of R&amp;D budgets as a 
+percentage of GDP for all forms of energy are Japan, Italy and 
+Canada, respectively, but they are all showing a tendency to 
+decline. 
+  b. Broken down by energy field, Japan's 0.67 (as of FY1991; 
+units: 0.01% [here and below]) is twice that of any of the 
+other leading nations, and its 0.17 for non-nuclear energy 
+R&amp;D 
+budgets puts Japan in fourth place after Italy, Canada and the 
+United States, in that order. 
+  c. Germany is attracting attention for its tendency to 
+increase its government R&amp;D budget as a percentage of GDP for 
+renewable energies, while Japan, with its 0.03 is on a par with 
+other nations in this category. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ---------------------------------------------------------------------------- 
+|(Units: 0.01%)                                                            | 
+---------------------------------------------------------------------------- 
+|              |All Energies  |Nuclear Power |Non-nuclear E-|              | 
+|              |              |              |nergies       |              | 
+---------------------------------------------------------------------------- 
+|Renewable Ene-|              |              |              |              | 
+|rgies (Includ-|              |              |              |              | 
+|ing Solar Pow-|              |              |              |              | 
+|er)           |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Japan         |0.84          |0.67          |0.17          |0.03 (0.016)  | 
+---------------------------------------------------------------------------- 
+|United States |0.45          |0.15          |0.30          |0.03 (0.012)  | 
+---------------------------------------------------------------------------- 
+|Germany       |0.32          |0.19          |0.13          |0.07 (0.051)  | 
+---------------------------------------------------------------------------- 
+
+
+<H3>  C. Transition of Energy-related R&amp;D Budgets as a 
+Percentage 
+of Government R&amp;D Budgets </H3>
+  Japan's percentage of the government R&amp;D budget 
+allotted to 
+its energy R&amp;D budget far surpasses that of the other leading 
+nations (four times those of the United States and Germany), but 
+this is attributable almost entirely to Japan's nuclear power 
+R&amp;D budget. In the area of non-nuclear energy R&amp;D 
+budgets, 
+Japan's percentage of its government R&amp;D budget works out to 
+just 3.5%, putting it on practically the same level with 
+the 
+United States, the United Kingdom and Germany. 
+
+
+
+
+
+
+  (3) Comparison and Contrast of Current State of R&amp;D in 
+the 
+Leading Nations 
+  [1] Japan leads the rest of the world in the areas of fuel 
+cell power generation technology, heat pump technology and 
+CO[.sup]2[/] immobilization technology, and has attained 
+technological prowess on a par with other world leaders in the 
+areas of renewable energies and coal energy. 
+  [2] The United States possesses the most advanced 
+technologies in the fields of renewable energies and coal 
+energy, and Germany's superconductive electrical generator 
+technology is tops in the world. 
+  [3] Together with the United States and Germany, Japan is 
+playing a leading role in the research and development of 
+energy-related technologies, making it vital that Japan carry 
+out its R&amp;D activities efficiently, and exchange information 
+and 
+cooperate in research projects with other nations. 
+
+
+
+             Solar Energy                 Thermal Energy             Coal Energy         Hydrogen Energy               Wind 
+                                                                                                                     Power/Ocean 
+                                                                                                                     Thermal 
+                                                                                                                     Energy 
+
+Japan      Photovoltaic power           Steam power generation:    High calorie coal   Electrolytic method:          Wind power 
+           generation: developing low   currently producing        gasification:       conducting basic research     generation: 
+           cost solar battery           roughly 270,000kW of       Finished            on a solid high polymer       Completed 
+           manufacturing technologies   power from 10 steam        operational         electrolytic water method     development 
+           and ultra-high efficiency    power plants               research on a       and a high temperature        of a 100kW 
+           solar battery technology,    nationwide.Hydrothermal    7,000Nm[.sup]3[/]    steam electrolytic            plant, and in 
+           and are in the process of    power generation:          per day             method.Thermochemical         the process 
+           either constructing or       carrying out R&amp;D on a      plant.Hydrogen      method: Completed basic       of developing 
+           operationally researching    10,000kW class binary      production:         research.Transport/storage    a 500kW 
+           photovoltaic power           cycle power plant.High     Currently           method: currently             plant.Ocean 
+           generation systems (eight    temperature rock power     carrying out        conducting research and       thermal power 
+           (8) systems).Solar heating   generation: developing     operational         development work.Hydrogen     generation: 
+           and cooling: Have            component technologies     research on a 20    engine: conducting research   Conducting 
+           completed research on        domestically. Took part    ton/day             and development work.         basic 
+           experimental buildings for   in joint research with     plant.Coal                                        research. 
+           four (4) consumer solar      the United States and      gasification 
+           heating/cooling systems;     Germany until September    power generation: 
+           have completed research on   1986 (Germany              Finished 
+           eight (8) industrial         participated until         operational 
+           systems, and are currently   September 1985).Deep       research on a 40 
+           developing component         hydrothermal energy:       ton/day fluidized 
+           technologies to enhance      completed research on      flow gasification 
+           the performance of these     extraction and reduction   plant, and 
+           systems.                     testing.                   currently 
+                                                                   carrying out 
+                                                                   operational 
+                                                                   research on a 200 
+                                                                   ton/day entrained 
+                                                                   flow gasification 
+                                                                   plant.Coal 
+                                                                   liquefaction: 
+                                                                   compiling results 
+                                                                   obtained from 
+                                                                   operation of 50 
+                                                                   ton/day lignite 
+                                                                   liquefaction 
+                                                                   plant in 
+                                                                   Victoria, 
+                                                                   Australia; 
+                                                                   Currently 
+                                                                   constructing 150 
+                                                                   ton/day 
+                                                                   [illegible] coal 
+                                                                   liquefaction 
+                                                                   plant. 
+
+United     Solar thermal power          Steam power generation:    High calorie coal   Electrolytic method:          Wind power 
+States     generation: operating a      Currently producing 2.64   gasification:       Currently developing a        generation: 
+           roughly 350,000kW plant      million kW of              Currently           solid high polymer            Operating a 
+           commercially.Photovoltaic    power.hydrothermal power   operating 3.5       electrolytic water method;    4000kW 
+           power generation: started    generation: Currently      million             Doing basic research on a     plant.Ocean 
+           the Solar 2000 Project       producing 200,000kW of     Nm[.sup]3[/] per     high temperature steam        thermal power 
+           (1,000MW and over);          power.High temperature     day (12,700 tons    electrolytic                  generation: 
+           Started the PVMaT            rock power generation:     per day)            method.Thermochemical         Finished 
+           Project.; PVUSA Project      succeeded in heat          plant.Coal          method: Doing basic           experiments 
+           (for electric power);        extraction of 9,000kW of   gasification        research.Transport/storage    on 50kW plant 
+           Currently operating two      heat output; Took part     power generation:   method: Doing basic           (Mini-OTEC); 
+           (2) 3,000kW, two (2)         in joint research with     Currently           research.                     Completed 
+           2,000kW and two (2)          Japan and Germany          operating 1,000                                   experiments 
+           1,000kW plants.Solar         (Germany until September   ton/day plant                                     on a 1,000kW 
+           heating and cooling: in      1985; Japan until          (Coolwater).Coal                                  heat loop 
+           the process of               September 1986) on a       liquefaction:                                     experimental 
+           constructing and/or          20,000-50,000kW heat       Completed                                         plant 
+           operating a number of        output system (4000M       operation of a 30                                 (OTEC-I); 
+           experimental and             class).                    ton/day plant                                     Planning the 
+           demonstration systems.                                  (SRCII);                                          development 
+                                                                   Completed                                         of a 40MW 
+                                                                   operation of 200                                  plant; 
+                                                                   ton/day plant                                     Planning the 
+                                                                   (H-COAL);                                         development 
+                                                                   Completed                                         of a 165kW 
+                                                                   operation of a                                    open cycle 
+                                                                   250 ton/day plant                                 plant. 
+                                                                   (EDS); Carrying 
+                                                                   out research to 
+                                                                   improve the 
+                                                                   liquefaction 
+                                                                   process. 
+
+Germany    Photovoltaic power           High temperature rock      High calorie coal   Electrolytic method:          Wind power 
+           generation: Currently        power generation: Took     gasification:       Conducting basic research     generation: 
+           doing research on            part in joint research     Completed           on a high temperature steam   Planning to 
+           continuous manufacturing     with the United States     operation of a      electrolytic method;          construct a 
+           technologies for solar       and Japan until            150 ton/day plant   Developing an alkaline        3,000kW 
+           batteries; Started the       September 1985. Has        (Ruhr 100).Coal     water electrolytic            plant; 
+           1,000 Loop Project;          completed domestic R&amp;D     gasification        method.Thermochemical         Developing a 
+           Developing technologies      (3000M class); Currently   power generation:   method: Conducting basic      1,200kW 
+           for developing countries;    carrying out joint         Completed           research.Transport/storage    plant. 
+           Planning a 1MW               research with the United   operational         method: In the midst of 
+           photovoltaic power           Kingdom and France         research on a       research and development 
+           generation project;          (2600M class).             170,000kW           work.Hydrogen engine: In 
+           Currently operating 300kW,                              (roughly 1,500      the midst of research and 
+           330kW and 340kW                                         ton/day)            development. 
+           plants.Solar heating and                                plant.Coal 
+           cooling: developing a                                   liquefaction: 
+           passive solar device.                                   completed 
+                                                                   operation of a 
+                                                                   200 ton/day plant 
+                                                                   (New IG), are in 
+                                                                   the midst of 
+                                                                   operational 
+                                                                   research on a 
+                                                                   [illegible] 
+                                                                   decomposition 
+                                                                   plant, and have 
+                                                                   completed 
+                                                                   conceptual design 
+                                                                   work on a 2,500 
+                                                                   ton/day 
+                                                                   demonstration 
+                                                                   plant. 
+
+France     Solar thermal power          High temperature rock                          Electrolytic method:          Ocean thermal 
+           generation: Finished         power generation:                              Developing alkaline water     power 
+           operational research on a    carrying out joint                             electrolytic method; Doing    generation: 
+           2,500kW plant.Photovoltaic   research with the United                       basic research on a solid     Completed 
+           power generation:            Kingdom and Germany                            high polymer electrolytic     basic design 
+           researching methods of       (2600M class). Deep                            water method. Hydrogen        and economic 
+           making solar batteries       hydrothermal energy:                           engine: In the midst of       evaluation on 
+           less expensive.Solar         currently supplying                            research and development.     a 5MW plant. 
+           heating and cooling:         local hot water and heat 
+           operationally researching    in 46 regions of the 
+           an experimental home.        country. 
+
+United     Photovoltaic power           High temperature rock      Coal                Coal liquefaction:            Electrolytic 
+Kingdom    generation: Carrying out     power generation:          gasification:       Currently operating a 2.5     method: Doing 
+           basic research.Solar         Engaged in R&amp;D (2600M      Currently           ton/day plant.                basic 
+           heating and cooling: doing   class).                    operating 550                                     research. 
+           research primarily on                                   ton/day plant.                                    Test 
+           solar hot water supply                                                                                    operating a 
+           systems.                                                                                                  3,000kW 
+                                                                                                                     plant. 
+
+Others     Solar thermal power          Steam power generation:    Republic of South   Electrolytic method:          Wind power 
+           generation: The EC is        the following countries    Africa: currently   Alkaline water electrolytic   generation: 
+           conducting operational       are currently producing    operating SASOL I   plants in operation in        Sweden 
+           research on a 1,000kW        the cited amounts of       (roughly 15,000     Canada and Brazil, etc.;      currently 
+           class plant in Italy; The    power: Philippines         ton/day), SASOL     Switzerland conducting        operating a 
+           IEA is conducting            (890,000kW), Mexico        II (roughly         basic research on solid       3,000kW 
+           operational research on      (700,000kW), Italy         42,000 ton/day)     high polymer electrolytic     plant; 
+           two (2) 500kW class          (570,000kW), New Zealand   and SASOL III       water method.                 Denmark is 
+           heating plants in Spain;     (280,000kW), El Salvador   (roughly 42,000                                   operating a 
+           Spain is operationally       (160,000kW), Indonesia     ton/day) using                                    2,000kW 
+           researching a 1,000kW        (140,000kW), Kenya         indirect                                          plant; Canada 
+           plant.Photovoltaic power     (50,000kW), Iceland        liquefaction                                      is operating 
+           generation: Italy is         (50,000kW) and Nicaragua   method. Canada:                                   a 4,000kW 
+           operating a 300kW plant      (70,000kW).Multipurpose    Currently                                         plant; The 
+           and developing a 100kW       utilization: China,        operating a 0.25                                  Netherlands 
+           plant for electric power;    Russia and India are       ton/day plant                                     is operating 
+           Switzerland is conducting    currently using deep       using a direct                                    a 1,000kW 
+           its Energy 2000 Project      hydrothermal energy for    liquefaction                                      plant; Italy 
+           (manufacturing               local heating purposes.    method                                            is developing 
+           technology).Solar heating                               (Co-processing                                    a 1,500kW 
+           and cooling: The                                        method).Russia:                                   plant; Spain 
+           Netherlands, Australia,                                 Currently                                         is operating 
+           Austria and Sweden among                                operating a 5                                     a 1,200kW 
+           others are researching                                  ton/day plant                                     plant; Norway 
+           solar heating systems.                                  using direct                                      is operating 
+                                                                   liquefaction                                      a 1,200kW 
+                                                                   method.                                           plant. 
+
+
+
+
+
+             Fuel Cell Power    Heat Pumps               Superconductor Power          Ceramic Gas Turbine         Secondary Battery 
+           Generation                                  Applications Technology                                   Development 
+           Technology 
+
+Japan      Phosphoric acid    --In process of          Superconductive electrical    (For power                  Na/S, Zn/Br batteries: 
+           fuel cells: Have   developing 1,000kW       generator: Developing a 7kW   generation)Manufacturing    Completed development of 
+           developed basic    heat pump (super heat    model superconducting         a prototype of a 300kW      batteries for a 1,000kW 
+           plant              pump).For heating        generator in line with        basic ceramic gas turbine   pilot plant (first in 
+           technologies.      purposes only: 85C,     plans for a 200,000kW pilot   (TIT 1,200C).              the world).Have 
+           Will soon          COP6-8; For both         superconducting                                           commenced development of 
+           commercialize a    heating and cooling:     generator.Superconducting                                 lithium batteries with 
+           500kW or under     7/45C, COP6-8; For      magnetic energy storage                                   higher energy density 
+           on-site plant.     high temperature uses:   (SMES) equipment:                                         and longer life than H4 
+           Conducting         150/300C,               Developing component                                      batteries.Applications: 
+           research aimed     COP3.--Chemical heat     technologies for 100kW                                    Fixed type (buildings, 
+           at                 accumulator              storage                                                   homes); mobile uses 
+           practicalizing     technologies.Heat        facilities.Superconducting                                (electric vehicles). 
+           plant with         accumulator              materials: Developing NbTi 
+           larger             temperatures:            and Nb[.sup]3[/]Sn for 
+           capacities than    150-200C; Cold      alternating current use. 
+           500kW.Fused        heat accumulation: 
+           carbonate fuel     less than 10C.(Most 
+           cells:             advanced technology 
+           Developing 100kW   level in the world) 
+           stack and 
+           auxiliary 
+           equipment aimed 
+           at realizing a 
+           1,000kW pilot 
+           plant.Solid 
+           electrolyte fuel 
+           cells: In the 
+           process of 
+           researching 
+           component 
+           technologies. 
+           Developed 
+           several 100kW 
+           stacks mainly of 
+           the flat plate 
+           type. 
+
+United     Phosphoric acid    Currently developing a   Superconductive electrical    (For automobiles)1979-87:   Promoting projects 
+States     fuel cells:        special compact heat     generator: Developing a       Carried out the AGT         centered around a joint 
+           Finished           pump with a high         10,000kW superconducting      Project (an advanced gas    government/private 
+           developing basic   coefficient of           generator at MIT.SMES:        turbine development         sector project 
+           plant              performance (a           Developing a 20,000kWh test   project), during which a    (USABC).Application: 
+           technologies. On   combination of a         model SMES in line with       prototype engine was        electric vehicles; 
+           verge of           compression system and   plans to realize a            constructed.1987-92:        Targets: Have decided on 
+           commercializing    heat                     large-scale SMES under the    conducted the ATTAP         Ni/H[.sup]2[/] and 
+           200kW plant. Not   accumulator).Chemical    auspices of DOE.              Project (a project aimed    lithium batteries, and 
+           much activity on   system: developing an                                  at developing technology    are studying Na/S and 
+           large-scale        improved liquid                                        for an advanced ceramic     other potential 
+           plants.Fused       chemical/gas and                                       gas turbine) and            batteries. 
+           carbonate fuel     solid/gas heat pump;                                   completed an engine for 
+           cells: Developed   Brayton cycle solvent                                  use as a test bed in the 
+           70kW stack and     recovery system:                                       evaluation of ceramic 
+           aiming to          Developing a reverse                                   parts. The project was 
+           develop pilot      Brayton cycle heat                                     extended an additional 
+           plant.Solid        pump; Magnetic system:                                 year, and plans for the 
+           electrolyte fuel   Developing a heat pump                                 future are being put 
+           cells: Developed   that uses a                                            together. 
+           cylindrical 25kW   superconducting 
+           module.            magnet. 
+           Developing 
+           several flat 
+           plate type 10W 
+           stacks. 
+
+Germany    Phosphoric acid    Developing a air/water   Superconductive electrical    Germany, France and         The ABB company is 
+           fuel cells: In     heat pump (vibrant       generator: Siemens and KWU    Sweden.(For                 developing for 
+           process of         style) capable of heat   are developing a 120,000kW    automobiles)These three     commercialization an 
+           testing a 200kW    output of 615kW.         superconducting               (3) countries were          Na/S battery for 
+           American                                    generator.SMES: Munich        planning the development    electric vehicles. 
+           plant.Fused                                 Institute of Technology has   of a 100kW ceramic gas 
+           carbonate fuel                              developed a 4kWh SMES, and    turbine as a joint 
+           cells:                                      the Karl Slugo (phonetic)     research project, but it 
+           Introducing                                 Research Institute is         was canceled. They are 
+           American stack                              putting together conceptual   now scheduled to put 
+           technology. Aim                             designs for a 100,000kWh      together plans for the 
+           to develop 20kW                             SMES.                         future this fall. 
+           stack.Solid 
+           electrolyte fuel 
+           cells: 
+           Developing 2kW 
+           cylindrical 
+           module and 
+           several 10W 
+           flat-plate 
+           stacks.Other: 
+           researching 
+           alkaline and 
+           solid high 
+           polymer fuel 
+           cells. 
+
+France     Phosphoric acid    Developing heat pumps    Superconductive electrical                                SAFT company developing 
+           fuel cells:        primarily for            generator: Developing a                                   lead batteries and Ni/Cd 
+           Public gas         industrial use.          totally superconductive                                   batteries for electric 
+           companies                                   electrical generator.                                     vehicles. 
+           showing some                                Superconductor materials: 
+           interest. Other:                            Developing NbTi multi-core 
+           Not much                                    wire material for AC use. 
+           concrete 
+           activity. 
+
+United     Solid              Compression system:                                                                CSPL company is 
+Kingdom    electrolyte and    Developing low cost                                                                developing Na/S 
+           solid high         compressors, and                                                                   batteries for electric 
+           polymer fuel       researching heat pump                                                              vehicles. 
+           cells: Have        applications in drying 
+           begun              and distillation 
+           undertaking        processes. 
+           basic research. 
+
+Others     Phosphoric acid    Sweden: Developing       Superconductive electrical                                Canada: Would like to 
+           fuel cells:        improved heat pump       generator: The former                                     take part in America's 
+           Sweden, Italy,     technology.Norway:       Soviet Union was developing                               USABC project. 
+           Switzerland and    Developing a new         a 300,000kW superconducting 
+           Spain are test     generation of heat       generator, and Austria is 
+           operating plants   pumps (COP5-6).Italy:    currently testing a 2,000kW 
+           made in the        Developing improved      superconducting 
+           United States      absorption style heat    generator.SMES: Switzerland 
+           and Japan.Fused    pumps.Netherlands:       is developing a 50kWh SMES, 
+           carbonate fuel     developing improved      the former Soviet Union was 
+           cells: The         absorption style heat    developing a 28kWh SMES and 
+           Netherlands and    pumps.Switzerland:       Canada is developing an 
+           Italy are          developing a free        83kWh SMES. 
+           developing         piston Stirling engine 
+           stacks ranging     heat pump. 
+           from several kW 
+           to 10kW in 
+           output.Solid 
+           electrolyte and 
+           solid high 
+           polymer fuel 
+           cells: The 
+           Netherlands, 
+           Switzerland, 
+           Norway and 
+           Denmark are 
+           undertaking 
+           basic 
+           research.Other: 
+           Belgium, The 
+           Netherlands and 
+           Italy are 
+           researching 
+           alkaline and 
+           solid high 
+           polymer fuel 
+           cells. 
+
+
+
+
+
+             Rarefied Combustion   Biological CO[.sup]2[/]              Chemical CO[.sub]2[/]      CO[.sub]2[/]             Alternative 
+           Denitration           Immobilization                      Immobilization            Storage/Disposal        Substances to CFCs 
+           Catalyst Technology                                                                 (Oceans/Underground) 
+
+
+Japan      National research     Developing technologies for         Absorption/attachment     Ocean disposal:         Third generation 
+           institutes are        immobilizing and effectively        method: Power companies   Carrying out basic      CFCs: Developing a 
+           carrying out basic    using CO[.sup]2[/] found in          are leading the way in    research at national    new refrigerant 
+           research on oxide     bacteria/algae (RITE).Microalgae:   development aimed at      research                for use in 
+           catalysts, piolite    The various power companies,        enhancing performance.    institutes.Deep ocean   compression-type 
+           (phonetic)            CRIEPI and the Tokyo University     Film isolation method:    bottom storage:         heat pumps as part 
+           catalysts and metal   of Agriculture and Technology are   Developing a method for   CRIEPI has begun        of a five-year 
+           catalysts.            carrying out basic tests.           making methanol by        basic research          plan that began in 
+           Automobile makers     Spirillina (phonetic): currently    reacting concentrated     related to evaluating   1990 (RITE). 
+           are also engaged in   producing for commercial use        CO[.sup]2[/] with          achievability. 
+           basic research on     (yearly output of 60 tons from      hydrogen (RITE). 
+           these catalysts.      30,000m[.sup]2[/] pond 
+           (Most advanced        culture.)Breeding/photosynthesis 
+           level of technology   mechanism: Carrying out basic 
+           in the world.)        research. 
+
+United     GM, Ford and other    Microalgae: Pond cultures of        Does not see the merits   Prevalent opinion is    Third generation 
+States     U.S. automakers are   several 100 hectares.               of chemical               that it is not cost     CFCs: Universities 
+           engaged in basic      Breeding/photosynthesis             immobilization methods;   effective, and so the   are leading R&amp;D 
+           research.             mechanism: Carrying out basic       R&amp;D in this area low      U.S. is not carrying    using funds from 
+                                 research.                           keyed.Film isolation:     out R&amp;D in this area    EPA.Very likely 
+                                                                     developing a              (*).                    that CFC 
+                                                                     methane/CO[.sup]2[/]                               manufacturers are 
+                                                                     isolation                                         also doing 
+                                                                     film.Catalysts:                                   research in this 
+                                                                     Developing a catalyst                             area.Second 
+                                                                     for synthesizing                                  generation CFCs: 
+                                                                     methanol using                                    Under development. 
+                                                                     CO/H[.sup]2[/]. 
+
+Germany    Volkswagen,           Microalgae: Researching culture     Putting more emphasis     Ocean disposal:         Second generation 
+           Mercedes Benz and     reactors.                           on acid rain than the     Developing a global     CFCs: Under 
+           other German                                              problem of CO[.sup]2[/]    distribution model.     development. 
+           automakers are                                            (DeNOX, 
+           carrying out basic                                        DeSOX).Catalysts: 
+           research.                                                 Pushing forward with 
+                                                                     R&amp;D on synthesizing 
+                                                                     methanol using 
+                                                                     catalytic hydrogenation 
+                                                                     and electrochemical 
+                                                                     reduction.Hydrogen 
+                                                                     absorbing alloys: 
+                                                                     Full-scale research. 
+
+France     CNRS (catalyst        Microalgae: Developing tubular      Not active in                                     Second generation 
+           research institute)   reactors Have made progress with    CO[.sup]2[/]                                       CFCs: Under 
+           is engaged in basic   pond cultures.Constructing an       immobilization work due                           development.Third 
+           research on           information network that will       to stress on nuclear                              generation CFCs: 
+           reaction              encompass the entire                power.Catalysts:                                  CFC manufacturers 
+           mechanisms.           EC.Breeding/photosynthesis          Developing catalysts                              are showing 
+                                 mechanism: Conducting basic         for CO,                                           interest. 
+                                 research.                           CO[.sup]2[/]/H[.sub]2[/] 
+                                                                     reactions. 
+
+United                           Breeding/photosynthesis             Film isolation: Setting   Ocean disposal:         Second generation 
+Kingdom                          mechanism: Conducting basic         up a development          Planning to throw       CFCs: Under 
+                                 research.                           program for               CO[.sup]2[/] into the    development. 
+                                                                     CO[.sup]2[/]/H[.sub]2[/]    Atlantic Ocean on a 
+                                                                     isolation film.Not        test basis as part of 
+                                                                     showing any activity in   coal research. 
+                                                                     area of recovering 
+                                                                     CO[.sup]2[/] as a useful 
+                                                                     substance. 
+
+Others     Italy: Carrying out   Australia: 10,000 hectares of       Canada: Isolation of      Netherlands: Studying   Second generation 
+           basic research at     pond culture.Canada: Researching    CO[.sup]2[/] gas using a   a method for            CFCs are being 
+           the EC                a continuous reactor for            liquid film.              dissolving it in        developed in a few 
+           Environmental         algae.Canada-Switzerland:           Netherlands: Full-scale   underground water       places. 
+           Research              Conducting basic research on the    development of            reservoirs.Norway: 
+           Institute.Belgium:    photosynthesis mechanism.India,     technology for            Proposing a system of 
+           Kasorikuruben         Taiwan, Thailand, Mexico and        isolating CO[.sup]2[/]     introducing 
+           (phonetic)            Singapore are also working with     using liquid and          CO[.sup]2[/] into 
+           University is         pond cultures.                      polymer films.Austria:    relatively shallow 
+           engaged in basic                                          Promoting projects        waters of 500-1000m 
+           research.                                                 based on environmental    and allowing it to 
+                                                                     harmony energy            flow into the deeper 
+                                                                     strategies.               waters of the ocean. 
+                                                                                               Proposing tests in 
+                                                                                               the Atlantic Ocean. 
+
+52a. (*) There is reason to believe the U.S. is carrying out research on disposing of compressed CO[.sup]2[/] in the oceans, dried up gas 
+wells and on storing it as solid carbon. 
+
+
+<H3>  (Supplement) R&amp;D Undertakings in the U.S. Related to 
+Photovoltaic Power Generation. </H3>
+  The U.S. Department of Energy (DOE) has embarked on a 
+long-term program called SOLAR 2000 aimed at pooling the assets 
+of the national government, private industry and investors to 
+bring about the early realization of full-scale 
+commercialization of photovoltaic power generation. This is a 
+three-pronged program comprising the following three (3) 
+elements: 
+  [1] Development of technology to enhance the efficiency and 
+lower the costs of solar batteries, and to evaluate the 
+performance and reliability of photovoltaic power generation 
+systems (PV Systems); 
+  [2] Creation of a favorable environment for the introduction 
+of a PV system market; and 
+  [3] Development projects designed to lighten the risks 
+involved with the commercialization of PV systems from the 
+standpoints of technology, construction/operation, regulation 
+and financing. 
+
+
+
+  ----------------------------------------------------------------------------- 
+|Mid- and Long-term Goals of Photovoltaic Power Generation Program (SOLAR 20| 
+|00)                                                                        | 
+----------------------------------------------------------------------------- 
+|                  |Current Status (a-|Mid-term Goals (19|Long-term Goals (2| 
+|                  |s of 1991)        |95-2000)          |010-2030)         | 
+----------------------------------------------------------------------------- 
+|Module efficiency |5-15              |10-20             |15-25             | 
+----------------------------------------------------------------------------- 
+|Power generation  |25-50             |12-20             |5-6               | 
+|costs ($/kWh) (199|                  |                  |                  | 
+|0 prices)         |                  |                  |                  | 
+----------------------------------------------------------------------------- 
+|Useful life (year-|10-15             |20                |30                | 
+|s)                |                  |                  |                  | 
+----------------------------------------------------------------------------- 
+|Total capacity (M-|&lt;50            |200-1,000         |10,000-50,000     | 
+|W)                |                  |                  |                  | 
+----------------------------------------------------------------------------- 
+|(Research by NEDO)                                                         | 
+----------------------------------------------------------------------------- 
+
+
+  (Remarks) Sources of Items Cited in Reference 3. 
+
+  -  Energy Policies of IEA Countries 1991 Review (OECD/IEA) 
+  -  Overseas Information on New Energy (NEDO) 
+  -  Overview of Energy Situations and New Energy R&amp;D by 
+Country 
+(NEDO) 
+  -  Current State of Cooperation and Future Direction of New 
+Energy 
+(United States, United Kingdom, Germany, France and Canada) 
+(NEDO) 
+  -  Handbook of Energy Alternatives to Petroleum 1992 Edition 
+(Published by the Agency of Natural Resources and Energy) 
+  -  FY1992 Science and Technology White Paper (Published by 
+Science 
+and Technology Agency) 
+
+<H5>    (Reference 4) Overview of the Global Regeneration Plan </H5>
+
+
+
+
+
+
+
+
+
+
+
+<H5>  International Communiques Regarding Global Regeneration Plans </H5>
+<H3>  1. Principle 9 ``Science and Technology'' from the Rio de 
+Janiero Communique of June, 1992 </H3>
+  Nations, in line with the exchange of scientific and 
+technological knowhow, must cooperate to reinforce the 
+enhancement of capabilities for sustainable development by means 
+of increasing the development, application, dissemination and 
+transfer of technologies, to include new and revolutionary 
+technologies. 
+<H5>  2. Agenda 21 (June, 1992) </H5>
+<H3>  Chapter 9 ``Preservation of the Atmosphere (Global Warming, 
+Acid Rain and Protection of the Ozone Layer)'' </H3>
+
+  -  Promote research of the mutual relationship between 
+atmospheric changes and societies/economies; 
+  -  Development and promotion of low-pollution transportation 
+systems; 
+  -  Development, improvement and application of environmental 
+impact evaluation technologies; 
+  -  Strengthening of development capabilities aimed at creating 
+manufacturing processes that are safe, easy on the environment 
+and make efficient use of energy; 
+  -  Research on the impact of increased ultraviolet rays, and 
+formulation of countermeasures based on that research; and 
+  -  Development of alternatives for ozone-depleting substances 
+like 
+CFCs. 
+
+<H5>    Chapter 10 ``Forests'' </H5>
+
+  -  Strengthening of R&amp;D activities related to the 
+application 
+of improved genes and biotechnology toward the enhancement of 
+productivity and environmental stress endurance. 
+
+<H5>    Chapter 12 ``Prevention of Droughts and Desertification'' </H5>
+
+  -  Promotion of the development of technologies for 
+maintaining and acquiring water designed to prevent droughts and 
+desertification; 
+  -  Development, experimentation and introduction of 
+drought-resistant, high productivity plants. 
+
+<H5>    Chapter 17 ``Marine Environments and Biological Resources'' </H5>
+
+  -  Coordination of organized observations of key 
+investigative elements in the management of the oceans; 
+  -  Strengthening of research activities aimed at reducing, 
+controlling and preventing the degeneration of marine 
+environments. 
+
+<H5>    Chapter 18 ``Fresh Water Resources (Rivers)'' </H5>
+
+  -  Application of new technologies aimed at minimizing 
+pollution; 
+  -  Promotion of a comprehensive approach that integrates 
+technological, socioeconomic, environmental and health problems; 
+  -  Promotion of recycling and waste disposal methods that do not 
+bring about the degeneration of the environment. 
+
+<H3>    Chapter 19 ``Sound Management of Toxic Chemical Substances 
+from an Environmental Standpoint'' </H3>
+
+  -  Development of capabilities for dealing with accidents; 
+  -  Strengthening of R&amp;D on safe alternative substances; 
+  -  Promotion of technologies for minimizing the discharge of 
+toxic 
+chemical substances in all countries. 
+
+<H5>    Chapter 20 ``Toxic Wastes'' </H5>
+
+  -  Preparation of a comprehensive research program related to 
+toxic wastes; 
+  -  Increased support for R&amp;D of green technologies that 
+make use 
+of biotechnology. 
+
+<H3>    Chapter 21 ``Sound Management of Ordinary Waste Materials 
+from an Environmental Standpoint'' </H3>
+
+  -  Strengthening of research into environmentally-safe 
+technologies beginning with those that employ means of 
+minimizing waste; 
+  -  Promotion of research activities and information related to 
+the 
+sound reutilization and recycling of waste materials from an 
+environmental standpoint. 
+
+<H5>    3. Economic Communique from the Munich Summit of June, 1992 </H5>
+  Promotion of the development and dissemination of energy- 
+and 
+environment-related technologies, to include demands for 
+revolutionary technological programs. 
+<H5>  4. Economic Communique from the London Summit of July, 1991 </H5>
+  Promotion of the development and dissemination of energy- 
+and 
+environment-related technologies. 
+<H5>  5. Economic Communique from the Houston Summit of July, 1990 </H5>
+
+  Recognize the need for joint efforts at development within 
+the next several leap years of environmentally-safe technologies 
+and methods for complementing energy conservation and other 
+means of reducing the emissions of CO[.sup]2[/] and other 
+greenhouse effect gases. 
+
+

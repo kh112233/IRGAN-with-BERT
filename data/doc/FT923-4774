@@ -1,0 +1,92 @@
+FT  04 SEP 92 / Technology: Heavies move in - After years of work in mass
+production, robots are taking on bigger jobs
+The drive for competitiveness and low-cost production may have made the car
+industry the natural home for the world's robot population, but Karlheinz
+Langner and his colleagues at IGM Robotersysteme have other ideas.
+Langner, a managing board member at Austria's only robotics company, has his
+sights set on industry's heavy brigade. Less visibly than their counterparts
+in the car industry, but with increasing urgency, manufacturers of heavy
+equipment - anything from excavators to steel bridge sections - want to
+improve their product quality and reduce cycle times, increase their
+manufacturing flexibility and clean up their workplace.
+All these issues, in varying degrees, have been tackled successfully by the
+mass-production car industry with the use of robots, but heavy industry is
+very different.
+In recent years, many heavy engineering companies have been reticent about
+robots. They may have been put off by the robot suppliers' sales patter or
+unconvinced that a robot can cope with welding, for example, a crane boom or
+bulk handling container, particularly if each item to be welded might be
+slightly different from the previous one.
+Or they might simply have jibbed at the expense - as much as Dollars 350,000
+(Pounds 175,000) for a sophisticated system with one or more robots, slides,
+gantries and devices to rotate a workpiece that could weigh as much as 15
+tonnes. And having purchased a system, some customers have had to solve
+software problems themselves to get the robot working correctly.
+But companies such as IGM, which celebrates its silver jubilee this year,
+are spending heavily to find new solutions for the use of robots in heavy
+industry, and that, in turn, broadens the market for the robot suppliers.
+Some sectors such as shipbuilding, for instance, are only now waking up to
+the opportunities for using robots, which were simply not available five
+years ago.
+Anybody who has visited a modern car factory cannot fail to be impressed by
+the serried ranks of robots spot welding body sections or inserting
+dashboards. Such machines, however, are worlds apart from those produced by
+IGM, which specialises in arc or continuous path welding and some cutting
+robots, and its rivals at the heavy end of the welding equipment industry
+such as Esab of Sweden and Cloos of Germany.
+A continuous weld is the norm in construction equipment, for example, to
+cope with the immense stresses to which plant will be subjected during its
+working life, and demands for high-quality welding are increasing.
+Grappling with the welding of an excavator boom could require up to 16 axes
+of movement from the robot and its surrounding equipment, putting pressure
+on the robot supplier not only to design the system correctly in mechanical
+terms but to ensure that the software and sensor systems are sufficiently
+sophisticated and fast to cope.
+In such a market, says Langner, understanding the customer's needs is of
+vital importance. But when almost every customer has a different problem
+that may require a customised solution, the challenge could be too great for
+a small company such as IGM, without the years of experience that produces a
+clear product strategy.
+Each robot supplier has a different approach, but IGM's is based on two
+vital elements, says Langner: a modular design system to allow the company
+to respond to individual customers' needs without having to reinvent the
+wheel, and the decision to keep all control systems development in-house.
+Broadening the appeal of robots to heavy industry requires a combination of
+developing the business end of the system (the welding itself), taking the
+robot's mechanical engineering to the limits, and constantly updating and
+improving the control systems.
+IGM develops welding systems together with Fronius, an Austrian welding
+equipment company - for the customer, after all, the quality of the weld is
+the proof of the pudding. The robot supplier recently introduced a new
+high-performance welding technique known as Time (transferred ionised molten
+energy), developed originally by a Canadian metallurgical expert.
+IGM has also developed an automatic head change facility, allowing welding
+to be followed by flame cutting in one continuous cycle. This is being used
+by a UK customer for welding steel bridge sections.
+As in machine tools, however, while mechanical developments near their limit
+it is the brains of the robot system - its software and sensors, and the
+programming - that is receiving the lion's share of attention. This is where
+the acronyms really begin to proliferate.
+So-called off-line programming, where the robot is set up for the next job
+without disturbing its present task, is particularly important when it could
+take many hours, if not days, to start up a new component on a welding
+robot.
+IGM's latest contribution is IOPS, which uses computer-aided simulation of
+production cells and manufacturing lines to get the best configuration of
+the welding cell for each workpiece.
+Another important result of the company's R&amp;D work is ISIP, a new
+optoelectronic camera system for measuring weld grooves. This uses optical
+sensors to determine the position and geometry of the fabrication,
+underlining the growing importance of vision systems as the 'eyes' in an
+increasingly complex 'eyes-brain-hand' environment.
+Perhaps the most significant development at IGM, however, lies at the heart
+of the robot software. In a few weeks' time, the company will have running a
+prototype of a new robot controller based on the transputer, the Inmos
+superchip. IGM had realised some five years ago that it needed to have a
+more powerful control system, says Langner, and the new controller will
+increase control speeds by a factor of 10.
+The new control should be on IGM's robots by next year, but Langner also
+sees applications for the control outside robotics, with initial demand of
+about 500-1,000 units a year, compared with the 150-200 IGM will need each
+year for its robots. 'But we will not market it by ourselves,' Langner
+stresses.

@@ -1,0 +1,121 @@
+ 
+
+
+
+
+
+
+
+<USDEPT>SECURITIES AND EXCHANGE COMMISSION</USDEPT>
+
+
+
+<RINDOCK>[Release No. 3433887; File No. SRGSCC942]</RINDOCK>
+
+
+
+Self-Regulatory Organizations; Government Securities Clearing Corporation: Filing of a Proposed Rule Change
+Relating to the Comparison and Netting of Non-Member Trades
+
+
+
+April 8, 1994.
+
+
+
+Pursuant to section 19(b)(1) of the Securities Exchange Act of 1934 (``Act''),
+<FOOTCITE>1</FOOTCITE>
+ notice is hereby given that on March 28, 1994, the Government Securities Clearing Corporation (``GSCC'') filed with
+the Securities and Exchange Commission (``Commission'') the proposed rule change as described in Items I, II, and
+III below, which items have been prepared by GSCC. The Commission is publishing this notice to solicit comments on
+the proposed rule change from interested persons.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+1
+
+</FOOTNAME>
+15 U.S.C. 78s(b)(1) (1988).
+
+</FOOTNOTE>
+
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance of the Proposed Rule Change
+
+
+
+The proposed rule change would allow GSCC to continue to offer comparison and netting services for non-member trades
+which have been submitted to GSCC by netting members on behalf of non-members executing firms.
+
+
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change
+
+
+
+In its filing with the Commission, GSCC included statements concerning the purpose of, and basis for, the proposed
+rule change, and discussed any comments it received on the proposed rule change. The text of these statements may be
+examined at the places specified in Item IV below. GSCC has prepared summaries, set forth in sections (A), (B), and
+(C) below, of the most significant aspects of such statements.
+
+
+
+A. Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change
+
+
+
+(a) On December 13, 1991, the Commission approved, on a temporary basis through December 31, 1992, a rule change authorizing
+GSCC to implement a non-member, ``executing firm'' information feature as an enhancement to its comparison service.
+<FOOTCITE>2</FOOTCITE>
+ On December 23, 1992, the Commission extended its temporary approval of the executing firm feature until June 30,
+1994.
+<FOOTCITE>3</FOOTCITE>
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+2
+
+</FOOTNAME>
+Securities Exchange Act Release No. 30078 (December 12, 1991), 56 FR 66110.
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+3
+
+</FOOTNAME>
+Securities Exchange Act Release No. 31651 (December 23, 1992), 57 FR 62586.
+
+</FOOTNOTE>
+
+
+On February 14, 1992, GSCC introduced the executing firm feature, which allows trade data to be submitted to GSCC by
+a member (the ``submitting member'') on behalf of a non-member firm (the ``executing firm'') that it clears for by
+adding two new fields to the comparison system: (1) The name of the executing party associated with the member; and
+(2) the name of the executing party associated with the contra-party member. If a submitting member that is a netting
+member so elects, a netting eligible trade that it has submitted on behalf of an executing firm may be included in the
+net, and the submitting member would be obligated to GSCC as regards such trade to the same degree as if it itself had
+executed such trade; therefore, such trade would be considered for purposes of calculating the submitting member's
+mark and margin requirements. However, an eligible trade submitted by a submitting member on behalf of an executing
+firm will not be included in the net if the submitting member has informed GSCC that it does not wish, because of the type
+of relationship that it has with the executing firm (i.e., it does not normally guarantee settlement of such firm's
+trades), to have the trades executed by such firm be netted and novated by GSCC .
+
+Initially, participation in the executing firm feature was modest; however, participation has grown significantly
+over the past year. Currently, twelve GSCC members have agreements in place pursuant to which, collectively, they
+may submit data on trades executed by 271 non-members. GSCC expects that the number of submitting members and executing
+firms will continue to grow. GSCC has not experienced any operational or other problems with regard to the executing
+firm feature.
+
+GSCC believes that the executing firm feature provides significant benefit to the government securities industry
+by improving reconciliation of unmatched trade data and, thus, providing the benefits of GSCC's comparison process
+to a broader range of trades. This feature allows access by a greater number of firms (who may otherwise be ineligible
+for direct membership in GSCC's netting system) to GSCC's netting and risk management services, including broker-dealers
+and institutional customers. The result is that, through the executing firm feature, a greater number of government
+securities trades are being margined, netted, and guaranteed by GSCC than would otherwise be the case.
+
+

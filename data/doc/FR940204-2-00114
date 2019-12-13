@@ -1,0 +1,120 @@
+ 
+
+
+
+
+
+
+
+<USDEPT>NATIONAL AERONAUTICS AND SPACE ADMINISTRATION</USDEPT>
+
+
+
+<RINDOCK>[Notice 94006]</RINDOCK>
+
+
+
+
+
+Invention Available for Licensing
+
+
+
+<AGENCY>
+AGENCY: 
+
+National Aeronautics and Space Administration.
+
+
+
+</AGENCY>
+<ACTION>
+ACTION: 
+
+Notice of availability for licensing.
+
+
+
+
+
+
+</ACTION>
+<SUMMARY>
+SUMMARY: 
+
+The invention listed below is owned by an agency of the U.S. Government and is available for licensing in the U.S. in
+accordance with 35 U.S.C. 207 to achieve expeditious commercialization of results of federally funded research
+and development.
+
+
+
+
+
+
+U.S. Patent Application Number 08/129,294, filed September 24, 1993, and entitled ``Ultrasonic Dynamic Vector
+Stress Measurement Method and Sensor''_The present invention relates in general to dynamic stress measurement
+when a material is put under a load and more particularly to a method and apparatus for measuring changes in stress via
+a pulsed phase locked loop technique.
+
+
+A stress measurement method and sensor according to the invention consists of directly and dynamically measuring
+stress changes at the location touched by a probe device when a material or structure is placed under a load. Electronics
+employing a pulsed phase locked loop (P2L2) technology are coupled to a probe system which is placed in contact with
+a material under stress. A gated signal from the voltage controlled oscillator (VCO), a free running oscillator on
+all the time, drives the transducer exciter at the transmitter and causes an acoustic wave to be propagated across
+a sample under stress. The VCO also sends a reference signal to the mixer. The output of the mixer represents the phase
+difference of the reference and propagated signals and serves as a feedback signal to the VCO. This phase difference
+tracks the changes in stress in the sample. The P2L2 reacts to the change in stress by changing its operating frequency
+according to a specified relationship. The AC component of the feedback signal represents the change in voltage needed
+to keep the system in quadrature to follow the change in stress. This signal is extracted for amplitude calibration.
+Calibration is accomplished by placing the probe on a plate of similar propagation factors and a known cyclic change
+in applied stress. The resulting AC signal multiplied by a calibration factor is equal to the stress.
+
+The invention claimed in this patent application is available for licensing on an exclusive, partially exclusive
+or nonexclusive basis for upfront, running and annual minimum royalty payments to a partner committed to commercializing
+this technology.
+
+
+
+
+
+
+</SUMMARY>
+<ADDRESS>
+ADDRESSES: 
+
+Licensing information and a copy of the U.S. Patent Application (without the claims) may be obtained by writing to
+Kimberly A. Chasteen at the Office of Patent Counsel, Mail Stop 143, NASA Langley Research Center, Hampton, VA 236810001
+(telephone (804) 8643227, fax (804) 8648298). Please note the case number, LAR14,4331,
+when requesting information.
+
+
+
+
+
+Dated: January 28, 1994.
+
+
+</ADDRESS>
+<SIGNER>
+Edward A. Frankle,
+
+
+</SIGNER>
+<SIGNJOB>
+General Counsel.
+
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 942528 Filed 2394; 8:45 am]
+
+
+</FRFILING>
+<BILLING>
+BILLING CODE 751001M
+</BILLING>
+
+
+
+

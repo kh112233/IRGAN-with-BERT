@@ -1,0 +1,36 @@
+Language: <F P=105> French </F>
+Article Type:CSO 
+
+<F P=106> [Article: "Robsyc Born of CEA Alliance With B + </F>
+Developpement"] 
+  [Text] The robotics unit of the CEA [Atomic Energy 
+Commission], located at Fontenay aux Roses (Hauts de Seine), and 
+B + Developpement, have developed a robot, Robsyc, capable of 
+repositioning small objects accurately and rapidly. Robsyc is 
+probably the world's fastest robot today over long 
+distances--1.5 meters--owing to accelerations of 8 G, and is 
+capable of handling randomly positioned containers weighing 2 
+kilograms, lift them by means of suction at the rate of 80 
+containers per minute, and reposition them in orderly layers at 
+the rate of 8 meters per second. Its precision of plus or minus 
+0.5 mm is provided by a simple mechanism based on flat belting 
+and capable of four degrees of freedom. B + Developpement (18 
+persons and annual revenue of 20 million francs) is located in 
+Gemenos, near Marseille. It specializes in "mechanotronics" and 
+works under contract on new designs of materials-handling 
+robots. According to Gilbert Gras, a B + Developpement engineer, 
+Robsyc's capabilities are essentially the result of the very 
+innovative architecture of its command control system. To the 
+classic "process + corrector" system, the CEA has added three 
+model modules: inverse, observer-predictor, and behavior. The 
+combination corrects, in real time, the difference between 
+calculated and actual trajectories, by means of rapid computing 
+cards based on distributed signal processing using industrial 
+PC's. Today, Robsyc is a feasibility demonstrator prototype. In 
+the coming months, B + Developpement will adapt it to 
+multiple-object selective sorting (handling of wholesale 
+pharmacist deliveries), and emboxing (depositing of products in 
+cellular-like container or arrangement of containers) for the 
+agricultural food products industry (fancy boxed chocolates, for 
+example). 
+

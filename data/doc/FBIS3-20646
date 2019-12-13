@@ -1,0 +1,510 @@
+Language: <F P=105> Chinese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Ouyang Yu [2962 7122 0056] and Qian Juexin [6929 </F>
+6030 2450] of the Shanghai Nuclear Engineering Research and 
+Design Institute: "Technical Features of First Run-Up Test of 
+Turbine-Generator Unit at the Qinshan Nuclear Power Plant"] 
+  [Text] 
+<H5>  Abstract </H5>
+  On 29 March 1991, the first run-up test of the Qinshan 
+nuclear power plant's turbine-generator unit succeeded with 
+non-nuclear steam and reached the rated speed of 3,000 
+revolutions per minute. The steam was generated from the heat 
+converted from the mechanical rotation energy of the main pump 
+in the primary loop. The features of this successful run-up test 
+are: 1) the cost of a de-bugging boiler is avoided; and 2) the 
+coordination test of the primary and secondary loops is 
+conducted. This paper presents a concise report on the technical 
+preparation, testing process, and results of the 
+turbine-generator unit run-up with non-nuclear steam. 
+<H3>  1. Power Installation and De-Bugging at Qinshan Nuclear 
+Power Plant </H3>
+<H5>  1.1 Outline of Power Installation </H5>
+  The power installation at Qinshan nuclear power plant 
+consists of the following three groups: the pressurized-water 
+reactor, the primary loop system, and the secondary loop system. 
+The parameters of the reactor and the reactor coolant system 
+are: working pressure, 15.2 MPa; average temperature, 302C; 
+rated flow, 24,000 tons per hour (t/h); rated reactor thermal 
+power, 966 MW; and is projected to reach 1035 MW. For the 
+secondary loop system the parameters are: rated steam flow, 1870 
+to 2020 t/h; pressure, 5.2 to 5.54 MPa. The steam is capable of 
+generating electricity of 310 to 330 MW. 
+  The reactor coolant system is composed of two loop circuits 
+connected in parallel. Each loop circuit has one steam generator 
+and one main coolant pump. All the components in each circuit 
+are connected to the reactor with 316 stainless steel tubes 
+forming a sealed circuit. In addition, the system contains one 
+pressure regulator and one pressure relief box as well as 
+instruments and valves for operation control and safety 
+protection. 
+  In addition to the main system, the primary loop has 16 
+auxiliary systems whose functions are divided into three 
+categories as follows: 
+  (1) The starting and shut-off system for the operation of 
+the 
+reactor and the primary loop, including: chemical volume control 
+system, boron recovery system, main pump water sealing system, 
+water draining system, equipment cooling water system, reactor 
+shut-off cooling system, and sample collection system. 
+  (2) The safety and emergency system, including the safety 
+injection system, the safety shell sprinkling system, and the 
+de-hydrogen system. 
+  (3) Environmental protection system, such as waste gas and 
+liquid waste processing system, as well as liquid waste 
+solidification and solid waste processing system. 
+  The main installation in the secondary loop is the 
+turbine-generator unit. At the Qinshan nuclear power plant, the 
+saturated steam turbine is of the condensing steam type having 
+single shaft, three cylinders, and four exhausts. The generator 
+with inner water-cooled stator and rotor is brushless, magnetic 
+exciting, three-phase alternating current generator. Its 
+terminal voltage is 18 kV, with a rotating speed of 3,000 
+revolutions per minute (RPM). Between the high-pressure cylinder 
+and low-pressure cylinder of the turbine, two steam-water 
+separation heaters are installed to eliminate moisture and to 
+heat up the steam. During turbine load shedding, 70 percent of 
+the steam can quickly enter the condenser through the bypass 
+after its temperature and pressure are reduced to prevent shock 
+to the reactor due to excessive load change. If leakage in the 
+main steam pipe occurs, the steam flow rate will be limited by 
+the flow restrictor installed at the outlet of the steam 
+generator so that the tendency of reactor overcooling due to the 
+excess loss of steam is reduced. The condenser is cooled with 
+sea water. The condensed water is de-salted 100 percent to 
+assure water quality. 
+<H5>  1.2 De-Bugging Process at Qinshan Nuclear Power Plant </H5>
+  The pressure test of the coolant system is completed on 5 
+November 1990, which indicates that the Qinshan nuclear power 
+project has progressed to the overall de-bugging phase. 
+  The Qinshan nuclear power plant de-bugging is conducted in 
+A, 
+B, and C stages. Stage A, the preliminary test, includes the 
+cold state test (A[.sup]1[/]) and the hot state test 
+(A[.sup]2[/]). The characteristics are as follows: more test 
+items, longer cycles, and more crisscross complexities. Because 
+the Stage A test is before the nuclear fuel loading, we hope 
+that all possible problems will show up and be discovered at 
+this early stage, so that adjustment of the system and equipment 
+can be made under non-radiative conditions. At the same time, we 
+hope that the equipment defects that take long cycles of 
+corrective measures will also be exposed. Stage B consists of 
+nuclear fuel, loading as well as the cold state and hot state 
+tests after the loading (B[.sup]1[/]); the first reactor 
+critical test (B[.sup]2[/]); and the low power test 
+(B[.sup]3[/]). Between Stages A and B, there is a period of 
+three to four months for installation, system adjustment, and 
+repair, as well as for the safety shell's strength and sealing 
+tests. Stage C is the rated power test of the generator, in 
+which the power is gradually to its full rated output. Then the 
+complete project is to be checked and accepted by the State. 
+<H3>  2. Run-Up of Nuclear Power Turbine-Generator Unit and Its 
+Timing Selection </H3>
+<H5>  2.1 Nuclear Power Turbine-Generator Unit </H5>
+  Based on the American Westinghouse building block model 
+(BB051, BB074) with some modifications, the steam turbine of the 
+Qinshan nuclear power plant's 300MW turbine-generator unit is of 
+the condensing steam type with a single shaft, three cylinders, 
+and four exhausts, designed and manufactured by the Shanghai 
+Steam Turbine Factory. The generator, with a rated power of 
+310MW, is manufactured by the Shanghai Electric Machinery 
+Factory. 
+<H5>  3.3 Timing Selection for First Run-Up of Turbine-Generator </H5>
+  The turbine-generator unit is 40 meters (m) long and 7.5 m 
+wide. Any major mechanical trouble during run-up would cause 
+serious economic loss, therefore the timing of the 
+turbine-generator run-up is crucial. 
+  According to the aforementioned de-bugging stages, during 
+Tests A[.sup]2[/] and B[.sub]1[/] the primary loops can 
+generate non-nuclear steam for turbine run-up. However, during 
+the run-up period the primary loop goes through a large 
+temperature and pressure change, hence, in Test B[.sup]1[/] 
+with the fuel already loaded, the abnormal temperature and 
+pressure change will unfavorably affect the nuclear fuel 
+components and other parts. Therefore, the first run-up of the 
+turbine-generator unit should not be conducted during Test 
+B[.sup]1[/]. 
+  The turbine unit run-up test is also a large-scale combined 
+de-bugging test of the primary and the secondary loops, 
+therefore, it is appropriate to conduct the first run-up in the 
+later phase of Test A[.sup]2[/]. Besides, there is a period 
+of three to four months for equipment adjustments and 
+corrections after the completion of Test A[.sup]2[/]. Hence, 
+any run-up malfunction can be identified and corrected during 
+that period. 
+  To sum up, the first run-up of the turbine-generator unit is 
+scheduled for the later phase of the hot-state test 
+(A[.sup]2[/]) in the preliminary test stage. 
+<H5>  3. Test Goals </H5>
+  (1) To measure the vibration amplitudes and phases of all 
+the 
+bearings during unit speed increase, the critical rotating 
+speed, and to verify the balance standard of the turbine 
+generator's shaft system. 
+  (2) To verify the bearing temperature, and the operation of 
+the control set-up, as well as to investigate whether the 
+various oil pressure indications meet the requirement. 
+  (3) To inspect whether all the moving parts operate 
+normally. 
+<H5>  4. Selection of Steam Source for First Run-Up </H5>
+<H5>  4.1 Selection of Steam Source </H5>
+  Overseas experiences in nuclear power plant installations 
+reveal that steam sources for the first run-up test of 
+turbine-generator unit are as follows: 
+  (1) Installation of a de-bugging boiler with sufficient 
+steam 
+capacity. 
+  (2) Utilization of existing steam available at the old 
+plant. 
+  (3) Utilization of the rotating energy of the reactor 
+coolant 
+pump to heat up the main system; as well as using the heat 
+capacities of the system and the equipment to generate 
+non-nuclear steam from the steam generator to perform the run-up 
+of turbine-generator unit. 
+  The Qinshan nuclear power plant is located at Qinshan, 
+Haiyan 
+County, Zhejiang Province. Since the new location has no nearby 
+power plant or steam supply, the steam source for the first 
+run-up is a choice of either installing a de-bugging boiler or 
+taking advantage of the main pump energy. 
+<H5>  4.2 Selection of Steam Source for Qinshan Turbine Run-Up </H5>
+<H5>  4.2.1 Comparison of Plans </H5>
+  There have been successful experiences abroad in the 
+turbine-generator unit run-up with non-nuclear steam produced 
+from either de-bugging boilers or main pump energies, especially 
+that there is no significant problem with de-bugging boilers 
+present practically no serious problems. However, most of the 
+nuclear power stations utilizing non-nuclear steam to run-up 
+turbines are those having well-developed turbine-generator units. 
+  The de-bugging boiler can fully provide flexibility during 
+the de-bugging of the second loop and the turbine-generate unit; 
+however, it will amplify the construction cost, time and land 
+required. A standard medium-pressure boiler will produce steam 
+at 110-130 t/h with steam pressure of 3.8 MPa. The boiler proper 
+costs 3 million yuan. It will be over 4 million yuan with the 
+additional investments of matching auxiliary components and 
+boiler modifications. 
+  Overseas experiences show that the steam energy required to 
+start a mega-kilowatt class turbine-generator unit, and to run 
+at the rated rotating speed is 2-3 percent of the rated steam 
+consumption. As estimated by the Shanghai Steam Turbine Factory, 
+the turbine-generator unit of the Qinshan nuclear power plant 
+probably requires 5-7 percent rated steam consumption, i,e. 
+100-140 t/h of steam with pressure greater than 1.96 MPa. 
+  Although there is no extra investment and construction space 
+involved, the utilization of non-nuclear steam from the rotating 
+energy of the main pump in the reactor coolant system has 
+certain degrees of difficulty and risk, identified mainly in the 
+following areas: 
+  (1) At present, none has the experience to run-up a 
+turbine-generator unit with non-nuclear steam at the full-rated 
+speed of 3,000 rpm. 
+  (2) Since this is the first nuclear power turbine-generator 
+unit in China, we lack accurate data on the function of the 
+turbine-generator unit, the power demand for run-up, and other 
+parameters. 
+  (3) The reactor coolant system of the Qinshan nuclear power 
+plant is composed of two loop circuits. Yet, the run-up 
+experiences in foreign countries are in great part based on 
+systems with four loop circuits. The two-circuit system and the 
+four-circuit system are quite different in energy generation and 
+storage. 
+  To sum up, the difficulty lies in whether the Qinshan 
+nuclear 
+power plant's main system can generate and store enough energy 
+to run-up the turbine-generator unit to the rated operating 
+speed and to maintain a steady operation. 
+<H5>  4.2.2 Energy Calculation of the Non-Nuclear Steam Source </H5>
+  The main system of the primary loop utilizes the heat from 
+two reactor coolant pumps and the electric heating elements of 
+the pressurizer to raise the system temperature and pressure 
+from room condition to 280C and 15.2 MPa as well as to 
+maintain normal operation under these parameters. At this time, 
+the steam pressure in the steam generator is 6.32 MPa. Due to 
+the fact that the input energy of the main pump is far smaller 
+than the energy required to run-up the turbine, after the 
+turbine is started, the pressure of the steam generator 
+gradually drops; subsequently, the temperature and the pressure 
+of the main system drop accordingly. Therefore the final 
+turbine-generator run-up state is determined by the operation 
+safety limit of the main system. 
+<H5>  4.2.2.1 Basis of Heat Engineering Calculation </H5>
+  The highest liquid level of the steam generator is 11.4m; 
+the 
+lowest, 9.675m. 
+  The initial steam pressure of the steam generator is 6.32 
+MPa; the lowest, 2.94 MPa. 
+  The lowest liquid level of the pressurizer is 2.5m. 
+  The initial pressure of the pressurizer is 15.2 MPa; the 
+lowest, 11.27 MPa. 
+  The initial temperature of the system is 280C; the 
+lowest, 235C. 
+<H5>  4.2.2.2 Calculation of Main System Energy Output </H5>
+  Heat released by the two main pumps running continuously 
+(Q[.sup]p[/]): 
+
+
+  Secondary side heat released from the steam generator 
+(Q[.sup]g[/]) 
+  Q[.sup]g[/] = q[.sub]i[/] - q[.sub]f[/] (kcal), 
+  where, q[.sup]i[/]: heat capacity of the steam generator 
+at the initial state; 
+  q[.sup]f[/]: heat capacity of the steam 
+generator at the final state. 
+  Then, the total steam energy generating capacity from the 
+main system (including the steam generator secondary side heat) 
+during the run-up of the turbine-generator unit (Q[.sup]T[/]): 
+  Q[.sup]T[/] = Q[.sub]p[/] x T + Q[.sub]m[/] + 
+Q[.sup]s[/] + Q[.sub]g[/] + Q[.sub]e[/] - 
+q[.sup]d[/] - q[.sub]c[/] 
+  where, Q[.sup]e[/]: heat from the electric heating 
+elements of pressurizer; 
+  q[.sup]d[/]: heat dissipated from the main 
+system; 
+  q[.sup]c[/]: heat carried away by the chemical 
+volume control system; 
+  T: duration of the turbine run-up, hours (h). 
+<H3>  4.2.2.3 Calculation of Steam Supplied By the Steam Generator 
+During the Run-Up Period (G </H3>
+[.sup]g[/]). 
+  G[.sup]g[/] = G' + G" (t) 
+  where, G': steam generated from the steam generator without 
+feeding water; 
+  G": steam generated from the steam generator during 
+water feeding; and 
+
+
+  Based on the above calculation, during the turbine run-up 
+period, in 30 minutes the primary loop can supply the turbine 
+unit 43.6t of saturated steam with 6.32-2.94 MPa. 
+<H3>  4.2.3 Calculation of Liquid Level Change in the Pressurizer 
+During Run-Up </H3>
+  During run-up of the turbine-generator unit, the main system 
+energy output causes reactor coolant temperature drop, which in 
+turn causes coolant contraction. Although the deficit can be 
+replenished with water in the pressurizer, yet the liquid level 
+in the pressurizer must not drop so low as to expose the 
+electric heating elements. To prevent this, during run-up the 
+feeding water flow has to be increased to replenish water to the 
+main system, and consequently heat consumption of the main 
+system increases. 
+  This calculation aims at determining the initial liquid 
+level 
+in the pressurizer before the run-up, and whether it is 
+necessary to replenish water to the main system during the 
+run-up. 
+  Based on the heat engineering calculation, the temperature 
+of 
+the reactor coolant drops from 280C to 235C; and the 
+pressure, from 15.2 MPa to 11.27 MPa. The changing of the 
+coolant density causes the change of total water volume in the 
+main system, namely, the liquid level in the pressurizer drops. 
+
+<FIG ID=JPRS-CEN-002C-39A>           Formula </FIG>
+
+
+
+  According to the calculation, at the end of the 
+turbine-generator run-up, the contraction of the main system 
+coolant causes a drop of the pressurizer liquid level to 2.57m, 
+which is more than marginally above the electric heating 
+elements. 
+<H5>  4.2.4 Assurance Measures </H5>
+  During the turbine-generator run-up, the estimated required 
+steam is 50 to 70 tons. Certain effective measures must be 
+adopted to assure the successful run-up at the first trial. 
+<H5>  4.2.4.1 Realigning Steam Pipeline Layout of Starting Steam </H5>
+
+Extractor. 
+  By normal starting procedure at a nuclear power plant, the 
+working steam for the condenser steam extractor is the freshly 
+generated steam from the steam generator. Each starting steam 
+extractor requires 7000 kg/h working steam with 0.88 to 55.4 MPa 
+pressure. Two starting steam extractors are installed at the 
+Qinshan nuclear power plant. The system layout is shown in 
+Figure 1. 
+
+
+
+  The Qinshan nuclear power plant is equipped with two plant 
+boilers to supply heat to the plant and steam to the auxiliary 
+system of the primary loop whenever the reactor is not in 
+operation. Each boiler supplies steam at the rate of 10t/h with 
+1.27 MPa pressure. For the run-up, the steam pipeline is 
+realigned in such a way that the boiler steam can flow directly 
+
+<FIG ID=JPRS-CEN-002C-39B>           Figure 1. Steam System Flow Diagram of Qinshan Nuclear Power Plant </FIG>
+
+to the starting air extractors. At the same time, the boiler 
+steam is also used as heating steam for the de-oxygen device in 
+the second loop. With this arrangement the non-nuclear steam 
+from the primary loop can be solely used as turbine-generator 
+run-up. 
+<H3>  4.2.4.2 Raising the Temperature of Feeding Water to Steam 
+Generator. </H3>
+  The temperature of the de-oxygen water in the de-oxygen 
+device and de-oxygen feeding water tank is raised to the highest 
+possible degree with plant steam. Thus, the enthalpy in the 
+water fed to the steam generator is increased, resulting in the 
+slight increase of steam output. 
+<H5>  4.2.4.3 Re-Analysis of Limits for Main System Operation </H5>
+  Through the instantaneous analysis of the main system, 
+calculation shows that the operation limits can be lowered. 
+  In addition, the quality of the turbine-generator unit is 
+warranted. We believe that the original estimation for run-up 
+steam consumption, 5-7 percent of the rated steam consumption, 
+is more than required. 
+  The above analysis indicates that the non-nuclear steam 
+run-up of the turbine-generator is feasible, therefore, the plan 
+of using non-nuclear steam to run-up the turbine generator unit 
+is decided to carry on. 
+<H5>  5. Implementation of Turbine Run-Up </H5>
+<H5>  5.1 Preliminary Test </H5>
+  On 27 and 28 March 1991, five run-ups of the 
+turbine-generator unit with non-nuclear steam were conducted, 
+among which three run-ups were preliminary tests. The rotating 
+speed of the first preliminary test started at 50 rpm and 
+gradually increased to 600 rpm. Friction inspection of the unit 
+was conducted after the operation became steady. The second test 
+used the same rotating speed pattern. Overall inspection was 
+conducted on the unit and system after steady operation. The 
+speed of the third preliminary test started from 100 rpm, 
+increased to 600 rpm, and was maintained at that speed for five 
+minutes. Subsequently, the unit was operated at the starting 
+speed of 150 rpm and then raised to 1200 rpm. The unit and 
+system was completely inspected during the steady operation 
+period (test results will be reported in another paper). After 
+the three preliminary tests, the condition of the unit was 
+satisfactory. With some other adjustments, the unit was on 
+standby for the run-up. 
+  Incorporating experiences learned from the preliminary 
+tests, 
+the following measures are to be taken to assure the successful 
+first run-up of the turbine-generator unit to the rated speed of 
+3000 rpm. 
+  Take timely measures to operate the electromagnetic valve of 
+the main steam isolation valve to reduce steam leak. 
+  Carefully control the water-drainage before the main steam 
+isolation valve to assure operation safety as well as to reduce 
+direct steam consumption. 
+  In the gathering and recording of test data, unify the 
+command with increased proficiency and the use of microprocessor 
+to minimize interruption while the run-up test is in progress. 
+  Adjust the main system operation limits within the design 
+tolerance during the run-up test. 
+<H5>  5.2 Run-Up Test </H5>
+  On 29 March 1991 
+  1900 [Time]: With a long period of preparation, and 
+adjustments after the three preliminary tests, the primary and 
+secondary loops and the turbine-generator unit of the Qinshan 
+nuclear power plant reached satisfactory starting state and the 
+major parameters of the main system were attained: outlet steam 
+pressure and liquid level of the steam generator, 5.25 MPa and 
+11.81m, respectively; average temperature of the main system, 
+283C; as well as pressure and liquid level of the 
+pressurizer, 15.2 MPa and 8.5m, respectively. 
+  1914: The bypass valve of the steam isolation valve was 
+opened first. When the steam pressure was equalized, the main 
+steam isolation valve was opened. 
+  1919: The turbine-generator unit started running, and its 
+rotating speed was increased by 100 rpm. When the speed reached 
+600 rpm, the unit was allowed to run steadily for a few minutes 
+for inspection. Then its speed was increased by 150 rpm. When 
+the speed reached 1200 rpm, the unit was maintained steadily at 
+that speed for 10 minutes for complete inspection and 
+measurement of bearing vibration. When the inspection results 
+were considered satisfactory, the speed of the unit was 
+increased by 150 rpm, targeting at the rated rotating speed. 
+When the speed was being increased, supervision and inspection 
+of the unit were enhanced, and bearing vibration was 
+continuously measured to pinpoint the critical rotating speed of 
+the unit's shaft system. 
+  1951: For the first time, the turbine-generator unit of the 
+Qinshan nuclear power plant reached the rated speed of 3000 rpm 
+and operated steadily at that speed. A series of test data were 
+measured and recorded in the following areas: unit vibration, 
+metal temperature of cylinders, cylinder expansion, lubricating 
+oil temperature and pressure for bearings, as well as the main 
+steam pressure, the condenser vacuum and others. During data 
+collection, complete inspection of the unit was conducted, and 
+no abnormal symptom was observed. Following the standard 
+procedure, the unit operation was stopped, and the unit idling 
+test was conducted. Inspections were conducted on the automatic 
+main steam valve, regulator valve, re-heating main valve and 
+re-heating regulator valve, and it was assured that they could 
+be readily closed. 
+  As the speed was slowing down, the following functions were 
+inspected during the idling test: 
+  When the rotating speed drops to below 600 rpm, the spray 
+cooling device in the low-pressure cylinder must close 
+automatically. 
+  The rotor vibration indicator is switched to an eccentric 
+recorder. 
+  The oil temperature controller is re-set from 45C to 
+30C. 
+  When the speed drops to 200 rpm, the upper shaft oil pump 
+must start automatically. 
+  When the speed reaches 0 rpm, the rolling gear starts 
+normally. 
+<H5>  6. Test Results </H5>
+  After the tests of increasing speed for 22 minutes, steady 
+speed for 12 minutes and idling for 48 minutes, the first run-up 
+test of the turbine-generator unit was successfully completed at 
+2041. 
+  Figure 2 shows the variation of speed increase and idling 
+with time. Figure 3 shows the variation of main system coolant 
+temperature with time. Figure 4 shows the variations of pressure 
+and liquid level in the pressurizer with time. Figure 5 shows 
+the variations of outlet steam pressure and liquid level of the 
+steam generator with time. Figure 6 shows the curves for the 
+measured critical rotor rotation speed of the turbine-generator 
+unit. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<H5>  7. Conclusion </H5>
+  The first run-up success of the Qinshan nuclear power plant 
+was primarily the result of the cooperative efforts of all the 
+participating departments. This successful first attempt shows 
+that the design, manufacture, installation, and de-bugging of 
+the turbine-generator unit were successful. 
+  The turbine generator run-up with non-nuclear steam also 
+marks the first consolidated de-bugging test of the primary and 
+secondary loops at the Qinshan nuclear power plant. Its success 
+also validates that the interface between the nuclear island and 
+conventional island in the field of technology, heat 
+engineering, control device, electrical engineering is becoming 
+a normal event. 
+  The success of the non-nuclear steam run-up of turbine 
+generator not only saves capital investment cost, but also 
+brings new experience to nuclear power construction in China. 
+
+<FIG ID=JPRS-CEN-002C-41A>           Figure 2. Speed Increasing and Idling of Turbine-Generator Unit </FIG>
+
+<FIG ID=JPRS-CEN-002C-41B>           Figure 3. Temperature vs. Time of Coolant in Main System </FIG>
+
+<FIG ID=JPRS-CEN-002C-41C>           Figure 4. Pressure and Liquid Level in Pressurizer vs. Time </FIG>
+
+
+<FIG ID=JPRS-CEN-002C-42A>           Figure 5. Pressure and Liquid Level at Outlet of Steam Generator vs. Time </FIG>
+
+
+<FIG ID=JPRS-CEN-002C-42B>           Figure 6. Measured Values for Rotor Critical Speed of Turbine-Generator Unit </FIG>
+
+
+
+

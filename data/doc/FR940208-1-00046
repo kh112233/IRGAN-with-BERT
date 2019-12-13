@@ -1,0 +1,192 @@
+ 
+
+The initial equations were simplified to match the desired approach to provide a simple and reasonable set of equations
+to distinguish between area and major sources. The initial equations were simplified and narrowed through testing
+the equations against different model facility parameters and assumptions. Consequently, the original equations
+were reduced to a limited number of equipment parameter variables and reduced to one equation for bulk terminals and
+another for pipeline breakout stations. The resulting equations presented below are determined by the Agency to
+capture all major sources under the realistic mix of facility equipment and operating parameters. 
+A bulk gasoline terminal is not considered a major source if the result of the calculation in equation (1), E
+
+T
+
+, is less than 1. 
+
+
+
+(1) E
+
+T
+
+=0.63(T
+
+F
+
+)+0.19(T
+
+E
+
+)+0.092(T
+
+ES
+
+)+0.03(T
+
+I
+
+)+0.0012(V)+0.024(P)+KQ
+
+
+
+where:
+
+
+E
+
+T
+
+=major source applicability factor for bulk gasoline terminals, E
+
+T
+
+"1 means bulk gasoline terminal is estimated to be a major source., 
+T
+
+F
+
+=total number of fixed-roof gasoline storage tanks, 
+T
+
+E
+
+=total number of external floating roof gasoline storage tanks with only primary seals, 
+T
+
+ES
+
+=total number of external floating roof storage tanks with primary and secondary seals, 
+T
+
+I
+
+=total number of fixed-roof gasoline storage tanks with an internal floating roof, 
+V=number of valves in gasoline service, 
+P=number of pumps in gasoline service, 
+Q=gasoline throughput rate (liters/day), 
+K=3.18&times;10
+
+^6
+
+ for bulk gasoline terminals with uncontrolled loading racks (no vapor collection and processing systems), 
+
+OR
+
+ 
+K=(4.5&times;10
+
+^9
+
+)(EF+70) for bulk gasoline terminals with controlled loading racks (loading racks that have vapor collection and
+processing systems installed on the emission stream), and 
+EF=the federally enforceable emission standard for the vapor processor (mg of total organic compounds per liter
+of gasoline loaded).
+
+
+
+A pipeline breakout station is not considered a major source if the result of the calculation in equation (2), E
+
+P
+
+, is less than 1.
+
+
+
+(2) E
+
+P
+
+=2.4(T
+
+F
+
+)+0.09(T
+
+E
+
+)+0.043(T
+
+ES
+
+)+0.027(T
+
+I
+
+)+0.0009(V)+0.009(P)
+
+
+
+where: 
+
+
+E
+
+P
+
+=major source applicability factor for pipeline breakout stations, E
+
+P
+
+"1 means pipeline breakout station is estimated to be a major source., and
+
+
+
+T
+
+F
+
+, T
+
+E
+
+, T
+
+ES
+
+, T
+
+I
+
+, V, and P are the same as defined for bulk terminal equation (1).
+
+
+
+The Agency provides the above equations to simplify and reduce the implementation burden to affected and non-affected
+facilities. The Agency requests public comments on the utility, accuracy, and need for these equations. 
+
+
+2. Determination of Floor Control Levels 
+
+
+A boundary in the formulation of the regulatory alternatives is a determination of the MACT floor for new and existing
+sources. The statutory requirements for determining these floors was previously discussed in section V.D of this
+preamble. Selection of floor levels of control using the statutory criteria is described in the following subsections.
+
+a. 
+
+Loading racks. 
+
+In many of the areas where bulk terminal loading rack controls are mandated authorities have imposed control requirements
+more stringent than the limit of 80 mg TOC per liter of gasoline loaded recommended in the CTG for bulk gasoline terminals.
+A summary of State regulations pertaining to gasoline tank truck loading indicated that some terminals currently
+are operating under a 10 mg TOC per liter limitation in parts of California. In addition, the NSPS for tank truck loading
+at bulk gasoline terminals (subpart XX of 40 CFR part 60) limits emissions to 35 mg/liter. There are currently three
+types of vapor processor systems, refrigeration condensers, carbon adsorbers, and thermal oxidation systems,
+used to meet these three control requirement emission limits. Each type of control can be specifically designed to
+meet each limit. 
+To establish the control requirements for new sources the Agency is required to select controls not less stringent
+(floor) than the control achieved in practice by the best similar source. The best performing control systems at similar
+sources, or systems achieving the maximum degree of reduction in emissions, are those systems designed and operated
+to meet the 10 mg TOC per liter standard. Therefore, control systems achieving the 10 mg TOC per liter limit are considered
+the floor control level for new sources. 
+
+

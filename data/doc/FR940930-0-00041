@@ -1,0 +1,233 @@
+ 
+
+
+
+Note: 
+
+Inertial navigation systems and inertial equipment, 
+and specially designed components therefor specifically designed, 
+modified or configured for military use are controlled by the 
+Office of Defense Trade Controls, U.S. Department of State (see 
+the Munitions List, Category VIII). 
+
+
+
+* * * * * 
+
+
+7A04A 
+
+Gyro-astro compasses, and other devices that derive 
+position or orientation by means of automatically tracking 
+celestial bodies or satellites, with an azimuth accuracy of equal 
+to or less (better) than 5 seconds of arc; and specially designed 
+components therefor. 
+
+
+
+Requirements 
+
+
+
+
+Validated License Required:
+
+ QSTVWYZ 
+
+
+Unit:
+
+ $ Value 
+
+
+Reason for Control:
+
+ NS, MT 
+
+
+GLV:
+
+ $5,000 
+
+
+GCT:
+
+ No 
+
+
+GFW:
+
+ No 
+
+
+
+Related ECCNs: See 7A24B for MT controls on gyro-astro 
+compasses not controlled by 7A04A. 
+
+
+
+7A06A 
+
+Airborne altimeters operating at frequencies other than 
+4.2 to 4.4 GHz inclusive, and specially designed components 
+therefor, having either of the following characteristics: 
+
+
+
+Requirements 
+
+
+
+
+Validated License Required:
+
+ QSTVWYZ 
+
+
+Unit:
+
+ $ Value 
+
+
+Reason for Control:
+
+ NS, MT 
+
+
+GLV:
+
+ $5,000 
+
+
+GCT:
+
+ No 
+
+
+GFW:
+
+ No 
+
+
+* * * * * 
+
+
+
+7A21B 
+
+Accelerometers, designed for use in inertial navigation 
+systems or in guidance systems of all types, having the 
+characteristics of either 7A21.a or 7A21.b; and specially 
+designed components therefor. 
+
+
+
+Requirements 
+
+
+
+
+Validated License Required:
+
+ QSTVWYZ 
+
+
+Unit: $ Value 
+
+Reason for Control:
+
+ MT (see 
+
+Note
+
+) 
+
+
+GLV:
+
+ $5,000 
+
+
+GCT:
+
+ No 
+
+
+GFW:
+
+ No 
+
+
+
+
+
+Note: 
+
+MT controls do not apply to accelerometers that are 
+specially designed and developed as MWD (Measurement While 
+Drilling) Sensors for use in downhole well service applications. 
+
+
+
+* * * * * 
+
+
+
+7A23B 
+
+Inertial or other equipment using accelerometers or gyros 
+described in 7A21B or 7A22B, and systems incorporating such 
+equipment; and specially designed components therefor. 
+
+
+
+Requirements 
+
+
+
+
+Validated License Required:
+
+ QSTVWYZ 
+
+
+Unit: $ Value 
+Reason for Control: 
+
+MT (see 
+
+Note
+
+) 
+
+
+GLV:
+
+ $5,000 
+
+
+GCT:
+
+ No 
+
+
+GFW:
+
+ No
+
+
+
+
+
+
+
+Note: 
+
+Inertial navigation systems and inertial equipment, 
+and specially designed components therefor, specifically 
+designed, modified or configured for military use are controlled 
+by the Office of Defense Trade Controls, U.S. Department of State 
+(see the Munitions List, Category VIII). 
+
+
+

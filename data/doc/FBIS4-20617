@@ -1,0 +1,567 @@
+Participation 
+
+<F P=102>   43070046A Tokyo TOYOTA TECHNICAL REVIEW in English Sep 93 pp 
+6-13 -- FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 43070046A </F>
+<F P=104>  Tokyo TOYOTA TECHNICAL REVIEW </F>
+<F P=105>  English </F>
+CSO 
+
+<F P=106> [Article by Kazumasa Nakamura, Yoshikazu Noguchi, Hideki </F>
+Kusunoki, and Akihiko Nojima, Research &amp; Advanced Development 
+Planning Div.] 
+  [Text] Research work on intelligent vehicles utilizing 
+communication and control technologies have been promoted. Goals 
+and objectives of its concept are to reduce congestion, increase 
+traffic efficiency, improve safety and reduce environmental 
+impacts. Operational test named Vehicle Information and 
+Communication System (VICS), in which Toyota participates and 
+plays a leading role is now about to start in Japan. In the 
+U.S., lots of area-wide projects including large scale field 
+tests have also been planned and deployed under the 
+participation from public/private/academic sectors. While in 
+Europe, PROMETHEUS and DRIVE projects are now running in the EC 
+domain. 
+<H5>  1. Introduction </H5>
+  In Japan, experiments dealing with road information and 
+traffic control system has been conducted since 1973 under the 
+auspices of the Ministry of International Trade and Industry. 
+Viability of this technology, which has exerted tremendous 
+influence worldwide, is studied by VICS, a project that has been 
+set up to use the public tests of the Ministry of Construction's 
+Road Automobile Communication System (RACS) and the National 
+Police Agency's Advanced Mobile Traffic Information and 
+Communication System (AMTICS), and that is run jointly by these 
+two government bodies the Ministry of Posts and 
+Telecommunications. [as published] 
+  In Europe, development of ALI started up in the 
+mid-seventies, and a large-scale test, called ALI-SCOUT, was 
+carried out in Berlin in 1987. International research projects 
+within Europe were established with PROMETHEUS, launched in 
+1986, and DRIVE, begun in 1988. In the States in 1987, the 
+research team Mobility 2000 was formed as a voluntary group from 
+academics, federal and state transportation officials, and 
+representatives of the private industries. This group set up the 
+foundations of IVHS America (the Intelligent Vehicle Highway 
+Society of America), established in 1991. 
+<H5>  2. Trends in Development Projects in Japan </H5>
+  In the field of road traffic information and traffic 
+control, 
+a project called Comprehensive Automobile Traffic Control System 
+(CACS) was begun back in 1973, and AMTICS and RACS tests 
+verified that dynamic route guidance could lead to lower 
+congestion. In the area of automatic driving, a vehicle was 
+driven automatically at 100 km/h in 1967, and further R&amp;D has 
+been done since then. The following paragraphs outline the 
+principal projects in which Japanese ministries and agencies are 
+involved. 
+  2.1 VICS (Vehicle Information and Communication 
+System) 
+  The VICS Promotion Council was established in 1991 by 
+representatives of the National Police Agency; the Ministry of 
+Posts and Telecommunications; the Ministry of Construction; 
+three extra-departmental bodies, namely the Japan Traffic 
+Management Technology Association, the Research &amp; Development 
+Center for Radio Systems, and the Highway Industry Development 
+Organization; and over 200 corporations and organizations from 
+the private sector. 
+  The purpose of VICS was to provide road traffic information 
+that would lead to greater safety, smoothing traffic flow and 
+preservation of the environment. 
+  The system can supply information on congestion, accidents, 
+regulations, and parking space. This is expected to result in 
+reduced driving confusion, the elimination of unnecessary 
+traffic and well distributed traffic flow. Demonstration tests 
+are planned to be carried out in Tokyo during 1993. Toyota is 
+playing some of central role in this project, and its staffs 
+hold the positions of Representative Promoter, Vice-chairman, 
+and Chairman of the Steering Committee. 
+  2.1.1 Architecture of VICS 
+  Figure 1 illustrates the architecture of VICS. It is made up 
+of four areas: information collection, editing and processing, 
+communication media, and in-vehicle equipment. 
+
+<FIG ID=JPRS-JST-012L-81A>      Figure 1. VICS Architecture (Source: VICS Promotion Council) </FIG>
+
+  (1) Information collection: Congestion, accident and 
+temporary regulation information is collected in realtime by 
+vehicle detectors and ITV cameras and transmitted to the VICS 
+center. 
+  (2) Editing and processing: The VICS center edits and 
+processes the received information and passes this on to the 
+media. 
+  (3) Communication media: Three media are being planned 
+currently. 
+
+  -  Beacon: This would send traffic information to vehicles 
+passing directly beneath the transmitter erected on the roadside. 
+  -  FM &amp; Multiplex broadcast: Codified traffic information is 
+combined and transmitted in conventional broadcasts. Information 
+could be supplied over a comparatively wide area of 30 km in 
+diameter. 
+  -  Teleterminal: This would perform two-way communication over 
+an 
+area of 3 km in diameter. This is now planned for testing on a 
+commercial base now. 
+
+    (4) In-vehicle equipment: Three types of in-vehicle 
+equipment 
+are being studied. 
+
+  -  Map display type: Displays congestion information and 
+parking space information superimposed on a detailed map drawn 
+by the in-vehicle map database. 
+  -  Simple diagram display type: Does not have an in-vehicle map 
+database, but displays simple diagrams and text. 
+  -  Text display type: Displays text and symbols. 
+
+    2.2 ARTS (Advanced Road Traffic System) 
+  With the 21st century near at hand, feasibility studies are 
+underway for a road traffic system having new functions suitable 
+to the next generation of roads. Research and development is 
+being propelled by HIDO, the Ministry of Construction's 
+extra-departmental arm, and associated private corporations. 
+  The working groups of ARTS are the Vehicle Headway Control 
+System Working Group, LCX (Leakage Coaxial Cable) Working Group, 
+and Guidelight System Working Group. These groups are engaged in 
+an extensive range of R&amp;D covering display and warning of 
+surrounding vehicle positions, warning of on-coming vehicles, 
+and continuous infrastructure-vehicle communication technology. 
+  Here too, Toyota participates in the ARTS committees, 
+technical sub-committees, and working groups. 
+  2.3 SSVS (Super Smart Vehicle System) 
+  The Association of Electronics Technology for Automobile 
+Traffic and Driving (JSK) was commissioned by the Mechanical 
+Social Systems Foundation to collaborate with interested private 
+corporations on studying 21st century traffic and transportation 
+systems that will incorporate dramatically advancing 
+technologies in the fields of information communication, image 
+processing, and electronic control. 
+  From early in 1992, the following representative systems 
+have 
+been studied. 
+  (1) Cooperative Driving System 
+  Aims at safety for the vehicle group and smooth travel 
+through vehicle to vehicle communication. 
+  (2) Control Configured Vehicle System With Ultra-Little 
+Vehicles 
+  Aims at easing traffic jams by having ultra-little vehicles 
+travel in groups. 
+  (3) Active Driver Assistance System for Avoiding Emergencies 
+  Aims to enhance safety by supporting the driver at each 
+stage 
+from offering information services through to automatic driving 
+services. 
+  (4) Advanced Intelligent Intersection System 
+  Aims to make traffic safer and more streamlined by providing 
+information, warnings, and traffic flow control at intersections. 
+  (5) Intelligent Logistics Information System 
+  Aims to improve logistics efficient and less labor-intensive 
+by means of an intelligent control system using an integrated 
+information network. 
+  (6) Intelligent Situation-Recognizing System 
+  The common underlying technologies for image processing, 
+sensors and the above systems are being studied. 
+  At the moment, studies are being conducted with the view of 
+making specific project proposals, and Toyota staffs are taking 
+part either as leaders of working groups or as committee members. 
+  2.4 Research Committee on Provision of Expressway 
+Information 
+  In 1990 the Japan Highway Public Corporation commissioned 
+the 
+Express Highway Research Foundation of Japan to collaborate with 
+concerned private corporations in studying technical directions 
+of ``new information systems'' and ``automatic driving systems'' 
+that are expected to be incorporated in expressway facilities in 
+the 21st century. 
+  The study group includes the Automatic Driving Subcommittee, 
+the Driving Support Subcommittee, and the Vehicle Communication 
+Subcommittee. Toyota participates in both the Automatic Driving 
+and the Driving Support Subcommittees. The Automatic Driving 
+Subcommittee studies concepts for automatic driving systems for 
+expressways. The Driving Support Subcommittee is looking into 
+obstacles and route abnormality warning systems, surface 
+condition warning systems, poor visibility relief systems, side 
+wind warning systems, and systems to supplement the driver's 
+physical functions. 
+  2.5 ASV (Advanced Safety Vehicle) 
+  In 1991, the Regional Traffic Office of the Ministry of 
+Transport formed a project team together with experts and 
+interested automobile manufacturers to carry out research over a 
+five-year period. The project is testing an ASV with the view of 
+working out future safety measures. In addition to conventional 
+technologies, the project is applying electronic control 
+technologies in carrying out (1) preventive safety measures for 
+normal traveling, (2) accident avoidance measures, (3) measures 
+to mitigate the harm caused by collisions, and (4) measures to 
+prevent secondary damage. 
+  From 1992 through 1995 the project is building and 
+evaluating 
+prototype vehicles, and intends to expedite development of 
+safety technologies. Toyota is also involved in planning and 
+developing the ASV. 
+<H5>  3. Trends in the U.S. </H5>
+  In the late sixties, the Experimental Route Guidance System 
+(ERGS) was developed under the auspices of the Department of 
+Transportation. This system used loop antennas buried beneath 
+the road surface to perform digital communication, providing 
+vehicles with guidance on how to proceed to optimum routes to 
+reach their destinations. This project was studied in theory 
+only, and did not go as far as actual tests. Nevertheless it was 
+a world pioneer in the field of vehicle information 
+communication systems. 
+  Following this project, attention turned to resources for 
+extending and repairing highways. The expressway network that 
+covered the entire nation made a tremendous contribution to 
+America's economic progress. Meanwhile, there was a blank in the 
+development of vehicle traffic/driving systems. Around the 
+mid-eighties, problems of congestion, accidents, and pollution 
+began to emerge in most regions. Clearly, further extension of 
+roads was both financially and environmentally unsound, and the 
+development of traffic systems was seen to be of increasing 
+importance. 
+  Birth of IVHS America (Intelligent Vehicle Highway 
+Society of America) 
+  Whether in terms of industry or academia, vehicle 
+traffic/driving systems occupy a wide-ranging and vast 
+territory. As well as the technologies in the fields of traffic 
+engineering, civil engineering, mechanics, electricity and 
+electronics, control, and information, the subject involves 
+human factors and legal matters, and it has other facets because 
+of its connection with traffic economics and traffic policies. 
+These characteristics necessitate an organization with enough 
+punch to provide general coordination for the entire field. The 
+progress of projects in Japan and Europe involving industry, 
+government and academic sectors served as a major stimulus, 
+added to which there was a fear that U.S. industry would be left 
+behind. Hence, in September 1988, Congress requested the 
+Department of Transport to report on IVHS activities in America. 
+Leaders of independent R&amp;D efforts in the various states 
+banded 
+together to form a voluntary organization of representatives 
+from industry, government, and academia. 
+  This was called ``Mobility 2000.'' As a result of many 
+meetings, it analyzed the feasibility and benefits of technical 
+areas, and summed up the importance and necessity of embarking 
+on IVHS research and development. Largely on the basis of these 
+results, the Department of Transport submitted a general report 
+to Congress. Ultimately, the activities of Mobility 2000 
+blossomed into IVHS America. 
+  In December 1990, IVHS America was inaugurated as a 
+committee 
+composed of members from the industrial, government and academic 
+ranks, charged with the task to engage in R&amp;D and educational 
+activities related to IVHS technologies. In March of the 
+following year, it was authorized as a Federal Advisory 
+Committee for the Department of Transportation. 
+  Objectives of IVHS America 
+  The activities of IVHS America are as follows: 
+
+  -  Advises the Department of Transportation with regard to 
+IVHS plans. 
+  -  Devises targets and plans for IVHS. 
+  -  Promotes IVHS R&amp;D. 
+  -  Engages in support activities for the preparation and 
+decision 
+to deploy IVHS. 
+  -  Tackles administrative and institutional matters. 
+  -  Coordinates international cooperation. 
+  -  Tackles the setting of standards and uniformity. 
+  -  Releases information concerning IVHS. 
+  -  Proposes reform policies concerning central and regional 
+jurisdictional matters. 
+  -  Decides the architecture and role of the system. 
+
+    Organization of IVHS America 
+  Figure 2 [not reproduced] illustrates the organization of 
+IVHS America. Members number upward of 500, counting corporate 
+and individual members. Basically, industrial-university 
+interests take the lead in conferences and committees, with the 
+government assuming the office and secretarial roles. As the 
+figure shows, there are 11 technical committees. 
+  These meet several times a year to map out the plans and 
+progress of the research and development for which they are 
+responsible. Particularly influential are the committees working 
+on developing systems, especially the Advanced Traveler 
+Information Systems (ATIS), Advanced Traffic Management Systems 
+(ATMS), Advanced Vehicle Control Systems (AVCS), and Commercial 
+Vehicle Operations (CVO). Committees dealing with safety/human 
+factors and legal issues check these aspects from the viewpoint 
+of human engineering, the law and the social structure, and 
+study ways obtaining consensus. The Advanced Public 
+Transportation Systems (APTS) were added recently for the 
+purpose of attaining efficiency including organic linkage 
+between vehicles and public traffic systems. The committee 
+line-up is completed with a special touch, the Benefits, 
+Evaluation, and Costs Committee. 
+  The task of clinching the roles for IVHS is taken on by 
+subcommittees. These are the Strategic Planning Subcommittee, 
+International Liaison Subcommittee, and Informational 
+Clearinghouse and Editorial Review Subcommittee. 
+  Operations of IVHS America 
+  IVHS America was given an impressive kickoff when, in 
+December 1991, the Intermodal Surface Transportation Efficiency 
+Act authorized a six-year budget of $155 billion, of which a 
+$660 million, six-year budget was allocated for R&amp;D. Congress 
+directed the Department of Transportation to submit a 
+``Strategic Plan for IVHS in the United States.'' In June 1992, 
+in response to the request from the Department of 
+Transportation, IVHS America set out a strategic scenario for 
+R&amp;D covering time spans of 5, 10, and 20 years, and plans for 
+proceeding with and deploying IVHS. It has been acting 
+vigorously since then. The following November it submitted the 
+1994-95 Tactical Plan based on the strategic plan. This 
+delineated the order of priority for R&amp;D and field tests, as 
+well as requests for funding. 
+  In the realm of international cooperation, IVHS America has 
+been no less energetic, visiting Europe and Japan to observe how 
+other nations are going about their R&amp;D and seeking technical 
+and human resources exchange. In Japan, the Ministry of 
+International Trade and Industry (MITI) noted this trend, and 
+set about plans for interchange of IVHS America people, for 
+information exchange, and for international activities that 
+would set the stage for standardization. 
+  Toyota's Participation in IVHS America 
+  Toyota was a corporate member of IVHS America from the 
+outset, and collaborates with TTC, TMCS and the U.S. Toyota 
+Group companies in having seats on all the various technical 
+committees, making diverse proposals and providing technical 
+cooperation, and positively contributing to international 
+interchange activities. Further, this Spring, Toyota cooperated 
+in sending a Japan Fellow from the JSK to work in the IVHS 
+America office, and also began committee activities and 
+information exchange. 
+  The following sections introduce some of the experimental 
+projects involving basic research by traffic and transportation 
+research institutes of leading universities, information 
+communication systems developed mainly by private industry, and 
+guidance from state authorities. 
+  3.1 Pathfinder Project 
+  Between Los Angeles and Santa Monica runs one highway and 
+five parallel general roads. This project was begun for the 
+purpose of resolving the chronic highway congestion here, by 
+using information communication technology to send appropriate 
+information to drivers and to control traffic overall. 
+  This project is operated by the Californian State 
+Transportation Committee and the California Department of 
+Transportation. It has a budget of around $40 million. Different 
+means of transmitting information to the driver are being used, 
+such as traffic information services via radio broadcasts and 
+telephone, communication from the roadside infrastructure to the 
+vehicle's navigation system, and changeable message boards. The 
+experiment has now entered Phase III. 
+  3.2 Guidestar Project 
+  This is a large-scale experiment covering a 250-mile highway 
+stretching between the twin cities of Minneapolis and Saint Paul 
+in Minnesota. The project aims to reduce congestion and 
+accidents and to improve mobility by providing traffic control 
+and traffic information. 
+  The project is run by the Federal Highway Agency (FHWA), the 
+Minnesota State Department of Transportation, and the Minnesota 
+University Traffic Research Center. Currently the experiment 
+covers an array of services including information on congestion 
+status and the shortest route to the driver's destination, 
+online control of high-speed lamps and interchanges, and 
+realtime processing for accidents. 
+  3.3 TravTek Project 
+  TravTek is the name of a field test in Orlando, Florida 
+(home 
+of Disneyworld) offering travel information, traffic 
+information, route guidance and other driver service information. 
+  In this test, a traffic control center offers realtime 
+information via digital data broadcasts to 100 rental cars 
+equipped with in-vehicle devices that can display the following 
+information: 
+
+  -  Map information and text information on locations of 
+traffic congestion, accidents and construction, as well as other 
+services. 
+  -  Route guidance by means of simple symbols such as directional 
+arrow 
+
+    This spring marks the end of the one-year test. The system 
+is 
+now being evaluated and improved. 
+<H5>  4. Trends in Development Projects in Europe </H5>
+  In Europe, from 1979 through 1982, the Autofahrer Leitund 
+Informations System (ALI) developed by Volkswagen and Blaupunkt 
+was tested on the German autobahn. ALI was a route guidance 
+system using an induction loop for infrastructure-vehicle 
+communication and measuring traffic flow. Later, ALI merged with 
+the Siemens-developed AUTOSCOUT, which used infrared ray 
+communication. The new ALI-SCOUT implemented full-scale tests in 
+Berlin in 1991. 
+  In Europe, the all-embracing R&amp;D project for vehicle 
+traffic/driving systems was PROMETHEUS, promoted by a group 
+representing most European car manufacturers. It has been 
+succeeded by DRIVE, a project promoted by the EC. 
+  PROMETHEUS and DRIVE conduct R&amp;D of European unified 
+traffic 
+and driving systems from the standpoints of the vehicle and 
+infrastructure respectively. These projects are planning and 
+implementing deployment experiments currently. In 1991, the 
+European Road Transport Telematics Implementation Co-ordination 
+Organization (ERTICO) was established as a nonprofit, 
+pan-European organization to promote deployment tests of the 
+R&amp;D 
+results of such projects as PROMETHEUS and DRIVE. ERTICO aims to 
+propel these projects along by promoting such activities as 
+liaison among concerned parties, legal issues, funding, and 
+forming friendly public opinions. 
+  4.1 PROMETHEUS (PROgraMme for a European Traffic with 
+Highest Efficiency and Unprecedented Safety) 
+  PROMETHEUS was begun by the European automotive industry, 
+merging with the EUREKA project in 1986. 
+  In 1986, 19 automobile manufacturers, 56 electronics 
+manufacturers and 115 basic research institutes had joined the 
+project and were making research proposals. In the 1989 research 
+phase, its annual budget was 90 MECU, two-thirds of which was 
+borne by private industry. The remaining third was supplied by 
+the various governments. 
+  PROMETHEUS aims to develop an accident avoidance system to 
+reduce accidents, a superior traffic information system to 
+reduce fuel consumption, noise, and exhaust, and a 
+state-of-the-art information system to improve traffic flow. 
+  In the PROMETHEUS approach, a vehicle is one element in the 
+traffic system, and the in-vehicle and infrastructure 
+information technology are to be developed together. When the 
+traffic infrastructure for all Europe is completed, it is 
+predicted that road safety will improve by 30 percent and that 
+traffic will become 20 percent more efficient. In September 
+1991, the results of PROMETHEUS research were put through a 
+demonstration test in Torino, Italy. The details are outlined 
+below. 
+  Vision Enhancement 
+  This function provides the driver with visual information 
+about the scenery and road conditions. Ultraviolet illumination 
+is used to light up traffic signs, pedestrians, and vehicles. 
+Research is looking into displaying images taken by a near 
+infrared camera to warn of danger, displaying thermal images of 
+pedestrians taken by a far infrared camera, and 
+``head-up-display'' in which the scene the driver sees is 
+overlapped with the image acquired by the sensor (for night and 
+foggy scenarios). 
+  Ultraviolet and infrared rays do not dazzle the occupants of 
+the oncoming vehicle, and yet it enables vision that is 
+unattainable by normal illumination. 
+  Lateral Control 
+  This function detects the lane clearly marked on the road, 
+and either gives a warning or corrects the steering when the 
+driver's attention slackens so much that the vehicle is about to 
+veer out of the lane. 
+  Collision Avoidance 
+  Multiple sensors detect the conditions in front of the 
+vehicle, and control the axle, break, and handle. 
+  Microwave radar, laser radar, TV camera and image processing 
+technologies are being studied as means of recognizing the 
+surrounding conditions. Through vehicle to vehicle 
+communication, vehicle movements can be mutually adjusted, and 
+information communicated. The collision avoidance technology may 
+be used in the short term for warning. 
+  Cooperative Driving and Emergency Warning 
+  Medium-range road information can be exchanged through 
+intervehicle and vehicle-infrastructure communication, so that 
+accidents ahead can be reported to police, ambulance and 
+following traffic, and collisions can be avoided. 
+  Autonomous Intelligent Cruise Control 
+  When no vehicle is detected ahead, this function works like 
+an ordinary cruise control. When a vehicle is detected, it 
+switches to distance control. The sensor used is similar to the 
+collision avoidance sensor described above. This control does 
+not include the steering wheel, but controls the axle and break. 
+  Commercial Fleet Management 
+  A European unified information chain is to be created to 
+enable improved transport planning, lower unused cargo space, 
+monitor valuable and dangerous cargoes, and improve emergency 
+reporting procedures. The system will enable position 
+determination, and communication of traffic information and 
+freight service messages. 
+  Dual Mode Route Guidance System 
+  This system provides route guidance by using realtime 
+traffic 
+information. Currently, media being studied for communicating 
+the traffic information include FM multiplex, digital cellular 
+phone, and roadside beacon. 
+  Travel Information Services 
+  Travelers will be provided with public transport 
+information, 
+as well as information and booking services for Park &amp; Ride 
+facilities. Travel information will be available at home, the 
+office, public terminals, and in the vehicle, and technologies 
+employed will include FM multiplex, telephone, and Videotex. 
+  4.2 DRIVE (Dedicated Road and Infrastructure for 
+Vehicle safety in Europe) 
+  Underwritten by the EC, DRIVE is one of the EC R&amp;D 
+programs 
+aimed at strengthening the international competitiveness of 
+European industries. The purpose of DRIVE is to build a uniform 
+European traffic infrastructure. DRIVE has been given stimulus 
+by the research into vehicle traffic/driving systems carried out 
+in different countries, such as the PROMETHEUS project. Its 
+establishment was announced in 1987, and it was launched 
+formally in 1988. With 71 projects being funded, its budget is 
+around 60 MECU. 
+  DRIVE works on R&amp;D into traffic information 
+technologies, 
+evaluation of strategic options, and proposals for 
+standardization. 
+  Technical Fields Studied by DRIVE 
+  DRIVE is studying project deployment in the fields listed 
+below, from the viewpoints of social, legal and institutional 
+issues. 
+
+  -  Dynamic route guidance using cellular phones 
+  -  Prototypes of automatic tolling systems 
+  -  Prototype of digital maps 
+  -  Prototypes of all types of traffic control systems 
+  -  Incorporation of route guidance in traffic control systems 
+  -  Reduction of air pollution through communication systems 
+  -  Management of commercial freight operations 
+
+    The original DRIVE project was wound up in 1992, and was 
+succeeded by DRIVE II, which is being implemented between 1991 
+and 1994. The activities of DRIVE II fall into three types, 
+being deployment strategies for system engineering in the 
+Advanced Transport Telematics (ATT) field, technical research, 
+and evaluation of pilot projects. Topics covered by DRIVE II 
+research include the following: 
+
+  -  Demand Management 
+  -  Traffic and Travel Information 
+  -  Integrated Urban Traffic Management 
+  -  Integrated Inter-urban Traffic Management 
+  -  Driver Assistance &amp; Cooperative Driving 
+  -  Freight &amp; Fleet Management 
+  -  Public Transport Management 
+
+<H5>    5. Conclusion </H5>
+  In the 1970's, such projects as Japan's CACS and West 
+Germany's ALI were at the stage of detecting traffic flow and 
+optimizing control of traffic lights, and gave guidance to 
+vehicles in an overall effort to improve traffic flow. 
+  In the latter half of the eighties, Europe had two major 
+projects underway, the manufacturer-oriented PROMETHEUS and the 
+government-led DRIVE, in readiness to build an all-Europe 
+uniform traffic communications environment. 
+  These movements prompted the U.S. interests to form Mobility 
+2000, out of which grew IVHS America, a project devoted to 
+comprehensive development and demonstration test strategies. 
+  The Japanese projects and IVHS America have been influenced 
+by the fact that PROMETHEUS offers in-vehicle control in 
+addition to traffic information, route guidance, and traffic 
+management. 
+  Thus, the Japanese, American and European projects have 
+proceeded with their R&amp;D and demonstration tests while 
+keeping 
+an eye on developments elsewhere, and it appears that we are 
+about to witness a tremendous surge in the role of intelligent 
+functions in vehicles and traffic infrastructure. The automobile 
+is a global product, and we must try to increasingly supply 
+excellent products at low cost, as well as prevent user 
+confusion caused by differing operation methods. To this end we 
+need to standardize the systems worldwide in the early stages 
+through automobile manufacturers, infrastructure manufacturers, 
+governments and academicians cooperating on a global scale to 
+map out the system construction. 
+

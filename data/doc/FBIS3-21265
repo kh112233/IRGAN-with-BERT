@@ -1,0 +1,665 @@
+Updated 
+<DATE1>  29 March 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Designing, Searching for New Materials </TI></H3>
+<F P=102>  946C0002D Tokyo GENSHIRYOKU KOGYO in Japanese Aug 93 pp 
+36-44 -- FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 946C0002D </F>
+<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
+ Language: <F P=105>Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Hideo Ohno and Toru Ogawa, Tokai Research </F>
+Establishment] 
+  [Text] 
+<H5>  Part IV </H5>
+  Many kinds of materials are needed in the nuclear field. 
+Therefore, research and development on a broad range of 
+materials from structural materials to functional materials, and 
+from metals to ceramics, is necessary. Ceramics materials, 
+except for nuclear fuels, are not at the stage of practical use 
+for the current generation of nuclear plants. However, the use 
+of ceramics as materials for specific uses and functions in 
+nuclear systems oriented toward high-temperature, such as 
+process heating high-temperature gas-cooled reactors and nuclear 
+fusion reactors, has been growing in importance. For instance, 
+the following uses can be considered: graphite materials for 
+high-temperature gas-cooled reactors, coated particle fuels and 
+fuels for light water reactors and fast reactors, solid blanket 
+breeder materials for nuclear fusion reactors, ion-conductive 
+ceramics for the tritium collection system in nuclear fusion 
+reactors and hydrogen production using nuclear heat in 
+high-temperature gas-cooled reactors, translucent and 
+photo-conductive ceramics for the measuring system in nuclear 
+fusion reactors, and semiconductive and piezoelectric ceramics 
+for robot sensors in highly radioactive environments. 
+  There are two ways to evaluate the suitability of materials 
+for use in the nuclear field. One is to examine the adaptability 
+of candidate materials to the nuclear environment (by examining 
+their adaptability to the conditions provided by existing data, 
+such as radiation, temperature, pressure, and atmosphere, and 
+then confirming it by experiments). The other is to create new 
+materials suitable for the nuclear environment (by designing and 
+creating new materials to meet conditions for use based on 
+research in production, structure, and solid state properties, 
+and then confirming it by experiments). Based on the recent 
+research principle that it is necessary to consider designing on 
+the atomic and molecular levels to create radiation-resistant 
+ceramics for nuclear use, there have been a number of 
+experiments designed to realize new materials created using 
+molecular dynamics computer simulation with artificial lattice 
+formation technology, such as a molecular beam epitaxy method, 
+and to verify the results by experiments with radiation. 
+  This section introduces a number of new materials 
+development 
+technologies based on nuclear reactor fuel research. These 
+include ceramics compound technology using the sol-gel process, 
+the use of transient metal carbides as ultra-high-temperature 
+materials, and research on actinoid compounds. As part of the 
+search for functional materials, the study and use of 
+ultra-ion-conductor ceramics and new glass materials, as well as 
+the application of computer simulation are described. 
+<H5>  1. Nuclear Reactor Fuel and New Materials </H5>
+<H5>  (1) Fine Ceramics Science and Nuclear Reactor Fuel </H5>
+  The history of commercial nuclear reactor fuels overlaps 
+with 
+the history of fine ceramics science, which began about 1950. 
+Research on the development of uranium dioxide started in the 
+transition period from the classical ceramics industry, which 
+was based on natural minerals, to the fine ceramics industry, 
+which is based on characteristic-controlled compound materials, 
+and progressed by absorbing its results immediately. In some 
+aspects, it led the fine ceramics industry. Since the results of 
+oxide fuel research, which started in the United States and 
+Britain, were translated to the area of general ceramics, many 
+of them are not informed directly. A search for various compound 
+processes, compositions to meet specific use conditions, and 
+design and control of micro-organisms are required for the 
+development of advanced materials. Research and development of 
+nuclear reactor fuel and fuel elements is an area where these 
+factors must be taken into account. 
+  Although there are options for light-water reactor fuel that 
+feature improved burning characteristics, plutonium recycling, 
+and burn up processing, there are many aspects of oxide fuel 
+that require research and development from the standpoint of new 
+materials development. At the same time, long-term objectives 
+beyond the current generation of light-water reactors requires 
+the elaboration of nonoxide fuels (nitride, carbide oxide), as 
+well as research and development on new ceramic coating 
+materials. In this area, technological development is in 
+progress both for production process and characterization. Such 
+technology may possibly be applied to new materials development 
+in general beyond nuclear reactor fuel. 
+<H5>  (2) New Development of Sol-Gel Process </H5>
+  At present, oxide fuels for light water reactors and fast 
+reactors are produced by the powder formation method. However, 
+research to simplify this process based on a wet method has been 
+conducted at various places in conjunction with work to process 
+collected reprocessing fuel. So-called "sol-gel process" was 
+devised at Oak Ridge National Research Center of the United 
+States, and began to spread to ceramics production in general. 
+  A general advantage of the sol-gel process is its 
+flexibility 
+in managing the shape, composition, and properties of products. 
+This process makes it possible to form ultra-micro-monodisperse 
+powder as well as relatively large integrally molded pieces for 
+shape, to mix components on an extremely small scale for 
+composition, and to control density as well as porosity for 
+properties. This is the reason why the sol-gel process has come 
+to be applied extensively in areas outside nuclear reactor fuel. 
+  It is not easy to define the sol-gel process clearly. In the 
+narrow sense, it is a process to turn (1) a suspension (sol) of 
+metal compound particles as a starting material (2) into an 
+intermediate material by livering, and (3) to acquire ceramic 
+products by burning it. The method used at JAERI to compound 
+thorium oxide fuel microspheres is equivalent to a typical 
+sol-gel process. 
+  With the method used at JAERI, a thoria sol is produced by 
+adding ammonia gas to a thorium nitrate solution. A feature of 
+this method is to control the development process of colloidal 
+particles in the sol by adjusting the pH of the solution. An 
+effective way to prevent cracks and deformation of microspheres 
+by shrinkage in the subsequent gelling process is to increase 
+the size of colloidal particles in the sol and to increase the 
+colloidal content (Figure IV-1). Micro gel spheres obtained this 
+way are transformed to high-density microspheres of 
+ThO[.sup]2[/] and (Th, U)O[.sub]2[/] by thermal processing. 
+
+
+
+  The particle size of microspheres can be controlled by 
+changing the dropping conditions, such as the nozzle size. 
+Particles with a diameter of several hundred m are coated 
+with ceramics and used as coated particle fuel for 
+high-temperature gas-cooled reactors. Smaller particles with a 
+diameter of about 150 m (Figure IV-2) can be compounded and 
+used as a material for the gel particle pressure mold method to 
+produce high-density pellets. In the latter case, drying water 
+in gel particles after replacement with alcohol produces soft 
+microspheres with a stable pore structure. Using these 
+microspheres as a material for pressure molding, thorium nitrate 
+high-density fuel pellets over 96 percent TD can be obtained at 
+a low sintering temperature of 1,300C. 
+
+
+
+  In the sol-gel process, in a broader sense, the sol stage is 
+often omitted. In the case of UO[.sup]2[/][.sup]+2[/] 
+ions, a highly concentrated sol cannot be formed unless 
+U[.sup]+6[/] is reduced to U[.sup]+4[/]. Therefore, the 
+nitrate solution generally is transformed directly to the gel 
+without going through the sol stage. Creation of viscosity, by 
+adding a suitable polymer to a uranyl nitrate solution, 
+facilitates the stable formation of droplets. Gel spheres can be 
+obtained by processing the droplets with ammonia. 
+UO[.sup]2[/] microspheres to be used as coated particle fuel 
+for high-temperature gas-cooled reactors are manufactured by 
+Atomic Fuel Industries in such a process. In this method, 
+droplets are formed in an ammonia gas atmosphere, and are gelled 
+by dropping them into ammonia water. This method of working with 
+ammonia externally is called the external gelling method. 
+  As already stated, one of the characteristics of the sol-gel 
+process is ease of composition management. As an example of the 
+application of the external gelling method, UO[.sup]2[/] 
+particles supplemented with ZrC, SiC, etc. as oxygen getters or 
+simulated fission products have been produced experimentally, 
+and have been used as fuel behavior test pieces in laboratories. 
+  In contrast to the external gelling method, with the 
+internal 
+gelling method, gel particles are obtained by adding materials 
+that generate ammonia when heated -- such as hexamethylene 
+tetramine (HMTA) and urea -- to a nitrate solution, and then 
+dropping this solution into some heating medium. At JAERI, the 
+internal gelling method has been developed as a compound method 
+for nonoxide fuels. In this case, a correct amount of carbon 
+powder is added to the solution to obtain gel spheres that 
+firmly combine oxide and carbon. It is possible to obtain 
+carbides (UC, UC[.sup]2[/]), and carbide oxides (UCO), by 
+heating them in a vacuum. It is also possible to obtain nitrides 
+by heating in a nitrogen-hydrogen mixed stream. 
+  As an option to process transuranic elements (TRU) such as 
+neptunium and americium, concepts for a TRU annihilation 
+disposal reactor and its fuel cycle have been examined. In order 
+for annihilation disposal to be valid, it is essential to 
+minimize actinide loss of the fuel cycle as a whole. It is 
+possible to minimize the loss in the fuel processing stage by 
+applying the sol-gel process properly as a fuel compound method. 
+In this case, direct compounding of microspheres of fuel 
+materials without involving powder is an important advantage. 
+However, application to TRU will require experimental validation 
+to ensure against the possibility of the stock solution becoming 
+unstable due to heat produced by serious _a_ decay. 
+  The alkoxide gelling method is a sol-gel process in the 
+broad 
+sense, and has been noted as a compound method for producing 
+monodisperse oxide powder and a special glass body. We have 
+developed the technology to compound dystetic transition metal 
+carbides such as ZrC, TiC, and ZrB[.sup]2[/], borides and 
+their compounds based on the alkoxide gelling method. Metal 
+alkoxide is hydrolyzed in a carbon-suspended liquid to produce a 
+tight compound gel of oxide and carbon. By heating the gel in a 
+vacuum, a soft carbon aggregate can be obtained. This aggregate 
+can be shattered to particles with a diameter of about 100 nm by 
+radiating it with ultrasonic waves for a short time. An 
+important point in its process is the selection of materials to 
+match the isoelectric point of metal oxide and carbon, as well 
+as implementing hydrolysis near the isoelectric point. This 
+makes it possible to incorporate carbon particles into the 
+network of oxide particles. 
+  Transient metal carbide and boride have a number of useful 
+characteristics, such as high fusion points, low relative 
+density, and high strength. Thus their application can be 
+expanded to high-temperature structural materials, and to 
+coating materials. Micropowders with a high degree of 
+dispersibility by the alkoxide gelling method can be used as a 
+material powder for plasma coating. 
+<H5>  (3) New Type of Coated Particle Fuel and Application </H5>
+  The basic unit of high-temperature gas-cooled reactor fuel 
+is 
+a coated fuel particle with a diameter at about 1mm. Each 
+particle is an oxide fuel microsphere with four layers of 
+coating of low-density thermal decomposition carbon, 
+high-density thermal decomposition carbon, silicon carbide 
+(SiC), and high-density thermal decomposition carbon. The four 
+layers of coating serve to protect each other, and also function 
+together as a pressurized container for nuclear fission 
+products. For instance, the low-density carbon layer functions 
+as a gas plenum, and protects the outer layer from fission 
+fragments. The SiC layer functions as a diffusion barrier 
+against metal fission products such as Cs and Sr. The coating is 
+made by the high-temperature chemical vaporization method, while 
+fuel particles are mixed in a sprouted bed. 
+  The concept of a coated particle fuel is a technology 
+designed to achieve high burn up at high temperatures that 
+cannot be achieved by other fuel types, and the expansion of its 
+applications to take advantage of its properties has been 
+examined. At JAERI, research and development on a coated 
+particle fuel with a zirconium carbide (ZrC) layer instead of 
+the SiC layer has been conducted. 
+  The ZrC coated layer is formed by the reaction of zirconium 
+halide and carbon hydride also in the sprouted bed. While SiC 
+decomposes in a short time at temperatures over 2,200 K, ZrC is 
+hard to melt, having a fusion point at 3,693 K. ZrC, as an 
+intermetal compound of transient metals, has higher 
+intergranular stability than SiC, which has an inherent 
+intergranular instability as a covalent compound semiconductor. 
+Use of the ZrC coated particle fuel in a test fuel assembly for 
+the high-temperature engineering test reactor is being 
+considered. Furthermore, another system to utilize the superior 
+heat resistance of ZrC-coated particle fuel is space nuclear 
+reactors. 
+  Nuclear reactors in space can be used for power generation 
+and propulsion power for stations, a moon base, and deep space 
+exploration. Processing of waste heat is a big problem for space 
+power generating reactors, and improved efficiency in 
+radiational cooling is a key to the reduction of the system to a 
+size appropriate for space development. In the concept shown in 
+Figure IV-3, heat is led to the thermo-electric converter 
+through lithium heat pipes that are laid to a core consisting of 
+a layer filled with ZrC coated fuel particles. It is desirable 
+to raise the operational temperature, and, therefore, the fuel 
+temperature as much as possible to improve radiational cooling 
+efficiency. 
+
+
+
+  Further, nuclear heat-propelled rockets for manned space 
+exploration requires a fuel temperature as high as 2,400C. 
+However, in this case, the required integrated burn up time and 
+burn up rate are smaller. Figure IV-4 illiterates the results of 
+heating ZrC coated fuel particles produced experimentally for 
+high-temperature gas-cooled reactors to 2,400C after 
+irradiation. Although ordinary SiC-coated fuel particles were 
+mostly destroyed before reaching 2,400C, ZrC-coated fuel 
+particles were maintained at 2,400C without being damaged. 
+
+
+
+
+  Another area of possible application of coated particle fuel 
+is in TRU extinction processing. The possibility of compounding 
+fuel microspheres containing TRU from a group-separated TRU salt 
+solution by the sol-gel process was mentioned earlier. In 
+principle, such microspheres can be coated in various ways by 
+the chemical evaporation method. 
+  Figure IV-5 illustrates a concept for the direct cooling of 
+a 
+concentric cylinder made of a metal frit (net) filled with fuel 
+particle consisting of TRU nitride coated with titanium nitride. 
+Nitride is compatible with metals. By cooling particle fuel with 
+a large relative surface area, fuel temperature is kept within 
+one-third of the fusing point (about 3,000 K) of TRU nitride, 
+and the transfer of fission products in the fuel material is 
+controlled. This concept is designed to minimize the thickness 
+of the coating needed to maintain soundness, and to achieve a 
+hard-core neutron spectrum suitable for TRU fission burn up of 
+TRU. It is also intended to realize high output density, or high 
+nuclear transfer speed, by cooling the particles directly. 
+
+
+
+<H5>  (4) Actinide Compounds </H5>
+  The difficulty in predicting the behavior of actinide solids 
+is closely related to the behavior of the 5f electron. This is 
+because the degree of the effect of the 5f electron on linkage 
+differs depending on the specific actinide elements, other 
+elements used for alloys and compounds, and environmental 
+conditions such as temperature and pressure. 
+  Actinides can be divided roughly into two groups, from Th to 
+Pu, and Am and beyond. In many ways, actinides beyond Am are 
+similar to lanthanides. Although the concept of group separation 
+as well as extinction processing of TRU has been examined at 
+various places, it is noted that Np and Am, the main components 
+of waste TRU, are very different from each other in their 
+characteristics in the examination of fuels and targets. 
+  TRU nitride, as well as alloys, is one of the hopeful 
+candidates for TRU extinction processing fuels. The reason is 
+that, while actinides are extremely variable in their 
+characteristics as individual metals, and it is difficult to 
+predict their behavior, nitrides are expected to share their 
+characteristics. Therefore, the database for UN and (U, Pu)N is 
+expected to be used to predict the behavior of nitride fuels 
+containing TRU to a certain degree. 
+  However, there is no sufficient database for UN and (U, Pu)N 
+at present. There is a cooperative project between JAERI and PNC 
+on irradiation testing for (U, Pu)N fuel using the Joyo reactor. 
+A production technology for compound nitride pellets based on a 
+powder method has almost been completed. Building on this 
+technology, research on NpN compounds has begun. 
+  Concerning the basic solid state properties for nitrides, 
+thermal diffusion rate measurement and vapor pressure 
+measurement are in progress. The evaporation behavior of 
+individual nitrides is relatively simple. As UN has a lower U 
+partial pressure than N[.sup]2[/] partial pressure, nitrogen 
+is lost with priority, and a metal liquid phase is separated at 
+high temperatures over 1,700C. Even though the evaporation 
+behavior of these nitride compounds is complex, a precise 
+understanding is required since the appearance of the liquid 
+phase temperature defines the maximum fuel line output. 
+  Using the measurement results from laboratories and 
+reference 
+information, we have established a system to implement routinely 
+multiple-compound, multiple-phase equilibrium analysis. Figure 
+IV-6 illustrates the results of an evaporation behavior analysis 
+for (U, Pu)N. We plan to further develop the database for 
+actinide alloys, ceramics, and fused salt. 
+
+
+
+  Along with the increase in burn up rates and burn up ratio 
+of 
+plutonium, the density of precious metal fission products in 
+spent fuel increases radically compared to the conventional 
+fuels. In some conditions, an alloy phase such as (U, 
+Pu)Pd[.sup]3[/] may appear and become a problem in 
+reprocessing due to its refractory property. Research on 
+actinide inter-metal compounds is an important item for future 
+research. 
+  Certain types of actinide inter-metal compounds are 
+interesting as research objects for superconductivity and 
+magnetic properties. For Pu and Np, in addition to Th and U, a 
+system to implement production of various compounds and alloys 
+as well as characterization is being developed. 
+<H5>  2. Search and Application of Functional Materials </H5>
+  In the nuclear field as well, ceramics, amorphous materials, 
+and random system materials such as glass and fused salt have 
+been noted as useful functional materials for special purposes. 
+Various solid state properties of these materials are closely 
+related to their structures, and a study of their structural 
+properties is the most basic research objective in examining the 
+properties of these materials. As experimental means of 
+structural analysis, such methods as X-ray and neutron ray 
+diffractometry, laser Raman spectroscopy, and infrared 
+spectroscopy are commonly used. However, with these methods, it 
+is difficult to obtain binary distribution functions between the 
+constituent atoms except for special elements. On the other 
+hand, it is extremely useful to apply molecular dynamics 
+computer simulation, which has made rapid progress recently, to 
+these random systems. For instance, although it requires massive 
+amounts of time and money to obtain the solid state properties 
+of fused salt only from experiments, supplementing such efforts 
+with computer simulation helps predict an optimum material 
+system with target property values. 
+  In this section, we will discuss ultra-ion-conductive 
+materials as examples of ceramic functional materials, as well 
+as research on fluoride glass, which is useful in the infrared 
+range, and structural property evaluation by molecular dynamics 
+computer simulation as examples of random system. 
+<H5>  (1) Ultra-Ion-Conductive Materials </H5>
+  There are materials that are solid and capable of 
+transferring only specific constituent elements (called 
+ultra-ion conductors). Such materials are being considered for 
+application in lithium cells, third-generation fuel cells, etc. 
+Although it might seem surprising, ultra-ion-conductive 
+materials are familiar materials in the nuclear field. 
+UO[.sup]2[/], a nuclear fuel material, is a typical ultra-ion 
+conductor for oxygen ions. Lithium oxide (Li[.sup]2[/]O), the 
+strongest candidate for the solid blanket material of fusion 
+reactors, is also an ultra-ion conductor for lithium ions, and 
+its various properties are closely related to the behavior of 
+lithium ions. The following is a description of the 
+high-temperature steam electrolytic method using a stabilized 
+zirconium solid electrolyte, which is an oxygen ion conductor. 
+  This method can be applied to tritium hydrolysis in the fuel 
+circulation system for fusion reactors, and to the production of 
+hydrogen for the heat use system in high-temperature gas-cooled 
+reactors. Figure IV-7 illustrates the basic principle of this 
+method. Electrolytic cells consist of an ion conductor 
+(electrolyte) and two electrodes on both sides. Water is 
+supplied to the cathode in the form of vapor. An electrolytic 
+reaction on the cathode side reduces the water, and hydrogen gas 
+is separated. Generated oxygen ions are transferred through the 
+electrolyte, and become oxygen gas being oxidized on the cathode 
+side. Therefore, when vapor is supplied to one side of a ceramic 
+barrier to become electrolyzed, vapor and a hydrogen compound 
+gas are obtained, and, on the other side, oxygen gas is 
+obtained. Research and development for the reverse process of 
+this system is also in progress. This has raised some 
+interesting nuclear-related topics, exemplifying the changes in 
+approach to various research activities. 
+
+
+
+  Figure IV-8 illustrates the hydrogen conversion rates for 
+vapor as a function of temperature and electrolytic voltage in 
+the ideal condition of no internal resistance in the electrolyte 
+cells. When responding to tritium hydrolysis in the fuel 
+circulation system for fusion reactors, it is necessary to 
+operate in a relatively low-temperature range from the 
+standpoint of safety. Therefore, it becomes necessary to search 
+for solid electrolyte materials with little resistance. When 
+zirconia to which ytterbium oxide 
+(Yb[.sup]2[/]O[.sub]3[/]) has been added is used, 
+electrolyte resistance is radically reduced, and electrolyte 
+cells can operate sufficiently at around 600C. It has been 
+confirmed that almost 100 percent of the tritium vapor is 
+decomposed in the real tritium circulation system, such as the 
+BEATRIX-II Project, where tritium breeding material in FFTF is 
+examined experimentally to determine its breeding properties 
+under neutron radiation. 
+
+
+
+  As discussed in detail in Part II, research and development 
+on lithium oxide (Li[.sup]2[/]O) as tritium breeding material 
+for fusion reactors is underway, and it is extremely interesting 
+from the standpoint of material science, as is UO[.sup]2[/]. 
+UO[.sup]2[/] has a fluor structure. In contrast, 
+Li[.sup]2[/]O has a reverse fluor structure, where, as 
+opposed to UO[.sup]2[/], oxygen is placed in the position of 
+U and Li in the position of oxygen. Therefore, as illustrated in 
+Figure IV-9, Li in Li[.sup]2[/]O has an extremely large 
+self-diffusion coefficient, as in oxygen in UO[.sup]2[/] (or 
+ThO[.sup]2[/] and PuO[.sub]2[/]). Although the fusing 
+point of Li[.sup]2[/]O is over 1,600C, its 
+self-diffusion coefficient at 1,000C is about 
+10[.sup]-6[/]cm[.sup]2[/]s[.sup]-1[/], about half the 
+value of ordinary materials in the liquid state. This suggests 
+that it is highly probable that a Li atom in the solid state of 
+Li[.sup]2[/]O is away from its inherent atomic position, much 
+as occurs in the liquid state. This is called sublattice melt, 
+and has been verified with laser Raman spectroscopy. Figures 
+IV-10 and 11 illustrate Raman spectrum and changes in line width 
+by temperature for Li[.sup]2[/]O. The line width of the Raman 
+spectrum has a large value at about 100 cm[.sup]-1[/] at 
+1,000C, and it is judged that Li atoms are moving actively 
+around the inherent atom location. 
+
+
+
+
+
+
+
+
+
+  In this way, Li[.sup]2[/]O and UO[.sub]2[/] 
+(ThO[.sup]2[/] and PuO[.sub]2[/]) are important materials 
+for nuclear systems, and are interesting as materials for the 
+analysis of the ultra-ion electrical conduction mechanism from 
+the standpoint of material science as well. 
+<H5>  (2) Fluoride Glass with Beryllium Fluoride </H5>
+  Highly purified SiO[.sup]2[/] glass is used for a 
+commercial photoconductive material, but its working wavelength 
+range is limited to 0.6-1.8 m. In the meantime, research and 
+development using fluoride glass -- which can be used in the 
+infrared range and has theoretically superior photoconductive 
+properties to SiO[.sup]2[/] glass -- is in progress. 
+  There are two types of fluoride glass: BeF[.sup]2[/], 
+ZrF[.sup]4[/]-BaF[.sub]2[/] and 
+HfF[.sup]4[/]-BaF[.sub]2[/] glass, which have superior 
+stability for glass crystallization, and AlF[.sup]3[/] glass, 
+which has superior scientific stability and mechanical 
+properties. 
+  Recently, JAERI succeeded in developing an 
+AlF[.sup]3[/]-BeF[.sub]2[/] fluoride glass, which has 
+superior scientific stability and mechanical properties, as well 
+as superior stability for glass crystallization. This was 
+achieved by adding a small amount of BeF[.sup]2[/], which has 
+superior glass stability, to AlF[.sup]3[/] glass, which has 
+superior scientific stability and mechanical properties. 
+Stability of the glass state increases in proportion to the 
+difference between crystallization temperature (T[.sup]x[/]) 
+and glassification transfer temperature (T[.sup]g[/]). Table 
+IV-1 presents values for T[.sup]g[/] and _D_T (= 
+T[.sup]x[/]-T[.sub]g[/]) of 
+AlF[.sup]3[/]-BeF[.sub]2[/] fluoride glass compared to 
+those of a representative fluoride glass. It shows that, 
+although ZBLAN is the most common ZrF[.sup]4[/] glass, the 
+stability of AlF[.sup]3[/] glass with a little 
+BeF[.sup]2[/] is radically improved. As it is obvious from 
+Table IV-1, fluoride glass with ThF[.sup]4[/] appears to have 
+a high level of performance, which is interesting. 
+
+
+
+  ----------------------------------------------------------------------------- 
+|Table IV-1. Thermal Characteristic Parameters _D_T (= T[.sup]x[/]-T    | 
+|[.sup]g[/]) for Various Fluoride Glasses                                 | 
+----------------------------------------------------------------------------- 
+|Glass             |Composition in Mo-|TgC          |_D_TC      | 
+|                  |le %              |                  |                  | 
+----------------------------------------------------------------------------- 
+|ZBLAN             |56ZrF[.sup]4[/] |264               |95                | 
+|                  |x 19BaF[.sup]2     |                  |                  | 
+|                  |[/] x 4AlF[.sup]|                  |                  | 
+|                  |3[/] x 6 LaF   |                  |                  | 
+|                  |[.sup]3[/] x 15-|                  |                  | 
+|                  |NaF               |                  |                  | 
+----------------------------------------------------------------------------- 
+|HBT               |57.8HfF[.sup]4     |319               |77                | 
+|                  |[/] x 8.8ThF   |                  |                  | 
+|                  |[.sup]4[/] x 33.|                  |                  | 
+|                  |6BaF[.sup]2[/]  |                  |                  | 
+----------------------------------------------------------------------------- 
+|HBL               |57.5HfF[.sup]4     |332               |83                | 
+|                  |[/] x 33.8BaF  |                  |                  | 
+|                  |[.sup]2[/] x 8.8|                  |                  | 
+|                  |LaF[.sup]3[/]   |                  |                  | 
+----------------------------------------------------------------------------- 
+|BATY              |22.6ThF[.sup]4     |446               |108               | 
+|                  |[/] x 20 x 20B-|                  |                  | 
+|                  |aF[.sup]2[/] x 2|                  |                  | 
+|                  |8.7AlF[.sup]3[/]|                  |                  | 
+|                  | x 28.7YF[.sup]3   |                  |                  | 
+|                  |[/]            |                  |                  | 
+----------------------------------------------------------------------------- 
+|YABC              |20BaF[.sup]2[/] |430               |105               | 
+|                  |x 40AlF[.sup]3     |                  |                  | 
+|                  |[/] x 20YF[.sup]|                  |                  | 
+|                  |3[/] x 20CaF   |                  |                  | 
+|                  |[.sup]2[/]      |                  |                  | 
+----------------------------------------------------------------------------- 
+|SYB               |40BaF[.sup]2[/] |360               |50                | 
+|                  |x 20YF[.sup]3[/]|                  |                  | 
+|                  | x 40ScF[.sup]3    |                  |                  | 
+|                  |[/]            |                  |                  | 
+----------------------------------------------------------------------------- 
+|BATYN             |18ThF[.sup]4[/] |393               |94                | 
+|                  |x 18.2BaF[.sup]2   |                  |                  | 
+|                  |[/] x 27.2AlF  |                  |                  | 
+|                  |[.sup]3[/] x 9.1|                  |                  | 
+|                  |NaF x 27.2YF[.sup]3|                  |                  | 
+|                  |[/]            |                  |                  | 
+----------------------------------------------------------------------------- 
+|TNO               |20ThF[.sup]4[/] |242               |91                | 
+|                  |x 80NaF           |                  |                  | 
+----------------------------------------------------------------------------- 
+|TLN 2             |30ThF[.sup]4[/] |250               |79                | 
+|                  |x 7BaF[.sup]2[/]|                  |                  | 
+|                  | x 45LiF x 7NaF x |                  |                  | 
+|                  |3YF[.sup]3[/] x |                  |                  | 
+|                  |3CaF[.sup]2[/]  |                  |                  | 
+----------------------------------------------------------------------------- 
+|PMCFU             |45PbF[.sup]2[/] |243               |61                | 
+|                  |x 17MnF[.sup]2     |                  |                  | 
+|                  |[/] x 35FeF    |                  |                  | 
+|                  |[.sup]3[/] x 2A-|                  |                  | 
+|                  |lF[.sup]3[/] x 3|                  |                  | 
+|                  |CaF[.sup]2[/]   |                  |                  | 
+----------------------------------------------------------------------------- 
+|CLAP              |26.1CdF[.sup]2     |245               |100               | 
+|                  |[/] x 10LiF x 3|                  |                  | 
+|                  |0.6AlF[.sup]3[/]|                  |                  | 
+|                  | x 33.3PbF[.sup]2  |                  |                  | 
+|                  |[/]            |                  |                  | 
+----------------------------------------------------------------------------- 
+|BATYL             |18ThF[.sup]4[/] |351               |56                | 
+|                  |x 18.2BaF[.sup]2   |                  |                  | 
+|                  |[/] x 9.1LiF x |                  |                  | 
+|                  |27.2AlF[.sup]3     |                  |                  | 
+|                  |[/] x 27.3YF   |                  |                  | 
+|                  |[.sup]3[/]      |                  |                  | 
+----------------------------------------------------------------------------- 
+|BIZYBT            |30BaF[.sup]2[/] |324               |123               | 
+|                  |x 20InF[.sup]3     |                  |                  | 
+|                  |[/] x 20ZnF x 1|                  |                  | 
+|                  |0YbF[.sup]3[/]  |                  |                  | 
+|                  |x 10ThF[.sup]4     |                  |                  | 
+|                  |[/]            |                  |                  | 
+----------------------------------------------------------------------------- 
+|AlF[.sup]3[/] x |36.6AlF[.sub]3     |425               |89                | 
+|BeF[.sup]2[/]   |[/] x 63.4RF   |                  |                  | 
+|                  |[.sup]2[/] (R = |                  |                  | 
+|                  |Mg, Ca, Sr, Ba)   |                  |                  | 
+----------------------------------------------------------------------------- 
+|AlF[.sup]3[/] x |33.0AlF[.sub]3     |391               |127               | 
+|BeF[.sup]2[/]   |[/] x 57.0RF   |                  |                  | 
+|                  |[.sup]2[/] x 10-|                  |                  | 
+|                  |BeF[.sup]2[/]   |                  |                  | 
+----------------------------------------------------------------------------- 
+|AlF[.sup]3[/] x |27.5AlF[.sub]3     |363               |154               | 
+|BeF[.sup]2[/]   |[/] x 47.5RF   |                  |                  | 
+|                  |[.sup]2[/] x 25-|                  |                  | 
+|                  |BeF[.sup]2[/]   |                  |                  | 
+----------------------------------------------------------------------------- 
+
+
+  Assuming the reason for the vast improvement in stability of 
+AlF[.sup]3[/] glass with additional BeF[.sub]2[/] lies in 
+its structural properties (three-dimensional atom distribution), 
+its three-dimensional structural properties have been analyzed 
+using molecular dynamics computer simulation. 
+  The potential energy between two bodies of BeF[.sup]2[/] 
+used in the computation is illustrated in Figure IV-12. In order 
+to verify the potential energy precisely, an _a_-quartz 
+BeF[.sup]2[/] crystal was reproduced in the computer, and its 
+structural parameters were compared with actual measurements. 
+The results are presented in Table IV-2. Computed values for 
+structural parameters coincided well with the actual values 
+obtained by neutron ray diffractometry, and the appropriateness 
+of the potential energy used was confirmed. 
+
+
+
+
+
+
+  A structural model of AlF[.sup]3[/]-BeF[.sub]2[/] 
+(66.7-33.3 mol%) glass at 300 K was obtained using the 
+same 
+potential energy. The results are illustrated in Figure IV-13. 
+In glass, Al[.sup]3+[/] and F[.sup]-[/] constitute 
+AlF[.sup]6[/] octahedron according to analysis based on most 
+approximate inter-atom distance, coordination number, and angle 
+distribution for F-Al-F (&lt; F-Al-F). It has been found that a 
+three-dimensional mesh structure is developed between the 
+AlF[.sup]6[/] octahedron and BeF[.sub]4[/] tetrahedron, 
+created by the addition of BeF[.sup]2[/], with F as the 
+common vertex. This is the reason for the production of stable 
+glass with additional BeF[.sup]2[/]. 
+
+
+
+<H5>  3. Conclusion </H5>
+  Actinide compounds and lithium oxide, core materials for 
+nuclear systems, are extremely peculiar materials from the 
+standpoint of material science. They are also quite interesting 
+for the analysis of the superconductivity mechanism for heavy 
+fermion, and for the analysis of the ultra-ion conduction 
+mechanism. It is one of the research objectives of material 
+science to explore such exotic materials, and it is necessary 
+for researchers not to shut themselves within conventional 
+research concepts, and to change their thought patterns. 
+

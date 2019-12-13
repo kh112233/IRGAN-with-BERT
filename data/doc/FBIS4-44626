@@ -1,0 +1,294 @@
+CSO 
+
+<F P=106> [Article by Feng Hao [7458 3185] and Wang Minghua [3769 2494 </F>
+5478] of the Department of Information and Electronic 
+Engineering, Zhejiang University, Hangzhou: ``GaAs 1x2 
+Mach-Zehnder (MZ) Waveguide Switch/Modulator,'' supported by the 
+National Natural Science Foundation; MS received 9 Jun 92, 
+revised 6 Sep 92] 
+  [Text] 
+<H5>  Abstract </H5>
+  Research on a GaAs 1 x 2 MZ waveguide switch/modulator is 
+reported. The operating principle of the device is analyzed. The 
+device employs a Y branch as a 3 dB coupler and an asymmetric X 
+junction as an interferometer. At a wavelength of 1.15 m, 
+the 
+switch was found to have a crosstalk ratio of less than -16 dB 
+and a switching voltage of 19 V. The device is expected to be 
+widely used in GaAs 1 x n switching arrays and high-speed 
+optical modulators. 
+<H5>  1. Introduction </H5>
+  In integrated optics, optical switches and light modulators 
+are basic devices not only widely used in optical 
+communications, optical computing and optical information 
+processing systems but also are basic components in optical 
+switching arrays. In recent years, significant progress has been 
+made in optical switch/modulators. The speed of the 
+electro-optic MZ interferometric modulator/switch has reached 
+26.4 GHz.[.sup]1[/] The modulating speed of a phase modulator 
+is as high as 110 GHz.[.sup]2[/] Following are the main 
+electro-optic modulator/switch structures: 
+  (1) a MZ switch/modulator that couples a Y branch with three 
+waveguides,[.sup]3,4[/]; 
+  (2) a directionally coupled modulator/switch,[.sup]5[/]; 
+  (3) a BOA [bifurcated optically active] optical 
+switch/modulator,[.sup]6[/]; 
+  (4) an asymmetric MZ switch/modulator.[.sup]7,8[/] 
+  Each structure has its own unique characteristics and has 
+been widely studied and used in various applications. A Y-branch 
+MZ waveguide modulator that employs two Y branch couplers as the 
+input usually only can function as a modulator because there is 
+only one input and one output. In reference 8, we reported a 2 x 
+2 GaAs symmetric MZ switch/modulator. In this 2 x 2 switch, two 
+asymmetric X junctions are used to replace the Y-branch couple 
+in a Y-branch modulator to form a 2 x 2 switch. Since the two 
+modulating waveguides in this switch have different widths, a 
+propagation constant difference usually exists. In a pulse input 
+mode, pulses are often lost. Therefore, such a device cannot 
+operate in a pulse mode. For the first time, a 1 x 2 GaAs MZ 
+waveguide switch/modulator is reported. An asymmetric X junction 
+is used to replace the interferometer in a Y-branch modulator. 
+The device not only has an excellent 3 dB light splitting effect 
+as a Y-branch coupler but also has the characteristics of a 1 x 
+2 switch. Furthermore, its modulating waveguide is symmetrical, 
+solving the problem of a 2 x 2 symmetric MZ switch operating in 
+the pulse mode. It makes the Y-branch MZ waveguide modulator 
+more useful over a wide range of applications. 
+<H5>  2. Basic Principle </H5>
+  Figure 1 shows the structure of a single-mode, Y-branch 
+modulator. When a polarized beam of light enters from the input 
+end of the modulator, it is split into two identical beams by 
+the Y-branch coupler. These two beams of identical power pass 
+through two electro-optically active regions to determine their 
+phase difference. In addition, interference takes place in 
+another Y-branch coupler. The basic mode produced is sent out 
+via the waveguide. The first-order mode produced is cutoff in 
+the single-mode output waveguide and is scattered to the 
+substrate or the flat waveguide. The principle of the asymmetric 
+X-junction is discussed in reference 9. When the X-junction 
+branching angle _th_ &lt; _D__b_/_g_, the asymmetric 
+X-junction 
+plays a mode-separation role. Figure 2 shows the basic principle 
+of the X-junction as an interferometer. When two identically 
+polarized beams come in from its symmetric input ends, they 
+superpose each other in the interference region and even modes 
+are produced to exit from the wide waveguide (as shown in Figure 
+2(b)). When two beams of opposite polarization enter from the 
+symmetric input ends, odd modes are produced in the interference 
+region and exit from the narrow waveguide (as shown in Figure 
+2(c)). 
+
+<FIG ID=JPRS-CST-011-15A>      Figure 1. Principle of a Single-Mode, Y-Branch Modulator </FIG>
+
+
+
+<FIG ID=JPRS-CST-011-15B>      Figure 2. Principle of Using an X-Junction as an Interferometer </FIG>
+
+
+  On the basis of the above analysis, this X-junction MZ 
+modulator not only preserves the advantages of a MZ modulator, 
+such as high-speed modulation, but also can work as a 1 x 2 
+switching element to form a switching array. Figure 3 shows the 
+operating principle of the switch. 
+
+<FIG ID=JPRS-CST-011-15C>      Figure 3. Principle of the 1 x 2 Switch </FIG>
+
+
+  A polarized beam is split into two beams of identical power 
+by the Y-branch 3 dB coupler. After passing through the 
+electro-optic modulating region, the relative phase difference 
+is obtained. Furthermore, as a result of interference in the 
+asymmetric X-junction, even modes will exit from the wide 
+waveguide and odd modes from the narrow waveguide, i.e., 
+  P[.sub]out1[/] = 
+P[.sub]in[/]cos[.sup]2[/](_Ph_/2), (1a) 
+  P[.sub]out2[/] = 
+P[.sub]in[/]sin[.sup]2[/](_D__Ph_/2), (1b) 
+  _D__Ph_ = _D__Ph_[.sub]e[/] + 
+_D__Ph_[.sub]0[/], (1c) 
+  where _D__Ph_[.sub]0[/] is the initial phase difference and 
+_D__Ph_[.sub]e[/] is the relative phase difference caused by 
+electro-optic effect. 
+  In equation (1) only _D__Ph_[.sub]e[/] is a function of 
+applied voltage V, i.e., 
+  _D__Ph_[.sub]e[/] = 
+(/_l_)r[.sub]41[/]n[.sup]3[/]L&Ggr;V/d, (2) 
+  where L is the length of the electrode, d is the waveguide 
+thickness, &Ggr; represents an overlapping integral, n is the 
+index of refraction and r[.sub]41[/] is the electro-optic 
+coefficient. 
+<H5>  3. High-Speed Switching Characteristics </H5>
+  The high-speed switching characteristics of electro-optic 
+modulators are limited in two areas. 
+  The modulation bandwidth of lumped-electrode devices is: 
+  _D_f[.sub]0[/] [congruent] 1/(2R[.sub]s[/]CL), (3) 
+  where C is the junction capacitance per unit length, L is 
+the 
+length of the electrode and R[.sub]s[/] is the matching 
+resistance. 
+  From the above equation we know that modulation bandwidth is 
+limited by junction capacitance. Reducing junction capacitance 
+is the primary way to raise the switching speed of a 
+lumped-electrode device. 
+  For a traveling wave device, the modulating speed is limited 
+by the mismatch between electric and optical field. The 
+modulation bandwidth is: 
+
+<FIG ID=JPRS-CST-011-15D>      Equation </FIG>
+
+  _D_f[.sub]e[/] = 
+1.4c/L(n[.sub]0[/]-n[.sub]u[/] (4) 
+  where n[.sub]0[/] and n[.sub]u[/] are the optic and 
+microwave refractance, respectively, and L is the length of the 
+interaction region. 
+  To date, the bandwidth of a lumped-electrode 3 dB MZ 
+modulator is as wide as 8.4 GHz and that of a traveling wave 3 
+dB MZ modulator is as wide as 24.6 GHz. 
+<H5>  4. Crosstalk Analysis </H5>
+  In an asymmetric 1 x 2 MZ switch, crosstalk comes from two 
+sources. One is due to asymmetry of the two branch waveguides of 
+the Y-branch 3 dB coupler resulting in two beams of unequal 
+power. 
+  Assume the beam power levels are I[.sub]1[/] and 
+I[.sub]2[/] and a relative phase delay of _D__Ph_/2 is 
+obtained after passage through the interference region. Then, 
+the crosstalk is: 
+
+<FIG ID=JPRS-CST-011-16A>      Equation </FIG>
+
+
+  The other cause is due to a large branching angle of the 
+X-junction, which results in incomplete mode separation to 
+produce crosstalk. In reference 9, the authors calculated 
+mode-separation amplitude ratios at various angles. 
+<H5>  5. Design and Fabrication of the Device </H5>
+  The dimension of the single-mode waveguide is calculated 
+using the effective refractance method and the X-junction angle 
+is derived from equation (2). Figure 4 shows the device 
+parameters. The device is fabricated on a 
+n[.sup]-[/]/n[.sup]+[/]GaAs epitaxial wafer which is 
+prepared by means of vapor-phase epitaxy. The device is made by 
+etching. The waveguide is chemically etched in 
+H[.sub]3[/]PO[.sub]4[/]:H[.sub]2[/]O[.sub]2[/]:H[.sub]2[/]O 
+= 1:1:10 at 25C for 2 minutes and 30 seconds to produce a 
+1.2-m ridge. Figure 5(a) shows the parameters of the ridge 
+waveguide. A lumped-electrode modulation mode was chosen. The 
+upper electrode is an Al-Schottky barrier contact and the lower 
+electrode is an Au-Ge-Ni ohmic contact. The electrode parameters 
+are shown in Figure 5(b). 
+
+<FIG ID=JPRS-CST-011-16B>      Figure 4. Structural Parameters of the 1 x 2 Switch </FIG>
+
+
+
+<FIG ID=JPRS-CST-011-16C>      Figure 5. (a) Ridge-Waveguide Parameters and (b) Electrode Parameters </FIG>
+
+
+<H5>  6. Testing and Results </H5>
+  A beam of polarized light enters the waveguide after passing 
+through a lens. The light that exits the waveguide is collimated 
+again by a lens to be captured by an infrared camera. The light 
+spot is displayed on a monitor and the optical field 
+distribution is recorded in memory. Figure 6 [photograph not 
+reproduced] shows the distribution of light spot and optical 
+field at different voltages. If the switching voltage is defined 
+as the amount of applied voltage required to change the output 
+optical power from maximum to minimum or vice versa, then at 
+_l_ 
+= 1.15 m it was found that the switching voltage is 19 V and 
+crosstalk ratio is -16 dB. Figure 7 shows the variation of 
+optical power at the two outputs as a function of modulation 
+voltage. The modulating electrode is a lumped electrode. At zero 
+bias voltage, the electrode capacitance was measured to be 
+approximately 4 pF. If the matching resistor is 50 _O_, then 
+the 
+bandwidth of the device is expected to be greater than 1.8 GHz. 
+The transmission loss of the waveguide is determined by 
+measuring its attenuation coefficient,[.sup]10[/] i.e., 
+measuring the output power of the waveguide at different 
+wavelengths with identical input optical power and then 
+determining transmission loss according to the following 
+equation: 
+  _a_ = ln (I[.sub]1[/]/I[.sub]2[/])/(Z[.sub]2[/] - 
+Z[.sub]1[/], 
+  transmission loss = 4.3 _a_ (dB/cm), 
+  where Z[.sub]i[/] is the waveguide length (i = 1, 2...) 
+and I[.sub]i[/] is the light intensity. By measuring a large 
+number of specimens, transmission loss can be accurately 
+determined. With waveguide parameters described above, 
+transmission loss was measured to be approximately 7 dB/cm. 
+
+<FIG ID=JPRS-CST-011-17A>      Figure 7. Output Power vs. Modulating Voltage </FIG>
+
+
+<H5>  7. Discussion </H5>
+  From Figure 7, the light output power ratio of the two 
+output 
+waveguides is about 4:1. This indicates that there is a relative 
+phase difference between the two polarized light beams passing 
+through those two waveguides. It also means that the two 
+parallel waveguides have different propagation constants. Under 
+circumstances wherein the waveguides are intact, this suggests 
+that the two waveguides are not exactly symmetric. This minute 
+asymmetry is primarily introduced in the fabrication process. As 
+far as the Y-branch coupler is concerned, a minute asymmetry 
+will seriously affect the beam-splitting ratio. We have already 
+discussed the crosstalk ratio due to uneven beam splitting. 
+  In addition, the waveguide used is a 
+n[.sup]-[/]/n[.sup]+[/] homojunction waveguide. This 
+structure does not limit the optical field much. A large amount 
+of optical field is distributed in the low-resistance substrate. 
+This not only increases the transmission loss but also reduces 
+the overlapping integral between the optical field and electric 
+field (&Ggr;) and causes the half-wave voltage to rise. An 
+effective way to solve this problem is to use a GaAs/GaAlAs 
+heterojunction. The difference in index of refraction between 
+the GaAlAs limiting layer and the GaAs waveguide is relatively 
+large (approximately 10[.sup]-2[/]) and the optical field can 
+be effectively confined within the waveguide. Therefore, 
+absorptive loss in the substrate and metal electrode can be 
+reduced and the overlapping integral can be increased. Moreover, 
+the waveguide of this type of structure is thinner (&lt; 1 
+m) 
+and the half-wave voltage is also drastically lower. Presently, 
+transmission loss of a GaAs heterojunction is less than 0.2 
+dB/cm,[.sup]11[/] and the half-wave voltage of such an 
+electro-optic modulator is less than 5 V.[.sup]1[/] 
+<H5>  8. Conclusion </H5>
+  A 1 x 2 GaAs asymmetric MZ waveguide switch/modulator using 
+a 
+Y-branch coupler and an asymmetric X-junction is presented. A 
+switching voltage of 19 V and a crosstalk ratio of -16 dB have 
+been achieved. The device can be used as a switching element in 
+a 1 x n switching array and as a high-speed modulator. 
+References 
+  1. R. G. Walker, IEEE J. QUANTUM ELECTRON., Vol 27, No 3, 
+1991, p 654. 
+  2. J. Nees, S. Williamson, and G. Mourou, APPL. PHYS. LETT., 
+Vol 54, No 20, 1989, p 1962. 
+  3. P. Uchmann, H. Kaufann, H. Melchior, and G. Guekos, APPL. 
+PHYS. LETT., Vol 46, No 5, 1985, p 462. 
+  4. R. G. Walker, J. LIGHTWAVE TECHNOL., Vol LT-5, No 8, 
+1987, 
+p 1444. 
+  5. K. Tada and K. Hirose, APPL. PHYS. LETT., Vol 25, No 10, 
+1974, p 561. 
+  6. R. Papuchon, A. Roy, and D. B. Ostrowsky, IEEE J. QUANTUM 
+ELECTRON., Vol QE-31, No 4, 1977, p 266. 
+  7. M. Izutsu, A. Enokihara, and T. Sueta, OPTICS LETTERS, 
+Vol 
+7, No 11, 1982, p 549. 
+  8. Feng Hao, Li Xihua [2621 6932 5478], Yang Zuoya [2799 
+0146 
+1246], and Wang Minghua, GUANGXUE XUEBAO [ACTA OPTICA SINICA], 
+Vol 12, 1992, No 11 [pp 1043-1048], [translated in full in 
+JPRS-CST-93-007, 21 Apr 93 pp 20-22]. 
+  9. W. K. Burns and A. F. Milton, IEEE J. QUANTUM ELECTRON., 
+Vol QE-11, No 1, 1975, p 32. 
+  10. Edited by Chen Yixin [7115 4135 2450] et al., 
+``Integrated Optics,'' Shanghai Jiaotong University Press, 1985, 
+p 51. 
+  11. H. Inoue, K. Hiruna, K. Ishida, and H. Matsumura, IEEE 
+T. 
+ELECTRON. DEVICES, Vol ED-32, No 12, 1985, p 2662. 
+

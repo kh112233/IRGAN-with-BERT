@@ -1,0 +1,70 @@
+FT  29 OCT 94 / The Nature of Things: Writing with atoms
+A new generation of microscopes, more powerful than scientists would have
+believed possible before the 1980s, is enabling researchers not only to
+'see' individual atoms but also to pick them up and move them around.
+These microscopes will be vital instruments for the coming era of
+'nanotechnology', in which miniaturisation will produce atomic-scale
+structures thousands of times smaller than those used in microelectronics
+today. On that scale, all the words in the Bible could be written on the
+point of a pin.
+(A brief explanation of the terminology used in nanotechnology: the word
+comes from the Greek nanos for dwarf. The fundamental unit of the field is
+the nanometre, one billionth of a metre.)
+The first of the new instruments, the Scanning Tunnelling Microscope, was
+invented in 1981 by Gerd Binnig and Heinrich Rohrer at the Swiss
+laboratories of IBM, the American computer group. The STM was a wonderful
+leap of scientific imagination, recognised unusually promptly with a Nobel
+Prize for Physics in 1986.
+Conventional microscopes work by focusing beams of radiation or particles.
+Optical instruments are limited by the wavelength of visible light, which is
+about 500nm; even a perfect lens cannot focus on a point smaller than this,
+so they cannot see atoms. To achieve greater resolving power, microscopists
+moved to electron beams and X-rays, which have much shorter wavelengths, but
+they use penetrating high-energy radiation which is unsuitable for imaging
+atoms on surfaces.
+Binnig and Rohrer decided to use 'electron tunnelling', one of the slightly
+bizarre consequences of quantum theory. When a low voltage is applied to two
+conducting materials which are extremely close together but not touching,
+electrons 'tunnel' through the gap; the resulting electric current is highly
+sensitive to the distance between them.
+The instrument built by the IBM researchers had a stylus with the sharpest
+possible tip - a single atom - which scanned a metal surface. The variations
+in tunnelling current revealed the ups and downs of the atoms on the
+surface.
+The STM could only give images of materials that conduct electricity. The
+next step was the Atomic Force Microscope invented by Binnig and colleagues
+in 1985 to look at non-conducting materials. The AFM scans a tip attached to
+a thin metal cantilever across the sample, and gives an image based simply
+on the repulsive forces between the atoms at the end of the tip and those on
+the sample's surface.
+More recently, the STM and AFM have spawned a variety of other instruments,
+known generically as Scanning Probe Microscopes, which produce atomic images
+based on thermal, magnetic, optical and other interactions between the tip
+and sample. By speeding up the scanning rate, scientists have even made
+'atomic movies', showing how atoms move around on heated surfaces.
+An estimated 3,000 SPMs are now operating worldwide, for a vast range of
+applications, and the number is increasing. Most are used for research into
+surfaces, helping scientists understand processes such as corrosion. They
+are also moving on to production lines in the electronics industry,
+inspecting semiconductors and other materials for surface quality.
+In biology, SPMs have imaged the double helix of the genetic material DNA
+and distinguished the chemical 'letters' which hold our genetic code. If the
+technique can be speeded sufficiently, it may be possible to read genes by
+microscope, instead of using chemical-based analysis.
+But much of the excitement about SPMs concerns their potential for
+manipulating atoms. Researchers at IBM's Almaden laboratories in California
+showed the way in 1990 when pushed atoms of xenon across a nickel surface
+with an STM tip, one by one, and arranged them to spell the company's
+initials in atomic letters 5nm high.
+Such demonstrations show that, in principle, data could be stored in
+ultra-compact 'atom-scale memories'.
+Decades of work will be required to bring atom-scale devices based on SPMs
+to practical fruition. In particular, the speed with which atoms are moved
+and scanned will need to increase millions of times.
+But it is far from certain that SPMs are the main route to an atom-scale
+future. Alternative methods of nano-construction are already further
+developed, such as laying down atoms by molecular beams in a vacuum. These
+are less sensitive than SPMs but far faster.
+The future for the new generation of microscopes may lie more in observing
+nano-structures and assembling prototype devices than in mass production.
+However they have transformed the way scientists see the world in miniature.

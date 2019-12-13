@@ -1,0 +1,106 @@
+FT  16 MAR 94 / Survey of Information and Communications Technology (29):
+Finding solutions takes time - Fast software development / Object-oriented
+computing is widely acknowledged to be the future direction for software
+development. But discovering ways to build software fast is a painstaking
+process
+In the ultra-competitive business world of the 1990s, a company's ability to
+create new information systems rapidly is a pre-requisite for survival.
+The key is to find ways to build application software which are both
+flexible and scalable. Object-oriented computing, which sees an information
+system as a set of self-contained components, is the most promising approach
+and it is steadily gaining favour with both software developers and users.
+Fast software development is a priority for both groups. A survey of
+delegates to last October's 'Objectworld' conference in the UK, for example,
+cited 'flexibility to change' and 'reduced time to market' as the two main
+reasons for adopting the object-oriented.
+Object-oriented computing is widely acknowledged to be the future direction
+for software development and most software developers have pledged their
+allegiance to the cause. The Object Management Group (OMG), an industry
+organisation which promotes object-oriented computing, now claims 370
+members and points to growing attendance at shows and exhibitions.
+The object-oriented approach is making the running at both extremes and is
+central to any debate on speeding up the production of software.
+There are several reasons:
+Firstly, object-oriented systems are built from sets of components which can
+be re-used elsewhere.
+This speeds up the development of new applications and makes existing ones
+easier to maintain.
+Secondly, object-oriented systems operate in a way that makes software
+'portable' to other platforms and preserves investment in application
+software.
+Thirdly, objects reduce the complexity of applications software by enforcing
+tight design disciplines.
+Most importantly, object-oriented development techniques make it easy to
+build prototype systems to demonstrate to users - which is widely
+acknowledged as one of the keys to speedy application development.
+'I think rapid application development is as much about the approach as it
+is about the tools you use,' says Mr Vic Morris, UK managing director of
+tools specialist Powersoft.
+'As far as possible you want to break the application down to make it easier
+for end users to do it themselves.
+'If you look at what many users have done with their PCs - building complex
+applications with spreadsheets, for example - you can harness that talent,'
+he goes on.
+Thinking of applications in terms of objects is the key, according to Mr
+Morris.
+'In the past, we viewed applications as a set of functions like, say, an
+order processing system. It was very structured. Now with objects, we can
+think in terms of business processes and put in place applications which can
+support them,' he explains.
+Mr Morris also places emphasis on the 'scalability' of applications. This
+means, for example, an application program built for two or three users on a
+small network should be able to cope with hundreds - or even thousands - of
+users on a much larger system.
+'We have recently re-positioned our Powerbuilder tool set to reflect this.
+So you can start with a cheap desktop version and move up to a full
+networked version and keep the same applications,' Mr Morris says.
+Other tool vendors have taken a similar approach because it can speed up
+production of larger systems if you can start with small ones and 'scale'
+them up.
+'All our tools are based on Smalltalk so you can move from our desktop
+product Enfin to our corporate Synchrony product,' says Mr Jeff Sutherland,
+vice-president of object development at software tools company Easel.
+'But it is not enough just to scale up to a large number of users. You need
+greater access to database and tools which can deliver the performance.
+'We see the answer in tools which will do 80 per cent of what a user wants
+automatically. The users can then concentrate on the bits they understand
+best - the business objects,' he says.
+Mr Sutherland believes that not enough is being done to promote object
+technology at the application level. He is part of a group of software
+developers pushing for the specification of business-based 'objects'.
+'We have a problem at the moment with object-oriented technology. People
+talk a lot about code re-use - but where is it?
+'We see the need for re-usable business objects which can give different
+views of the way the business operates to different users,' says Mr
+Sutherland.
+There are other, more serious, reservations about the use of object-oriented
+design for speeding up software - initially, at least.
+'Although object-oriented is the way forward, it is not a panacea. It's a
+solid framework to build re-usable code,' says Mr Paul Burford, a systems
+engineer with object-oriented tool specialist Next Computer.
+'In the short term, it is not a quick way to get more out of programmers.
+Although it reduces the number of lines of code you need to produce, there
+is much more design input needed'.
+Mr Burford cites the example of the Swiss Bank which used Next's Nextstep
+object-oriented tool to build its systems.
+'When we started at Swiss Bank four years ago we wrote objects that were not
+re-usable so there was no advantage. But they recognised over time that they
+had chunks of re-usable software,' he says.
+'If you take a new environment it will never be quicker to start with
+because of teething problems. But by taking an object-oriented approach you
+have a chance to start putting in new features in a more natural way'.
+While object-oriented design techniques provide a suitable framework for
+building applications, the real productivity benefits come from software
+tools.
+Strategies for selecting development tools differ - according to the size
+and data processing heritage of the individual company.
+Larger companies tend to bring in programmer productivity tools so that
+their information systems departments can respond more rapidly to users'
+demands.
+Smaller companies give their users their own desktop tools. Many companies
+combine both of these approaches.
+The result is a growing demand for tools which can support fast software
+development and there is no doubt that these tools will use object-oriented
+computing as a starting point.
+What is clear, however, is that finding ways to build software fast, takes
+time.

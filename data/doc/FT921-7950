@@ -1,0 +1,55 @@
+FT  20 FEB 92 / Technology: Robots set sail for Thamesport
+Two hundred tons of steel come to a precise halt, a hoist is lowered, the
+spreader locks on to a 40-foot container and winches it more than 100 feet
+into the air.
+At first sight there is nothing particularly unusual about the towering
+cranes going about their business at the Pounds 140m Thamesport deep water
+container terminal on the Isle of Grain, the first purpose-built container
+port in Britain.
+But these are 'robot' cranes and they are being controlled and monitored not
+by a chunky mainframe, but by a desktop PC sitting several hundred yards
+away in the port's office block.
+What is more, the computer knows the position of every container in the
+seven quarter-mile long 110-foot high 'stacks'. It uses magnetic swipe cards
+and radio modems to direct a truck driver to the right position to collect,
+or to deliver, a load.
+Thamesport, which began operations in May 1990 and will have a capacity of
+400,000 con-tainers when the last of its three development phases is
+completed, is probably the world's most automated port.
+Three years ago, when Thamesport was still in the planning stages, Keith
+Archer, Thamesport's business systems manager, was charged with developing
+an automated container port system which would provide a quick and efficient
+service with the minimum manning levels and cost. And, unlike conventional
+ports, it would permit the servicing of ships and haulage independently.
+'I had to get it up and running fast,' Archer recalls. Initially he looked
+for a packaged software system to control the port's complex administration,
+communications and cargo handling needs. He settled on a customised solution
+based on the Global 3000 Development Suite from TIS Software, a subsidiary
+of the Misys computer services group.
+Working with Farnborough-based software house Advanced PC Products, Archer
+designed the main elements involved in the automation of the port, the back
+office administration system and port control system.
+One of the most innovative features of the Thamesport's system is the
+control of remote peripherals. Using customised communications software,
+radio modems and swipe cards the system supervises the movement of all
+machinery within the port, including the five monster ship-to-shore 'robot'
+cranes and the 14 gantry cranes, which unload the containers from the ships
+and then organise them into the storage stacks before loading them on to
+trucks. At the moment the cranes are still manned, but are expected to go
+fully automatic shortly.
+Truck drivers entering the port to load or unload cargo are guided and
+monitored remotely by the system. System peripherals verify customs'
+clearance, photograph the container, direct the lorry to the appropriate
+gantry slot and print an itinerary of the driver's stay at the port. A swipe
+card identifies the truck and its load. On average 350 trucks enter the port
+each day and 85 per cent of them are inside the Thamesport gates for less
+than two hours.
+The system also provides the communications facilities. Electronic data
+interchange, fax and telex message functions connect Thamesport with data
+processing systems at its customers, HM Customs and Excise, government
+departments, overseas ports, banks and insurers.
+Despite the complexity of the port's operations Archer was able to get the
+system up and running within 15 months, and incorporate additional hardware
+as the port's facilities have expanded. The core hardware cost Pounds
+200,000 and Archer says the port could be run on three PCs, one for
+accounting and office systems, one for control and one as a back-up.

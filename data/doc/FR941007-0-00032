@@ -1,0 +1,156 @@
+ 
+
+FMC miscalculations that result in excessively high V
+
+1
+
+ speeds could result in accelerate-stop distances that exceed planned takeoff distances, which may lead to the airplane
+departing the end of the runway during a high speed rejected takeoff.
+
+Since the unsafe condition described is likely to exist or develop on other McDonnell Douglas Model MD11 and
+MD11F series airplanes of the same type design, the FAA issued telegraphic AD T941951, on September
+14, 1994, to supersede AD 940807 and to require a revision to the FAA-approved AFM to ensure that the flight
+crews verify the accuracy of data provided by the FMC under all conditions. The AD also requires that V speeds be manually
+entered into the FMC.
+
+This is considered to be interim action. The manufacturer of these airplanes, in concert with the manufacturer of
+the FMC, is currently developing new software that will address the unsafe condition addressed by this AD. Once this
+software is developed, approved, and available, the FAA may consider additional rulemaking.
+
+Additionally, subsequent to the issuance of telegraphic AD T941951, the FAA discovered that a typographical
+error appeared in the listing of affected part numbers for the Honeywell FMC's. The part numbers were inadvertently
+listed as ``4059040906, 907, and 908.'' The correct part numbers are ``4059050906, 907,
+and 908.'' (These correct part numbers were listed correctly in the preamble to the telegraphic AD and in the
+previously-issued AD 940807.)
+
+Since it was found that immediate corrective action was required, notice and opportunity for prior public comment
+thereon were impracticable and contrary to the public interest, and good cause existed to make the AD effective immediately
+by individual telegrams issued on September 14, 1994, to all known U.S. owners and operators of McDonnell Douglas
+Model MD11 and MD11F series airplanes. These conditions still exist, and the AD is hereby published
+in the 
+
+Federal Register
+
+ as an amendment to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13) to make it effective to all persons.
+Additionally, this AD revises the telegraphic AD by correcting a typographical error in the listing of FMC part numbers.
+
+
+
+Comments Invited
+
+
+
+Although this action is in the form of a final rule that involves requirements affecting flight safety and, thus, was
+not preceded by notice and an opportunity for public comment, comments are invited on this rule. Interested persons
+are invited to comment on this rule by submitting such written data, views, or arguments as they may desire.
+
+Communications shall identify the Rules Docket number and be submitted in triplicate to the address specified under
+the caption 
+
+ADDRESSES. 
+
+All communications received on or before the closing date for comments will be considered, and this rule may be amended
+in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely
+helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would
+be needed.
+
+Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the
+rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the
+closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each
+FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket.
+
+Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit
+a self-addressed, stamped postcard on which the following statement is made: ``Comments to Docket Number 94NM160AD.''
+The postcard will be date stamped and returned to the commenter.
+
+The regulations adopted herein will not have substantial direct effects on the States, on the relationship between
+the national government and the States, or on the distribution of power and responsibilities among the various levels
+of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not
+have sufficient federalism implications to warrant the preparation of a Federalism Assessment.
+
+The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct
+an unsafe condition in aircraft, and that it is not a ``significant regulatory action'' under Executive Order 12866.
+It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and
+Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be
+significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed
+in the Rules Docket. A copy of it, if filed, may be obtained from the Rules Docket at the location provided under the caption
+
+
+ADDRESSES.
+
+
+
+
+
+List of Subjects in 14 CFR Part 39
+
+
+
+Air transportation, Aircraft, Aviation safety, Safety.
+
+
+
+Adoption of the Amendment
+
+
+
+Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration
+amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+
+
+PART 39_AIRWORTHINESS DIRECTIVES
+
+
+
+1. The authority citation for part 39 continues to read as follows:
+
+
+
+
+
+
+Authority:
+
+ 49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89.
+
+
+
+39.13
+
+ [Amended]
+
+
+
+2. Section 39.13 is amended by removing amendment 398879 (59 FR 17467, April 13, 1994), and by adding a new airworthiness
+directive (AD), amendment 399042, to read as follows:
+
+
+
+
+
+
+941951 R1 McDonnell Douglas:
+
+ Amendment 399042. Docket 94NM160AD. Supersedes AD 940807, amendment
+398879.
+
+
+
+
+
+
+Applicability:
+
+ Model MD11 and MD11F series airplanes, equipped with Honeywell Flight Management Computers having
+part numbers 4059050906, 907, and 908; certificated in any category.
+
+
+
+Compliance:
+
+ Required as indicated, unless accomplished previously.
+
+
+
+

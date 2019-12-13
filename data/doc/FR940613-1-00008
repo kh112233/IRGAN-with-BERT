@@ -1,0 +1,96 @@
+ 
+
+Section 203.5_Disclosure and Reporting 
+
+
+Paragraph (a)_Reporting to Agency 
+
+
+
+
+Change in reporting deadline.
+
+ Currently, institutions are required to file their HMDA data with supervisory agencies by March 1 following the year
+to which the data relate. The Board proposes to change the due date to February 1. 
+Statutory amendments contained in the Housing and Community Development Act of 1992, 106 Stat. 3889, provide that
+starting with loan and application data for calendar year 1994, the FFIEC shall make ``every effort'' to ensure that
+individual lenders' public disclosure statements are available at the lenders' offices before July 1 of the following
+year. Similarly, the amendments call for the FFIEC to make both the individual disclosures and the aggregate tables
+available at the central depositories before September 1. 
+In 1993, the individual lenders' disclosure statements for 1992 lending activity became available to the public
+the first week of August, and the disclosure statements and aggregate reports became available at central depositories
+the first week of November. This year, the processing schedule calls for disclosures to be available at institutions
+in July and at central depositories in October. Thus, progress is being made toward meeting the statutory targets
+for earlier availability of HMDA data. But given the high volume of data being processed, the Board believes it is necessary
+to move up the date for submitting the raw data to supervisory agencies. 
+
+
+Reporting in Machine-Readable Format. 
+
+In processing the HMDA data, the Board and the other agencies use various means to identify and correct data errors.
+For example, the data are run through computerized edit checks designed to detect errors and omissions in the data
+fields. Where these are found, the agencies send the reports back to the institution for correction. 
+Lenders whose HMDALAR contains more than 100 line entries are generally expected by the agencies to submit
+their data in machine-readable format, such as PC diskette or magnetic tape. The Board and the other agencies have
+encouraged lenders to submit their HMDALARs in automated form, and all but one of the agencies provide PC software
+that can be used to compile data on diskettes. This software has built-in edit checks for accuracy and is furnished
+free of charge. Software packages that are widely available from private vendors also contain the computerized edits
+used by the Board. Nonetheless, many lending institutions still submit their HMDA data in paper form, and the agencies
+have found that these paper submissions tend to contain a substantially higher number of errors than submissions
+in machine-readable form. 
+The Board proposes to require that all institutions report HMDA data in machine-readable form and that they edit their
+data before submitting it, either using the agency-supplied HMDA software or using the same edits in private vendors'
+software. 
+The proposed change would help lenders to ensure submission of accurate data. 
+The overall accuracy of the data has improved each year since 1990, the first year of expanded reporting under the amendments
+in the Financial Institutions Reform, Recovery and Enforcement Act of 1989, in part because institutions have increasingly
+submitted data by diskette, magnetic tape, or Fedline. However, further improvements in data quality are needed,
+and the pre-edited reporting of data in machine-readable form would help in bringing about such improvements. Machine-readable
+reporting would also assist the agencies in meeting the new public disclosure deadlines, by reducing the time needed
+to enter the data from each reporting institution into the HMDA processing database. 
+The Board recognizes that some financial institutions subject to HMDA might not have the computer capability to compile
+and report their data in machine-readable form. The Board solicits comment, therefore, on whether requiring machine-readable
+data submission from all institutions would create a hardship for some, and if so, whether supervisory agencies should
+have discretion to grant waivers from this requirement on a case-by-case basis. For example, a waiver might be granted
+in a case where an institution does not itself own or have ready access to a personal computer nor have access through
+a service provider. 
+
+
+Paragraph (e)_Notice of Availability 
+
+
+The Board proposes to make a technical change to 203.5(e) concerning the notice of availability that institutions
+are required to post. Pursuant to amendments contained in the Housing and Community Development Act of 1992, lending
+institutions must now make available to the public not only their disclosure statements but also their loan/application
+registers (after deleting certain data fields). These statutory amendments were incorporated into Regulation
+C in March 1993 (see 58 FR 13403, March 11, 1993). 
+The proposed change will revise the notice language to reflect that HMDA data in addition to disclosure statements
+are available from institutions. 
+
+
+Appendix A_Form and Instructions for Completion of HMDA Loan/Application Register 
+
+
+II. Required Format and Reporting Procedures 
+
+
+
+
+Paragraph A.
+
+ The Board proposes to require that all HMDA-covered institutions submit data in machine-readable form, except that
+supervisory agencies may have discretion to grant relief from this requirement in cases of hardship. See the discussion
+of this proposed change under 203.5(a), above. 
+
+
+Paragraph E.
+
+ A new paragraph II. E. would be added to the HMDALAR instructions to reflect the proposed requirement that the
+HMDALAR be kept current within one month of final action during the year as transactions occur. See the discussion
+under 203.4(a), above. 
+
+
+III. Submission of HMDALAR and Public Release of Data 
+
+
+

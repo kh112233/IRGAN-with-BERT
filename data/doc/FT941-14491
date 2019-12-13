@@ -1,0 +1,95 @@
+FT  20 JAN 94 / Technology: Lucky numbers - A network for Britain's national
+lottery
+Britain's new national lottery opens for business in about a year, promising
+big cash prizes to the punters and much-needed tax revenues for the UK
+government.
+For the consortium chosen to operate the lottery, however, it also poses
+some daunting technical problems, not least of which will be setting up one
+of the largest computer networks in the world in around six months.
+The eight consortia expected to bid for the licence next month agree that,
+while the technology involved is relatively simple, the sheer size of the
+network, coupled with strict requirements for reliability and security, will
+make building the necessary computer system a tortuous task.
+Having stated its requirement, the government is leaving the specification
+of the system to its potential suppliers. To be truly national, however, it
+will need to cover more than 10,000 nationwide retail outlets at launch
+time, rising swiftly to approach 25,000. Each will be installed with a
+specially designed terminal connected to a central computer system handling
+on-line transaction processing at speeds of up to 2,000 to 3,000
+transactions a second at peak betting times, typically the hour before the
+weekly jackpot is drawn.
+A second computer centre, located at a separate site in case the first is
+hit by disaster, will be on constant standby, ready to take up the
+processing load should the lead computer system fail.
+David Bale, chief executive of the New Zealand Lotteries Commission and a
+consultant to UK bidder the Great British Lottery Company, warns against
+over-ambition. 'The key is integrity. The system must do everything
+properly, all the time. I would suggest that it would be irresponsible for
+anyone to bid newly developed software for such a large system as the UK. It
+must be well and truly tested, as must the hardware and communications
+network.'
+New Zealand's lottery, set up under Bale's guidance in 1987, has 700 outlets
+but because of their geographical spread and the country's demographics, it
+has proved a tough testing ground. Newsagents were initially connected to a
+central system via New Zealand Telecom leased lines and modems, although the
+network was digitised last year to improve availability and resilience as
+well as to add new features such as an emergency satellite back-up service.
+Bale's worst memory is the Saturday morning when a road digger sliced
+through both the primary and secondary wires connecting 50 per cent of New
+Zealand's lottery customers to the central system, jeopardising an equal
+percentage of the week's income. In this instance, service was resumed by
+5pm in time for intense activity before the 7pm weekly big prize draw.
+Besides leased lines and locally connected circuits, communications
+technologies which may be viable in the UK include cable, packet radio
+networks, emerging integrated services, digital networks and, ultimately,
+the latest generation of satellite services.
+Bale cautions, however, against a mix-and-match approach to building the
+communications network. 'Every time you add a new media, you add problems. I
+would avoid it like the plague.
+'BT's twisted-pair wiring goes everywhere in the UK and I believe it will
+deliver a very resilient service.' With the investment in technology to set
+up the network expected to be Pounds 200m or more, British
+Telecommunications will not be the only supplier keen for a slice of the
+action, although its involvement is almost guaranteed as Mercury has neither
+the coverage, nor the experience, sought by the consortia.
+Established suppliers of lottery system hardware include US companies
+Digital Equipment Corporation, Concurrent Computers and Control Data, which
+also offers complete systems through its subsidiary Automatic Wagering
+International. Software and specialist terminals are dominated by US-based
+G-Tech, with more than 60 per cent of the world market. It is also a member
+of the Camelot consortium (backed by Cadbury Schweppes), although this will
+not preclude other bidders from selecting its systems.
+Specially designed G-Tech lottery terminals, bearing some resemblance to a
+hybrid automatic teller machine and cash register, and made by consortium
+partner ICL (the UK-based and Japanese-owned computer company), would be
+installed in retail outlets with communication handled across a customised
+network of mixed media chosen for its cost effectiveness.
+Don Stanford, G-Tech's senior vice-president for technology, says: 'We need
+to achieve over 99.98 per cent availability and total transaction times of
+less than 5 seconds from when the customer hits the button to when he
+receives a receipt. And we want to give retailers a terminal designed to
+provide the power, capacity and speed to sell all game products within 5
+seconds. In the UK, things will go wrong if the solution is not completely
+integrated or properly tested.
+'The hardest part of the job will be planning and tackling the complexity
+involved to have everything online on day one. Besides the computer systems,
+retailers need to be trained and there will be a high field service
+requirement.' Although none of the consortia is prepared to commit itself,
+Stanford - who masterminded the Texas and California state lotteries -
+believes more than 500 jobs in manufacturing, operating the lottery and
+servicing retail sites will be created by the consortium chosen to run the
+lottery under the first seven-year licence.
+IBM, the technical partner in the Lottery Foundation (formed by Richard
+Branson, chairman of Virgin), endorses the need for systems integration. In
+its self-appointed role as a services company rather than hardware supplier,
+the US computer group will act as a project management and implementation
+specialist.
+To enhance its technical credibility in the eyes of the government selection
+team, Rainbow, the group put together by advertising agency Leo Burnett
+under the chairmanship of Sir Patrick Sheehy (chairman of BAT Industries),
+has enlisted a well-known technical expert. Peter Borer, formerly head of
+British Rail's telecommunications arm, is, like his counterparts,
+scrutinising all the technical options available.
+As Bale points out: 'The UK lottery is the last big prize (in the gaming
+sector) in the 20th century and probably the 21st. The battle will be in
+marketing, but that must be supported by first-class gear.'

@@ -1,0 +1,822 @@
+Plant 
+
+<F P=102>   94FE0275B Tokyo NIHON GENSHIRYOKU GAKKAISHI in Japanese Oct 
+93 pp 4-13--FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0275B </F>
+<F P=104>  Tokyo NIHON GENSHIRYOKU GAKKAISHI </F>
+<F P=105>  Japanese </F>
+CSO 
+
+<F P=106> [Article by Shingo Matsuoka, Japan Nuclear Fuel Company] </F>
+  [Text] The Japan Nuclear Fuel Company was designated a 
+reprocessing enterprise by the national government in December 
+1992, after three years and nine months of examinations by the 
+Science and Technology Agency (STA) (the primary examination) as 
+well as the Japan Atomic Energy Commission (JAEC) and Japan 
+Nuclear Safety Commission (the secondary examination) into the 
+company's technical capability, safety of facilities, conformity 
+with principles concerning the peaceful use of nuclear power, 
+etc. In this article, we will verify that the design of the 
+Rokkasho Reprocessing Plant ensures an extremely high degree of 
+safety and that the effects of accidents, should they occur, 
+would be minimal. 
+<H5>  I. Foreword </H5>
+  In 1980, Japan Fuel Service, Inc., was launched with the 
+goal 
+of building and operating Japan's first private reprocessing 
+plant, with investment from about 100 firms, mainly the nine 
+electric power companies and the Japan Atomic Power Company. 
+Japan Fuel Service subsequently conducted surveys and studies 
+both in Japan and abroad on light water reactor (LWR) fuel 
+reprocessing technologies. This resulted in the adoption of 
+French technology, which has the best performance record, for 
+the main process, and the decision that, for the peripheral 
+processes, the optimum would be to combine British, German and 
+Japanese technologies (the Japanese technology was developed 
+under the leadership of the Power Reactor and Nuclear Fuel 
+Development Corporation (PNC)). One advantage to adopting the 
+French technology for the main process was that the experience 
+with PNC's Tokai Reprocessing Plant, which uses that technology, 
+could be used. 
+  Meanwhile, in 1985, prefectural and village concurrence was 
+given to a request from the Federation of Electric Power 
+Companies for cooperation in establishing a nuclear fuel 
+recycling facility in Rokkasho-Mura, Aomori Prefecture. 
+  In this manner, after selecting optimum technologies and a 
+geographical site, a basic design was compiled for the Rokkasho 
+Reprocessing Plant with guarantee of safety as the first policy 
+principle.[.sup]a-f[/] An application for designation as a 
+reprocessing enterprise, which documented siting conditions, 
+safety design, evaluation of dose equivalent during normal 
+operation and safety assessment, was submitted to the prime 
+minister in 1989. Examination (primary) of the application by 
+STA, the regulating agency, followed by examination (secondary) 
+by the JAEC and the Japan Nuclear Safety Commission, confirmed 
+conformity with principles concerning peaceful use of nuclear 
+power, technical capability and safety, and in 1992, the prime 
+minister designated Japan Nuclear Fuel[.sup]1[/] a 
+reprocessing enterprise. This was three years and nine months 
+after the application was submitted, and 13 years after the 
+company was formed. 
+  An application (in several sections) was submitted to STA 
+for 
+"approval of design and construction methods" to build a plant 
+this year. Approval was received for the first application, and 
+construction started at the end of April. Operation is scheduled 
+to begin in 2000. 
+  In this article, we will explain mainly how safety is 
+ensured 
+even under abnormal conditions, based on the safety design and 
+safety evaluation in the documents[.sup]g[/] attached to the 
+application for designation as a reprocessing enterprise. 
+<H5>  II. Process (Equipment) Summary </H5>
+  Before beginning the explanation of safety, we will show in 
+Table 1 the Rokkasho Reprocessing Plant's reprocessing capacity 
+and the range of spent fuel to be reprocessed, and we will use 
+the schematic diagram given in Figure 1[.sup]2[/] to explain 
+the processes (equipment) based on the PUREX (plutonium and 
+uranium recovery by extraction) method. The PUREX method has 
+been used and modified for many years in the plants of many 
+countries. It was applied at the Savannah River Plant in the 
+United States 40 years ago, and it is a technology with a record 
+of high safety and reliability. It also has a strong record in 
+reprocessing of fuel for power generation. It is an established 
+commercial technology that has been used to reprocess more than 
+40,000 tons of metallic fuel extracted from gas-cooled reactors 
+in Great Britain and France and over 5,000 tons of oxide fuel 
+from LWRs in France and Japan. 
+
+
+
+  Table 1: Reprocessing Capacity and Range of Spent Fuels 
+
+
+
+Reprocessing Capacity 
+
+Maximum Annual Capacity                    800 tU 
+
+Capacity per Day                           4.8 tU 
+
+
+
+Range of Spent Fuels 
+
+Enrichment 
+
+Enrichment, First Stage                    under 5 wt% 
+
+Assembly Average Residual Enrichment       under 3.5 wt% 
+
+Burnup 
+
+Assembly Average Burnup                    under 55,000 MWd/t 
+
+Reprocessed Fuel Average Burnup/Day        under 45,000 MWd/t 
+
+Cooling Period 
+
+Until Received at Reprocessing Plant       over 1 year 
+
+Until Chopping Process Begins              over 4 years 
+
+
+
+<FIG ID=JPRS-JST-022L-42A>      Figure 1: Rokkasho Reprocessing </FIG>
+
+
+  Now, spent fuel assemblies are cooled for four years after 
+extraction from power-generating LWRs, then they are cut up by a 
+chopper. The resulting fuel flakes are put into a dissolver and 
+dissolved by nitric acid. Uranium, plutonium and fission 
+products, as part of this nitrate solution, are sent to the next 
+process, the separator-distributor. 
+  In the pulse column of the separator, the dissolver in 
+liquid 
+form (water phase) comes into contact with 30 percent 
+TBP/n-dodecane (organic phase). TBP (tributyl 
+phosphate) is an extractant and n-dodecane is a 
+diluent. Uranium and plutonium have a high affinity with TBP, 
+and are extracted into the organic phase, but low-affinity 
+fission products remain in the water phase and become high-level 
+waste (HLW). Next, the organic phase enters the pulse column of 
+the distributor, where a reducer is supplied. Here, plutonium 
+reacts with the reducer and transforms into an oxidation number 
+that has low affinity with TBP. It, therefore, cannot remain in 
+the organic phase and switches to the water phase. Uranium does 
+not react with the reducer and remains in the organic phase. In 
+this manner, uranium and plutonium are separated. When uranium, 
+which is in the organic phase, comes into contact with diluted 
+nitric acid in a stripper (mixer-settler), an extraction balance 
+reaction shifts it to the water phase side and it is stripped 
+into the water phase. 
+  The uranium and plutonium solutions come from the 
+distributor 
+and enter separate refiners. The accompanying traces of 
+impurities are similarly removed by the extraction-stripping 
+operation. Before extraction, plutonium and uranium are adjusted 
+to states that are more easily extracted into TBP, plutonium 
+mainly by oxide reaction and uranium by raising the 
+concentration of nitric acid. Refining is done twice, but is 
+shown only once in the figure to illustrate the process simply. 
+  Emerging from the refiners, the uranyl nitrate solution and 
+the plutonium nitrate solution separately are heated to make 
+them evaporate to a dry state, then they enter denitration 
+equipment where the nitric acid base is dissolved until uranium 
+trioxide product and mixed oxide (MOX) products--uranium dioxide 
+and plutonium dioxide--remain. 
+  After concentration, HLW liquid goes through HLW liquid 
+storage equipment and is sent through solidification equipment. 
+The concentrated waste liquid is put into a glass melting 
+furnace along with raw material for glass. This mixture is 
+heated to high temperature, dissolved, and turned into an oxide, 
+which then is assimilated into molten glass. The molten glass is 
+poured into a stainless steel container to cool and solidify. 
+The container cover is welded on, making this an even more 
+stable, extremely safe solid waste material. 
+<H5>  III. Safety Features </H5>
+  The reprocessing plant is a nuclear chemical plant that 
+separates and refines the elements (not nuclides) in uranium, 
+plutonium and fission products by conventional chemical 
+operations. Because large volumes of unsealed radioactive 
+materials are handled, complete safety must be designed in so 
+that there is no effect on the environment during normal as well 
+as abnormal operation. In addition to critical safety design 
+unique to nuclear facilities, fire and explosion prevention 
+designs unique to chemical plants are also important because 
+organic solvents are used. There is risk that fire or explosion 
+could impair the ability to contain radioactive substances. 
+  There are safety features in reprocessing plants that, along 
+with safety design, help to ensure a high degree of safety. We 
+will explain these features, as follows, because understanding 
+them is important to understanding the safety of the 
+reprocessing plant: 
+  1. Since reprocessing is carried out on spent fuel that has 
+cooled for more than four years after extraction from power 
+reactors, nuclides with short half-lives will have decayed. Thus 
+radioactive rare gases and iodine, which easily leak out into 
+the environment, will have decayed and disappeared for the most 
+part. At the same time, intensional energy (decay heat) that 
+might break down containment barriers will have lessened. 
+  2. Although radioactive substances in an unsealed state are 
+dispersed to multiple equipment for handling, the volume of the 
+substances that are extracted or are subject to other physical 
+or chemical reactions is relatively small because the capacity 
+of columns and tanks have been designed appropriately. Also, the 
+danger of an abnormal situation escalating rapidly and on a 
+broad scale is basically slight because these equipment are 
+operated at below normal pressure and, in most cases, at mild 
+temperatures below 100C. Operations involving harsher 
+chemical reactions are not carried out either. 
+  3. In an accident, one thing that might affect the 
+environment is release of radioactive aerosol (liquid or solid 
+radioactive particles suspended in air) into the atmosphere. If 
+radioactive solutions or fine particles were transferred into 
+the ventilation system in aerosol form as a result of explosion 
+or boiling, the amount would be slight, only 10[.sup]-3[/] - 
+10[.sup]-4[/] or so[.sup]h[/] when the system is properly 
+designed. Even in an organic solvent fire, if radioactive 
+substances in the form of aerosol carried by smoke were to get 
+into the ventilation system, it would be around 10[.sup]-3[/] 
+of combustion volume.[.sup]i[/] Tolerance is designed into 
+the high-efficiency particulate filters installed in the 
+ventilation system so that they will continue functioning even 
+under conditions brought about by an accident, but even without 
+relying on these filters, the potential scale of the accident 
+will be self-limiting because the transfer of radioactive 
+substances into the ventilation system is small and because they 
+will be removed by adhesion in the pipe ducts. 
+  These safety features, combined with the safety design 
+described in the section below, ensure a very high degree of 
+safety in the Rokkasho Reprocessing Plant. 
+<H5>  IV. Safety Design </H5>
+  In this section, we will first present the basic plan of 
+safety design -- targeting abnormal events that might occur in a 
+reprocessing plant -- and explain representative examples of 
+design, such as radioactive substance confinement design, decay 
+heat elimination design, criticality prevention design, and fire 
+prevention design. Next, we will explain defense design against 
+external events such as earthquakes and aircraft crashes. These 
+safety designs follow the "reprocessing plant safety inspection 
+guidelines" established by the Japan Nuclear Safety Commission 
+with safety inspections of private reprocessing plants in mind. 
+<H5>  A. Safety Design Targeting Internal Events </H5>
+<H5>  1. Basic Plan </H5>
+  Safety is ensured by adopting the following principles of 
+multi-layer defense: 
+  (1) Prevent abnormal occurrences by adopting technology with 
+demonstrated high reliability, designing tolerance into 
+processes and equipment, and selecting appropriate materials. 
+(In stages following design, this is done by activities that 
+guarantee quality and by operator training and education.) 
+  (2) Prevent the spread and escalation of abnormal 
+occurrences: There is little danger that such abnormal 
+occurrences will escalate rapidly, since reprocessing plant 
+operating conditions (temperature, pressure, etc.) are mild. 
+Thus in most cases, there is ample time for operators to detect 
+abnormal occurrences through warning signs and transfer 
+processes to a safe state. However, in the prevention of 
+accidents with potentially major effects, such as criticality, 
+fire and explosions, a highly reliable interlock system will 
+ensure safety automatically, when necessary. 
+  (3) Ameliorate effects from escalation of abnormal 
+occurrences: Every measure has been taken to prevent the 
+occurrence and escalation of abnormal situations, but even if a 
+situation were to escalate, countermeasures have been 
+established to ameliorate its effects so that the general public 
+will not be affected seriously.[.sup]3[/] If an abnormal 
+situation escalates, the danger arises of release of radioactive 
+substances in aerosol form into the ventilation system. A 
+countermeasure for all processes, to ameliorate the effects of 
+abnormal situations that have escalated, is the designing of 
+high-efficiency particulate filters that will function 
+unimpaired even under abnormal conditions and will remove 
+virtually all of the aerosol and then release it through an 
+exhaust pipe with diluting and diffusing effect (see the next 
+section, "confinement design"). Countermeasures to ameliorate 
+specific effects include criticality prevention measures and 
+fire extinguishing equipment. 
+  Incidentally, dynamic equipment[.sup]4[/] that provide any 
+of the multi-layer defenses and that are important for safety 
+are designed with independent and redundant power sources and 
+circuits so that safety performance is not impaired if one 
+breaks down. 
+<H5>  2. Confinement Design </H5>
+  We will use Figure 2 to explain the design for confinement 
+of 
+radioactive solutions as a typical example. Most of the major 
+equipment involve chemical processes that use nitric acid. Thus 
+the columns, tanks and pipes are made of materials (stainless 
+steel, zirconium) that are highly resistant to corrosion by 
+nitric acid. Moreover, wetted sections are of welded 
+construction for leak proofing. Because the processes use only 
+low temperature and pressure, it is almost inconceivable that a 
+large-volume leak would occur. Assuming that this did occur, 
+however, a stainless steel receptacle for leaking liquid has 
+been installed on the cell floor, and along with this, there is 
+a detection device with which the operator can immediately 
+detect the leak and recover the leakage in another, sound tank. 
+The cell is further enclosed in housing. This multi-barrier 
+construction makes it impossible for the radioactive solution to 
+leak out to the external environment. 
+
+<FIG ID=JPRS-JST-022L-44A>      Figure 2: Confinement Function Diagram </FIG>
+
+
+  On the other hand, columns and tanks are linked to the 
+atmosphere by column and tank exhaust gas disposal equipment 
+(their ventilation systems), and the cell and housing are linked 
+separately to the atmosphere by their own ventilation systems. 
+Because the radioactive substances in solution are non-volatile, 
+only a small percentage would enter the ventilation system in 
+aerosol form even under conditions caused by an accident, and it 
+would be completely removed by high-efficiency particulate 
+filters, then released through an exhaust pipe. Since air 
+pressure is increasingly lower going from atmosphere to housing 
+to cell to columns and tanks, radioactive aerosol will not get 
+out directly into the atmosphere even if it diffuses in the cell 
+or housing; it will go through high-efficiency particulate 
+filters and then will be released through the exhaust pipe. In 
+this way the ventilation systems are designed to be a safety 
+function that ameliorates effects on the environment, even 
+during accidents. 
+<H5>  3. Decay Heat Elimination Design </H5>
+  Most of the unsealed radioactive substances handled in the 
+plant exist in storage tanks -- supply tanks, receiving tanks, 
+buffer tanks -- that serve as temporary storage of radioactive 
+solutions. Although radioactive solution decay heat is 
+relatively low, the most important safety feature of these 
+storage tanks is decay heat elimination. Figure 3 shows the 
+structure of the concentrated HLW liquid storage tank cooling 
+system, which will be explained from the viewpoint of prevention 
+of boiling. 
+
+<FIG ID=JPRS-JST-022L-45A>      Figure 3: Configuration of Concentrated </FIG>
+
+
+  To eliminate decay heat, two independent cooling water 
+systems, including power systems, are established and operated. 
+In the storage tank, five cooling coils have been installed for 
+each system, but the necessary heat elimination actually can be 
+done with four coils. Cooling water is circulated by a pump and 
+release of heat to the outside is accomplished through an air 
+fin cooler. Spares for these dynamic equipment are in place so 
+that the cooling capability of the system is not lost even if 
+one piece of equipment were to break down. Even if an abnormal 
+situation escalates and the cooling capability of one system is 
+lost, the remaining system will run and the boiling point will 
+not be reached. 
+  The external power source receives power through two 
+circuits, so there is no hindrance to power supplying even if 
+there is an outage on one circuit. To prepare against the 
+possibility of outages on both circuits at the same time, an 
+emergency diesel generator has been installed for each system. 
+Moreover, to improve power source reliability, power can also be 
+received from a spare diesel generator. 
+  Also, in emergencies, solutions can be transferred to a 
+spare 
+storage tank that is normally empty. 
+  Because of this very tightly designed system, it is 
+inconceivable that the cooling capability of the two independent 
+systems could be lost simultaneously or that this state could 
+continue for a number of hours so that the boiling point would 
+be reached. 
+  A spent fuel storage pool cooling water system (two-system 
+structure) and a general cooling water system have been set up 
+which are completely independent from the abovementioned storage 
+tank cooling water systems. These can also be used for cooling 
+the concentrated HLW liquid storage tank. 
+<H5>  4. Criticality Prevention Design </H5>
+  Because the plant will reprocess spent fuel that was burned 
+at nuclear power plants, there is essentially little danger of 
+criticality in equipment that handles spent fuel assemblies or 
+uranium. However, each piece of equipment has been designed to 
+prevent criticality.[.sup]5[/] As a typical example of this, 
+we will discuss equipment used after plutonium mixing and 
+separation, where that essential argument does not apply. 
+  Safety design (called "total concentration safety 
+configuration and measurement control") has been applied to 
+control the configuration of columns and tanks through which 
+plutonium solutions flow so that criticality will not be reached 
+no matter how high plutonium concentration becomes during normal 
+operation. Even for columns and tanks through which plutonium 
+does not flow during normal operation, safety design (called 
+"limited concentration safety configuration and measurement 
+control" or "concentration control") has been applied to ensure 
+adequate tolerance and non-criticality below a certain 
+concentration. Thus the latter criticality safety design becomes 
+important if solutions flow from equipment governed by total 
+concentration safety configuration and measurements control to 
+equipment governed by the other control. Figure 4 explains this 
+using the example of the washer (mixer-settler) in the 
+distributor. 
+
+<FIG ID=JPRS-JST-022L-46A>      Figure 4: Example of Criticality Prevention Design </FIG>
+
+
+  As explained in part II, plutonium is stripped into the 
+water 
+phase in the distributor column. However, a trace of plutonium 
+remaining in the organic phase flows to the next step, the 
+plutonium washer, along with uranium, where it comes into 
+contact with a reducer and is removed to the water phase side. 
+The distributor column is "total concentration safety 
+configuration and measurement control" equipment, whereas the 
+plutonium washer is "concentration control" equipment. If 
+supplying of reducer to the distributor column stops for several 
+hours, the plutonium may become concentrated and flow into the 
+plutonium washer in highly concentrated form. However, an alarm 
+is set off when reducer supplying stops, and the operator can 
+stop the process immediately or take other safety measures. Even 
+if this was neglected and developed into an abnormal situation, 
+the malfunction can be observed through multiple neutron 
+detectors installed in the distributor column for process 
+monitoring, and the operator would have adequate time, even at 
+this point, to stop the process or take other safety measures. 
+Additionally, an interlock system has been designed to operate 
+completely separately from operator response. As shown in Figure 
+4, when neutron detectors installed in the plutonium washer 
+detect a high count rate that indicates an inflow of highly 
+concentrated plutonium, an alarm is set off and at the same 
+time, processing is automatically shut down. This interlock 
+system's high reliability is ensured by independent and 
+redundant power source, gauges, cutoff valves, etc. 
+  As described above, there is ample time for operator 
+response 
+and, beyond that, a highly reliable interlock system has been 
+installed. It is therefore inconceivable that criticality will 
+occur. 
+<H5>  5. Fire Prevention Design </H5>
+  A flammable organic solvent is used in the extraction 
+process. Fire prevention design is important because, if a fire 
+broke out, some radioactive substance might be carried by smoke 
+and get into the ventilation system and be released into the 
+atmospheric environment. Therefore, the safety design described 
+below will ensure that the three conditions required for fire to 
+occur ((1) solvent leaking from the container to the cell; (2) 
+the solvent not being recovered and heating up to the flash 
+point (74C); and (3) ignition of the solvent which has 
+reached flash point) will not be fulfilled. 
+  As stated in earlier sections, columns, tanks and pipes are 
+built to prevent leaks, but should a leak occur, the solvent 
+would be recovered immediately and could not be released. While 
+there are columns or tanks that heat and use solvents, the 
+temperature is limited to 50C and the heat source is not 
+near the receptacle for leakage. It is therefore difficult to 
+conceive of the temperature of any leaked solvent rising to the 
+flash point. No equipment that could be an igniting source is 
+placed in the cell, and equipment also are grounded to prevent 
+static discharge. This design prevents fires, but on the 
+assumption of the possibility of a fire outbreak, fire detectors 
+have been installed, there are fire prevention dampers that can 
+cut off air flowing into the cell, and gas extinguishers also 
+have been provided. 
+<H5>  B. Safety Design Against External Events </H5>
+<H5>  1. Earthquake-Proofing Design </H5>
+  Buildings, systems and equipment (hereafter called the 
+"facility") have been separated into three classes (A, B, and C) 
+in order of importance from the viewpoint of effect of 
+radioactivity on the environment in the event of loss of safety 
+capability as a result of an earthquake, and earthquake-proofing 
+has been applied in accordance with this importance. Moreover, 
+important buildings and structures will be supported by stable 
+ground, the Takahoko formation (Neogene-Miocene geologic age). 
+  Designation of seismic force for the design and confirmation 
+of the stability of the Takahoko formation was based on the 
+following survey results: 
+
+
+    -  Study of documentation on past earthquakes in the area 
+surrounding the site. 
+  -  Study of documentation on geological 
+structure (especially active faults) of the site and surrounding 
+area (land and ocean), interpretation of aerial photographs, 
+geological ground survey (land) and marine sonic prospecting 
+(ocean). 
+  -  Survey of geological structure of the site through 
+elastic vibration, boring, and test pits; and testing of rocks 
+and bedrock of site foundation ground. 
+
+
+    Facilities in Class A will be designed to withstand the 
+strongest earthquake (called "maximum magnitude earthquake for 
+design purposes") that the above survey results have determined 
+may affect the site in the near future. 
+  Class A facilities of critical importance (such as spent 
+fuel 
+storage facility, system and equipment for concentrated HLW 
+liquid storage and cooling systems) are designated Class A's, 
+and are designed so that safety capability can be sustained even 
+in the event of an earthquake stronger than the "maximum 
+magnitude earthquake for design purposes" based on the survey 
+results and conceivable from a seismological viewpoint. As for 
+the level of that conceivable earthquake, studies were conducted 
+on the occurrence of past earthquakes, past activity of the 
+faults around the site, and earthquakes caused by the Pacific 
+plate sinking beneath the Eurasia plate; and a magnitude 8.25 
+earthquake on the border of the plate in eastern Aomori 
+Prefecture, which would have the greatest effect on the 
+facilities, was presumed for the purpose of evaluation. 
+Additionally, although it has been confirmed that there are no 
+active faults that might affect the area surrounding the site, a 
+6.5 magnitude earthquake directly under the site (hypocentral 
+distance 10 km) was also presumed. 
+  In addition to withstanding the seismic force determined by 
+the abovementioned "maximum magnitude earthquake for design 
+purposes," Class A structures are designed to withstand three 
+times the static seismic force determined by the Building 
+Standards Act. Class B and Class C structures are designed to 
+withstand 1.5 times and 1 time that static seismic force, 
+respectively. The criteria for design of systems and equipment 
+in those classes is 20 percent higher. 
+  This sort of earthquake-proofing design precludes the 
+possibility that any earthquake of any imaginable seismic force 
+around the Rokkasho Reprocessing Plant will be the immediate 
+cause of a serious accident. 
+<H5>  2. Design for Defense Against Aircraft </H5>
+  About 10 km south of the Rokkasho Reprocessing Plant is the 
+Misawa air-to-ground training area, where Air Self Defense Force 
+and U.S. Air Force aircraft carry out air-to-ground firing and 
+bombing training flights. The airspace over the reprocessing 
+plant is in the Misawa special air control district. However, 
+the possibility of aircraft crashing into the plant is extremely 
+slight, considering the fact that aircraft are restricted from 
+flying over nuclear-related facilities, the training flight 
+configuration in this area and pilot maneuvers to avoid this 
+airspace in the event of breakdown. 
+  Nevertheless, considering the unique social environment of 
+the site, the general population would be seriously 
+affected[.sup]6[/] by an accident caused by an aircraft on a 
+training flight which lost engine thrust and glided off-course 
+to the reprocessing plant and crashed. Therefore, the plant is 
+designed so that there will be no hindrance to ensuring safety 
+by appropriately protecting it with strong buildings and 
+structures that will prevent penetration and remain sound 
+against the impact load of an aircraft. 
+  When coming up with the design, evaluation formulas that 
+were 
+verified for suitability were used, and its adequacy was 
+confirmed through crash tests using actual and model engines as 
+well as actual aircraft.[.sup]j[/] 
+<H5>  V. Safety Evaluation </H5>
+  The necessary safety countermeasures are drawn up as 
+progress 
+is made on the design, and safety assessment means reconfirming 
+the adequacy of safety design as a whole by systematic and 
+thorough analysis and study of abnormal events. In this section, 
+we will explain the selection method and results of evaluating 
+design basis events, which confirm that the multi-layer defense 
+concept has been adopted appropriately, and site evaluation 
+accidents, which are used to judge the adequacy of distance 
+separating the plant from the general public. Incidentally, it 
+has been confirmed that the design ensures complete safety 
+against external events such as floods, earthquakes, and 
+aircraft crashes. The content of this evaluation complies with 
+the "guidelines for safety inspection of reprocessing 
+facilities." 
+<H5>  A. Design Basis Events </H5>
+  Design basis events consist of "abnormal transient changes 
+during operation" and "events exceeding abnormal transient 
+changes during operation." The main purpose of "abnormal 
+transient changes during operation" is to confirm the adequacy 
+of measures to prevent escalation of abnormalities, the second 
+level of multi-layer defense, and the main purpose of "events 
+exceeding abnormal transient changes during operation" is to 
+confirm the adequacy of measures to ameliorate effects, the 
+third level of multi-layer defense. 
+<H5>  1. Abnormal Transient Changes During Operation </H5>
+  "Abnormal transient changes during operation" are equipment 
+breakdowns, which are expected to happen during the life of a 
+reprocessing plant, and events such as changes in operating 
+conditions beyond the normal range, which are caused by operator 
+error and which may expand into accidents if neglected. 
+  Some events that may cause accidents are substance 
+input/output, energy input/output, unusual changes in location 
+or routing and loss of external power sources. Table 2 lists 14 
+of these changes. For each equipment, system, glovebox, etc., 
+that contain radioactive substances, the relevant changes among 
+the 14 items were hypothesized, and these were analyzed and 
+studied to determine what sort of events would result if these 
+changes were neglected. About 600 possibilities were selected as 
+abnormal events that might significantly increase the amount of 
+radioactive substances released into the environment if measures 
+to prevent escalation were not considered. 
+
+
+
+  Table 2: Changes Concerning Selection of Possibilities for "Abnormal 
+Transient Changes During Operation" 
+
+
+
+Major Categories                     Subcategories 
+
+
+
+Abnormal Changes to Liquids and      Flow Volume ChangeNuclear Fuel Substance 
+Solids in Process                    Concentration ChangeFission Product 
+                                     Concentration ChangeReagent 
+                                     Concentration ChangeRetention Volume 
+                                     ChangeTransport Route Change, Solid 
+                                     Position Change 
+
+Abnormal Changes to Gasses in        Flow Volume (or Pressure) 
+Process                              ChangeComposition ChangeFlow Path Change 
+
+
+Abnormal Changes to Temperature in   Heating Capability ChangeCooling 
+Process                              Capability Change 
+
+Abnormal Changes in Ventilation      Ventilation Air Flow ChangeVentilation 
+System                               Flow Path Change 
+
+External Power Source Loss           External Power Source Loss 
+
+
+  Consideration was given to the fact that "abnormal transient 
+changes during operation" are events that may occur to the 
+extent that they are expected to occur during the life of a 
+reprocessing plant, and these possibilities were narrowed down 
+to 48 evaluation events. Similar items were merged, and seven 
+events were designated as representative events, which are 
+listed in Table 3. 
+
+
+
+  Table 3: Selection of "Abnormal Transient Changes During Operation" 
+
+Selected Representative Events 
+
+1. Abnormal temperature rise in organic solvent in stripping column of 
+plutonium refining equipment (organic solvent fire prevention) 
+
+2. Abnormal rise in temperature of heating steam in concentrated HLW liquid 
+boiler (prevention of sudden decomposition reaction of TBP and other 
+complexes) 
+
+3. Abnormal increase in concentration of hydrogen in reducing gas in reducing 
+furnace of mixed uranium-plutonium denitration equipment (explosion 
+prevention) 
+
+4. Abnormal rise in concentration of plutonium in plutonium washer of 
+distributor equipment (criticality prevention) 
+
+5. Increase in steam volume in exhaust gas due to drop in cooling capability 
+in condenser of concentrated HLW liquid boiler (prevent degradation of 
+high-efficiency particulate filters) 
+
+6. Abnormal increase in temperature in reducing furnace of mixed 
+uranium-plutonium denitration equipment (prevent drop in confinement 
+capability) 
+
+7. External power source loss (prevent increase in volume of release of 
+radioactive substances) 
+
+
+  Evaluation confirmed that the interlock system and other 
+escalation prevention measures can safely terminate all of these 
+events without escalation of abnormalities. 
+<H5>  2. Events Exceeding Abnormal Transient Changes During </H5>
+Operation 
+  "Events that exceed abnormal transient changes during 
+operation" are events that escalate beyond "abnormal transient 
+changes during operation" despite the fact that measures have 
+been taken to prevent escalation. Their occurrence therefore is 
+even less possible. In the selection process, events with an 
+extremely small likelihood of occurring that were eliminated in 
+the selection of "abnormal transient changes during operation" 
+also were considered. Events reported at domestic and overseas 
+reprocessing plants and related facilities also were used as 
+reference. It was decided that it would not be necessary to 
+select as "events that exceed abnormal transient changes during 
+operation" events which the design would ensure that the 
+operator had ample time to prevent from escalating and for which 
+very secure automatic accident prevention countermeasures are 
+set up. Typical examples of this are boiling in the concentrated 
+HLW liquid storage tanks (mentioned in section IV.A.3 on decay 
+heat elimination design), and criticality that accompanies 
+unusual rise in plutonium concentration in the plutonium washer 
+of the distributor (mentioned in section IV.A.4 on criticality 
+safety design). 
+  As a result of this study, 25 evaluation events were 
+selected 
+out of 600 possible events.[.sup]k[/] Similar events were 
+combined to come up with seven representative events, which are 
+listed in Table 4. As a result of evaluation, "criticality in 
+the dissolver"[.sup]7[/] was considered the event with the 
+most serious effect, and it was verified that the maximum 
+effective dose equivalent inflicted on the public in the 
+surrounding area would be 0.57mSv, which is below the criterion 
+for judging serious effect (5mSv). 
+
+
+
+  Table 4: Selection of "Events Exceeding Abnormal Transient Changes During 
+Operation" 
+
+
+
+Selected Representative Events 
+
+
+
+1. Organic solvent fire in cell of plutonium refining equipment 
+
+2. Sudden decomposition reaction of TBP and other complexes in the 
+concentrated plutonium boiler 
+
+3. Criticality in the dissolver 
+
+4. Leak to cell from pipes of HLW liquid storage equipment 
+
+5. Leak of molten glass in the HLW liquid glassification equipment 
+
+6. Fall of spent fuel assemblies in the spent fuel receiving facility and 
+storage facility 
+
+7. Brief loss of all AC power supply 
+
+
+<H5>  B. Site Evaluation Accident </H5>
+  From a technical viewpoint, "events exceeding abnormal 
+transient changes during operation" are the biggest accidents 
+imaginable, and there are no accidents that would exceed such 
+events. However, considering the magnitude of the potential 
+effect due to the large volume of radioactive material being 
+handled, the site evaluation accident was hypothesized to be 
+anything from "events exceeding abnormal transient changes 
+during operation" to "criticality in the dissolver" and "organic 
+solvent fire in the cell of plutonium refining equipment," and 
+the amount of radioactivity released was hypothesized to be even 
+greater, from 10 to 1,000 times depending on the released 
+nuclides. It was also hypothesized that all the rare gas and 
+iodine generated at criticality immediately would go through the 
+ventilation system and be released into the atmosphere through 
+the chimney. The result of the evaluation was that the effect on 
+the public in the surrounding area would be greatest for 
+criticality, 6.1mSv (whole body dose), but this is less than the 
+dose of 250mSv, which is used to determine validity. It was 
+confirmed that the other evaluation items (tissue dose 
+equivalent and collective dose) also met the standards for 
+determination. 
+<H5>  VI. Conclusion </H5>
+  When designs are drawn up, ensuring safety is ranked as the 
+most important matter in the performance of operations. Although 
+foreign technologies are considered the major technologies, when 
+it came to safety, measures that fully reflected Japan's own 
+ideas were devised. We are confident that these fail-safe safety 
+measures will ensure that no accident will occur that will 
+inflict a significant amount of radioactivity on the environment. 
+  Apart from the handling of abnormalities explained in this 
+article, I would like to touch upon the radioactivity in exhaust 
+gases and water released into the atmosphere and the ocean 
+during normal operation, a matter of particular interest in 
+terms of environmental effect. Certainly, the general public 
+dose equivalent from radioactivity emitted during normal 
+operation is below the maximum prescribed by law, and the policy 
+is to reduce it even lower, based on the ALARA [as low as 
+reasonably achievable] principle. As a result, it has been 
+assessed that the effective dose equivalent received from 
+radioactive emission by the public in the surrounding area would 
+be a maximum of 0.022mSv per year. This is about one-tenth of 
+the difference in effective dose equivalent from natural 
+radioactivity in the Kanto and Kansai areas, about 0.2mSv per 
+year (the radiation dose of Kansai area soil is higher because 
+it contains more potassium -40, uranium series and other natural 
+radionuclides), and it is inconceivable that this will have any 
+health effects. 
+  Nevertheless, we realize that the general public's trust in 
+the reprocessing plant will be earned by its actual operation, 
+and we intend to continue to make safety our primary policy in 
+the construction, operation and maintenance of the plant and in 
+operator education and training, and raise the safety of the 
+plant even higher. 
+Footnotes 
+  1. In 1992, Japan Nuclear Fuel Service and Japan Nuclear 
+Fuel 
+Industry (involved in uranium enrichment and geological disposal 
+of low-level radioactive waste) merged and became Japan Nuclear 
+Fuel. 
+  2. Lists only equipment necessary for summary explanation of 
+processes. For more details, see item b in the bibliography. 
+  3. The criterion for "no serious effect": Less than the 
+effective dose equivalent of 5mSv, which is 1.3 times the 
+effective dose equivalent received from a medical examination 
+X-ray. 
+  4. "Dynamic equipment" are pumps, relays, fans, etc., that 
+run on externally supplied power. 
+  5. Countermeasures for emergencies have been established for 
+the dissolver tank as well because, as noted in Footnote 7, 
+criticality accident is hypothesized for the evaluation. 
+  6. See Footnote 3. 
+  7. "Criticality in the dissolver" was selected from the 
+viewpoint of evaluating the adequacy of countermeasures to limit 
+effect, considering the fact that the continuous dissolver is a 
+representative criticality safety control equipment that uses 
+multiple criticality safety control methods (geometry control, 
+concentration control, mass control, and neutron absorber 
+control). 
+Reference 
+  a. Masatoshi Toyota, GENSHIRYOKU KOGYO, 35, 5, 1989. 
+  b. Osamu Kawakatsu, GENSHIRYOKU KOGYO, 35, 9, 1989. 
+  c. Hiroshi Sumitani, GENSHIRYOKU KOGYO, 35, 24, 1989. 
+  d. Hayakatsu Kawamoto, GENSHIRYOKU KOGYO, 35, 33, 1989. 
+  e. Masatake Aramura, GENSHIRYOKU KOGYO, 35, 36, 1989. 
+  f. Hiroshi Sumitani, Hitoshi Takeuchi, Sadaaki Sasaki; 
+GENSHIRYOKU KOGYO, 38, 10, 1992. 
+  g. "Japan Nuclear Fuel, Ltd. Application for Designation as 
+Reprocessing Enterprise" and attached documents; application - 
+30 Mar 1989; revisions - 18 Oct 1990, 15 May 1991, 30 Jul 1991, 
+3 Jul 1992, 16 Nov 1992. 
+  h. E. Walker, "A Summary of Parameters Affecting the Release 
+and Transport of Radioactive Material from an Unplanned 
+Incident," BNFO-81-2, 1978 (reissued 1981). 
+  i. Gunji Nishio, et al., "Safety Demonstration Tests 
+Concerning Solvent Fires in Reprocessing Plants," JAERI-M 
+89-032, 1989. 
+  j. K. Muto, et al., "10th SMiRT Conference," J9, 1989. 
+  k. Japan Nuclear Fuel, Mitsubishi Nuclear Industries; 
+"Selection of Design Basis Events for Reprocessing Plants," J-M 
+1004, Jul 1991 (revised Nov 1992). 
+

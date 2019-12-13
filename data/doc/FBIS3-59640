@@ -1,0 +1,186 @@
+Language: <F P=105> French </F>
+Article Type:CSO 
+
+<F P=106> [Article by Daniel Chabbert and Michel Vilnat: "Machine Tool </F>
+Industry Still Innovating"; introductory paragraph in boldface 
+as published] 
+  [Text] The World Machine Tool Fair [EMO] has lived up to 
+its reputation as a technological showcase. But the industry is 
+in crisis. Mergers and takeovers of firms are increasing. 
+  Linear spindle driving motors, very high-speed steel 
+machining, and the integration of PC's [personal computers] into 
+numerical control were all part of the 10th EMO, which was held 
+in Hannover in mid-September and which lived up to its 
+reputation as an international technological showcase. But 
+economic conditions are not conducive to optimism, especially 
+among European manufacturers. 
+  A sign of the times: CECIMO [European Cooperation Committee 
+for Machine Tool Industries], the organization representing all 
+European machine tool manufacturers associations, has just 
+presented the European Commission with a document--the first 
+ever--in which it makes proposals for maintaining the 
+competitiveness of its firms in the world market. The crisis is 
+affecting German manufacturers in particular: They are facing a 
+wave of mergers and takeovers that has been growing steadily 
+stronger in recent months. 
+  Following the announcement of Maho's merger with Deckel, 
+there is already talk of their joining the Gildemeister group, a 
+company that has been sharing its worldwide marketing network 
+with Deckel since the beginning of the year. Another German 
+merger, that between Traub and Hermle, is being limited solely 
+to the marketing network for the time being. In the field of 
+large machines, the Doerries-Scharmann group is becoming the 
+world leader by acquiring several moribund companies around the 
+world in a short period of time (Wohlenberg, Skoda Machine 
+Tools, Schiess, and the RD&amp;D). Kennametal, the number one 
+American maker of cutting tools, acquired 81 percent of the 
+Hertel Company's capital as recently as last August. 
+  But that very lively situation is not preventing some 
+manufacturers--and not necessarily the biggest--from continuing 
+to innovate. Among the most outstanding innovations presented at 
+the EMO, those involving numerical control will certainly have 
+an important impact in all machine tool sectors. Most of the 
+major manufacturers have sought to integrate PC's into their 
+numerical control systems. One example is the French 
+manufacturer Num, whose PCNC, the fruit of a union between a PC 
+and a CNC [computerized numerical control] system, will have 
+applications in turning, milling, and so on. The marriage of 
+those two technologies opens up numerical control to the OS2/2.1 
+multitasking system. It improves versatility considerably. 
+Numerical control directs the work process as well as the path 
+of the automatic mechanisms. In the meantime, the Intel 486 
+microprocessor supervises the man-machine interface. For 
+example, it manages the programs and tools, helps with 
+maintenance, and makes it possible to use advanced CAD/CAM 
+[computer-aided design and manufacturing] programming languages. 
+"A detail of interest to future customers is the fact that this 
+introduction of the PC into numerical control will have a very 
+slight effect on prices," says Jean-Luc Gely, Num's marketing 
+and product director. This new development is not restricted to 
+Num. GE Fanuc is offering a similar improvement in its CNC-16, 
+which has been renamed 16M in honor of the occasion. Like the 
+French product, the 16M uses an Intel processor. 
+<H5>  Operation Display </H5>
+  For its part, Grundig Electronics is also unveiling a new 
+generation CNC using three 32-bit processors with Risc 
+architecture. Christened the CNC EPL Turn Plus and intended for 
+turning operations, it also uses PC-type Windows programming. As 
+an example, it can take charge of the entire machining process 
+on a two-spindle lathe without the operator's having to concern 
+himself with transferring the workpiece from one spindle to 
+another. It is also used on the Electro Pilot Turn Plus, a lathe 
+that makes it easier to program the numerical control system. 
+The workpiece is first machined in the conventional manner using 
+electronic levers, and the CN uses that to automatically set up 
+the corresponding program. 
+  For its part, Siemens is exploring an original path: 
+multimedia using its CNC Sinumerik 840C. With this system, the 
+operator can observe the operation continually on all or part of 
+the screen. Doerries-Scharmann is offering the same arrangement 
+on one of its Contumat vertical lathes. 
+  Long considered unattainable, the high-speed machining of 
+hard materials is beginning to become an industrial reality. 
+"Mass-produced" machines of that kind are now being offered to 
+users. With its Heynumill 2500-GS portal milling machine, 
+Germany's Heyligenstaedt is representative of that trend. For 
+semifinishing operations, its machine uses a 20-kW, 10,000-rpm 
+spindle with a feed speed as high as 15 meters per minute. For 
+finishing operations, it is equipped with a high-frequency 
+(25,000 rpm) 16-kW head. 
+  Naturally, the Germans are not the only ones to have 
+developed high-speed industrial machines. After several years of 
+research, Forest Line is offering two lines of portal milling 
+machines, both equipped with a 25-kW spindle running at up to 
+30,000 rpm. Their main applications are in the finishing of 
+molds or pressing dies. An expert at Forest Line says: "Compared 
+to a conventional machining cycle, we have reduced the total 
+fabricating time by half and even two-thirds in the case of 
+complex workpieces." That gain is due partly to faster cutting 
+speed and partly to improvements in the geometry and surface 
+condition that eliminate the need for manual polishing. 
+High-speed machining is not limited to large workpieces. For 
+working with small items, Switzerland's Mikron has designed its 
+line of HSM machines. They use the architecture of portal 
+milling machines and are equipped with high-speed spindles 
+capable of running at up to 75,000 rpm in finishing operations. 
+  The machining of hard materials, steel in particular, is the 
+object of research by manufacturers. One objective is to 
+eliminate the grinding phases by machining with the CBN [cubic 
+boron nitride] tool. With that in mind, the Hembrug firm 
+unveiled its Slantbed-Mikroturn 100-CNC, a highly accurate lathe 
+capable of producing workpieces with a tolerance better than 1 
+micron and a surface roughness (Ra) of less than one-tenth of a 
+micron in hard steels of 60 to 62 Hv. That performance is 
+achieved by the use in particular of a Num 1060 numerical 
+control system connected to a measuring device permitting a 
+resolution of 0.01 micron. A spindle mounted on a gas bearing 
+and hydrostatic guides complete the picture. Even more original 
+is Kugler's latest offering, the Hydro-air HP-100, which is also 
+outstanding in achieving tolerances down to one-tenth of a 
+micron and even less. Movement is achieved using linear motors. 
+Guiding is handled through the harmonious combination of a 
+hydrostatic journal bearing that absorbs stresses and a gas 
+bearing that provides high-speed guidance. 
+  Innovations also exist in other areas besides that of 
+machining with the aid of cutting tools. Charmilles Technologies 
+unveiled a new concept in the field of electrical discharge 
+machining [EDM]: spark machining by milling. This technique 
+combines EDM for forming holes with milling. It uses a system of 
+traveling standard cylindrical electrodes to machine the 
+workpiece layer by layer. It is no longer necessary to cut 
+graphite electrodes in complex forms. "The more complex the 
+workpiece, the larger the gain in productivity," says Jean 
+Martin, marketing director for Charmilles Technologies. 
+  New products for sheet metal work also seem to be synonymous 
+with productivity. In the case of Finn-Power, that productivity 
+is the result of the impact capacities of its new generation of 
+nibbling and punching machine, which achieves and exceeds 1,000 
+cps per minute in nibbling operations and over 500 cps per 
+minute in punching operations. For its part, Mazak Nissho Iwai 
+is focusing on the feed system in its laser cutting tables (now 
+with stationary optics). The system consists of a fork whose 
+teeth, spaced 50 mm apart, pass between the notches on the 
+table, making it possible to unload workpieces automatically if 
+they are at least 100 mm long. "Stopping time is comparable to 
+that with a table using mobile optics and equipped with a 
+palletization system," emphasizes Xavier Rouchaud, marketing 
+director for Europe. 
+<H5>  Increased Productivity </H5>
+  To increase the productivity of bending presses, Amada is 
+offering a handling robot that can replace a night crew. 
+Suitable for small pieces (from 15 mm to 350 mm), this robot on 
+rollers can be placed in front of any kind of press. It is a 
+solution that can be considered when retrofitting a machine. 
+  For its part, Trumpf is presenting a punching/bending unit 
+combining a Trumatic 500 Rotation punching machine with a 
+"panneauteuse" manufactured by the Ras Company. This unit's high 
+degree of automation and flexibility predestine it for the 
+manufacture of workpieces in small and medium-size runs. 
+  The Bokoe Company, a German PME [small or medium-size 
+business] specializing in the manufacture of flow turning 
+machines, is offering a technology for generating boring without 
+machining--a technology developed in cooperation with Chemnitz 
+University. It consists of boring steel bars that are being 
+rotated as though on a lathe. Two types of tools are necessary: 
+The first, in cylindrical form, presses against the forward 
+surface of the bar while the second, consisting of three 
+tangentially placed knurling wheels, gradually crushes the 
+periphery of the bar. The operation is comparable to turning on 
+a lathe, but without the removal of cuttings. It produces a 
+hollow form matching the geometry of the first tool. Smooth or 
+grooved holes can be produced in this manner in a single pass. 
+Moreover, the surfaces of the bores are similar to those 
+obtained by grinding. 
+<H5>  Machining Centers At Affordable Prices </H5>
+  Not everyone is looking for sophistication. The American 
+giant Cincinnati, for example, is aiming at the market for 
+"cheap" machining centers with its new Arrow line. Despite a 
+price below 400,000 francs, these machines possess very 
+interesting characteristics: a displacement speed of 12 meters 
+per minute, accuracy of plus or minus 4 microns, a spindle speed 
+of up to 6,000 rpm, and a 21-tool changer. This machining center 
+is equipped with a specific but nevertheless high-performance 
+numerical control system. The American firm is not the only one 
+exploring this niche in the market: Switzerland's Mikron 
+unveiled its new VCE line, which has very similar architecture. 
+

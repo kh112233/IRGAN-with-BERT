@@ -1,0 +1,183 @@
+ 
+
+7.3. Recount Calculations 
+
+
+
+As mentioned in step 13 of Section 6.6.2., a ``blind recount'' of 10% of the slides is performed. In all cases, differences
+will be observed between the first and second counts of the same filter wedge. Most of these differences will be due
+to chance alone, that is, due to the random variability (precision) of the count method. Statistical recount criteria
+enables one to decide whether observed differences can be explained due to chance alone or are probably due to systematic
+differences between analysts, microscopes, or other biasing factors. 
+
+The following recount criterion is for a pair of counts that estimate AC in fibers/cc. The criterion is given at the
+type-I error level. That is, there is 5% maximum risk that we will reject a pair of counts for the reason that one might
+be biased, when the large observed difference is really due to chance. 
+Reject a pair of counts if: 
+
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER10AU94.029
+
+
+</IMPORT>
+
+
+
+Where: 
+
+
+
+
+AC
+
+1
+
+=lower estimated airborne fiber concentration 
+
+AC
+
+2
+
+=higher estimated airborne fiber concentration 
+
+AC
+
+avg
+
+=average of the two concentration estimates 
+
+CV
+
+FB
+
+=CV for the average of the two concentration estimates 
+
+ 
+
+
+If a pair of counts are rejected by this criterion then, recount the rest of the filters in the submitted set. Apply the
+test and reject any other pairs failing the test. Rejection shall include a memo to the industrial hygienist stating
+that the sample failed a statistical test for homogeneity and the true air concentration may be significantly different
+than the reported value. 
+
+
+
+7.4. Reporting Results 
+
+
+
+Report results to the industrial hygienist as fibers/cc. Use two significant figures. If multiple analyses are performed
+on a sample, an average of the results is to be reported unless any of the results can be rejected for cause. 
+
+
+
+8. References 
+
+
+
+8.1. Dreesen, W.C., et al, 
+
+U.S. Public Health Service: A Study of Asbestosis in the Asbestos Textile Industry, 
+
+(Public Health Bulletin No. 241), US Treasury Dept., Washington, DC, 1938. 
+
+8.2. 
+
+Asbestos Research Council: The Measurement of Airborne Asbestos Dust by the Membrane Filter Method 
+
+(Technical Note), Asbestos Research Council, Rockdale, Lancashire, Great Britain, 1969. 
+
+8.3. Bayer, S.G., Zumwalde, R.D., Brown, T.A., 
+
+Equipment and Procedure for Mounting Millipore Filters and Counting Asbestos Fibers by Phase Contrast Microscopy,
+
+
+Bureau of Occupational Health, U.S. Dept. of Health, Education and Welfare, Cincinnati,OH,1969. 
+
+8.4. 
+
+NIOSH Manual of Analytical Methods, 
+
+2nd ed., Vol. 1 (DHEW/NIOSH Pub. No. 77157A). National Institute for Occupational Safety and Health,
+Cincinnati, OH, 1977.pp.239123921. 
+
+8.5. 
+
+Asbestos, 
+
+Code of Federal Regulations 29 CFR 1910.1001. 1971. 
+
+8.6. 
+
+Occupational Exposure to Asbestos, Tremolite, Anthophyllite, and Actinolite. Final Rule, 
+
+Federal Register
+
+ 51: 119 (20 June 1986). pp.2261222790. 
+
+8.7. 
+
+Asbestos, Tremolite, Anthophyllite, and Actinolite, 
+
+Code of Federal Regulations 1910.1001. 1988. pp 711752. 
+
+8.8. 
+
+Criteria for a Recommended Standard_Occupational Exposure to Asbestos 
+
+(DHEW/NIOSH Pub. No. HSM 7210267), National Institute for Occupational Safety and Health NIOSH, Cincinnati,
+OH, 1972. pp. III1III24. 
+
+8.9. Leidel, N.A., Bayer, S.G., Zumwalde, R.D., Busch, K.A., 
+
+USPHS/NIOSH Membrane Filter Method for Evaluating Airborne Asbestos Fibers 
+
+(DHEW/NIOSH Pub. No. 79127). National Institute for Occupational Safety and Health, Cincinnati, OH, 1979.
+
+
+8.10. Dixon, W.C., 
+
+Applications of Optical Microscopy in Analysis of Asbestos and Quartz, 
+
+Analytical Techniques in Occupational Health Chemistry, edited by D.D. Dollberg and A.W. Verstuyft. Wash. D.C.:
+American Chemical Society, (ACS Symposium Series 120) 1980. pp. 1341. 
+
+
+
+Quality Control 
+
+
+
+The OSHA asbestos regulations require each laboratory to establish a quality control program. The following is presented
+as an example of how the OSHASLTC constructed its internal CV curve as part of meeting this requirement. Data
+for the CV curve shown below is from 395 samples collected during OSHA compliance inspections and analyzed from October
+1980 through April 1986. 
+
+Each sample was counted by 2 to 5 different counters independently of one another. The standard deviation and the CV
+statistic was calculated for each sample. This data was then plotted on a graph of CV vs. fibers/mm2. A least squares
+regression was performed using the following equation: 
+
+
+
+
+CV=antilog
+
+10
+
+[A(log
+
+10
+
+(x))2+B(log
+
+10
+
+(x))+C] 
+

@@ -1,0 +1,161 @@
+ 
+
+
+
+
+<USBUREAU>Department of the Army</USBUREAU>
+
+
+<DOCTITLE>International Personal Property Rate Program; Proposed Changes</DOCTITLE>
+
+
+
+<AGENCY>
+AGENCY: 
+
+Military Traffic Management Command, DOD.
+
+
+
+</AGENCY>
+<ACTION>
+ACTION: 
+
+Notice.
+
+
+
+
+
+
+</ACTION>
+<SUMMARY>
+SUMMARY: 
+
+MTMC is proposing use of Electronic Data Interchange (EDI) as the method for carriers to submit international personal
+property shipment rates. This system is the method by which international personal property shipment rates will
+be submitted for Department of Defense (DOD)-sponsored international household goods (HHG) and unaccompanied
+baggage (UB) shipments.
+
+
+
+</SUMMARY>
+<DATE>
+DATES: 
+
+Comments must be received before July 5, 1994.
+
+
+
+</DATE>
+<ADDRESS>
+ADDRESSES: 
+
+Comments should be mailed to Headquarters, Military Traffic Management Command, ATTN: MTOPTNI, room
+621, 5611 Columbia Pike, Falls Church, VA 220415050.
+
+
+
+</ADDRESS>
+<FURTHER>
+FOR FURTHER INFORMATION CONTACT:
+
+
+
+Mr. Alex Moreno, (703) 7562383.
+
+
+
+</FURTHER>
+<SUPPLEM>
+SUPPLEMENTARY INFORMATION: 
+
+MTMC's intention to institute an EDI program for acquisition of carrier rates is in furtherance of the following policy
+and directives:
+
+
+a. Office of the Secretary of Defense Policy Memorandum directing use of American National Standards Institute EDI
+standards, dated May 1988.
+b. 41 Code of Federal Regulations, 10141.007, permitting use of EDI to document and pay transportation
+bills, April 1989.
+c. Defense Management Review Decision 941 directing use of EDI standards, dated November 1993.
+MTMC proposes the use of EDI to receive, return, file, and use rates submitted by HHG and UB carriers.
+
+
+The meetings listed below were held to discuss use of EDI for billing and rate filing purposes. The carrier industry
+was invited to attend these meetings and was briefed on MTMC's desire to convert from a magnetic tape media for rate
+submissions to an EDI process.
+
+a. DOD/Industry EDI Personal Property Working Group meetings on June 14, 1991, and January 2931, 1992, at Bethesda,
+Maryland.
+
+b. DOD/Industry EDI Personal Property Working Group meeting on March 2325, 1992, at Indianapolis, Indiana.
+
+Under this proposed change, carriers will be able to electronically file their rates on a daily basis during filing
+windows, and will be electronically notified by the next business day of the results, i.e., total rates received and
+rates rejected with a rejection error code. For the initial filing (I/F) window, carriers will have a 3-week period,
+prior to the I/F deadline, in which they can add, delete, or change rates on a daily basis. Upon completion of the I/F
+window, MTMC will notify all interested parties via an electronic bulletin board of all rate levels filed by traffic
+channel, including which carrier established the rate. If two or more carriers establish this rate level, each carrier
+will be shown. MTMC will continue to verify all carriers filing rates in the I/F window have a letter of intent on file
+at each applicable installation. There will be approximately a 3-week period after notification of established
+low rates and the me-too (M/T) window to allow carriers an opportunity to determine their M/T rates. Carriers will
+have a 2-week period, prior to the M/T filing deadline, in which they can either add or change M/T rates on a daily basis.
+However, once both I/F and M/T filing deadlines have passed, no further modifications to those rates or other rates
+will be allowed. The mistake-in-rate filing (MMIRF) process will be included in the window period. The input rates
+will be edited for suspect rates and returned to the carriers so they may make ``MIRF-like'' changes. There will be
+two cancellation periods during each 6-month cycle in which carriers will be allowed to cancel rates.
+
+The purpose of this proposed change is to convert the rate filing process from a magnetic tape media to electronic submission.
+Initially, MTMC will accept electronic mail capabilities or in the public standard format of ANSI X.12 Transportation
+Services Tender Transaction Set 602 using EDI technology. However, MTMC plans to transition over the next 18 months
+to ANSI X.12 602 public standard format as the sole method for submission of international personal property rates.
+
+It is anticipated that many automated data processing (ADP) firms currently filing magnetic tape on behalf of carriers
+will continue to provide rate filing services under the electronic submission requirement. Carriers that elect
+to use the services of these ADP firms will only have to notify MTMC, in writing, of the firm representing them.
+
+For interested parties who wish to file rates using EDI procedures, the first step will be to obtain the services of
+a Value Added Network (VAN) for either X.25 protocol for the EDI 602 format or X.400 protocol for the electronic mail
+proprietary format. The VAN will be the conduit for exchanging rate submissions with MTMC. The next step will be to
+complete a Trading Partner Agreement and submit to MTMC. A Trading Partner Agreement provides the terms and conditions
+governing the exchange of administrative information between carriers and MTMC, and legally binds both parties
+to those terms. The final step will be to complete three successful transmissions of rates without a communications
+or technical error.
+
+All international personal property rates will be filed via electronic submission for the International Winter
+1995 (IS95) cycle, rates effective October 1, 1995. It is anticipated that the I/F window will be in May 1995 for a 3-week
+period. Magnetic tapes will no longer be accepted.
+
+DOD-approved international personal property carriers and current ADP rate tape filers will be provided instructions
+on filing electronic rate submissions after comments received as a result of this 
+
+Federal Register
+
+ notice have been reviewed. Instructions for filing rates electronically will also be provided on the ATT Bulletin
+Board. The instructions for filing electronic international personal property rates will include procedures for
+filing a Trading Partner Agreement, and procedures for testing transmission of rates, along with MTMC points of contact
+for these procedures.
+
+
+</SUPPLEM>
+<SIGNER>
+Kenneth L. Denton,
+
+
+</SIGNER>
+<SIGNJOB>
+Army Federal Register Liaison Officer.
+
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 9410800 Filed 5494; 8:45 am]
+
+
+</FRFILING>
+<BILLING>
+BILLING CODE 371008M
+</BILLING>
+
+

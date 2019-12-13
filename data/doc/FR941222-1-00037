@@ -1,0 +1,148 @@
+ 
+
+Sludges and Other Solid Materials 
+
+
+
+The plausible management scenario used to assess risks for the wastewater treatment 
+sludges from the production of azo dyes and pigments (K162 and K164), and still bottoms or 
+heavy ends from the production of triarylmethane dyes and pigments (K166) was disposal in 
+an on-site monofill. Disposal in an on-site monofill for these waste categories results 
+in the highest adverse exposure of sensitive individuals or populations. For wastewater 
+treatment sludges from azo dye production (K164), this plausible management scenario 
+(
+
+i.e.
+
+, on-site monofill) currently is practiced. 
+
+The Agency determined that disposal in an on-site monofill is a plausible management 
+scenario for wastewater treatment sludges from azo pigment production (K162) and still 
+bottoms or heavy ends from the production of triarylmethane dyes and pigments (K166), for 
+the following reasons: 
+
+&bull;On-site monofills have been used by industry to dispose of wastewater treatment 
+sludge from the manufacture of dyes and pigments; 
+
+&bull;Most of the still bottoms generated from the production of triarylmethane dyes 
+and pigments are high-volume wastestreams for which on-site monofills are a 
+plausible management option; and 
+
+&bull;On-site monofills can be a lower-cost disposal option. 
+
+Therefore, there is a potential for monofills to be constructed and used in the 
+future, by either dye or pigment manufacturers to dispose of wastewater treatment sludges 
+or other high-volume solid wastes. 
+
+For wastewater treatment sludge from the production of triarylmethane pigments using 
+aniline as a feedstock, the plausible management was determined to be the current 
+management, blending with non-hazardous fuel. Currently, 100% of this waste is sent off-
+site for non-hazardous fuel blending. The Agency believes that this waste will continue 
+to be managed in this manner because the relatively high organic content of the waste 
+gives the material value as a fuel ingredient. Therefore, generators of the waste have an 
+economic incentive to continue fuel blending. For comparison purposes, the Agency also 
+projected the risks from managing this wastestream in a municipal landfill (from release 
+of contaminants into ground water) and in an on-site boiler (from release of contaminants 
+into the air). 
+
+The primary exposure pathway considered from disposal of solid materials in both 
+unlined municipal landfills (evaluated as the baseline management practice for K162, K164, 
+and K166) and monofills (evaluated as plausible management practices for K162, K164, and 
+K166) is direct ingestion of drinking water from residential wells near the disposal site. 
+Because of the widespread practice of daily cover, indirect air pathways and surface 
+erosion and runoff were not evaluated for municipal landfills. For on-site monofills, 
+however, the presumption of no daily cover was used, and risks associated with indirect 
+pathways were evaluated. 
+
+In addition to estimating potential risks from waste disposed in an unlined municipal 
+landfill, the Agency evaluated risks from municipal landfills meeting the minimum 
+requirements for a Subtitle D landfill (56 FR 50978, 1991). These requirements include 
+daily cover, flexible membrane liner, leachate collection system, clay liner, and final 
+cap and cover. The results of these analyses can be found in the Risk Assessment for Dye 
+and Pigment Waste Listing Determination. This document is available in the RCRA public 
+docket (see 
+
+ADDRESSES 
+
+section). 
+
+A dilution factor based on the ratio of the volume of the waste to the volume of co-
+disposed municipal waste and daily cover was used to estimate the concentrations of the 
+constituents of concern in the landfill. The concentrations of the constituents measured 
+in the waste were multiplied by this dilution factor to determine the concentration of the 
+constituents in the landfill. The concentrations of the constituents in the landfill 
+leachate were estimated using Toxicity Characteristics Leaching Procedure (TCLP) data 
+submitted by industry for selected constituents (3,3
+&rsquo;-dichlorobenzidine, aniline, 4- 
+chloroaniline, and 2- and 4-aminotoluene), or when TCLP data were not available, by using 
+a soil-water partitioning equation. 
+
+EPA used the following linear partition equation (Dragan, 1988) with an adjustment to 
+relate sorbed concentration to total waste concentration. 
+
+
+
+
+C
+
+L
+
+ = C
+
+W
+
+/[Foc * Koc + O * S/Bd] 
+
+
+
+
+
+where C
+
+L
+
+=leachate concentration 
+
+C
+
+W
+
+=waste concentration 
+
+Foc=fraction organic carbon 
+
+Koc=organic carbon partitioning coefficient 
+
+O=porosity 
+
+S=fraction water content 
+
+Bd=bulk density 
+
+
+
+
+
+The physical properties of the waste used in this equation (
+
+i.e.
+
+, bulk density, 
+fraction organic carbon) were obtained either from the Agency's record samples when 
+available, or from the 1991 RCRA Section 3007 Questionnaire responses. 
+
+The volume of leachate and rate of ground-water recharge were estimated using the 
+HELP model. The HELP model uses site-specific precipitation values and standard 
+assumptions for the characteristics of municipal waste to estimate infiltration and 
+recharge rates. For the evaluation of dye and pigment wastes in municipal landfills, 
+annual precipitation rates for sites near all dye and pigment facilities were ranked. 
+Charlotte, North Carolina was selected as representative of the median precipitation value 
+for the areas near dye and pigment facilities, and Charleston, South Carolina, was 
+selected as representative of sites with high annual rainfall potential. The default 
+meteorologic conditions for these locations in the HELP model were used to determine the 
+infiltration and recharge rates used in the ground-water modeling. 
+
+
+
+
+

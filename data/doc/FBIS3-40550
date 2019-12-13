@@ -1,0 +1,462 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Isao Kudo, head, Space Technology Research </F>
+Section, Department of Ultraenvironment-Use Technology, 
+Electrotechnical Laboratory, Agency of Industrial Science and 
+Technology] 
+  [Text] 
+<H5>  Introduction </H5>
+  Scientists began to consider taking advantage of the 
+weightless environment of space, characterized by having no 
+convection, no buoyancy, no sedimentation, no static pressure, 
+and no-contact floating, during their research in the 1960s. 
+Experiments in space began to be realized in the 1970s when 
+Skylab, the Apollo rocket and Soyuz spaceship were launched. 
+However, good results were not obtained easily. These features 
+of the weightless environment in space can be best exploited 
+when the specimen involved in the experiment is fluid in form. 
+The reason for good results not being obtained during those 
+early years is thought to be that researchers did not have 
+sufficient knowledge of fluid phenomena. The material processing 
+technology we are using today is based on the technologies that 
+have been accumulated through continued research conducted since 
+the days scientists attempted to create gold and silver from 
+ordinary metals hundreds of years ago. Compared to this long 
+history of efforts, our experience in space is still too meager. 
+In the First Material Processing Test Program (FMPT) experiments 
+conducted recently that involved creating new materials aboard a 
+U.S. space shuttle, the total hours accumulated by Japanese 
+researchers in space was about 150. Even if the hours of 
+experiments conducted by Japanese researchers under weightless 
+conditions are added, the total is still short of 1,000 hours, 
+making the space material processing technology no match for its 
+ground counterpart in terms of maturity. In this sense, we must 
+promote basic physiochemical research. 
+  Due partly to the Challenger disaster, material research in 
+the microgravity environment of space made little progress in 
+the 1980s. However, since entering the 1990s, the platforms 
+enabling material experiments to be conducted under microgravity 
+conditions have been diversifying. Figure 1 [not reproduced] 
+gives these platforms and their relative positions on a diagram 
+in which the Y-axis represents attainable levels of microgravity 
+and the X-axis indicates the length of time a microgravity 
+condition can be realized. The length of time required of 
+microgravity conditions in order for an experiment to be 
+finished ranges from the comparatively brief time required for 
+conducting a fuel combustion test to the several months needed 
+to grow protein crystals. The platform selected should be 
+determined by taking this time factor into account. Due partly 
+to the few chances for conducting experiments under microgravity 
+conditions that have been available so far, researchers have 
+tended to make proposals for new experiments randomly, without 
+considering whether such experiments are really worth 
+undertaking. Now, with a number of these platforms having become 
+available, we must make proposals that can take advantage of 
+these platforms. 
+  We can expect that the era of the 1990s will produce many 
+significant achievements in our efforts to develop space 
+technology. For three years, starting in 1991, Japan has been 
+conducting the TR-IA program by launching a series of small 
+research rockets. In 1992 Japan carried out the MASTER and FMPT 
+programs, followed by the D-2 project carried out aboard a U.S. 
+space shuttle and the GAS project implemented in 1993. A series 
+of experiments under weightless conditions is scheduled in the 
+coming years, including the launch of an EXPRESS satellite with 
+a recoverable capsule in 1994 and the SFU free flyer program in 
+1995. In 1992, a free-fall tower, the tallest in the world, was 
+constructed on Japan's northernmost main island of Hokkaido. The 
+facility is already available for conducting experiments under 
+weightless conditions. The construction of a space station is 
+currently under way, scheduled for completion in 1998. While the 
+construction is being carried out by the United States, Japan 
+and European countries are participating in the space station 
+program. 
+<H5>  Importance of Promoting Microscopic Observation </H5>
+  In recent years, great progress has been made in the field 
+of 
+microelectronic technology, a technology needed to produce 
+semiconductor devices. The linewidth required to create these 
+devices has shrunk steadily, from micron to submicron orders, 
+and now researchers are developing a technology that will make 
+it possible to control molecule-level dimensions. The need for 
+this technology is mounting, not only for semiconductor device 
+development, but also in the fields of new material development, 
+chemistry and biotechnology. The need for the technology that 
+will enable the observation and manipulation of molecule-level 
+and atom-level dimensions has been increasing in recent years. 
+One of the themes for which the Agency of Industrial Science and 
+Technology is actively promoting R&amp;D is "atom technology." 
+This 
+effort involves the development of a technology that will make 
+it possible to observe, measure, and manipulate individual 
+molecules and atoms on the surface of various kinds of 
+substances and materials under different conditions, i.e., the 
+development of a technology that will make it possible to 
+measure or observe, on the spot, the formation of atomic 
+clusters, their concentration, dispersion, and reactions among 
+them within a three-dimensional space, as well as research aimed 
+at theoretically unraveling the processes involved in 
+absorption, desorption, dispersion and reaction. 
+  The agency is also promoting research on "quantized 
+functional elements." This research aims at developing new 
+functional elements by finely controlling such quantum phenomena 
+as the tunnel effect manifested in ultra-microstructures, the 
+wave motion of electrons, and the transition between different 
+quantum levels. The research to develop the elements has been 
+stepped up since progress has been made in shrinking the 
+dimensions of the semiconductor device circuits. The production 
+of these devices calls for these well-controlled elements to be 
+available. When the circuit features shrink, the requirements 
+for elements become increasingly stringent. The weightless space 
+environment could provide the experiment conditions suitable for 
+developing these quantized functional elements. 
+  When the requirements for metallic materials become 
+stringent, it becomes necessary to improve the characteristics 
+of these metals by promoting research at the grain level, i.e., 
+the constituent element. Each of these grains, in turn, is 
+composed of microstructures that develop during the growth 
+process of the dendritic structures. The condition of the 
+dendritic growth within these microstructures greatly affects 
+the parameters required for these metals, such as the parameter 
+for mechanical strength. Research on dendritic growth has been 
+conducted for the past 50 years. Despite this long history of 
+research, it is only recently that the quantization of such 
+growth has become possible. An article by J.S. Langer which was 
+carried in the October issue of PHYSICS TODAY points out that 
+dendritic growth is affected by the fluctuations of temperature 
+in the boundary interface between the surface of the solidifying 
+substance and the adjoining atmosphere, as well as by minute 
+changes in the surface tension. The author went on by saying 
+that while these parameters are important, they have been 
+ignored so far. Figure 2 [not reproduced] is the schematic 
+representation of the solidification of a metallic substance at 
+one moment during the solidification process on the ground, and 
+it can be seen that the crystal is growing upward. On the 
+ground, air convection occurs above the surface of the 
+solidifying substance. However, in the boundary interface, 
+convection disappears because the convection is impeded by a 
+drag caused by the viscosity of the air in the interface. It has 
+recently been found that the molecules present in the 
+solidifying interface play an important role. 
+  In a weightless environment, convection like that observed 
+on 
+the ground does not occur, creating the conditions suitable for 
+conducting the microscopic observation. On the ground, X-ray is 
+the only means used to conduct the microscopic observation of 
+metals. However, it is unrealistic to lift an X-ray system to 
+space to conduct similar observations. Because of this, organic 
+substances, such as (saxinonytril), are commonly used as the 
+specimens for use in space experiments. Through the 1990s, space 
+experiments aimed at unraveling the solidification process will 
+be conducted using these organic specimens. 
+  (Grieksman), of the United States, has found by conducting 
+many experiments on the ground that the crystallization process 
+is influenced by gravity. He is scheduled to conduct an 
+experiment involving the growth of the dendritic crystal using a 
+U.S. space experiment system (USMP). 
+  In Japan, experiments to measure the temperature of the 
+atmosphere in the solidifying interface were carried out under 
+weightless conditions by launching small MASTER-5 rockets 
+carrying a Mach-Zehnder interferometer. The experiments were 
+promoted and conducted by Ishikawajima-Harima Heavy Industries, 
+Mitsubishi Research Institute, Japan Society for the Promotion 
+of Machine Systems, and The Society of Japanese Aerospace 
+Companies. These experiments made it possible to see clearly the 
+heat radiation from a solidifying substance into the atmosphere 
+adjoining the substance and the changes in radiation level in 
+the form of video images. Figure 3 [not reproduced] shows the 
+printout of one of the frames of images obtained by a 
+Mach-Zehnder interferometer. The image in the right half of the 
+printout, rendered in the form of finite interference fringes, 
+shows the change in the atmospheric temperature near the 
+substance over time in terms of temperature profile curves. The 
+image in the left half, rendered in the form of infinite 
+interference fringes, can be used to measure the temperature. 
+Recently, high expectations have been placed on the results of 
+research that has been under way in an effort to use the 
+light-scattering phenomenon as a means of observing the 
+crystallization of a solidifying substance. The effect of 
+surface tension becomes conspicuous in a weightless environment, 
+and, in this sense, it is important to conduct further research 
+on surface tension to clarify the crystallization process. In 
+September 1993, an experiment for observing the dendritic growth 
+process was to be conducted using the Schlieren optical 
+observation system by launching a TR-IA3 rocket. The adoption of 
+the observation system makes it possible to realize a visual 
+rendition of the crystal growth process when a solidifying 
+substance is subjected to supercooling conditions. 
+<H5>  Advantages of Weightless Experiment Environment </H5>
+  In the following, this author will describe the advantages 
+of 
+the weightless experiment environment by citing some concrete 
+instances. As described above, the need for realizing atom-level 
+control in developing semiconductor devices is mounting these 
+days. However, on the ground, the convection in the atmosphere 
+has impeded the realization of crystal growth with no defects. 
+Convection causes temperature fluctuations in the solidifying 
+interface of a growing crystal, which causes changes in density. 
+These, coupled with supercooling and internal thermal stress, 
+lead to the appearance of defects within the grown crystal. In 
+addition, convection within a melted fluid causes nonuniformity 
+in the material composition and the distribution of impurities 
+in the direction of crystal growth. No convection, no buoyancy, 
+and no static pressure--these are why the weightless environment 
+of space draws such high attention. Under weightless conditions, 
+uniform crystallization can be attained because convection does 
+not occur. In addition, weightless conditions make it possible 
+to produce a large temperature gradient in the interface of the 
+crystallizing substance. This, in turn, makes it possible to 
+limit the supercooled depth in the surface of a liquid-phase 
+substance to very shallow, a condition required to realize the 
+stable growth of a single crystal. 
+  As new types of materials, the alloys which are made using 
+iron, nickel, or cobalt as the base materials, and which display 
+high strength and toughness at high temperatures, have been 
+drawing attention in recent years. These alloys are created by 
+scattering ceramics or metal oxides, or by coating them with a 
+ceramic film. In order to produce these alloys in space, it is 
+thought that processing methods which ensure the uniform 
+dispersion of materials or the oriented solidification of 
+materials must be used. The uniform dispersion method could be 
+used to produce a material in space by dispersing fine material 
+components uniformly across the matrix material, or to produce a 
+composite material by having the reinforcing fibers embedded in 
+a regular pattern by taking advantage of the absence of buoyancy 
+and sedimentation in the space environment. The oriented 
+solidification that makes it possible to realize a large 
+temperature gradient within a melted fluid can be used to 
+produce turbine blades. The experiments that will be conducted 
+in space using these methods will include one to improve the 
+heat withstanding ability of super alloys by dispersing 
+ceramics, one on unidirectional solidification, and one to 
+create single crystals. 
+  Amorphous alloys can be created by introducing silicon, 
+boron, phosphorus, zirconium, hafnium, or niobium into such 
+transition metals as iron, nickel, or cobalt, and by subjecting 
+the melted mixture of these metals to supercooling, taking 
+advantage of the fact that it becomes a solid with the same kind 
+of atomic sequence that it has in the liquid state (in other 
+words, by super cooling one does not have to take the time to 
+realign it in the correct sequence). This causes the amorphous 
+alloys to manifest high toughness and high 
+corrosion-withstanding ability, which the original metals did 
+not. Cooling the melted fluid in space would make it possible to 
+produce larger amorphous crystals by restraining the formation 
+of the crystal nuclei from the portions where the ground 
+production process makes the fluid come into contact with the 
+vessel holding it. 
+  As for use in optical fiber communications, efforts are 
+under 
+way to develop a glass with high transparency (low transmission 
+loss) in the near infrared range. The development of such a 
+glass calls for the introduction of an advanced processing and 
+production technology that will make it possible to greatly 
+reduce the impurity content. On the ground, glass production 
+requires the use of a platinum vessel since glass reacts with 
+refractory materials at high temperatures. It is thought that a 
+highly pure glass for which no impurities can be traced to the 
+vessel holding the materials can be created by melting and 
+solidifying the materials while floating them in space. In the 
+meantime, the Government Industrial Research Institute, Osaka, 
+of MITI's Agency of Industrial Science and Technology is 
+conducting joint research with the University of Missouri and 
+Loyola University of the United States to create glass particles 
+with diameters of a few microns in a weightless environment for 
+medical applications. We anticipate good results will be 
+forthcoming from the research. 
+  The experiment conducted by USML in 1992 to grow protein 
+crystals in space drew substantial attention from scientists 
+around the world as a pioneering attempt to produce medicine in 
+space. Protein crystal is brittle and a large crystal cannot be 
+created on the ground due to the effects of air convection and 
+sedimentation. A large crystal is not necessarily needed as the 
+material for producing medicine. However, to determine the 
+suitable three-dimensional crystal structure of a medicine under 
+development, the availability of a large, high quality crystal 
+is essential. It is said that many recently-developed drugs have 
+been designed to be effective against specific viruses in order 
+to reduce side effects. In order to develop these drugs, 
+unraveling the three-dimensional structures of the protein 
+crystals involved is important. Producing these crystals in 
+space is costly. Therefore, for the time being, the use of the 
+weightless environment of space will be confined to the 
+development of drugs against cancer and AIDS, the two major 
+diseases afflicting the world today, which must be controlled at 
+all costs. In the meantime, MITI, in cooperation with DARA of 
+Germany, plans to conduct an experiment to grow a zeolite 
+crystal in 1994 by launching an EXPRESS satellite. The products 
+of the experiment will be recovered in a capsule. Zeolite is 
+said to be useful for use in petroleum refining and for reducing 
+diesel engine exhaust. 
+  Just like a protein crystal, a large zeolite crystal cannot 
+be produced on the ground. Thus far, zeolite has been created by 
+determining the crystal structure based on experience. The CATEX 
+program is designed to conduct a series of experiments to grow a 
+zeolite crystal in space. The first space flight, lasting five 
+days, will make it possible to conduct experiments by taking 
+full advantage of the weightless conditions in space. After the 
+experiments have been completed, the satellite will be recovered 
+to obtain the data that will make it possible in the ensuing 
+CATEX experiments to conduct detailed observation of the crystal 
+growth process by making full use of the on-the-spot observation 
+technology available. 
+  The experiments conducted by using a free-fall tower or 
+within a space station are characterized by the fact that they 
+can get the support of specialists every time an experiment is 
+conducted. As far as the diagram in Figure 1 [not reproduced] is 
+concerned, the free-fall tower and space station give the 
+impression that they present experiment platforms with opposite 
+capabilities and performance. The use of a free-fall tower makes 
+it possible to conduct experiments under weightless conditions 
+using the experiment systems as sophisticated as the ones used 
+on the ground, even though the dimensions of the systems are 
+limited by the size of the capsule used in the free-fall 
+facility. A space station can employ a low-acceleration 
+propulsion system, like a space shuttle. In addition, a space 
+station makes it possible to accommodate equally sophisticated 
+experiment systems and allows the adjustment or repair of these 
+systems to be made by astronauts when the need arises. The 
+National Space Development Agency is already developing the 
+experiment systems for joint use in space station. In parallel 
+with the development, the agency has been encouraging people to 
+propose themes for experiments to be conducted in a space 
+station since 1992. However, the author's opinion is that such 
+sophisticated experiment systems must be created not by the 
+agency, but by those establishments which will be conducting the 
+experiments within the space station. The experiments conducted 
+using these platforms, involving the use of sophisticated 
+experiment systems operated by specialists, will greatly help to 
+build a database on thermal property values. 
+  For example, in order to simulate the growth of a 
+semiconductor crystal properly, accurate thermal property values 
+must be used to melt the materials. It is impossible to measure 
+these values accurately on the ground because of convection. The 
+Space Technology Corporation has conducted a series of 
+experiments to measure the thermal conductivity of a number of 
+materials under weightless conditions created by using a 
+free-fall tower and by launching small TEXUS rockets. Based on 
+the results of these experiments, the corporation reported that 
+there is a difference in the thermal conductivity of InSb 
+between the value measured on the ground and the one measured 
+under weightless conditions. According to the corporation's 
+data, the value is the same within solid specimens, but 
+differences appear when liquid specimens are used (Figure 4 [not 
+reproduced]). This data will contribute to building the 
+database. Germany has been conducting experiments to measure the 
+surface tension, thermal conductivity, viscosity coefficient, 
+and other property values of a number of materials using a 
+TEMPUS magnetic floating furnace. For the time being, it is 
+important for us to accumulate data on as many materials as 
+possible by changing the parameters using such a furnace. These 
+efforts are what must be undertaken and promoted by researchers 
+using the two different types of experiment platforms described 
+above. 
+<H5>  Expectations for Super-High Vacuum Environment </H5>
+  A lasting vacuum condition is another characteristic of the 
+space environment. However, at the altitudes space shuttles fly 
+in space, the vacuum level is not as high. The vacuum at these 
+altitudes deteriorates to around 10[.sup]-4[/] Pa due to the 
+gases coming out of the shuttles in various forms and the water 
+discarded from the shuttles. At this point comes the idea of 
+using the wake. The term "wake" refers to the trace created on 
+the surface of water behind a ship when it travels. The vacuum 
+level at an altitude of 300 km from the earth's surface is 
+dictated by the partial pressure of the atomic oxygen, an 
+element which accounts for the largest percentage of those 
+elements present at the altitude. The partial pressure usually 
+ranges from 10[.sup]-5[/] to 10[.sup]-6[/] Pa. By assuming 
+that the gases of these residual elements have a Maxwell's 
+distribution pattern, the molecular temperatures of these 
+elements approach 1,000 K. At these temperatures, the movement 
+velocity of these elements' thermal molecules is about one-tenth 
+the orbiting speed of a satellite, and this prevents the 
+molecules from scattering behind the satellite. This produces a 
+wake of a high vacuum level behind a flying satellite. 
+Specifically, the travel speed of a satellite is a few times 
+faster than the movement speeds of the thermal molecules of 
+hydrogen and helium, and about 10 times faster than the movement 
+speeds of the thermal molecules of oxygen and nitrogen. This 
+means that the elements that can catch up with the satellite are 
+confined to the very small portion of Maxwell's distribution 
+that has a very high movement speed. This realizes an area with 
+a very low element density behind the orbiting satellite. 
+  Based on these assumptions, the vacuum level in the wake 
+created behind a flying disk measuring 10 m in diameter reaches 
+a maximum of 10[.sup]-13[/] Pa in terms of the partial 
+pressure of hydrogen (Figure 5 [not reproduced]). In terms of 
+the partial pressure of helium, it comes to 10[.sup]-16[/] 
+Pa, while in terms of the partial pressure of atomic oxygen, it 
+extends to as low as 10[.sup]-33[/] Pa. These figures are 
+equivalent to a single atom of these elements existing within a 
+space of a few hundred cubic kilometers. The fact that the wake 
+has no walls means that a larger vacuum space is created behind 
+the disk with the pumping speed approaching infinity, and thus a 
+good weightless environment is realized. The University of 
+Houston in the United States plans to grow a thin film of 
+gallium arsenide in a wake experiment to be conducted aboard a 
+space shuttle in orbit by erecting a 3.6 m disk in the shuttle's 
+cargo bay. The first experiment was scheduled to take place in 
+November 1993. The university plans to conduct three more wake 
+experiments after this. 
+  As described above, the next-generation semiconductor 
+devices 
+call for atomic-level device process technology. Under this 
+increasingly stringent requirement, epitaxial technology is one 
+of the most reliable process technologies available today. The 
+background vacuum level currently available when growing a thin 
+film using the MBE or CBE method stands at 5 x 10[.sup]-9[/] 
+Pa. However, when these epitaxial film growing systems are in 
+operation, the vacuum level deteriorates to 1 x 10[.sup]-6[/] 
+Pa for the former method and to 10[.sup]-3[/] Pa for the 
+latter. The system commonly used on the ground has many such 
+chambers for growing the film. An increase in the number of 
+chambers causes further deterioration of the vacuum level. This, 
+coupled with the lowering of the vacuum level when the system is 
+in operation, could lead to impurities finding their way into 
+the synthesized thin film due to the scattering occurring near 
+the specimen when growing a thin film. When the specimen is 
+switched, the contamination from the chamber walls due to the 
+hysteresis effect of a specimen used previously appears. These 
+impurities affect the characteristics of these synthesized 
+electronic materials, even if their contents are very small. 
+Even if the density of a dopant is very small--for example, at 
+the level of a few ppt--that cannot be detected by chemical 
+analysis, its introduction can change the electronic properties 
+of a substance. In order to grow a superlattice, it is said that 
+the density of the impurity flux must be reduced to lower than 5 
+x 10[.sup]-3[/] atoms/cm[.sup]2[/] per second. This is 
+equivalent to a partial pressure of lower than 2 x 
+10[.sup]-16[/] Pa. 
+<H5>  Epilogue </H5>
+  The production process that takes advantage of the 
+weightless 
+and super-high vacuum environment of space will meet the 
+requirements for producing advanced electronic materials, which 
+call for an ability to control the characteristics at the 
+molecular or atomic level. Until recently, the use of 
+sophisticated experiment systems in space has been hampered by 
+the malfunctioning of the systems caused by the mechanical shock 
+of launch and by the lack of electric power in orbit. This, 
+coupled with the problem of not having the opportunity to use 
+the systems due to the few available, has discouraged 
+researchers from conducting experiments in space. 
+  However, in recent years the chance to conduct an experiment 
+under a weightless environment has increased with the 
+availability of various experiment platforms, including the 
+completion of the world's tallest free-fall tower in Japan. When 
+the construction of the space station is completed, it will 
+become possible for us to conduct experiments using experiment 
+systems as sophisticated as the ones we use on the ground. The 
+decade of the l990s has witnessed a diversification of 
+weightless experiment platforms, including the availability of 
+the unmanned SFU free flyer and EXPRESS satellite with a 
+recoverable capsule. Researchers in this decade will be able to 
+select the type of platform most suitable for their experiment, 
+a situation different from the 1980s when they had little choice 
+and had to conduct experiments by adapting the experiment 
+conditions to the available platform. This decade will make it 
+possible for us to take greater advantage of the space 
+environment in conducting experiments. 
+
+

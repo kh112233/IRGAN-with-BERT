@@ -1,0 +1,111 @@
+ 
+
+7.3.2Upscale Calibration Drift Test. At each 24-hour 
+interval, after the zero calibration value has been checked and 
+any optional or required adjustments have been made, check and 
+record the COMS response to the upscale calibration value 
+established under the optical and zero alignment procedure of 
+section 7.2.1. The upscale calibration value established in 
+section 7.2.1 shall be used each 24-hour period. From the 
+initial and final upscale readings, calculate the upscale calibration 
+value drift for each 24-hour period. Then, calculate the 
+arithmetic mean, standard deviation, and confidence coefficient 
+of the 24-hour CD and the 95 percent confidence interval using 
+equations 13, 14, and 15. Calculate the sum of the absolute 
+value of the mean and the absolute value of the confidence 
+coefficient, and report this value as the 24-hour calibration 
+value drift. At the conclusion of the 336-hour operational test 
+period, record and report the 336-hour accumulated drift. 
+
+7.3.3Calibration Stability Test. Immediately following or 
+during, the operational test period, conduct a calibration 
+stability test over a 24-hour period. During this period, there 
+will be no unscheduled maintenance, repair, adjustment, zero and 
+calibration adjustments, exposed optical and other instrument 
+surface cleaning, or optical realignment performed. Record the 
+initial zero and upscale calibration opacity values and operate 
+the monitor in a normal manner. After each 1-hour period, record 
+the monitor adjusted zero and upscale opacity values. Subtract 
+the initial zero and upscale calibration values from each 1-hour 
+adjusted value and record the difference. None of these differences 
+shall exceed +2 percent opacity. Figure 18 may be used 
+for the recording of the results of this test. 
+7.3.4Retesting. If the COMS fails to meet the 
+specifications for the tests conducted under the operational test 
+period, make the necessary corrections and restart the opera- 
+tional test period. Depending on the correction made, it may be 
+necessary to repeat some or all design and other preliminary 
+tests. 
+
+
+8. Equations 
+
+
+8.1Arithmetic Mean. Calculate the mean of a set of data as follows: 
+
+
+
+
+where: 
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSEP25NO94.002
+
+
+</IMPORT>
+
+
+
+n = Number of data points. 
+n 
+
+
+S
+
+x
+
+i
+
+ = Algebraic sum of the individual measurements, x
+
+i
+
+. i=1 
+
+
+
+8.2Standard Deviation. Calculate the standard deviation S
+
+d
+
+ 
+as follows: 
+
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSEP25NO94.003
+
+
+</IMPORT>
+
+
+
+8.3Confidence Coefficient. Calculate the 2.5 percent 
+error confidence coefficient (one-tailed), CC, as follows: 
+
+
+
+
+

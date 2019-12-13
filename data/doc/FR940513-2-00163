@@ -1,0 +1,173 @@
+ 
+
+During the proposed extension, each market will transmit to the other static price/volume information compiled
+at the end of each trading day on approximately 35 Nasdaq securities which are also traded on the SES. The NASD will transmit
+for each Pilot Security the closing inside quotes, cumulative volume, last sale price and the closing quote of every
+Nasdaq market maker in each of the Pilot Securities (collectively referred to as ``NASD information''). In recognition
+of the SES's use of the order-driven CLOB system, the SES will transmit the following data elements for each Pilot security:
+closing price (
+
+i.e.,
+
+ the price of the final transaction in the CLOB on that business day), the highest and lowest prices at which transactions
+were effected, and the aggregate volume (collectively referred to as ``SES information'').
+<FOOTCITE>5</FOOTCITE>
+ Because all trading of Pilot Securities on the SES occurs in the CLOB, the price information sent to the NASD will reflect
+the prices of actual trades consummated by the automated matching of buy and sell orders resident in the CLOB system.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+5
+
+</FOOTNAME>
+If no trades are effected in a Pilot security on a given day, the SES will transmit no data on that issue even if bids or
+offers had been entered into the CLOB for possible execution.
+</FOOTNOTE>
+
+
+The CLOB is a fully automated trading system that was instituted by the SES in 1989. Prior to that time, the SES employed
+a quote-driven, market maker system similar to the Nasdaq Stock Market. Orders to buy and sell securities are entered
+into the CLOB through some 1,800 trading terminals on the premises of approximately 26 SES member firms. The CLOB provides
+an electronic limit order file with open orders ranked by price and time in each security. When the terms of two orders
+match, the CLOB generates an automated execution accompanied by confirmations back to the originating brokers.
+As noted in File No. SRNASD9328, the SES intends to incorporate the Pilot Securities into ``CLOB
+International.'' The latter is a separate section of the SES market system for the trading of foreign issues that are
+not listed on the SES. These securities trade through the CLOB in the same manner as SES-listed securities. CLOB International
+currently includes the stocks of Malaysian, Hong Kong, and Philippine issuers. The SES regards inclusion of the Pilot
+Securities in CLOB International as a logical step in the progression of the Pilot Program. Further, the SES believes
+that this step could stimulate greater trading interest in Nasdaq securities among Singapore investors. Accordingly,
+both the NASD and the SES desire to continue the Pilot Program.
+The incorporation of Pilot Securities into CLOB International will not alter the basic operation of the Pilot Program,
+namely, the interchange of static, end-of-day information on the Pilot Securities. SES information will continue
+to be offered only to subscribers of Nasdaq Level 2/3 services.
+<FOOTCITE>6</FOOTCITE>
+ Similarly, NASD information transmitted to Singapore will be available only on the terminals used by SES members
+to access the CLOB. The original linkage agreement between the NASD and the SES will remain in effect for the term of
+the extended Pilot Program. That agreement, which provides for the sharing of regulatory information as needed,
+is believed adequate given the limited nature and limited scope of the Pilot Program.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+6
+
+</FOOTNAME>
+To retrieve this information, a Nasdaq subscriber must enter a discrete query through a Nasdaq Workstation device.
+</FOOTNOTE>
+
+
+Finally, the NASD acknowledges that any further enhancement to the Pilot Program, including the introduction of
+automated order routing and execution facilities, would require concurrent authorizations from the Commission
+and the Monetary Authority of Singapore. No such enhancement is planned for implementation during the requested
+extension.
+The NASD believes that Sections 11A(a)(1) (B) and (C), 15A(b)(6), and 17A(a)(1) of the Act provide the statutory basis
+for this proposed rule change. Subsections (B) and (C) of Section 11A(a)(1) set forth the Congressional goals of achieving
+more efficient and effective market operations, the availability of information with respect to quotations for
+securities and the execution of investor orders in the best market through the application of new data processing
+and communications techniques. Section 15A(b)(6) requires, among other things, that the rules of the NASD be designed
+to foster cooperation and coordination with persons engaged in regulating, clearing, settling, processing information
+with respect to, and facilitating transactions in securities, and to remove impediments to and perfect the mechanism
+of a free and open market. Finally, Section 17A(a)(1) reflects the Congressional goals of linking all clearance and
+settlement facilities and reducing costs involved in the clearance and settlement process through new data processing
+and communications techniques. The NASD submits that extension of the Pilot Program will further these ends by providing
+the cooperative regulatory environment and operating experience needed for advancement of these goals in the context
+of internationalization of securities markets.
+
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+
+The extended Pilot Program will permit the continued exchange of static market data on a limited group of Nasdaq securities
+between the NASD and the SES on a non-exclusive basis. The costs of supporting the Pilot Program are nominal, and the
+sponsoring markets absorb their respective costs. The market information being exchanged by the NASD and SES under
+the Pilot Program is deemed to constitute an exchange of equivalent value. Hence, no additional fee is paid by NASD
+and SES member firms for receipt of the static data being provided on Pilot Securities.
+The NASD submits that neither the structure no operation of the present Pilot Program poses any burden on competition.
+
+
+C. Self-Regulatory Organization's Statement on Comment on the Proposed Rule Change Received From Members, Participants,
+or Others
+
+
+The NASD did not solicit or receive written comments on this rule proposal.
+
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for Commission Action
+
+
+The NASD requests that the Commission find, pursuant to Section 19(b)(2) of the Act, good cause for approving the proposed
+rule change prior to the 30th day after the date of publishing notice of the filing and, in any event, by May 12, 1994.
+The NASD believes that accelerated approval is appropriate for the following reasons: (1) The experimental character
+of the Pilot Program and the need to maintain continuity in its operation; (2) the commitment not to make any significant
+operational changes during the requested extension absent Commission approval; (3) the limited nature of the Pilot
+Program, both in terms of the number of Pilot securities and the amount of market information being exchanged; and
+(4) the limited utility of end-of-day, static information to the NASD and SES member firms capable of accessing, respectively,
+SES and NASD information. Moreover, during the period of the proposed extension, the sponsoring markets remain committed
+to exchange regulatory information whenever the need arises. Finally, if accelerated approval is not granted, the
+sponsors will be obliged to terminate this experimental program before its potential benefits can be realized in
+relation to the globalization of securities markets.
+
+The Commission finds that the proposed rule change is consistent with the requirements of the Act and the rules and
+regulations thereunder applicable to the NASD and, in particular, the requirements of Sections 11A(a)(1) (B) and
+(C), 15A(b)(6), 17A(a)(1) and the rules and regulations thereunder.
+
+The Commission finds good cause for approving the proposed rule change prior to the 30th day after the date of publishing
+of notice of filing thereof. The Commission believes that accelerated approval is appropriate to maintain continuity
+in the Pilot Program and to allow the sponsors to continue to assess the impact of the trading of these securities in
+the international section of the SES's order-driven market system. Further, the Pilot Program is of a limited nature
+and no substantive changes will be implemented during the proposed extension. Accordingly, the Commission believes
+that the Pilot Program should not be terminated under these circumstances.
+
+
+
+IV. Solicitation of Comments
+
+
+
+
+Interested persons are invited to submit written data, views, and arguments concerning the foregoing. Persons making
+written submissions should file six copies thereof with the secretary, Securities and Exchange Commission, 450
+Fifth Street NW., Washington, DC 20549. Copies of the submission, all subsequent amendments,all written statements
+with respect to the proposed rule change that are filed with the Commission, and all written communications relating
+to the proposed rule change between the Commission and any person, other than those that may be withheld from the public
+in accordance with the provisions of 5 U.S.C. 552, will be available for inspection and copying in the Commission's
+Public Reference Room. Copies of such filing will also be available for inspection and copying at the principal office
+of the NASD.
+
+All submissions should refer to File Number SRNASD9425 and should be submitted by June 3, 1994.
+
+
+
+It is therefore ordered, 
+
+pursuant to section 19(b)(2) of the Act, that the proposed rule change be, and hereby is, approved for a period of six
+months, through November 12, 1994.
+
+
+
+
+
+
+For the Commission, by the Division of Market Regulation, pursuant to delegated authority, 17 CFR 200.303(a)(12).
+
+
+
+<SIGNER>
+Margaret H. McFarland,
+
+</SIGNER>
+<SIGNJOB>
+Deputy Secretary.
+
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 9411700 Filed 51294; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 801001M
+</BILLING>
+
+

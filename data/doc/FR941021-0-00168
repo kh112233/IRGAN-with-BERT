@@ -1,0 +1,173 @@
+ 
+
+c. 
+
+Out-of-band interference to RAS from secondary downlinks in the 1.6 GHz band. 
+
+114. In the Notice, we proposed to codify the Committee's recommendations to eliminate potential harmful out-of-band
+interference to RAS from secondary MSS downlinks operating at 1613.81626.5 MHz.
+<FOOTCITE>142</FOOTCITE>
+ The Committee recommended that such operations be restricted to frequencies separated by the upper edge of the RAS
+band by at least 2.2 MHz, that MSS downlink emissions be filtered aboard the spacecraft, that frequencies be selectively
+controlled and that an analysis and testing program be conducted in cooperation with the radio astronomy community.
+Based on its deliberations, the Committee proposed that we adopt rules governing use of the 1613.81626.5 MHz
+band that limit out-of-band emissions so that they do not exceed ^238 dB(W/m2/Hz) during observations at non-VLBA
+sites and ^198 dB(W/m2/Hz) during observations at VLBA sites.
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+142
+
+</FOOTNAME>
+
+
+Notice, supra 
+
+note 2, at para. 51; 
+
+see also
+
+ proposed 25.213(a)(2).
+
+</FOOTNOTE>
+
+
+115. Motorola argues that the limits proposed in the Notice are too rigid and would unduly constrain MSS operations.
+<FOOTCITE>143</FOOTCITE>
+ In support, Motorola contends that those limits were devised originally using assumptions that are not applicable
+to Big LEO operations. For example, Motorola notes that the calculations assumed an immobile, continuous interference
+source, whereas secondary MSS downlink LEO operations would present an intermittent source. Further, Motorola
+notes that although the Committee reached a consensus on a recommendation regarding limits, it did not agree on a proposed
+rule to govern Big LEO MSS operations. Motorola asserts that instead of adopting specific protection limits applicable
+to MSS secondary downlinks, the Commission should only restate the general obligation that secondary services not
+cause harmful interference to primary services. 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+143
+
+</FOOTNAME>
+Motorola Comments at 54. 
+
+</FOOTNOTE>
+
+
+116. LQP and TRW disagree with Motorola. LQP states that our proposal is reasonable and should be adopted.
+<FOOTCITE>144</FOOTCITE>
+ TRW asserts that Motorola's proposal does not adequately consider the needs of the RAS. It states, however, that if
+secondary downlinks are limited to the 1621.351626.5 MHz band, thereby creating a 7.5 MHz guardband between
+RAS and secondary MSS, Motorola's proposals would be acceptable.
+<FOOTCITE>145</FOOTCITE>
+ 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+144
+
+</FOOTNAME>
+LQP Reply at 5960.
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+145
+
+</FOOTNAME>
+TRW Reply Comments at 74. 
+
+</FOOTNOTE>
+
+
+117. We recognize the need to protect RAS observations from secondary MSS downlink operations. At this juncture,
+however, we need not consider specific limits on Big LEO MSS secondary downlinks. Secondary services by definition
+shall not cause harmful interference nor claim protection from primary services.
+<FOOTCITE>146</FOOTCITE>
+ This provision applies to protection of primary services from both in-band and out-of-band emissions and would apply
+to secondary MSS downlinks regardless of specified pfd levels. Thus, we see no reason to codify specific pfd limits
+as proposed in the Notice. We will instead modify proposed 25.213(a)(2) to note that secondary MSS downlinks
+shall not cause harmful interference to primary RAS operations in the 1610.61613.8 MHz band. Further, operators
+of secondary downlinks will be required to take whatever steps necessary to resolve interference complaints by radio
+astronomers. We expect that an applicant proposing to operate MSS downlinks in the 1613.81626.5 MHz band will
+be able to demonstrate in its application that it has sufficient satellite out-of-band emission attenuation to protect
+adjacent band U.S. RAS operations based upon the frequency separation inherent in the frequency assignment scheme
+adopted here. 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+146
+
+</FOOTNAME>
+
+
+See 
+
+note 21, 
+
+supra. 
+
+
+
+
+
+</FOOTNOTE>
+
+118. Finally, Cornell University, Arecibo Observatory, notes its concern that MSS downlink transmissions at 1.6
+GHz could have a ``disastrous effect'' on passive space research in the 16101667 MHz band.
+<FOOTCITE>147</FOOTCITE>
+ LQP, in support of Cornell, notes that the Commission must limit MSS downlink transmissions to the 5.15 MHz proposed
+in the Commission's Notice, that is, to 1621.351626.5 MHz.
+<FOOTCITE>148</FOOTCITE>
+ Motorola responds that ``the 1613.81660 MHz band is not allocated to the RAS on a primary or secondary basis''
+and thus is not entitled to protection from secondary MSS downlinks operating outside that band.
+<FOOTCITE>149</FOOTCITE>
+
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+147
+
+</FOOTNAME>
+Cornell Comments at 35. The 16101667 MHz band is being used passively, without any allocation, by radio
+astronomers to observe red-shifted Hydroxyl (OH) emissions. 
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+148
+
+</FOOTNAME>
+LQP Reply Comments at 59. 
+
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+149
+
+</FOOTNAME>
+Motorola Reply Comments at 49. 
+
+
+
+
+
+
+
+</FOOTNOTE>
+

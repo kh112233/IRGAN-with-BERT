@@ -1,0 +1,2152 @@
+ 
+
+<TABLE>
+
+
+
+
+Table 
+
+6
+
+a._New Diagnosis Codes
+
+
+1Diagnosis 
+
+code
+
+1Description
+
+1CC
+
+1MDC
+
+1DRG
+
+
+
+
+
+
+042 
+
+Human immunodeficiency virus [HIV] disease 
+
+Y
+
+25 
+
+489, 490 
+
+070.22 
+
+Chronic viral hepatitis B with hepatic coma without mention of hepatitis delta 
+
+Y
+
+07
+
+15
+
+205, 206
+
+387, 3891
+
+070.23 
+
+Chronic viral hepatitis B with hepatic coma with hepatitis delta 
+
+Y
+
+07
+
+15
+
+205, 206 
+
+387, 3891 
+
+070.32 
+
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta 
+
+Y
+
+07 
+
+15
+
+205, 206 
+
+387, 3891 
+
+070.33 
+
+Chronic viral hepatitis B without mention of hepatic coma with hepatitis delta 
+
+Y
+
+07
+
+15
+
+205, 206 
+
+387, 3891 
+ 
+
+070.44 
+
+Chronic hepatitis C with hepatic coma
+
+Y
+
+07 
+
+15
+
+205, 206 
+
+387, 3891 
+
+070.54 
+
+Chronic hepatitis C without mention of hepatic coma
+
+Y
+
+07 
+
+15
+
+205, 206 
+
+387, 3891 
+
+312.81 
+
+Conduct disorder, childhood onset type
+
+N
+
+19
+
+431 
+
+312.82 
+
+Conduct disorder, adolescent onset type
+
+N
+
+19
+
+431 
+
+312.89 
+
+Other specified conduct disorder, not elsewhere classified
+
+N
+
+19
+
+431 
+
+333.92 
+
+Neuroleptic malignant syndrome
+
+N
+
+01 
+
+34, 35 
+
+333.93 
+
+Benign shuddering attacks
+
+N
+
+01 
+
+34, 35 
+
+342.00 
+
+Flaccid hemiplegia and hemiparesis affecting unspecified side 
+
+N 
+
+01
+
+12 
+
+342.01 
+
+Flaccid hemiplegia and hemiparesis affecting dominant side 
+
+N
+
+01 
+
+12 
+
+342.02 
+
+Flaccid hemiplegia and hemiparesis affecting nondominant side 
+
+N
+
+01 
+
+12 
+
+342.10 
+
+Spastic hemiplegia and hemiparesis 
+affecting unspecified side 
+
+N
+
+01 
+
+12 
+
+342.11 
+
+Spastic hemiplegia and hemiparesis 
+affecting dominant side 
+
+N
+
+01 
+
+12 
+
+342.12 
+
+Spastic hemiplegia and hemiparesis 
+affecting nondominant side 
+
+N
+
+01 
+
+12 
+
+342.80 
+
+Other specified hemiplegia and 
+hemiparesis affecting unspecified 
+side 
+
+N
+
+01 
+
+12 
+
+342.81 
+
+Other specified hemiplegia and 
+hemiparesis affecting dominant 
+side 
+
+N
+
+01 
+
+12 
+
+342.82 
+
+Other specified hemiplegia and 
+hemiparesis affecting nondominant 
+side 
+
+N
+
+01 
+
+12 
+
+342.90 
+
+Unspecified hemiplegia and hemiparesis 
+affecting unspecified side 
+
+N
+
+01 
+
+12 
+
+342.91 
+
+Unspecified hemiplegia and hemiparesis 
+affecting dominant side 
+
+N
+
+01 
+
+12 
+
+342.92 
+
+Unspecified hemiplegia and hemiparesis 
+affecting nondominant side 
+
+N
+
+01 
+
+12 
+
+344.00 
+
+Quadriplegia, unspecified
+
+Y
+
+01 
+
+9 
+
+344.01 
+
+Quadriplegia, C1C4, complete
+
+Y
+
+01 
+
+9 
+
+344.02 
+
+Quadriplegia, C1C4, incomplete
+
+Y
+
+01 
+
+9 
+
+344.03 
+
+Quadriplegia, C5C7, complete
+
+Y
+
+01 
+
+9 
+
+344.04 
+
+Quadriplegia, C5C7, incomplete
+
+Y
+
+01 
+
+9 
+
+344.09 
+
+Other quadriplegia
+
+Y
+
+01 
+
+9 
+
+344.30 
+
+Monoplegia of lower limb affecting 
+unspecified side 
+
+N
+
+01 
+
+34, 35 
+
+344.31 
+
+Monoplegia of lower limb affecting 
+dominant side 
+
+N
+
+01 
+
+34, 35 
+
+344.32 
+
+Monoplegia of lower limb affecting 
+nondominant side 
+
+N
+
+01 
+
+34, 35 
+
+344.40 
+
+Monoplegia of upper limb affecting 
+unspecified side 
+
+N
+
+01 
+
+34, 35 
+
+344.41 
+
+Monoplegia of upper limb affecting 
+dominant side 
+
+N
+
+01 
+
+34, 35 
+
+344.42 
+
+Monoplegia of upper limb affecting 
+nondominant side 
+
+N
+
+01 
+
+34, 35 
+
+
+
+414.00 
+
+Coronary atherosclerosis of 
+unspecified vessel 
+
+N
+
+05 
+
+132, 133 
+
+414.01 
+
+Coronary atherosclerosis of 
+native coronary vessel 
+
+N
+
+05 
+
+132, 133 
+
+414.02 
+
+Coronary atherosclerosis of 
+autologous vein bypass graft 
+
+N
+
+05 
+
+132, 133 
+
+414.03 
+
+Coronary atherosclerosis of 
+nonautologous biological bypass graft 
+
+N
+
+05 
+
+132, 133 
+
+440.30 
+
+Atherosclerosis of unspecified bypass 
+graft of the extremities 
+
+N
+
+05 
+
+130, 131 
+
+440.31 
+
+Atherosclerosis of autologous vein 
+bypass graft of the extremities 
+
+N
+
+05 
+
+130, 131 
+
+440.32 
+
+Atherosclerosis of nonautologous 
+biological bypass graft of the 
+extremities 
+
+N
+
+05 
+
+130, 131 
+
+441.00 
+
+Dissecting aortic aneurysm of unspecified site 
+
+Y
+
+05 
+
+121, 130, 131 
+
+441.01 
+
+Dissecting thoracic aortic aneurysm
+
+Y
+
+05 
+
+121, 130, 131 
+
+441.02 
+
+Dissecting abdominal aortic aneurysm
+
+Y
+
+05 
+
+121, 130, 131 
+
+441.03 
+
+Dissecting thoracoabdominal aortic aneurysm 
+
+Y
+
+05 
+
+121, 130, 131 
+
+512.1 
+
+Iatrogenic pneumothorax
+
+Y
+
+04 
+
+94, 95 
+
+536.3 
+
+Gastroparesis 
+
+N
+
+06 
+
+182, 183, 184 
+
+556.0 
+
+Ulcerative enterocolitis 
+
+N
+
+06 
+
+179 
+
+556.1 
+
+Ulcerative ileocolitis 
+
+N
+
+06 
+
+179 
+
+556.2 
+
+Ulcerative proctitis 
+
+N
+
+06 
+
+179 
+
+556.3 
+
+Ulcerative proctosigmoiditis 
+
+N
+
+06 
+
+179 
+
+556.4 
+
+Pseudopolyposis of colon 
+
+N
+
+06 
+
+179 
+
+556.5 
+
+Left-sided ulcerative colitis 
+
+N
+
+06 
+
+179 
+
+556.6 
+
+Universal ulcerative colitis 
+
+N
+
+06 
+
+179 
+
+556.8 
+
+Other ulcerative colitis 
+
+N
+
+06 
+
+179 
+
+556.9 
+
+Ulcerative colitis, unspecified 
+
+N
+
+06 
+
+179 
+
+593.70 
+
+Vesicoureteral reflux unspecified 
+or without reflux nephropathy 
+
+N
+
+11 
+
+331, 332, 333 
+
+593.71 
+
+Vesicoureteral reflux with reflux 
+nephropathy, unilateral 
+
+N
+
+11 
+
+331, 332, 333 
+
+593.72 
+
+Vesicoureteral reflux with reflux 
+nephropathy, bilateral 
+
+N
+
+11 
+
+331, 332, 333 
+
+593.73 
+
+Other vesicoureteral reflux with 
+reflux nephropathy 
+
+N
+
+11 
+
+331, 332, 333 
+
+669.43 
+
+Other complications of obstetrical 
+surgery and procedures, antepartum 
+condition or complication 
+
+N
+
+14 
+
+383, 384 
+
+677 
+
+Late effect of complication of 
+pregnancy, childbirth, the puerperium 
+
+N
+
+14 
+
+469 
+
+702.11 
+
+Inflamed seborrheic keratosis 
+
+N
+
+09 
+
+283, 284 
+
+702.19 
+
+Other seborrheic keratosis 
+
+N
+
+09 
+
+283, 284 
+
+709.00 
+
+Dyschromia, unspecified 
+
+N
+
+09 
+
+283, 284 
+
+709.01 
+
+Vitiglio 
+
+N
+
+09 
+
+283, 284 
+
+709.09 
+
+Other dyschromia 
+
+N
+
+09 
+
+283, 284 
+
+759.83 
+
+Fragile X syndrome 
+
+N
+
+15 
+
+390 
+
+760.76 
+
+Diethylstilbestrol (DES) exposure 
+affecting fetus or newborn via 
+placenta or breast milk 
+
+N
+
+15 
+
+390 
+
+781.8 
+
+Neurologic neglect syndrome 
+
+N
+
+01 
+
+34, 35 
+
+787.01 
+
+Nausea with vomiting 
+
+N
+
+06 
+
+182, 183, 184 
+
+787.02 
+
+Nausea alone 
+
+N
+
+06 
+
+182, 183, 184 
+
+787.03 
+
+Vomiting alone 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.00 
+
+Abdominal pain, unspecified site 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.01 
+
+Abdominal pain, right upper quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.02 
+
+Abdominal pain, left upper quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.03 
+
+Abdominal pain, right lower quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.04 
+
+Abdominal pain, left lower quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.05 
+
+Abdominal pain, periumbilic 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.06 
+
+Abdominal pain, epigastric 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.07 
+
+Abdominal pain, generalized 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.09 
+
+Abdominal pain, other specified site 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.30 
+
+Abdominal or pelvic swelling, mass, 
+or lump, unspecified site 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.31 
+
+Abdominal or pelvic swelling, mass, 
+or lump, right upper quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+
+
+
+
+
+
+
+789.32 
+
+Abdominal or pelvic swelling, mass, 
+or lump, left upper quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.33 
+
+Abdominal or pelvic swelling, mass, 
+or lump, right lower quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.34 
+
+Abdominal or pelvic swelling, mass, 
+or lump, left lower quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.35 
+
+Abdominal or pelvic swelling, mass, 
+or lump, periumbilic 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.36 
+
+Abdominal or pelvic swelling, mass, 
+or lump, epigastric 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.37 
+
+Abdominal or pelvic swelling, mass, 
+or lump, generalized 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.39 
+
+Abdominal or pelvic swelling, mass, 
+or lump, other specified site 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.40 
+
+Abdominal rigidity, unspecified 
+site 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.41 
+
+Abdominal rigidity, right upper 
+quadrant 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.42 
+
+Abdominal rigidity, left upper 
+quadrant 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.43 
+
+Abdominal rigidity, right lower 
+quadrant 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.44 
+
+Abdominal rigidity, left lower 
+quadrant 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.45 
+
+Abdominal rigidity, periumbilic 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.46 
+
+Abdominal rigidity, epigastric 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.47 
+
+Abdominal rigidity, generalized 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.49 
+
+Abdominal rigidity, other specified 
+site 
+
+N
+
+06 
+
+188, 189, 190 
+
+789.60 
+
+Abdominal tenderness, unspecified 
+site 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.61 
+
+Abdominal tenderness, right upper 
+quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.62 
+
+Abdominal tenderness, left upper 
+quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.63 
+
+Abdominal tenderness, right lower 
+quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.64 
+
+Abdominal tenderness, left lower 
+quadrant 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.65 
+
+Abdominal tenderness, periumbilic 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.66 
+
+Abdominal tenderness, epigastric 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.67 
+
+Abdominal tenderness, generalized 
+
+N
+
+06 
+
+182, 183, 184 
+
+789.69 
+
+Abdominal tenderness, other 
+specified site 
+
+N
+
+06 
+
+182, 183, 184 
+
+795.71 
+
+Nonspecific serologic evidence of 
+human immunodeficiency virus [HIV] 
+
+N
+
+16 
+
+398, 399 
+
+795.79 
+
+Other and unspecified nonspecific 
+immunological findings 
+
+N
+
+16 
+
+398, 399 
+
+909.5 
+
+Late effect of adverse effect of 
+drug, medicinal or biological 
+substance 
+
+N
+
+21 
+
+454, 455 
+
+996.04 
+
+Complications due to automatic implantable cardiac defibrillator
+
+Y
+
+05 
+
+138, 139 
+
+998.81 
+
+Emphysema (subcutaneous) resulting 
+from procedure 
+
+N
+
+21 
+
+452, 453 
+
+998.82 
+
+Cataract fragments in eye following 
+cataract surgery 
+
+N
+
+02 
+
+46, 47, 48 
+
+998.89 
+
+Other specified complications of procedures not elsewhere classified 
+
+Y
+
+21 
+
+452, 453 
+
+V03.81 
+
+Prophylactic vaccination against 
+Hemophilus influenza, type B [Hib] 
+
+N
+
+23 
+
+467 
+
+V03.82 
+
+Prophylactic vaccination against 
+Streptococcus pneumoniae 
+
+N
+
+23 
+
+467 
+
+V03.89 
+
+Other specified prophylactic 
+vaccination against single bacterial 
+disease 
+
+N
+
+23 
+
+467 
+
+V06.5 
+
+Prophylactic vaccination against 
+Tetanus-diphtheria [Td] 
+
+N
+
+23 
+
+467 
+
+V06.6 
+
+Prophylactic vaccination against 
+Streptococcus pneumoniae and influenza 
+
+N
+
+23 
+
+467 
+
+
+
+
+
+
+
+
+V07.31 
+
+Prophylactic fluoride administration 
+
+N
+
+23 
+
+467 
+
+V07.39 
+
+Other prophylactic chemotherapy 
+
+N
+
+23 
+
+467 
+
+V08 
+
+Asymptomatic human immunodeficiency 
+virus [HIV] infection status 
+
+N
+
+18 
+
+421, 422 
+
+V12.00 
+
+Personal history of other unspecified 
+infectious and parasitic disease 
+
+N
+
+23 
+
+467 
+
+V12.01 
+
+Personal history of tuberculosis 
+
+N
+
+23 
+
+467 
+
+V12.02 
+
+Personal history of poliomyelitis 
+
+N
+
+23 
+
+467 
+
+V12.03 
+
+Personal history of malaria 
+
+N
+
+23 
+
+467 
+
+V12.09 
+
+Personal history of other specified 
+infectious and parasitic disease 
+
+N
+
+23 
+
+467 
+
+V12.70 
+
+Personal history of unspecified 
+digestive disease 
+
+N
+
+23 
+
+467 
+
+V12.71 
+
+Personal history of peptic ulcer 
+disease 
+
+N
+
+23 
+
+467 
+
+V12.72 
+
+Personal history of colonic polyps 
+
+N
+
+23 
+
+467 
+
+V12.79 
+
+Personal history of other specified 
+digestive system diseases 
+
+N
+
+23 
+
+467 
+
+V13.00 
+
+Personal history of unspecified 
+urinary disorder 
+
+N
+
+23 
+
+467 
+
+V13.01 
+
+Personal history of urinary calculi 
+
+N
+
+23 
+
+467 
+
+V13.09 
+
+Personal history of other specified 
+urinary system disorders 
+
+N
+
+23 
+
+467 
+
+V15.82 
+
+History of tobacco use 
+
+N
+
+23 
+
+467 
+
+V29.2 
+
+Observation and evaluation of 
+newborn for suspected respiratory 
+condition 
+
+N
+
+23 
+
+467 
+
+V43.60 
+
+Unspecified joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.61 
+
+Shoulder joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.62 
+
+Elbow joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.63 
+
+Wrist joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.64 
+
+Hip joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.65 
+
+Knee joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.66 
+
+Ankle joint replacement status 
+
+N
+
+08 
+
+256 
+
+V43.69 
+
+Other joint replacement status 
+
+N
+
+08 
+
+256 
+
+V45.00 
+
+Unspecified cardiac device in situ 
+
+N
+
+23 
+
+467 
+
+V45.01 
+
+Cardiac pacemaker in situ 
+
+N
+
+23 
+
+467 
+
+V45.02 
+
+Automatic implantable cardiac 
+defibrillator in situ 
+
+N
+
+23 
+
+467 
+
+V45.09 
+
+Other specified cardiac device in 
+situ 
+
+N
+
+23 
+
+467 
+
+V45.51 
+
+Presence of intrauterine 
+contraceptive device 
+
+N
+
+23 
+
+467 
+
+V45.52 
+
+Presence of subdermal contraceptive 
+implant 
+
+N
+
+23 
+
+467 
+
+V45.59 
+
+Presence of other contraceptive 
+device 
+
+N
+
+23 
+
+467 
+
+V45.82 
+
+Percutaneous transluminal 
+coronary angioplasty status 
+
+N
+
+23 
+
+467 
+
+V49.60 
+
+Unspecified level upper limb 
+amputation status 
+
+N
+
+23 
+
+467 
+
+V49.61 
+
+Thumb amputation status 
+
+N
+
+23 
+
+467 
+
+V49.62 
+
+Other finger(s) amputation status 
+
+N
+
+23 
+
+467 
+
+V49.63 
+
+Hand amputation status 
+
+N
+
+23 
+
+467 
+
+V49.64 
+
+Wrist amputation status 
+
+N
+
+23 
+
+467 
+
+V49.65 
+
+Below elbow amputation status 
+
+N
+
+23 
+
+467 
+
+V49.66 
+
+Above elbow amputation status 
+
+N
+
+23 
+
+467 
+
+V49.67 
+
+Shoulder amputation status 
+
+N
+
+23 
+
+467 
+
+V49.70 
+
+Unspecified level lower limb 
+amputation status 
+
+N
+
+23 
+
+467 
+
+V49.71 
+
+Great toe amputation status 
+
+N
+
+23 
+
+467 
+
+V49.72 
+
+Other toe(s) amputation status 
+
+N
+
+23 
+
+467 
+
+V49.73 
+
+Foot amputation status 
+
+N
+
+23 
+
+467 
+
+V49.74 
+
+Ankle amputation status 
+
+N
+
+23 
+
+467 
+
+V49.75 
+
+Below knee amputation status 
+
+N
+
+23 
+
+467 
+
+V49.76 
+
+Above knee amputation status 
+
+N
+
+23 
+
+467 
+
+V49.77 
+
+Hip amputation status 
+
+N
+
+23 
+
+467 
+
+V50.41 
+
+Prophylactic breast removal 
+
+N
+
+09 
+
+276 
+
+V50.42 
+
+Prophylactic ovary removal 
+
+N
+
+13 
+
+358, 359, 369 
+
+V50.49 
+
+Other prophylactic organ removal 
+
+N
+
+23 
+
+467 
+
+
+
+
+
+V53.31 
+
+Fitting and adjustment of cardiac 
+pacemaker 
+
+N
+
+05 
+
+144, 145 
+
+V53.32 
+
+Fitting and adjustment of automatic 
+implantable cardiac defibrillator 
+
+N
+
+05 
+
+144, 145 
+
+V53.39 
+
+Fitting and adjustment of other 
+cardiac device 
+
+N
+
+05 
+
+144, 145 
+
+V57.21 
+
+Encounter for occupational therapy 
+
+N
+
+23 
+
+462 
+
+V57.22 
+
+Encounter to vocational therapy 
+
+N
+
+23 
+
+462 
+
+V58.41 
+
+Encounter for planned post-operative 
+wound closure 
+
+N
+
+23 
+
+465, 466 
+
+V58.49 
+
+Other specified aftercare following 
+surgery 
+
+N
+
+23 
+
+465, 466 
+
+V58.81 
+
+Encounter for removal of vascular 
+catheter 
+
+N
+
+23 
+
+465, 466 
+
+V58.89 
+
+Other specified aftercare 
+
+N
+
+23 
+
+465, 466 
+
+V65.40 
+
+Other unspecified counseling 
+
+N
+
+23 
+
+467 
+
+V65.41 
+
+Exercise counseling 
+
+N
+
+23 
+
+467 
+
+V65.42 
+
+Counseling on substance use and abuse 
+
+N
+
+23 
+
+467 
+
+V65.43 
+
+Counseling on injury prevention 
+
+N
+
+23 
+
+467 
+
+V65.44 
+
+Human immunodeficiency virus [HIV] 
+counseling 
+
+N
+
+23 
+
+467 
+
+V65.45 
+
+Counseling on other sexually 
+transmitted diseases 
+
+N
+
+23 
+
+467 
+
+V65.49 
+
+Other specified counseling 
+
+N
+
+23 
+
+467 
+
+V69.0 
+
+Lack of physical exercise 
+
+N
+
+23 
+
+467 
+
+V69.1 
+
+Inappropriate diet and eating habits 
+
+N
+
+23 
+
+467 
+
+V69.2 
+
+High-risk sexual behavior 
+
+N
+
+23 
+
+467 
+
+V69.3 
+
+Gambling and betting 
+
+N
+
+23 
+
+467 
+
+V69.8 
+
+Other problems related to lifestyle 
+
+N
+
+23 
+
+467 
+
+V69.9 
+
+Unspecified problem related to 
+lifestyle 
+
+N
+
+23 
+
+467 
+
+
+
+1Diagnosis code is classified as a ``major problem'' in these DRGs. 
+
+
+</TABLE>
+
+
+
+
+

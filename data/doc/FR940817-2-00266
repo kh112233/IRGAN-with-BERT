@@ -1,0 +1,135 @@
+ 
+
+5.2.3. Exposure Assessment 
+
+
+
+This step of the risk assessment process determines the source, route, dose, and 
+duration of human exposure to an agent. The results of the dose-response assessment are 
+combined with an estimate of human exposure to obtain a quantitative estimate of risk. As 
+either the effect of or the exposure to an agent approaches zero, the risk of neurotoxicity 
+approaches zero. It should be recognized that exposures to multiple agents may produce 
+synergistic or additive effects. 
+
+Exposure can occur via many routes, including ingestion, inhalation, or contact with 
+skin. Sources of exposure may include soil, food, air, water, or intended vehicle (e.g., drug 
+formulation). The degree of exposure may be strongly influenced by a number of factors, 
+for example, the occupation of the individual involved. 
+
+The duration of exposure (i.e., acute or chronic) and interval of exposure (i.e., 
+episodic or continuous) are variables of exposure that are common to all types of risk 
+assessments, including carcinogenicity (OSTP, 1985). 
+
+Although not routinely used, biological markers or biomarkers of exposure could 
+theoretically improve the exposure assessment process and, thereby, improve the overall risk 
+assessment of neurotoxicants. Exposure biomarkers may include either the quantitation of 
+exogenous agents or the complex of endogenous substances and exogenous agents within the 
+system (Committee on Biological Markers, 1987). A limited number of examples of 
+biomarkers of exposure have been reviewed by Slikker (1991) and include blood or dentine 
+lead concentrations (Needleman, 1987), cerebrospinal fluid concentrations of dopamine 
+metabolites following MPTP administration (Kopin and Markey, 1988), cerebrospinal fluid 
+concentrations of a serotonin metabolite following MDMA exposure (Ricaurte et al., 1986), 
+and serum esterase concentrations following organophosphate exposure (Levine et al., 
+1986). The use of muscarinic receptor binding in peripheral plasma lymphocytes has also 
+been described as a potential biomarker of exposure for the organophosphates (Costa et al., 
+1990). These examples suggest that biomarkers of exposure are available for some agents, 
+but more effort will be required to demonstrate that these biomarkers can routinely be used 
+to improve the exposure assessment process. 
+
+
+
+5.2.4. Risk Characterization 
+
+
+
+The final step of the risk assessment process combines the hazard identification, the 
+dose-response assessment, and the exposure assessment to produce the characterization of 
+risk. As previously stated, the current practice is to divide the NOAEL by the appropriate 
+safety factor to obtain the RfD. The magnitudes of the safety factors used to determine RfDs 
+[interspecies extrapolation (10), intraspecies extrapolation (10), and acute vs. chronic 
+exposure (10) = 1000] are based more on conservative estimates than on actual data 
+(Sheehan et al., 1989; McMillan, 1987) and have been questioned for empirical reasons 
+(Gaylor and Slikker, 1990). Uncertainty factors may be decreased as more data become 
+available. Modifying factors are also employed under certain circumstances to account for 
+the completeness of data sets. Along with this RfD numerical value, any uncertainties and 
+assumptions inherent in the risk assessment should also be stated (OTA, 1990). Although the 
+RfD provides a single numerical value, it does not provide information concerning the 
+uncertainty of this number nor does the RfD approach attempt to estimate the potential risk 
+as a function of dose or consider the potential risk at the NOAEL. The risk at the NOAEL 
+generally is greater than zero and has been estimated to be as high as about 5 percent 
+(Crump, 1984; Gaylor, 1989). Concern has been expressed that the application of the RfD 
+approach to all neurotoxicants is unlikely to be biologically defensible in light of mechanistic 
+data (NRC, 1992). Several other quantitative risk assessment procedures have recently 
+emerged as alternatives to the RfD approach (Kimmel and Gaylor, 1988). 
+
+Quantitative risk assessment may be defined as a data-based process that uses dose-response information and measurements
+of human exposure to arrive at estimates of risk. 
+Assumptions are required to extrapolate results from high to low doses, to extrapolate from 
+animal results to humans, and to extrapolate across different routes and durations of 
+exposure. 
+
+In a step toward quantitative risk assessment, Crump (1984) suggested the use of a 
+benchmark dose defined as ``a statistical lower confidence limit corresponding to a small 
+increase in effect over the background level.'' The benchmark dose is determined with a 
+mathematical model and is less affected by the particular shape of the dose-response curve. 
+Although the benchmark approach avoids several problems inherent in the RfD approach 
+(e.g., lack of precision in defining the LOAEL; Kimmel, 1990), the same final step of 
+dividing by arbitrary safety factors is obligatory. 
+
+Another approach to quantitative risk assessment is the statistical or curve-fitting 
+approach. If quantal information concerning the proportion of response at a given dose is 
+available but mechanistic information is lacking, statistical models can be used to fit 
+population data (Wyzga, 1990). This approach has been used to fit various models to data of 
+lead toxicity. The data were sufficient to allow discrimination of several models in terms of 
+goodness of fit; the nerve-conduction velocity data from children exposed to environmental 
+lead as a function of blood lead concentration fit a ``hockey-stick'' type dose-response curve 
+rather than a logistic or quadratic model (Schwartz et al., 1988). These statistical approaches 
+not only provide a method to extrapolate data to lower exposure conditions but also can 
+provide circumstantial evidence to support a proposed mechanism of action. 
+
+The development of quantitative risk assessment approaches depends, in part, on the 
+availability of information on the mechanism of action and pharmacokinetics of the agent in 
+question. In the development of a biologically based, dose-response model for MDMA 
+neurotoxicity, Slikker and Gaylor (1990) considered several factors, including the 
+pharmacokinetics of the parent chemical, the target tissue concentrations of the parent 
+chemical or its bioactivated proximate toxicant, the uptake kinetics of the parent chemical or 
+metabolite into the target cell and membrane interactions, and the interaction of the chemical 
+or metabolite with presumed receptor site(s). Because these theoretical factors contain a 
+saturable step due to limited amounts of required enzyme, reuptake, or receptor site(s), a 
+nonlinear, saturable dose-response curve was predicted. In this case of neurochemical effects 
+of MDMA in the rodent, saturation mechanisms were hypothesized and indeed saturation 
+curves provided relatively good fits to the experimental results. The conclusion was that use 
+of dose-response models based on plausible biological mechanisms provide more validity to 
+prediction than purely empirical models. Concomitant with attempts to develop quantitative 
+risk assessment procedures, it is imperative that regulatory policy or risk management 
+procedures also be developed to use appropriately the type of data generated by quantitative 
+risk assessment. However, until alternative risk assessment procedures have been validated, 
+the available RfD approach with its limitations will most likely continue to be used. 
+
+
+
+5.3. Generic Assumptions and Uncertainty Reduction 
+
+
+
+The purpose of risk assessment is to determine the risk associated with human 
+exposure to a hazard. The quality of the data from toxicological studies differs. In the case 
+of therapeutic products where human effects information is available, risk assessments rely 
+primarily on the result of controlled clinical trials. Even when clinical trial data are 
+available, however, conducting a risk assessment is complicated by many uncertainties. In 
+the face of these uncertainties, conservative assumptions are usually made at several steps in 
+the risk assessment process. For example, unless adequate clinical data are available, the 
+most sensitive experimental species is frequently used. While conservative assumptions may 
+lead to a risk assessment that adequately protects the human population, this may result in an 
+increased financial burden on the public (e.g., manufacturing costs or loss of jobs); even then 
+it is impossible to be certain that the total population will be protected. Conversely, errors 
+leading to allowable exposure levels that are too high reduce the safety margin for human 
+health and increase health care costs. Thus, there are compelling public health and economic 
+reasons to obtain more precise risk assessments; all assumptions cannot be completely 
+eliminated, but the degree of uncertainty associated with certain specific assumptions can at 
+least be reduced (Sheehan et al., 1989). 
+
+
+
+
+

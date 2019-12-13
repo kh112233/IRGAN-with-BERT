@@ -1,0 +1,190 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by Colonel Yu. Rusakov and Colonel V. Gorev under </F>
+the rubric "Space Science--For the National Economy": "The Space 
+Geodesist"] 
+  [Text] Geodesy is the science of the Earth, studying its 
+shape, structure and evolution, and one part of it--space 
+geodesy--performs those same tasks with the aid of spacecraft. 
+  A state geodesic network--an aggregate of geodesic points 
+located in a certain order on the country's territory--has been 
+created and is being developed for practical utilization, and is 
+subdivided into classes depending on the distance between the 
+points and the precision of their determination. The use of 
+spacecraft makes it possible to clarify the coordinates of 
+points on the state geodesic network of the first class and 
+develop it in inaccessible regions, as well as to perform 
+geometric and dynamic tasks of geodesy. 
+  The geometric tasks are reduced to determining the position 
+of points on the Earth's surface and establishing the geodesic 
+ties between continents and islands to adjust them to the 
+uniform global system of coordinates, reference individual 
+points and objects to triangulation networks and provide support 
+for cartography. The shape and dimensions of the Earth are 
+clarified, and potential gravitational anomalies of the field 
+and the laws of changes in them are determined. 
+  This is accomplished via precise measurements and strict 
+mathematical calculations, the processing and analysis of which 
+make it possible to determine the nature of the movements of 
+individual portions of the Earth's crust, help to ascertain 
+typical indications of the precursors to earthquakes and, in the 
+future, to predict them. 
+  All are familiar with the scope of the misfortune that 
+natural disasters, and earthquakes in particular, bring to 
+mankind. There are an average of 20 powerful tremors around the 
+globe every year, one of them catastrophic. There are more than 
+100,000 a year in all. They lead to significant and rapid 
+changes in the Earth's crust. The shifts in height ranged from 
+1.71 to 3.47 meters in Japan in an earthquake in 1923, while in 
+India there were shifts on the order of 1.4 meters in 1934. 
+  The slow movement of the Earth's crust also brings many 
+unpleasantries. The inhabitants of coastal regions of Holland 
+have been battling the encroaching seas for centuries now, 
+building and augmenting dikes in their path. Some harbors and 
+straits in Scandinavia, on the other hand, have become so 
+shallow that they can no longer receive oceangoing vessels as a 
+result of the uplifting of the land. The capital of Mexico, 
+Mexico City, dropped an average of 5.6 meters from 1880 to 1956, 
+and Tokyo 3.5 meters in this century alone, with a tenth of that 
+city ending up in the Pacific Ocean. The same fate threatens 
+Venice. The settlement of the soil in cities occurs from the 
+vibration of thousands of machine tools, urban transport engines 
+and engineering explosions. It has been established that the 
+buildings are settling two or three times faster on major 
+streets in Moscow than on side streets. The settlement is still 
+measured just in millimeters over several decades, but it must 
+be taken into account in the same way as the movements of the 
+Earth's crust in the areas of oil and gas pipelines, mineral 
+fields and reservoirs. 
+  Anomalies in the force of gravity that arise as a 
+consequence 
+of the uneven distribution of the Earth's density reflect its 
+internal structure, especially of the Earth's crust. Space 
+geodesy is thus widely used when researching the structure of 
+the Earth, prospecting for minerals and studying seasonal 
+changes in meteorological factors such as the yearly and daily 
+fluctuations in atmospheric pressure, the level of ground water, 
+soil moisture content etc. The gravitational field affects the 
+trajectory of the flight of shells, missiles and satellites; 
+that is why the role of gravimetric determinations is 
+exceptionally important. 
+  The methods of space geodesy are founded on observations 
+from 
+Earth satellites, used as mobile aperture sights with 
+coordinates that are known at the moment of observation (flares 
+or missiles dropped by parachute from a high-flying aircraft or 
+balloon were used in the 1920s). The essence of one of the 
+methods (synchronized) is as follows. We have two initial points 
+A and B and two points to be determined C and D (see figure). In 
+order to calculate the coordinates of the latter, it is 
+sufficient to measure simultaneously, and in a uniform system, 
+the coordinates of the vertical and horizontal angles to the 
+satellite at no fewer than two positions. The solid angles 
+&agr;&lt;inf&gt; 1&lt;/inf&gt; , &agr;&lt;inf&gt; 2&lt;/inf&gt; , &bgr;&lt;inf&gt; 1&lt;/inf&gt; , 
+&bgr;&lt;inf&gt; 2&lt;/inf&gt; , &ggr;&lt;inf&gt; 1&lt;/inf&gt; , &ggr;&lt;inf&gt; 2&lt;/inf&gt; , 
+&dgr;&lt;inf&gt; 1&lt;/inf&gt;  and &dgr;&lt;inf&gt; 2&lt;/inf&gt;  are computed according to 
+them. The points S&lt;inf&gt; i&lt;/inf&gt;  and S&lt;inf&gt; 2&lt;/inf&gt;  are then 
+obtained by solving the triangles ABS&lt;inf&gt; 1&lt;/inf&gt;  and 
+ABS&lt;inf&gt; 2&lt;/inf&gt; , and the coordinates of the unknown points C 
+and D from the shape S&lt;inf&gt; 1&lt;/inf&gt;  S&lt;inf&gt; 2&lt;/inf&gt;  CD. It is 
+necessary to have a minimum of three initial points and two 
+observations of the target position from above for a more 
+reliable determination of the coordinates of an aperture sight. 
+The data are processed using the least-squares method. 
+
+<FIG ID=JPRS-UAC-001C-17A>           Figure </FIG>
+
+&lt;/graphic&gt; 
+
+  Optical (angular and rangefinder) as well as radio 
+(rangefinder, Doppler) systems measuring the position of the 
+craft in relation to ground points are used to reference points 
+relative to which the spacecraft is located in the field of view 
+over a certain period of time (or simultaneously). The high 
+precision of the measurements is ensured by fixing the time of 
+measurement as set by the on-board standard. 
+  Work on the creation of a uniform system of coordinates for 
+the whole Earth's surface and the establishment of geodesic 
+links between continents and islands was begun in our country in 
+1973 using Kosmos series spacecraft. The GEO-IK geodesic system 
+is currently in operation, and makes it possible to perform the 
+basic and applied tasks of creating a basic 
+astronomical-geodesic network and regional geodesic networks for 
+Antarctica, Europe and Asia, including the geodesic referencing 
+of islands, supporting operations on the Pacific shelf, 
+determining the characteristics of the Earth's gravitational 
+field and the maritime geoid and the parameters of the rotation 
+and shape of the Earth, as well as the foundations for 
+topographic pictures of major objects under construction. 
+  The system includes a space segment, including one or two 
+satellites, a ground command-and-control system for the craft 
+and a land-based geodesic system with a center for the 
+processing of special information and an observation point (up 
+to 80 points on the entire Earth's surface). 
+  The spacecraft are placed in circular orbits 1,500 
+kilometers 
+high, with an inclination of 74&deg; or 83&deg;, by a Tsiklon 
+launch vehicle from the Plesetsk cosmodrome. The distance 
+between the reference points is up to 6,000 km. The support zone 
+is the entire surface of the Earth, including the polar regions. 
+The craft is equipped with a gravitational orientation and 
+stabilization system, a system for light signaling, angular 
+reflectors with an effective area of 0.024 m&lt;sup&gt; 2&lt;/sup&gt;  and a 
+radio system, including a radio altimeter (accuracy of 
+measurement of altitude to sea level of 3--5 meters), a Doppler 
+system and a transmitter for the rangefinder polling system. 
+  The ground stations include radio Doppler gear supporting 
+measurement of the radial component of the spacecraft velocity 
+in non-polling mode relative to the ground observation point 
+(mean square error of 1--3 cm/sec), an astronomical installation 
+to determine the direction to the spacecraft (mean square error 
+of 1.5"), radio rangefinding polling gear for measuring the 
+distance from the ground observation point to the craft (mean 
+square error of 3--5 meters) and a laser rangefinder for these 
+same purposes (mean square error of 1.5 meters). 
+  The information received from the ground observation 
+stations 
+on the communications channels comes to the center for 
+processing special information, where a database is created from 
+which all of the information is issued by the computer upon 
+customer request. The number of users is unlimited. This 
+information, along with traditional means, makes it possible to 
+perform the tasks of geodesy. The space geodesic systems support 
+the creation of regional geodesic networks, the foundations for 
+mapping, the fulfillment of requests for coordinate references 
+of points in a required system of coordinates etc. with higher 
+quality, and some tasks only it can perform (supporting 
+operations on the Pacific shelf, studying its topography, 
+geodesic referencing of islands). Gravimetric surveying using 
+spacecraft considerably accelerates the study of the Earth's 
+gravitational field. 
+
+<FIG ID=JPRS-UAC-001C-19A>           The GEO-IK spacecraft system </FIG>
+
+
+
+
+
+    Analogous work on the creation of a state geodesic network 
+is 
+underway in the United States, where the WGS-84 system of 
+geodesic parameters, allowing support for a precision of the 
+determination of geodesic points of 1--2 meters, is the 
+foundation. The Geos-3 and Geosat spacecraft, among others, have 
+been used for these purposes. The coordinates of ground points 
+and the relief of the ocean surfaces have been determined, the 
+shape of the geoid has been clarified and a gravitational model 
+of the Earth has been created using them. The Lageos-2 craft is 
+currently in orbit. The launch of the Gravsat-A and Gravsat-B, 
+which should provide for the measurement of parameters of the 
+field with a precision of 0.1 meters for the height of the geoid 
+and the determination of the acceleration of the field of 
+gravity with a precision of 1 mgal (0.001 cm/sec&lt;sup&gt; 2&lt;/sup&gt; ), 
+is planned to study the fine structure of the Earth's 
+gravitational field. 
+  Navigational spacecraft are also used to develop the 
+geodesic 
+network and perform individual geodesic tasks. 
+  COPYRIGHT: "Aviatsiya i kosmonavtika", 1993. 
+

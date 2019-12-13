@@ -1,0 +1,64 @@
+FT  11 NOV 94 / Technology: Nothing left to luck - Operators of the UK's
+first national lottery believe they have ruled out system mishaps
+When the UK's national lottery is launched next week, the winning numbers
+will be picked by a mechanical structure resembling a Perspex cement mixer.
+It is virtually the only low-tech aspect of the lottery, which will use a
+sophisticated infrastructure of terminals, network and processors to deal
+with up to 15m transactions an hour.
+Although the equipment has mostly been tried elsewhere, its quantity and the
+short time available for its installation have won the lottery a place in
+the record books. Over the past 25 weeks, members of the Camelot consortium,
+which runs the lottery, have worked flat out to manufacture and install
+10,000 lottery terminals, set up the communications network and train nearly
+35,000 retail staff.
+The most visible part of the system is the retailers' terminals, which scan
+customers' gamecards and print out the tickets that must be presented to
+claim any winnings.
+The terminals, 27,000 of which should be installed by the end of 1996, have
+been designed by GTech, the US lottery operator and member of the Camelot
+consortium. It used a 10-year-old design, which has been upgraded by the
+addition of a liquid crystal display panel and a device to read bar codes on
+the tickets. GTech says the technology is tried and tested. 'The design was
+already done, the technology was in place. The challenge was just the scale
+of the system,' says Don Stanford, senior vice-president for technology.
+Bob King of ICL, which built and installed the terminals, agrees. 'The
+complexity simply comes from the very short timescale involved. The actual
+making of the terminal and installation of the terminal is straightforward,'
+he says.
+Racal, responsible for linking the terminals with the lottery processing
+centres at Rickmansworth, outside London, and Aintree, in the north-west of
+England, has also used relatively old technology. 'The timescale was
+extremely aggressive. You could not afford any new design or risky
+technology in case there was a hiccup,' says Steve Hodson, executive
+technical manager.
+The data will be transmitted using the X25 communications standard on what
+will be the UK's largest private terminal/host network. This is an upgraded
+version of a six-year-old network which connects government offices around
+the country.
+Racal, which has added 25 per cent of extra capacity to the network,
+believes the two uses of the network will complement each other. For
+instance, the peak lottery traffic on Saturday afternoons will coincide with
+a low point in government activity.
+Not all retailers will be connected to the central processors by landlines.
+In less populated areas, some 5,500 retailers will use satellite dishes,
+served initially by Eutelsat and eventually by Orion.
+Accuracy, security and robustness have all been important considerations in
+building the network. Racal is confident that no one can be cheated of their
+lottery winnings through an error in the transmission of the data. 'The
+chance of getting an error is infinitesimally small,' says Hodson.
+Likewise, Camelot says it is satisfied that its software incorporates
+adequate security devices to prevent hackers from breaking into the system.
+The designers of the system have also tried to ensure that it can cope with
+the failure of processors or cables. If one processor fails, the
+Rickmansworth and Aintree sites between them have three other processors
+that could act as back-ups.
+It also has tried to ensure that a failed line will not disrupt the lottery.
+At Rickmansworth, Mercury and BT have five different cables running into the
+building through separate ducts. As the system fans out to the retailers,
+only the last mile of cabling lacks the back-up of a second line. 'It is a
+balance of cost against reliability,' says Hodson.
+It may take years before the system shows itself able to cope with all
+contingencies. But next week will provide the system's first and most
+challenging test. Camelot claims to be confident, as a result of its past
+experience with the technology. Unlike its customers, it trusts that nothing
+has been left to luck.

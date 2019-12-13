@@ -1,0 +1,100 @@
+FT  28 JUN 94 / Survey of Computer Networking (5): Viruses are no joke -
+Worries over network saboteurs - Networking allows an easier spread of
+information across an organisation - unfortunately, the same principle
+applies to computer viruses
+Computer hackers have a powerful disguise. Forget the image of the amateur
+hacker who has the habit of gazing into a screen, probing password
+combinations, long after sane people have gone to bed.
+Technical ability is nothing beside the rather comic image of the socially
+inadequate teenager whose world revolves around intruding into computer
+networks. And once the hacker is perceived as an ineffectual individual, it
+follows that his activities are harmless and do not merit serious
+punishment.
+This failure to spot a real threat has allowed hackers, and the authors of
+computer viruses, a remarkable freedom of movement. A recent DTI sponsored
+survey on IT security found that viruses were responsible for 27 per cent of
+security breaches in PC networks. The figure for standalone PCs, isolated
+from any network, is much higher. But the potential for damage once a virus
+is loose in a network is enormous.
+One of the most expensive virus outbreaks infected three large networks and
+over 200 personal computers. Immediate costs to the company concerned ran to
+Pounds 100,000. This is not petty vandalism. But like their creators,
+computer viruses still retain the air of a practical joke.
+The world's largest computer company IBM uses a huge number of internal
+networks. Mike Collins, UK manager for IBM local area network (Lan)
+software, reports that the virus threat is taken very seriously - 'a virus
+on a Lan can wreak havoc. It can lie dormant until triggered on a certain
+date when it corrupts every file. It's possible to lose a whole database or
+the contents of every hard disk.'
+Mr Collins concedes that some lightweight hackers are just out to poke fun -
+'these anorak-types are usually quite visible, but people who infiltrate a
+destructive virus are perpetrating wanton vandalism when translated on to a
+computer screen.'
+The tacky glory of Las Vegas will witness just how far the network saboteurs
+can go when the gambling resort hosts a three-day conference from July 22.
+The title is 'Def Con II,' a sarcastic jibe at military systems and their
+escalating scale of what are termed 'defence conditions' or 'def cons' for
+short - which are states of alert. 'Def Con II' invites hackers and virus
+writers from across the globe to swop ideas and lines of code. Among its
+'highlights' will be an award to the winner of the Second International
+Virus Writing Contest. The conference is legal under US law.
+Faced with worries over serious hackers and virus writers, how can a company
+secure its networks against a determined, and apparently organised, enemy?
+Dr Nigel Bennee spent 11 years with Nato headquarters in The Hague. A
+nuclear physicist by training, he was responsible for secure systems in a
+highly sensitive environment. These days he has left the world of military
+counter-measures to take up a post as director at the networking
+specialists, Intelligent Networks.
+Characterising his area of expertise as 'wizardry,' Bennee explains that he
+'understands things from inside out' - this often means spurning the
+technology-intensive approach for 'common sense tactics . . . viruses are
+totally defeatable, purely by procedures. One of the best devices at your
+disposal is terms-and-conditions of employment.'
+Viruses are frequently transmitted via computer games, he explains. Hence a
+growing number of companies regard game-playing as a sackable offence. It
+sounds a draconian solution. But a sales person returning from the field
+with a portable personal computer has to download sales data. If his or her
+machine contains an unauthorised program, it can infect an entire company
+with a destructive virus in a matter of seconds. Best practice means keeping
+a strict eye on which programs are running and where they appear. The whole
+point of networking is that it allows information to spread across an
+organisation - unfortunately, the same principle applies to viruses.
+'I've seen Flight Simulator running on a Pounds l0,000 graphics
+workstation,' Bennee recalls. 'If that copy had been purchased by the
+company for staff to play with, fine. If an employee brought it from home it
+constitutes a danger.'
+In an ideal world, companies would recognise the overpowering temptation to
+indulge in high-tech games: a standalone PC, isolated from the network and
+dedicated to personal software is one answer. But staff need to be fully
+aware that carrying a disk across from this box to their professional system
+is risky. The threat of severe disciplinary action is certainly one way to
+reinforce this message.
+Reflex Magnetics expanded into the business of virus protection after a
+virus attack threatened its original line of duplicating computer data.
+Reflex sells Disknet, a program that resides on a network and interrogates
+floppy disks to ensure they have already been scanned for virus infection.
+In the absence of a positive response, Disknet prevents the suspect disk
+from accessing the computer's hard disk, and hence passing a virus on.
+Disknet costs Pounds 5,000 to implement across a 100-user network. Reflex
+sales director Andy Campbell has become increasingly concerned about the
+virus threat to networks. Files are 'compressed' in order to be flashed over
+a network - 'these present a problem, it's harder to identify a virus,' he
+says.
+Disknet spots those files on a disk that have been compressed, expands them
+to their original format, and hands over to an additional tool whose name
+should impress 'codeword crazy' virus authors: the tool is Thunderbyte,
+developed by the Dutch systems house, Esass. It scans for the presence of a
+virus.
+Thunderbyte apart, Reflex technical director Dr David Aubrey-Jones knows it
+takes more than a macho name-tag on a scanner to halt the flow of viruses
+christened with names like 'Pathogen' or 'Ripper.'
+UK authorities are applying a firm policy to help avert the virus threat.
+Scotland Yard's computer crime unit has hit back, too, closing down
+electronic bulletin boards that have been used to pass on details of
+destructive viruses.
+But the culture represented by the 'Def Con II3 event is still active. Dr
+Aubrey-Jones reports that a particular CD-rom disk, containing masses of
+computer data, is headed for Europe from the US.
+On sale for Dollars 100, the disk contains a large catalogue of viruses for
+the corporate saboteur to savour.
+Thunderbyte should be busy.

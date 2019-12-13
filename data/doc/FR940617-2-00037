@@ -1,0 +1,94 @@
+ 
+
+Application Programmer's Interface (API) Standards
+
+
+
+Standards at the API promote program and programmer portability. A standard at this level specifies a set of operations
+on a variety of graphics objects. An API standard provides for the portability of applications across a wide range
+of computer hardware, operating systems, programming languages, and graphics devices. A program written to an API
+standard at one facility in one environment should be easily transferable to another facility in a different environment.
+Facility dependencies should be the major area requiring modification.
+
+
+The specific functions supported by a particular API standard provide certain capabilities. The application programmer,
+by identifying the capabilities needed, determines the API better suited for the application. As shown in Figure
+2, there are currently two graphics API standards, GKS and PHIGS.
+
+
+GKS provides a functional description of a two-dimensional (2D) graphics interface. It provides the basic graphics
+support required by a wide variety of applications requiring the production of computer-generated pictures. A procedural
+language binding of a functional standard specifies the exact name for each operation, its parameter sequence, and
+the data types for the parameters. FORTRAN, Pascal, Ada and C language bindings are parts of GKS.
+
+
+GKS is suitable for use in graphics programming applications that employ a broad spectrum of graphics, from simple
+passive graphics output (where pictures are produced solely by output functions without interaction with an operator)
+to interactive applications; and which control a whole range of graphics devices, including but not limited to vector
+and raster devices, microfilm recorders, storage tube displays, refresh displays, and color displays.
+'
+
+PHIGS provides for the definition, display, modification, and manipulation of 2D and 3D graphical data. It provides
+functionality to support storage of graphics and application data in a hierarchical form. Information may be inserted,
+changed, and deleted from the hierarchical data storage with the functions provided by PHIGS. Language binding specifications
+for PHIGS include FORTRAN, C and Ada.
+
+
+PHIGS is specifically designed to meet the performance requirements of such demanding applications as Computer
+Aided Design/Computer Aided Engineering/Computer Aided Manufacturing, command and control, molecular modeling,
+simulation and process control.
+
+
+Capabilities in PHIGS but not in GKS include: the centralized hierarchical data storage: the dynamic and responsive
+nature of interactions; the addition of a modeling capability; and support for color models other than Red-Green-Blue
+(RGB).
+
+
+
+Interoperability Standards
+
+
+
+
+Graphics Interoperability standards allow graphical data to be interchanged between graphics devices. As shown
+in Figure 2, there are three graphics interoperability standards, CGM, (future) CGI, and IGES.
+
+CGM is used for the storage and transfer of picture description information. It enables pictures to be recorded for
+long term storage, and to be exchanged between graphics devices, system, and installations. As indicated in Figure
+2, the storage mechanism for CGM is in the form of a neutral file formal called a metafile. The software which creates
+the metafile is known as a CGM Generator. The software which reads and displays a CGM metafile is known as an Interpreter.
+
+
+CGM specifies a semantic interface that describes 2D graphical entities using primitives (like polyline, text,
+and ellipse) and attributes (like color, line width, interior style, and fonts). CGM is compatible with the specification
+of 2D elements in GKS. A data encoding specifies the exact sequence of bits used to represent each operation and its
+parameters. CGM contains three types of data stream encodings (binary, character, and clear text) to provide the
+implementor choices depending on the particular application.
+
+
+IGES provides a method for representing and storing geometric, topological, and nongeometric product definition
+data that is independent of any one system. Where CGM transfers graphical pictures, IGES transfers a graphical database
+which can be processed to represent a picture. Thus IGES represents more than just purely graphical data. As Figure
+2 indicates, the storage mechanism for IGES is in the form of a neutral file format that must be translated by a Preprocessor
+and Postprocessor for conversion between systems. IGES permits the compatible exchange of product definition data
+used by various computer aided design/computer aided manufacturing (CAD/CAM) systems.
+
+The future CGI standard is designed to specify the exchange of information at the Virtual Device Interface. It will
+provide an interface between the device independent and device dependent parts of a graphics system. Since CGI contains
+information at a virtual level, it can be used to create a CGM. A CGM can also be output on a CGI device in a straightforward
+manner.
+
+
+
+<FRFILING>
+[FR Doc. 9414779 Filed 61694; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 3510CNM
+</BILLING>
+
+
+
+
+

@@ -1,0 +1,85 @@
+ 
+
+The same commenter also suggests that the words ``significantly impact the safety,'' in proposed 25.1315(c)(2),
+be changed to ``reduce the capability'' for consistency with 25.1309(b)(2).
+The FAA concurs with this recommendation, and 25.1315(c)(2), now designated as 25.1315(b), has been
+revised accordingly.
+Several commenters request clarification as to exactly what is meant by the statement that critical functions are
+``not affected'' by the lightning encounter.
+The FAA concurs that clarification of ``not affected'' is needed; therefore, the final rule has been revised to read,
+``not adversely affected'' in an attempt to convey this intent. Although the words ``not affected'' were used in the
+proposed rule, the FAA did not intend that the requirement be rigidly applied. The intent of the regulation is to require
+lightning protection for systems that perform critical functions to the extent that the critical functions are not
+
+
+adversely
+
+ affected by the lightning event. Determination of when functions are adversely affected would be made by the cognizant
+FAA Aircraft Certification Office based on rational engineering judgment on a case-by-case evaluation of the specified
+function and the ``effect'' presented. Literally applying a standard of ``no effect'' would not be reasonable. In
+determining compliance with special conditions in past certification programs, the FAA has accepted upsets of a
+minor nature that do not result in significant fluctuations of control surface position or engine thrust. Any effect
+perceived by the flightcrew would need to be evaluated to ensure that it would not lead to a hazardous condition. For
+example, some full authority digital engine control (FADEC) systems are designed with two fully redundant channels,
+either of which can control the engine independently. In addition, the logic within the FADEC will monitor each channel
+and, by design, switch channels if an anomaly appears on the selected channel. This does not necessarily mean that
+the channel is no longer functional or has degraded, because if the backup channel were not functional, the selected
+channel would continue in control. Therefore, it would not be considered an adverse effect if a channel transfer in
+such a system occurred in accordance with its accepted design when the airplane is exposed to the lightning test waveforms.
+However, additional tests may be required to demonstrate that neither channel would be adversely affected when tested
+individually. For example, a mode change within a given channel that could result in the loss of a primary thrust setting
+parameter, resulting in the possibility of a change in thrust level, would not be acceptable. Internal monitors that
+indicate normal operation of critical systems must not be damaged by the effects of lightning.
+Other examples of adversely affected critical functions are hazardously misleading primary flight information,
+uncommanded flap motion and, of course, loss of primary flight controls in a fly-by-wire airplane.
+Determination of adverse effects will be handled on a case-by-case basis subject to the explanation given above.
+Perturbations or deviations that exceed tolerances agreed upon in the test plan must be reported to the FAA for evaluation.
+The same commenters also suggest that adequate lightning protection is provided if the airplane is still capable
+of continued safe flight and landing after the lightning encounter.
+The FAA does not agree that the concept of continued safe flight and landing is sufficient. The FAA has concluded that
+a higher level of safety is required for systems that perform critical functions when exposed to adverse environmental
+conditions. This concept would be violated, for example, if engine failure from an expected environmental condition,
+such as a lightning strike, were allowed because any environmental condition that may adversely affect an engine
+design must be assumed to affect all the engines on the airplane. For this reason, engines, as installed, must be able
+to tolerate these conditions without damage or serious loss of thrust. This same line of reasoning applies to other
+systems that perform critical functions. Lightning strikes to airplanes are unpredictable as to their strength,
+duration, and number. Therefore, continued safe flight and landing of the airplane after multiple lightning strikes
+could not be assured unless systems that perform critical functions have a high degree of tolerance to the expected
+lightning strike environment. This basic environmental requirement also applies to other environmental conditions,
+such as icing, hail, heavy rain, bird flocks, etc.
+One commenter proposes new wording for 25.1315(a) that would allow crew action to restore critical systems
+that have been disrupted by lightning induced transients.
+The FAA does not concur. Critical function disruption must be automatically restored after the lightning encounter.
+Under certain flight conditions, such as during takeoff or landing in instrument meteorological conditions when
+the crew workload is high, the crew may not be able to restore the critical function in time to prevent a catastrophic
+even from occurring. The FAA allows crew action to restore systems that perform essential functions; however, systems
+that perform critical functions must recover automatically.
+The majority of commenters do not agree that the test waveforms should be contained in an appendix to part 25, as proposed
+in the notice. They contend that this information should be presented in an advisory circular. Several commenters
+believe that there will be additional adjustments to the description of the lightning environment as knowledge of
+the phenomena increases, and that an advisory circular would be easier to revise than an appendix to the FAR. In addition,
+they argue that the FAA should not be legally bound by the criteria in an appendix if a change to the description of the
+environment is appropriate.
+The FAA concurs that the proposed appendix should not be adopted. As noted by several commenters, the information
+contained in the proposed appendix was taken from SAE Report AE4L873, Revision A, entitled ``Protection
+of Aircraft Electrical/Electronic Systems Against the Indirect Effects of Lightning,'' dated October 1988. After
+the notice was published, the AE4L Committee added clarifications of the environment definition, including some
+boundaries on pulse spacing in the multiple burst and multiple stroke environments. These have been incorporated
+in Revision B of the SAE document issued in January 1989. Because of the potential for further adjustments in the environment
+definition, and because use of the description of the environment set forth in the proposed Appendix J is only one means
+of showing compliance with this rule, the FAA concurs that it would be more appropriate to present this information
+in an advisory circular. This is also consistent with the FAA's practice of publishing technical guidance/procedures
+for implementing a particular regulation in an advisory circular. As noted earlier, the idealized waveforms are
+currently covered in AC 20136. Accordingly, proposed Appendix J to part 25 has been removed from the final rule.
+However, to provide guidelines as to what is involved in showing compliance with the rule, general criteria are added
+to 25.1315 as paragraph (c). A detailed discussion of these criteria is provided in AC 20136.
+Two commenters consider the definition of the environment given in the proposed Appendix to be unrealistic and propose
+several changes to the idealized test waveforms. 
+The FAA does not concur that this definition is unrealistic. The FAA has worked closely with SAE Committee AE4L in developing
+the idealized test waveforms that are presented in Revision B of Report AE4L873. The FAA has adopted
+these waveforms as acceptable representations of a severe natural lightning environment for certification purposes
+and has included them in AC 20136. The proposed changes submitted by the commenters have been forwarded to the
+AE4L Committee for consideration. The FAA will consider appropriate changes to the definition of the waveforms in
+the AC if the Committee recommends them.
+
+

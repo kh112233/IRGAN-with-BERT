@@ -1,0 +1,128 @@
+ 
+
+(2) Prior to the accumulation of 1,500 flight hours since manufacture, or within 30 days after November 24, 1992 (the
+effective date of AD 922403), whichever occurs later, perform a check of the grounding wire for the thrust
+reverser directional control valve (DCV) in accordance with Section III, paragraph B., of Boeing Service Bulletin
+767780046, Revision 1, dated September 17, 1992. Thereafter, repeat this check at the times specified
+in paragraph (c)(2)(i) and (c)(2)(ii) of this AD. 
+
+(i) At intervals not to exceed 1,500 flight hours; and 
+
+(ii) Whenever maintenance action is taken that could disturb the DCV grounding circuit. 
+
+(d) If any of the inspections, tests, adjustments, and/or functional checks required by paragraph (c) of this AD cannot
+be performed successfully as specified in the service bulletin, prior to further flight, deactivate the associated
+thrust reverser in accordance with Section 78311 of Boeing Document D630T002, ``Boeing 767 Dispatch
+Deviation Guide,'' Revision 9, dated May 1, 1991. The thrust reverser shall remain deactivated until all inspections,
+tests, adjustments, and functional tests required by paragraph (c) of this AD are completed successfully. 
+
+(e) Within 3 years after the effective date of this AD, install an additional thrust reverser system locking feature
+(sync-lock) in accordance with Boeing Service Bulletin 767780062, Revision 2, dated June 3, 1993,
+or Revision 3, dated February 24, 1994. Installation of this additional locking feature constitutes terminating
+action for the requirements of paragraph (c) of this AD. 
+
+(f) Within 4,000 hours time-in-service after accomplishing the modification required by paragraph (e) of this AD,
+or within 4,000 hours time-in-service after the effective date of this AD, whichever occurs later; and thereafter
+at intervals not to exceed 4,000 hours time-in-service: Perform the integrity test of the thrust reverser synchronous
+shaft locks specified below to detect latent failures of the components and to ensure the integrity of the thrust reverser
+system. Prior to further flight, repair any discrepancy found in accordance with procedures described in the Boeing
+767 Maintenance Manual. 
+
+
+
+THRUST REVERSER SYNC-LOCK_ADJUSTMENT/TEST 
+
+
+
+1. 
+
+General 
+
+
+
+A. There are two sync-locks for each engine thrust reverser. The sync-lock is installed on the lower non-locking hydraulic
+actuator of each thrust reverser sleeve. 
+
+B. The Thrust Reverser Sync-Lock Integrity Test has two tasks: 
+(1) The first task tests the electrical circuit which controls the operation of the sync-lock on each thrust reverser
+sleeve. 
+(2) The second task tests the mechanical function of the sync-lock on each thrust reverser sleeve. 
+C. The thrust reverser sync-lock is referred to as the sync-lock in this procedure. 
+
+
+2. Thrust Reverser Sync-Lock Integrity Test 
+
+
+A. Equipment 
+(1) Multi-meter, Simpson 260 or equivalent_commerically available. 
+B. Prepare to do the Integrity Test for the sync-locks. 
+(1) Supply electrical power. 
+(2) For the left engine, make sure these circuit breakers on the overhead circuit breaker panel, P11, are closed: 
+(a) L ENG T/R CONT 
+(b) L ENG T/R IND 
+(c) L ENG T/R SSL CONT 
+(3) For the right engine, make sure these circuit breakers on the overhead circuit breaker panel, P11, are closed:
+
+(a) R ENG T/R CONT 
+(b) R ENG T/R IND 
+(c) R ENG T/R SSL CONT 
+(d) FOR ETOPS AIRPLANES, CLOSE THESE ADDITIONAL CIRCUIT BREAKERS: 
+1) R ENG T/R CONT ALTN 
+2) R ENG T/R IND ALTN 
+(4) Open the fan cowl panels. 
+C. Do the Electrical Integrity Test for the sync-locks. 
+(1) Do these steps to make sure there are no ``hot'' short circuits in the electrical system that may accidentally supply
+power to the sync-locks: 
+(a) Remove the electrical connector, D20194, from the sync-locks, V170, on the left sleeve of the thrust reverser.
+
+(b) Remove the electrical connector, D20196, from the sync-lock, V171, on the right sleeve of the thrust reverser.
+
+(c) Use a multi-meter on the plug end of the applicable electrical connector to make sure that these conditions are
+correct: 
+
+
+
+<TABLE>
+
+
+
+
+
+
+1From Equipment
+
+1To Equipment
+
+1Condition 
+
+
+
+
+D20194, PIN 1 
+D20194, PIN 2 
+^3 TO +1 V DC AND CONTINUITY (LESS THAN 5 OHMS) 
+
+D20196, PIN 1 
+D20196, PIN 2 
+^3 TO +1 V DC AND CONTINUITY (LESS THAN 5 OHMS)
+
+</TABLE>
+
+
+
+(d) If you did not find these conditions to be correct, you must do these steps: 
+
+(1) Make a careful visual inspection of all the electrical wires and connectors between the sync-lock and its power
+circuit breaker. 
+
+(2) Repair all the unserviceable electrical wire and connectors that you find. 
+
+(3) Use the multi-meter again to make sure there are no ``hot'' short circuits in the electrical system that can accidentally
+supply power to the sync-locks. 
+
+(e) If you find the correct conditions, do the Mechanical Integrity Test for the sync-locks. 
+
+
+
+
+

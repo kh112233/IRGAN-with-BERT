@@ -1,0 +1,161 @@
+ 
+
+2. Date and Time Stamps
+
+
+
+The proposal put forward by Working Groups 1 and 2 included fields identifying the date and time when release offers,
+bids, withdrawals of bids or offers, and capacity awards are posted on pipelines' EBBs. No consensus was reached over
+whether fields should be included to identify when pipelines actually received offers, bids, or withdrawals or made
+the determination to award capacity. 
+The NOPR proposed to require the inclusion of fields for bid receipt date and time, but not for the date and time offers
+and withdrawals were received or capacity awarded. Since releasing shippers and pipelines may choose the first come,
+first served method to break ties, the Commission found that routine posting of the bid receipt date and time would
+permit shippers to verify the award of capacity without having to contact the pipeline. The Commission did not propose
+to include the date and time fields for receipt of offers and withdrawals or capacity awards, concluding this information
+was not as important to capacity release transactions as the bid information. The Commission stated, however, that
+information about the date and time offers and withdrawals were received and capacity awards determined must be provided
+by the pipelines upon request. 
+Several commenters support the Commission's decision to include only the information about bid receipt in the standardized
+data sets.
+
+26
+
+ Some request clarification as to whether pipelines must include both the date and time bids are received and posted
+as mandatory fields.
+
+27
+
+ Process Gas Consumers Group contends the Commission should require inclusion of all the contested items. It contends
+the date and time for receipt of capacity withdrawals is particularly important because releasing shippers have
+only a limited right to withdraw offers; it maintains the date and time information is needed so bidders can determine
+whether that right has been exercised validly. It contends pipelines easily can make all the contested information
+available in electronic form. The National Registry requests that even if pipelines are not required to post information
+concerning the receipt of offers and withdrawals and determination of capacity awards, they should be required to
+provide this information in electronic form when requested. 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+26
+
+</FOOTNAME>
+Power Generators, AER/MRT, Columbia Gas, Enron.
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+27
+
+</FOOTNAME>
+KGPL (posting date and time should not be mandatory), NGSA (both should be required). 
+
+</FOOTNOTE>
+
+
+The Commission adheres to its decision not to require pipelines routinely to post the receipt date and time for capacity
+offers and withdrawals and the date and time capacity awards are made. The Working Groups could not reach agreement
+on providing the additional information, and, as stated in the NOPR, the Commission does not find that this information
+is as crucial to capacity release, or will be needed as frequently, as the bid information. The Commission will not
+require pipelines to provide the additional information in electronic form, because such a requirement would not
+be significantly different than requiring the routine, electronic posting of this information, which the Commission
+has determined is not necessary. The ability of users to obtain the information for offers, withdrawals, and awards
+upon request appears sufficient. The Commission clarifies that both the bid receipt and bid posting data fields are
+mandatory. 
+PEC Pipeline Group contends the date and time for bids should be the posting time, arguing if receipt date and time is
+used, the information would be unreliable because the bids would not have been verified for accuracy. It maintains
+only the date and time of verified bids should be used to break ties. 
+The Commission agrees, in principle, that the appropriate information to include is the date and time used to break
+ties. However, in most instances, that will be the date and time bids are received, not when they are verified. For example,
+when bids are submitted near the end of bidding periods, the pipeline may not verify the bids until after the bid window
+closes. Under a first come, first served tie breaking system, capacity would be awarded to the highest bid received
+first in time even if the bid was not verified until later. 
+
+
+3. Operationally Available Capacity 
+
+
+The Commission proposed to adopt the Working Group's consensus agreement that pipelines provide information on
+the amount of unscheduled capacity available at specific locations, such as receipt and delivery points, mainline,
+or mainline segments. This field serves to identify the capacity that would be available as interruptible service
+from the pipeline. Edison contends this definition would not allow shippers to determine whether firm or interruptible
+capacity is available. It suggests operationally available capacity be defined as the capacity a firm shipper can
+nominate at a point, asserting this definition would include interruptible capacity that can be displaced by a firm
+shipper. Transco contends the amount of unscheduled capacity is proprietary information that would not be provided
+in the free market. Williston Basin does not oppose this requirement, but states shippers may be able to use this information
+only for trend analysis, not for making decisions on a daily basis. 
+The Commission finds the requirement to provide information on operationally available or unscheduled capacity
+is necessary to comply with the requirement that pipelines identify the interruptible capacity available on their
+systems.
+
+28
+
+ The unscheduled capacity at a point reveals the capacity available as interruptible service. In response to Edison's
+comment, the Commission finds that the consensus approach is adequate at this point to disclose both the firm and interruptible
+capacity available to potential shippers. The operationally available capacity reveals interruptible service
+and pipelines also are required to post the firm service they have available.
+
+29
+
+ The Working Groups still are considering issues relating to operationally available capacity, and the Commission
+will be open to modification of this definition if needed.
+
+30
+
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+28
+
+</FOOTNAME>
+See 18 CFR 284.9(b)(3). 
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+29
+
+</FOOTNAME>
+See 18 CFR 284.8(b)(3). Pipelines would post this information under the capacity offer data set I.1. 
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+30
+
+</FOOTNAME>
+For example, the Commission is not certain whether Edison and Transco principally are concerned with the definition
+of operationally available (or unscheduled) capacity or with the different, albeit somewhat related, issue of whether
+additional fields are required to divide scheduled (or nominated) capacity into firm and interruptible components.
+The issue of identifying the firm and interruptible components of nominated capacity is still under deliberation
+by the Working Groups, and Edison and Transco will have a further opportunity to address these issues in the Working
+Group meetings. 
+</FOOTNOTE>
+
+
+ANR asserts that the data field for operationally available capacity should indicate that the data may be estimates.
+It also suggests an additional data field to enable the pipeline to qualify the accuracy of any information. The Commission
+agrees with ANR that the information in this field may be estimates and leaves to the Working Groups the decision on
+whether another field is necessary to convey information about how the estimates are provided. 
+
+
+
+
+

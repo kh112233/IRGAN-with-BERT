@@ -1,0 +1,87 @@
+FT  17 NOV 94 / Technology: Electronic immunity - Tom Foremski outlines the
+similarities between computer viruses and their biological counterparts
+The similarities between computer viruses and human ones may be closer than
+the name alone suggests, according to computer scientists at IBM's Thomas J.
+Watson Research Centre.
+IBM researchers have discovered similarities in the way computer viruses
+spread and the way human viruses jump from host to host. This has led them
+to develop anti-virus technology that continues the biological metaphor -
+using a model of the human immune system to develop a way of automatically
+trapping and eradicating computer viruses before they can damage the host
+personal computer and spread to other computers.
+The IBM Automated Immune System is an electronic version of our human immune
+system and could provide a breakthrough in the fight against computer virus
+infections. There are at least 6,000 computer viruses and computer security
+experts say they are discovering as many as three new viruses a day.
+A computer virus is a hidden program that can replicate itself, and
+sometimes causes widespread damage to data stored in the computer. While few
+of these rogue programs reach widespread distribution, computer viruses pose
+a daily threat to PC users.
+'The Automated Immune System allows us to detect a virus without having any
+prior knowledge about it,' says Jeffrey Kephart, manager of anti-virus
+technology at IBM's High Integrity Computing Laboratory at the Thomas J.
+Watson Research Centre. 'Once the virus has been detected, the system
+automatically analyses it and removes it from any infected files.'
+This approach differs from the way most current anti-virus software
+operates. Anti-virus applications, such as VirusScan from McAfee Associates,
+are at their most effective against known viruses and must be updated
+regularly with the 'signatures' of new viruses.
+Kephart says the system is modelled on the way the human immune system
+protects us against viral infection. In the IBM approach, the anti-virus
+software uses a decoy program to attract a virus if one is present.
+The software can detect an infection by noticing changes made by the virus
+in the decoy program. It will then isolate and analyse the virus, and erase
+it from any infected files it finds. In the human immune system, a cell
+called a macrophage searches for infecting organisms. When the macrophage
+finds a virus or bacteria, it makes an analysis and then alerts other immune
+cells to the specific infecting organism, triggering the production of
+antibodies that target specific infections.
+The IBM system has an additional capability. It helps stop the spread of
+virus infections to other computers. This is essential in today's high-speed
+networks because a virus can quickly spread. The system sends out a message
+to neighbouring PCs that it has found an infection and instructs them to
+look for a specific virus. In this way, the path of a computer virus
+infection can be traced and contained.
+The IBM Automated Immune System is in the prototype stage and will be
+introduced into IBM's commercial anti-virus software next year. While it
+appears to be an important step against infections, it will not eliminate
+computer viruses. 'There are some sophisticated viruses being written,' says
+Bill Arnold, an anti-virus specialist at IBM. 'These viruses are written by
+people who know how we detect and analyse viruses. One such virus is the 1/2
+virus which breaks itself into pieces to make itself more difficult to
+analyse.'
+Computer virus creators have developed what are called stealth and
+polymorphic viruses. A stealth virus hides inside a PC and makes itself
+invisible to anti-virus software. A polymorphic virus will change itself
+slightly every time it infects a PC or a file, making it difficult to
+analyse or create a 'signature' that can be used to detect infections.
+Phil Talsky, manager of product marketing at McAfee Associates, says it is
+risky to do nothing when a virus is detected, even if it does not appear to
+be causing problems. 'The trouble is that you can never really know what the
+virus will do and you risk a much bigger problem at a later date,' says
+Talsky.
+Although there are increasing numbers of sophisticated computer viruses, PC
+users should not panic, says David Stang, computer virus expert and
+president of anti-virus software firm Norman Data Defence Systems. 'The
+chance of being infected is very low,' says Stang. 'But if you do have an
+infection, it can be very expensive.' Stang cites the case of a brokerage
+firm forced to shut down its PCs to clean out a virus infection and lost
+millions of dollars in business during the few hours the PCs were turned
+off.
+Magali Grimany, information security analyst at Suntrust Bank, based in
+Atlanta, Georgia, says that a virus infection closed down one of the bank's
+servers affecting dozens of PC users for most of the day. Suntrust now uses
+McAfee's VirusScan package to protect more than 8,000 PCs.
+McAfee and other firms such as Symantec are trying to make the updating
+process easier with new software that will automatically update. Suntrust
+and other large organisations also prohibit staff from bringing in diskettes
+from home or inserting diskettes into their PCs that have not been scanned
+for viruses.
+Creating a computer virus is not that difficult and is not illegal, says
+Stang, which is why there are so many. 'You can buy a CD-Rom disk containing
+hundreds of viruses and you can down-load software for creating viruses from
+computer bulletin boards,' he points out.
+Kephart is not the only one to note the analogy between computer viruses and
+their biological counterparts. The British physicist Stephen Hawking gave
+the keynote speech at a computer show earlier this year. He found it ironic
+that the only form of 'life' we have created so far is purely destructive.

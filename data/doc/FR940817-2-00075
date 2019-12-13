@@ -1,0 +1,205 @@
+ 
+
+As noted above, Mn affects multiple organ systems, including 
+the respiratory and reproductive systems as well as the CNS. 
+However, because the only available evidence suggests that the 
+CNS is the most sensitive target for Mn toxicity, neurobehavioral 
+endpoints were the focus of the RfC derivation. Although other 
+types of effects remain a concern, it is presumed, based on the 
+limited data now available, that protecting against neurotoxicity 
+provides protection against these other, apparently less 
+sensitive endpoints. 
+In revising the RfC for Mn, a draft version was subjected to 
+peer review by external experts (from academic and non-EPA 
+governmental institutions) as well as internal experts. 
+Following this peer review, a further-revised version was 
+submitted to and verified by an EPA-wide RfD/RfC work group in 
+September 1993. The current RfC for Mn was made available 
+through IRIS in early November 1993 through two mechanisms. A 
+special notice beginning November 1 in the news section of EPA's 
+internal IRIS2 database announced the availability of a hard copy 
+of the text to EPA requesters who contacted the Risk Information 
+Hotline; also, the text was obtainable through the National 
+Library of Medicine's publicly accessible on-line computer 
+database, TOXNET, beginning November 10, 1993. It also became 
+available on line via the EPA IRIS database beginning December 1, 
+1993.
+<FOOTCITE>57</FOOTCITE>
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+57
+
+</FOOTNAME>
+The complete text of the revised RfC as it exists on IRIS2 may be found in Appendix C in the docket. 
+</FOOTNOTE>
+
+
+4. Alternative Approaches to Deriving RfCs 
+
+
+After the revised RfC for Mn became available to the public, 
+Ethyl Corporation and other interested parties submitted comments 
+on the RfC and issues related to it. One of the primary comments 
+concerned the availability of various statistical techniques for 
+deriving a NOAEL from the study by Roels et al. (1992) and/or 
+from supplementary data for that study provided to ORD by Roels 
+(1993). In response to Ethyl Corporation's request that EPA 
+consider alternative approaches to analyzing these data and 
+deriving an RfC for Mn, further analyses of the subject data were 
+undertaken using a variety of statistical methods. These 
+approaches may be identified as (1) conventional NOAEL- or LOAEL- 
+based analyses, (2) ``no statistical significance of trend'' 
+(NOSTASOT) analyses of the type described by Tukey et al. (1985), 
+(3) benchmark dose analyses of the type described by Crump 
+(1984), and (4) Bayesian analyses of the type described by 
+Jarabek and Hasselblad (1991). These analyses and their 
+results
+<FOOTCITE>58</FOOTCITE>
+ yield several possible RfC estimates, so designated 
+because the current and only verified RfC for Mn is that which 
+has been verified by the EPA-wide RfD/RfC work group and entered 
+on IRIS. It must be emphasized that the RfC estimates developed 
+for the purpose of this risk assessment do not represent a 
+revision of the current verified RfC for Mn. Reexamination of 
+the current Mn RfC, and any decision to revise or reaffirm the 
+current RfC, will be under the purview of the EPA-wide RfD/RfC 
+work group at some future date. 
+
+
+<FOOTNOTE>
+<FOOTNAME>
+58
+
+</FOOTNAME>
+See ``Reevaluation of Inhalation Health Risks Associated with Methycycloentadienyl Manganese Tricarbonyl (NMT)
+in Gasoline'', Appendix A, Docket A9146.
+</FOOTNOTE>
+
+
+A fundamental issue pertaining to all of the approaches 
+presented here is the selection of a measure of exposure. Roels 
+et al. (1992) described two measures of respirable dust, the 
+occupational lifetime respirable dust concentration (LIRD), 
+expressed as &mu;g/m
+
+3
+
+ x years, and the current concentration of 
+respirable dust (CRD), expressed as &mu;g/m
+
+3
+
+. The CRD concentration 
+was measured at the time the study was conducted by Roels et al. 
+and refers to a representative concentration measured for the 
+type of job performed by a worker (e.g., electrician, maintenance 
+worker). The LIRD value for each worker was a cumulative 
+exposure measure derived by adding the CRD values over the 
+worker's entire period of employment. If a worker changed jobs 
+within the plant during his period of employment, the CRD for 
+each job held was multiplied by the number of years the worker 
+performed that job. Thus, if more than one job classification 
+was worked, the worker's LIRD was the sum of the products of CRD 
+multiplied by years of performance of the respective jobs. 
+However, if a worker held only one job classification, his LIRD 
+was simply equal to his CRD multiplied by the number of years 
+employed. Another measure of exposure may be derived from LIRD 
+by dividing an individual worker's LIRD value by his total number 
+of years of employment. The latter measure, designated as the 
+average concentration of respirable dust (ACRD), reflects a 
+worker's time-weighted cumulative exposure level but removes 
+years from the unit of measurement of LIRD and is expressed as 
+&mu;g/m
+
+3
+
+. Although Roels et al. (1992) did not refer to ACRD, this value could be calculated for each individual and for the entire
+
+cohort by using the unpublished data provided to ORD by Roels 
+(1993). For reasons to be discussed later, ACRD offers 
+advantages for certain analyses and, unless otherwise noted, is 
+the exposure measure used in the alternative RfC estimates 
+discussed here. 
+a. 
+
+Conventional NOAEL- or LOAEL-Based Approach
+
+. The conventional method, and only method used thus far by EPA, to derive an RfC has been to identify a NOAEL or LOAEL
+from a study and divide that concentration by uncertainty factors, as described above for the Mn RfC. In the case of
+the study by Roels et al. (1992), the geometric mean LIRD concentration of the 
+Mn-exposed workers was used as a LOAEL. Roels et al. (1992) also 
+performed an exposure-response analysis of their data by grouping 
+the exposed workers into three exposure categories and comparing 
+the prevalence of abnormal neurobehavioral scores for each of the 
+three groups to those of controls. As indicated in the summary 
+sheet for the Mn RfC (see Appendix C), the results of this 
+exposure-response analysis were not used in deriving the revised 
+Mn RfC because the reported analysis did not correct for multiple 
+comparisons. However, ORD's analyses of additional data provided 
+by Roels (1993) suggest a possible RfC estimate of 0.03 &mu;g/m
+
+3
+
+ 
+(versus the current RfC of 0.05 &mu;g/m
+
+3
+
+), if a one-tailed test of statistical significance is accepted (see Appendix A, 
+``Reevaluation of Inhalation Health Risks Associated with Methyl- 
+cyclopentadienyl Manganese Tricarbonyl (MMT) in Gasoline'' as 
+referenced in the reference section below, hereafter referred to 
+as Appendix A.). Because it was based on an exposure-response 
+analysis, this RfC estimate is labeled as such in Figure 1, which could not be reproduced in the 
+
+Federal Register. 
+
+It is available by calling the person listed in the 
+
+FOR FURTHER INFORMATION CONTACT 
+
+section of this notice. It is also available in docket A9326, item number IIA17, page 12
+(see 
+
+ADDRESS 
+
+section of this notice for docket location). 
+
+
+b. NOSTASOT Approach
+
+. Another approach to analyzing dose-response data makes use of a procedure known as NOSTASOT, described by Tukey
+et al. 
+(1985). In essence, the procedure applies a trend test sequentially to determine the highest noneffective dose of
+a series of doses by eliminating one dose at a time. In this manner, the dose level at which the response is not significantly
+different from controls is determined to be the NOSTASOT dose, which could therefore be considered a NOAEL. Applied
+to Roels' 
+(1993) epidemiologic data by beginning with the highest individual ACRD exposure and moving downward (i.e., a ``top-down''
+approach), the procedure yielded a NOSTASOT of 285 &mu;g/m
+
+3
+
+ for eye-hand coordination (see Table A4, Appendix A). This approach implies that once nonsignificance is
+reached, further application of trend tests to lower dose groups would also yield 
+nonsignificance. However, this was not the case with Roels' (1993) epidemiologic data, and thus it was important
+to determine not simply the highest NOAEL but the highest NOAEL below the lowest LOAEL. By this ``bottom-up'' approach,
+the highest nonsignificant exposure below the lowest statistically significant exposure was 21 &mu;g/m
+
+3
+
+, for visual reaction time. Using the latter value as a NOAEL and a total uncertainty factor of 100 (the same as that used
+for the current Mn RfC, except omitting a factor of 10 for extrapolating from a LOAEL to a NOAEL), one would obtain a value
+of 0.07 &mu;g/m
+
+3
+
+ for an RfC estimate (Figure 1). Disparities in the NOSTASOTs obtained for various endpoints by the top-down and bottom-up
+approaches raise 
+questions about the suitability of this technique for deriving a NOAEL from the data of Roels (1993).
+
+
+
+

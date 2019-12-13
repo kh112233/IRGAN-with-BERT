@@ -1,0 +1,18 @@
+CSO 
+
+<F P=106> [Article by O. Ye. Trofimov; UDC 517] </F>
+  [Abstract] Integrals of function 
+f(x[.sub]1[/],...x[.sub]n[/] along straight lines are 
+called beam data. If n=2, the beam date correspond with the 
+Radon transform ; this case is characteristic for classical 
+computer X- ray tomography. Methods of 3-D (n=3) or even 4-D 
+(n=4), the fourth coordinate can be time or wavelength with the 
+tomography in the optical range. Reconstruction of function f(x) 
+from its beam data is the 3-D reconstruction problem. This 
+problem is meaningful for any type of tomography. Equations are 
+provided for computing the Fourier transformation of uniform, 
+generalized functions in a three-dimensional space. These 
+formulae allow to construct effective numerical algorithms of 
+tomographic 3-D reconstruction from the beam data. References 10 
+Russian. 
+

@@ -1,0 +1,114 @@
+FT  29 NOV 93 / Survey of Software at Work - Winter 1993 (28): Crackdown
+against copying - Software piracy / Illegal copying, software viruses, games
+and pornography are among the risks when office automation goes live
+One problem with giving staff personal computers (PCs) with word processing
+and spreadsheet programs is that they can run other software, too. The
+results can range from lost files wiped out by computer viruses, to fines
+and imprisonment for company directors for illegal copying of software
+products.
+The issues surrounding the running of other software are related not so much
+to the wasting of company time on games and pornography as to the risks of
+viruses and illegally copied business software products being loaded into
+office computers.
+The Business Software Alliance, representing the world's biggest PC software
+companies, says as much as half of its members' products are copied. UK
+users are among the more responsible: the copying rate here is between 30
+and 40 per cent.
+Lotus Development, supplier of the 1-2-3 spreadsheet package, last year
+appointed a director of copyright protection after estimating that half its
+users worldwide were using pirated copies. Wordperfect and Microsoft
+recently found pre-release versions of their products on on-line bulletin
+board systems available to anyone who could communicate through a PC.
+The UK's Federation Against Software Theft (Fast) says its 1,100
+investigations last year found that most copying - almost 60 per cent - is
+done by people who are unaware of the copyright law. A fifth is done by
+computing managers seeking to cut costs. Only 12 per cent is by people or
+companies which sell software.
+'So many people simply don't realise it's illegal to copy the word
+processing or database program that's passed across the desk,' says Mr Bob
+Hay, chief executive of Fast and a former chief superintendent in London's
+Metropolitan Police. 'Because it doesn't feel like a crime, they don't think
+of it as one.'
+Fast was formed in 1984 and has more than 450 member companies, including
+leading computer companies and users.
+Fast has also recently surveyed 600 company directors, who face up to two
+years in prison and unlimited fines if their organisation is caught copying
+software. About 45 per cent of directors believe copying goes on in their
+organisations.
+This survey shows that the main reason for copying is that it is so easy:
+this was mentioned by 65 per cent. Cost was mentioned by 58 per cent.
+Those questioned now take the whole issue seriously. More than 80 per cent
+believe observance of the law should be tackled by top management, although
+half feel it is the users who should be responsible for their own software
+piracy.
+More than 70 per cent would take action against employees found copying
+software and a fifth of these make it a dismissal offence.
+One fear connected with software piracy is that of the introduction of
+viruses. Any disc brought from outside, whether it holds pirated software or
+a legally bought product or is a give-away by a computer magazine, can
+contain a program which at best periodically displays a rude message and at
+worst deletes information. One estimate says there are more than 1,200
+viruses in existence, although a dozen or so are the most prevalent.
+As with software piracy, the introduction of viruses is generally down to
+ignorance and an absence of safeguards. Surveys show that well over 80 per
+cent are introduced by people loading a floppy disc.
+Slack management is highlighted by Fast as a reason for software copying: a
+third of directors questioned mentioned a lack of adequate software
+management policies as a reason. Companies reported on in this issue of
+Software At Work certainly believe firm policies pay off.
+Mr Tony Fisher, audit and security manager at PC auditing company Safe
+Guard, pinpoints the management issue as the main cause of the introduction
+of both viruses and illegally copied software.
+'Companies are spending thousands of pounds a year on office hardware and
+software but it's being badly managed,' he says. 'The decentralisation trend
+means more managers are getting their own budgets and spending authority and
+often buy PC products on their credit cards. There's no central control over
+these purchases and their use.'
+Safe Guard, a joint venture by Barclays Computer Operations and systems
+house Deverill Computers and Communications, uses the Incontrol Audit
+package from Greenscreen to run its auditing service.
+An auditor loads the Incontrol disc into each computer and the program scans
+the system to record information about the software that is loaded and about
+the equipment configuration. Incontrol later produces reports about all the
+machines and software. It is then up to management to decide whether to
+delete rogue software or buy extra licences.
+'We find all sorts of things,' says Mr Fisher. 'We find viruses by the
+bucketful. We always check for viruses before we load the Incontrol disc, as
+we don't went to get it infected.
+'One leading bank with tight control told us it has one or two in every 100
+PCs infected every year. In offices where there are few or no controls we
+find up to 10 per cent of machines infected.
+'We find lots of pornography, sometimes animated. We find it on senior
+managers' PCs and across whole departments. In a department it's probably
+like a porno magazine: one person brings it in and it does the rounds. We
+find machines full of rubbish: ancient files which no one needs. On one
+machine recently we found 12 earlier versions of the DOS operating system.
+'We also come across machines which are running vital work, but can't be
+accessed. They might be managing all the files on an office network but
+no-one has the password and the staff who set up the system have gone.'
+One way of preventing staff from bringing in discs is to make it impossible
+for them to load the discs until they have been checked.
+Clerical Medical Investment Group does this by using the Disknet package
+from Reflex Magnetics. The package is loaded on every PC and will only read
+discs which have a special code, calculated from the disc contents. The code
+is inserted by a known clean PC running one or more virus checking packages
+and typically referred to as a sheepdip or gateway.
+If the disc contents are changed by a user at his or her own PC, for example
+by editing a document, the Disknet program on that PC calculates a new code.
+A user can therefore move a disc between PCs which run Disknet, and are
+therefore free of viruses, without having to put it through a virus scanner
+every time.
+This means that scanners only have to be installed and updated on specific
+gateway machines, not on every office PC.
+'We had a couple of very minor incidents and saw the likelihood increasing,'
+says Mr Mark Oram, a computer security analyst at Clerical Medical. 'We
+assumed that if we got a virus the source would probably be software brought
+from home or from magazines, so we wanted to prevent staff bringing it in.
+'We didn't want to rely on people going to a sheepdip PC to run a virus
+check: it's very easy to forget. But this package forces them to do so.'
+Enforcement and education are seen as the complementary ways of stamping out
+viruses and software piracy.
+Bob Hay at Fast comments: 'As long as software copying exists, we have a
+role in education and enforcement - we must continue to work to increase
+commitment from management.
+'The battle is far from won.'

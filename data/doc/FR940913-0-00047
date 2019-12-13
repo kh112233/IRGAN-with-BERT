@@ -1,0 +1,235 @@
+ 
+
+The IEPA used the modelled VMT and speed data along with other area-specific data, such as the areas' representative
+vehicle type distribution based on vehicle registration data, and default data and USEPA's MOBILE5a model to estimate
+the on-road mobile source emissions. These emission estimates were adjusted to account for the impacts of vehicle
+Inspection and Maintenance (I/M) and the average minimum and maximum daily temperatures on the ten highest ozone
+days in each ozone nonattainment area. All input data used in the MOBILE5a modeling were described and documented
+in the emission inventory submittals. 
+
+Off-road mobile source emissions for railroad locomotives were based on the annual amount of fuel oil used by locomotives
+in the ozone nonattainment areas and AP42 emission factors. County fuel oil usage rates were calculated by
+apportioning State total fuel oil usage based county track mileage. To calculate daily emission rates, locomotive
+usage was assumed to be uniform throughout the year and occurring over 61/2 days per week. VOC emissions were multiplied
+by 0.98 to remove the emissions of methane. 
+
+Off-road mobile source emissions for aircraft were based on landing/takeoff rates for O'Hare and Midway Airports
+in the Chicago area accounting for the number and types of engines for each type of plane. Emissions by engine type were
+obtained from current Federal Aviation Administration (FAA) reports. Emissions for all other airports were determined
+considering annual operations (a landing or a takeoff) for each airport (landing/takeoff rates are assumed to equal
+one-half the number of annual operations). For these airports, annual emissions were determined using the derived
+landing/takeoff rates and default emission factors obtained from FAA reports. All aircraft emissions, calculated
+on an annual basis, were converted to daily emissions assuming uniform operations throughout the year and throughout
+the week. 
+
+Off-road mobile source emissions for commercial vessels were determined by considering distillate and residual
+fuel oil sales data and vessel movement data combined with AP42 emission factors. Emissions were apportioned
+to counties by considering the county mileage of navigable waterways and tonnage of shipments. 
+
+Off-road mobile source emissions for all other off-road mobile source categories were determined as part of an USEPA
+off-road emission study. This 1991 study directly supplied emissions for the Chicago and St. Louis/Metro-East St.
+Louis ozone nonattainment areas. Off-road mobile source emissions for Jersey County were derived from the 1991 USEPA
+study by proportioning the study derived emissions for the St. Louis area to Jersey County on the basis of population
+ratios and other source activity levels. 
+
+Biogenic emissions for all three areas were determined using USEPA's PCBEIS biogenic emissions calculation
+model. Information on land use, an input to the model, was obtained from several sources. Agricultural data for 1990
+was obtained from the 1991 
+
+Illinois Agricultural Statistics
+
+. Information on the amount of land covered by forests was found in 
+
+Forest Resources in Illinois: An Atlas and Analysis of Spatial and Temporal Trends.
+
+ The area of water for each county was obtained from the 
+
+1987 Inventory of Illinois Surface Water Resources.
+
+ Other land use data were taken from the database supplied with the PCBEIS model. Meteorological data used with
+PCBEIS were determined by following USEPA guidance on the use of PCBEIS and considering the ten days
+(1988 through 1990) with the highest peak hourly ozone concentrations in each ozone nonattainment area. The representative
+day (from a meteorological standpoint) was selected as the day with the fourth highest daily maximum ozone concentration
+for each ozone nonattainment area. All data considered in the modeling of biogenic emissions were documented in the
+emission inventory submittals and included in associated computer-based data files. 
+
+The emissions in units of tons/day for an average summer weekday are summarized for each ozone nonattainment area
+below: 
+
+
+
+<TABLE>
+
+
+
+
+
+Chicago Ozone Nonattainment Area
+
+1Source type
+
+1VOC
+
+1CO
+
+1NO
+
+X
+
+
+
+
+
+
+Point Sources 
+313.05 
+704.06 
+263.42
+Area Sources 
+268.01 
+22.46 
+23.83
+On-Road Mobile Sources 
+491.22 
+2924.41 
+540.26
+Off-Road Mobile Sources 
+144.28 
+1086.60 
+167.51
+Biogenic Sources 
+109.81 
+N.A. 
+N.A.
+
+n,s
+
+
+Totals 
+1326.37 
+4737.53 
+995.02 
+
+
+</TABLE>
+
+
+
+<TABLE>
+
+
+
+
+
+Metro-East St. Louis Ozone Nonattainment Area
+
+1Source category
+
+1VOC
+
+1CO
+
+1NO
+
+X
+
+
+
+
+
+
+Point Sources 
+74.05 
+113.93 
+95.85
+Area Sources 
+33.84 
+3.46 
+1.66
+On-Road Mobile Sources 
+43.27 
+281.89 
+45.13
+Off-Road Mobile Sources 
+23.49 
+108.20 
+23.99
+Biogenic Sources 
+53.59 
+N.A. 
+N.A.
+
+n,s
+
+
+Totals 
+228.24 
+507.48 
+166.63
+
+
+</TABLE>
+
+
+
+<TABLE>
+
+
+
+
+
+Jersey County
+
+1Source category
+
+1VOC
+
+1CO
+
+1NO
+
+X
+
+
+
+
+
+
+Point Sources 
+0.08 
+0.00 
+0.00
+Area Sources 
+2.79 
+0.56 
+0.06
+On-Road Mobile Sources 
+1.51 
+9.74 
+1.50
+Off-Road Mobile Sources 
+1.41 
+5.93 
+2.76
+Biogenic Sources 
+14.65 
+N.A. 
+N.A.
+
+n,s
+
+
+Totals 
+20.44 
+16.23 
+4.32
+
+
+</TABLE>
+
+
+
+III. Final Rulemaking Action
+
+
+

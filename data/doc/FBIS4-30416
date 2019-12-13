@@ -1,0 +1,326 @@
+CSO 
+
+    The following news items were taken from the Tokyo 
+Digitized Information Database, which translates and summarizes 
+in English Japanese press reports related to Japan's 
+scientific/technical industries. This material will also be 
+carried in the FBIS publication JAPAN SCIENCE &amp; TECHNOLOGY. 
+  NEC has developed a dry etching technique which will be 
+usable in 1Gbit DRAM production. The company proved in an 
+experiment that raising the percentage of carbon monoxide gas 
+mixed in etching gas helps increase selectivity. It has also 
+discovered that the higher the carbon content of fluorocarbon 
+film, the more resistant the film is against etching gas ion 
+emission. NEC thinks the technique will be practical enough to 
+form contact holes as small as 0.25 micron. (Tokyo NIKKAN KOGYO 
+SHIMBUN 26 May 94) 
+  Toshiba, IBM, and Siemens have agreed to jointly develop a 
+second- generation 64Mbit DRAM chip. The three companies, which 
+are cooperatively working on a 256Mbit DRAM, will combine their 
+respective 64Mbit DRAM technologies with 256Mbit DRAM 
+technologies under development in order to develop the 
+second-generation chip. To be designed using a 0.35-micron 
+process, the second-generation chip will be about 20% 
+smaller 
+than the first-generation chips. Joint development focus will be 
+on circuit design, processing, and ion implantation techniques, 
+and joint efforts will be carried out at IBM's research centers 
+in New York, where the three firms will assign a maximum of 50 
+engineers. Toshiba, which has already developed a 
+first-generation 64Mbit chip using a 0.4-micron process, plans 
+to launch volume production two to three years from now. (Tokyo 
+NIKKAN KOGYO SHIMBUN 26 May 94, Tokyo NIHON KOGYO SHIMBUN 26 May 
+94, Tokyo NIKKEI SANGYO SHIMBUN 26 May 94, NIHON KEIZAI SHIMBUN 
+26 May 94) 
+  JEOL has set up a dedicated team to develop a 
+fully-automated 
+photomask/wafer defect inspection/repair system. The 10-member 
+team plans to develop a commercial system in 1996. The team will 
+add functions for locally depositing and repairing silicon and 
+metal film as well as automation functions to an ultra-fine 
+processing evaluation system the company launched in 1992. JEOL 
+will target the 64Mbit or larger LSI production and phase-shift 
+photomask production processes. (Tokyo KAGAKU KOGYO NIPPO 26 May 
+94) 
+  Toyo Information Systems (TIS) plans to launch a frame relay 
+service on June 1 for high-speed transmission of large-volume 
+data. The company has set up access points in Tokyo and Osaka, 
+and plans to increase the number of access points depending on 
+future demand. The service will cover an area within a radius of 
+15km from each access point, and another access point will be 
+set up in Nagoya in the fall. TIS will use NCR frame relay 
+switches, and aims to gain 10-20 corporate users by the end of 
+fiscal 1994. (Tokyo NIKKEI SANGYO SHIMBUN 26 May 94) 
+  MPT's advisory body, the Telecommunications Technology 
+Council, will decide in June the closed caption system to be 
+adopted for transmitting data and subtitles with communications 
+satellite TV broadcasts. This will open up the way for new media 
+and services, such as facsimile communications and provision of 
+English subtitles, using a CS TV data channel. The system is 
+expected to be put into commercial use in about May 1995. (Tokyo 
+NIKKAN KOGYO SHIMBUN 26 May 94) 
+  Toshiba has developed a simulator capable of simulating 
+shapes of chemically amplified resist. Expected to be 
+commercially feasible with 256Mbit or larger DRAM production, 
+the simulator enables users to compute various simulation 
+processes pertinent to chemically amplified resist, ranging from 
+the formation of optical images to the generation of oxygen at 
+times of exposure, the diffusion of oxygen in post exposure 
+heat, the dissolution of a solution suppressor, resin 
+dissolution speeds, and to development. (Tokyo NIKKAN KOGYO 
+SHIMBUN 31 May 94) 
+  Shinmaywa Industries has introduced a single-wafer 
+sputtering 
+system for use in hard disk drive production. The new system is 
+a cluster tool consisting of a central chamber and up to eight 
+process and load-lock chambers. Compared to in-line systems, the 
+new system achieves higher film quality and has an hourly 
+throughput of 360 disks. The company will combine the new system 
+with its existing equipment such as clean robots, assembly 
+automation systems, and clean room-less systems to take orders 
+for integrated HDD production lines. (Tokyo KAGAKU KOGYO NIPPO 
+31 May 94) 
+  Toshiba has developed a 3.5-inch phase-change optical disk 
+drive, which it plans to commercialize by 1996 when an 
+international standard for phase-change optical disks is 
+expected to be established. The drive uses a 690nm red 
+semiconductor laser to write and read and data to and from a 
+phase-change disks simultaneously and achieves a recording 
+density about 50% higher than conventional 5.25-inch 
+units and 
+a data transfer speed of 9.1Mbit/s, four times and 20% 
+faster 
+than CD-ROM and magneto-optic drives, respectively. The drive 
+supports 600Mbytes. When data is compressed to 1/40 the original 
+size using the MPEG2 (Motion Picture Experts Group) data coding 
+standard, it is possible to store video pictures for 20 minutes. 
+(Tokyo NIKKEI SANGYO SHIMBUN 16 May 94) 
+  Canon has developed a technique for manufacturing SOI 
+(silicon on insulator) substrates at a low cost. The technique 
+involves five processes. (1) A wafer is processed in 
+hydrofluoric acid to create a porous silicon layer on wafer 
+surface. (2) A thin monocrystal silicon layer is deposited on 
+the porous silicon layer. (3) The wafer is attached to another 
+wafer which has an insulating layer made of silicon oxide. (4) 
+The first wafer is etched from the bottom to expose the porous 
+silicon layer. (5) The substrate is etched in a solution 
+containing hydrofluoric acid and hydrogen peroxide. SOI 
+substrates are commonly used for military and space 
+equipment-use semiconductors because of high prices, but the 
+company claims that the technique can help cut SOI substrate 
+prices to a level about two times higher than conventional 
+silicon wafers. (Tokyo NIKKEI SANGYO SHIMBUN 16 May 94) 
+  Fujitsu Laboratories has succeeded in oscillating an InP 
+(indium phosphide) semiconductor laser using a current of 1.0mA. 
+InP is the only semiconductor laser material capable of emitting 
+1.3-micron light but has drawbacks: it has large threshold 
+current, and it is susceptible to temperature changes. To lower 
+threshold current the company has modified a distorted quantum 
+well structure. It has discovered that the lowest level of 
+threshold current is achieved when there are five quantum well 
+layers, layer thickness is set at 8nm, and active layer width is 
+set at 1 micron. In an experiment, the InP semiconductor laser 
+could oscillate at threshold currents of 1.0mA at room 
+temperature and of 3.5mA at 80 deg C. Using the semiconductor 
+laser the company has developed a prototype functional 
+10-channel laser array. (Tokyo NIHON KOGYO SHIMBUN 17 May 94) 
+  The Electrotechnical Laboratory of the Agency of Industrial 
+Science &amp; Technology and Kawasaki Heavy Industry (KHI) have 
+succeeded in oscillating a free electron laser inside the 
+ultraviolet zone. The lab and KHI have used the lab's NIJI-IV, a 
+small free electron laser ring which is 4m long and 13m wide and 
+has a circumference of 29.6m, and oscillated a 353nm laser. This 
+is the first time that a free electron laser has been 
+successfully oscillated inside the ultraviolet zone. KHI plans 
+to combine the small ring with a synchronous orbit radiation 
+system and market them as a set to research institutions. (Tokyo 
+NIKKAN KOGYO SHIMBUN 17 May 94, Tokyo NIHON KOGYO SHIMBUN 17 May 
+94) 
+  NTT has developed a heat-resistant polymer for use as an 
+optical IC material. The polymer is called polysiloxane 
+deuteride, made of silicon, oxygen, carbon, and deuterium, has 
+silicon and oxygen atoms connected one after another like 
+chains, a structure similar to that of glass, and can resist 
+heat as high as 400 deg C. Silicon atoms are coupled with carbon 
+atoms, which are attached to deuterium atoms. Deuterium is used 
+instead of hydrogen to improve the polymer's transparency. Using 
+the new material, the company has developed a prototype optical 
+waveguide, a path to transmit light inside an optical IC, and 
+has confirmed that 98% of light is transmitted. (Tokyo 
+NIKKEI 
+SANGYO SHIMBUN 18 May 94) 
+  MITI has drafted an Enhanced Computerization Program 
+designed 
+both to support the Japanese government's strategy of 
+computerizing public sector facilities and to provide direct 
+links with the U.S.'s so-called national information 
+infrastructure (NII). MITI's plan calls for designating five 
+areas, such as education and research, for computerization and 
+preparation of data communications networks, then providing 
+direct mutual access to electronic libraries and government 
+databases in Japan and the U.S. via PCs. The ministry intends to 
+firm up the plan as early as the end of July and work it into 
+the fiscal 1995 budget as a key item. (Tokyo NIHON KEIZAI 
+SHIMBUN 18 May 94) 
+  Matsushita Electric has developed phase-change optical disk 
+recording techniques for boosting recording density to 4.1Mbit 
+per sq. millimeters, 4.4 times over conventional methods. The 
+newly developed mark edge recording technique reduces bit 
+intervals to 0.35 micron, and the land group recording technique 
+treats convex land tracks as recording tracks and reduces a 
+track pitch to 0.7 micron. Using the new techniques it will be 
+possible to develop a 5.25-inch optical disk with a storage 
+capacity of 6Gbytes. The company is aiming for the 
+commercialization of such a disk two years from now. (Tokyo 
+DEMPA SHIMBUN 19 May 94, Tokyo NIKKAN KOGYO SHIMBUN 19 May 94, 
+Tokyo NIHON KOGYO SHIMBUN 19 May 94, Tokyo NIKKEI SANGYO SHIMBUN 
+19 May 94, Tokyo KAGAKU KOGYO NIPPO 19 May 94) 
+  Toshiba has developed a NAND flash memory cell using a 
+0.4-micron design rule. The NAND is the company's proprietary 
+flash memory format which lines up eight cells along a bit line. 
+The cell is 1.13 sq. microns, about 80% the size of 16Mbit 
+flash memory cells. The company estimates that a 64Mbit chip 
+will be about 120 sq. millimeters when developed using the 
+process. The fine process has been made possible by the FTI 
+process Toshiba has newly developed which forms an oxide film 
+and then implants phosphorus to prevent a diffusion layer from 
+spreading. The development of a 64Mbit flash memory chip will 
+pave the way for the development of a 160Mbyte flash memory card 
+for use in PCs. (Tokyo NIHON KOGYO SHIMBUN 19 May 94) 
+  Matsushita Electric has developed techniques for forming 
+circuits on an injection-molded plastic substrate. One method is 
+to create circuits on such a substrate using conductive paste, 
+and the other is to expose a substrate coated with copper foil 
+using a laser and eliminate the non-exposed portion through 
+chemical etching. The company is working with its subsidiary to 
+apply the techniques to development of automotive components. 
+(Tokyo KAGAKU KOGYO NIPPO 23 May 94) 
+  NEC Cable Media, a cable TV subsidiary of NEC, has developed 
+a technology that allows unused CATV channels to be used for 
+about 100 telephone lines. It is the first time such technology 
+has been commercialized in Japan. With the new system, CATV 
+subscribers will be able to get telephone service without going 
+through NTT. The technology represents a major technical step 
+forward for the merging of communications and multimedia 
+broadcasts. With the TDMA (time division multiple access) 
+digital format, one unused cable TV channel can accommodate the 
+equivalent of 96 telephone lines. (Tokyo NIHON KOGYO SHIMBUN 23 
+May 94) 
+  The Nippon Sheet Glass Technical Research Laboratory and the 
+Electrotechnical Laboratory of the Agency of Industrial Science 
+&amp; Technology have jointly developed a non-linear optical 
+material for use in optical computers. The material has cadmium 
+telluride and silicon oxide layers deposited on a quartz 
+substrate one after another. Cadmium telluride particles of 3nm 
+in diameter are deposited over the substrate using laser 
+deposition. Through plasma excitation chemical vapor deposition 
+a 30nm-thick silicon oxide layer is deposited over the cadmium 
+telluride layer. The deposition processes are repeated 40-50 
+times to develop a 1-micron-thick, 2cm square material, which 
+can convert the wavelength of light to 1/3 the original in 1ps, 
+about 10 times faster than other materials. (Tokyo NIKKEI SANGYO 
+SHIMBUN 24 May 94) 
+  NEC has developed a 64bit RISC (reduced instruction set 
+computer) microprocessor based on the MIPS Technologies 
+architecture. Designed using a 0.35-micron CMOS two-layer 
+process, the chip runs at 200MHz and 100MHz internally and 
+externally, respectively, and operates on 3.3V. Consisting of 
+2.3 million transistors, the 13x16mm chip comes in two types: 
+the micro PD30410/2-200 are housed in 179- and 447-pin ceramic 
+PGA packages, which are compatible with the VR4400PC and the 
+VR4400MC, respectively. Both are sample-priced at 200,000 yen 
+($1,923.08). Sample shipment will start on May 23, and volume 
+production is slated for October. NEC plans to manufacture 
+10,000 units per month from January 1995. (Tokyo DEMPA SHIMBUN 
+24 May 94, Tokyo NIKKAN KOGYO SHIMBUN 24 May 94, Tokyo NIHON 
+KOGYO SHIMBUN 24 May 94, Tokyo NIKKEI SANGYO SHIMBUN 24 May 94, 
+Tokyo KAGAKU KOGYO NIPPO 24 May 94) 
+  Toshiba has developed a 64bit RISC (reduced instruction set 
+computer) microprocessor based on the MIPS Technologies 
+architecture. To be sampled from June, the TC86R4400-200 
+features internal and external clock speeds of 200MHz and 
+100MHz, respectively, and operates on 3.3V. Designed using a 
+0.3-micron CMOS process, the chip measures 9.8x13.7mm, about 
+40% smaller than the NEC chip also developed using MIPS' 
+technology, and integrates 2.3 million transistors. Sample 
+prices range from 310,000 yen ($2.980.77) to 400,000 yen 
+($3,846.15). Toshiba plans to produce 10,000 units per month 
+from September. (Tokyo DEMPA SHIMBUN 24 May 94, Tokyo NIKKAN 
+KOGYO SHIMBUN 24 May 94, Tokyo NIHON KOGYO SHIMBUN 24 May 94, 
+Tokyo NIKKEI SANGYO SHIMBUN 24 May 94, Tokyo KAGAKU KOGYO NIPPO 
+24 May 94) 
+  Matsushita Electric has developed a GaAs (gallium arsenide) 
+power MMIC (microwave monolithic IC) for use in digital mobile 
+communications devices. Capable of operating on 3.0V, the MMIC 
+consists of field effect transistors and impedance rectifier 
+circuits. The gate length has been reduced from 1.0 micron to 
+0.8 micron, and the distance between the source and the drain 
+has been reduced by 1.5 microns to lower threshold voltage from 
+1.7V to 1.2V, making it possible to operate the MMIC on 3.0V. By 
+making a drain bias circuit an external circuit, a voltage loss 
+has been minimized at 0.05V, down from 0.06V, and the size of 
+the chip has been reduced to 1.0x1.5mm, about 60% the 
+size of 
+conventional MMICs. Targeting makers of personal handy phone 
+systems, Matsushita intends to release a commercial version 
+within the year. (Tokyo DEMPA SHIMBUN 24 May 94, Tokyo NIKKAN 
+KOGYO SHIMBUN 24 May 94, Tokyo NIHON KOGYO SHIMBUN 24 May 94, 
+Tokyo NIKKEI SANGYO SHIMBUN 24 May 94) 
+  Sharp has developed a new IC, LCD photoetching production 
+technique that provides continuous decomposition control of 
+micro-organisms produced during the photoetching process. The 
+new technique permits reductions in the size of production 
+equipment, thus reducing production costs, and can also 
+eliminate nitrogen, which is a cause of red tide, and surface 
+active agents. A pilot plant, which has developed the new 
+technique is conducting research in order to commercialize the 
+technique. Sharp is aiming to introduce the new technique at its 
+own LCD production centers, and is also considering providing 
+the technique as well as a water monitoring technique developed 
+at the same pilot plant to other companies. (Tokyo KAGAKU KOGYO 
+NIPPO 24 May 94) 
+  MPT has decided to expand the number of channels available 
+for communications satellite-based broadcasting. Twelve 
+transponders are in use for CS TV broadcasts, with Space 
+Communications Corp. (SCC) and Japan Satellite Systems (JSAT) 
+each operating six. The plan is to increase the number by an 
+additional 10 or more. Sumitomo Corp. plans to enter the CS TV 
+business this year using an SCC satellite, and the ministry 
+expects the number of CS TV stations to continue to grow, 
+requiring more transponders. A formal decision will be made this 
+fall. (Tokyo NIKKAN KOGYO SHIMBUN 24 May 94) 
+  Toshiba has developed a blue-green LED with a brightness of 
+2cd. Capable of emitting a 500nm beam, the device uses a GaAs 
+(gallium arsenide) substrate instead of one made of sapphire, 
+and zinc selenide layers are deposited on the substrate forming 
+a quantum-well structure. In an experiment, when 20mA current 
+was run, the LED generated an optical output of 0.13W for more 
+than 10 minutes. Since red and green LEDs use the same substrate 
+as the blue-green LED, it is now possible to create red, green, 
+and blue-green LEDs on the same substrate, a technology needed 
+to develop a full-color display. (Tokyo NIKKEI SANGYO SHIMBUN 24 
+May 94) 
+  NTT has developed a crystal capable of recording high-speed 
+video pictures. The company claims that at 7K (-266 deg C) 
+europium-doped yttrium silicate can theoretically record a frame 
+in 1x10-E9 second. Since it is possible to record different 
+pictures on the same recording medium by changing laser beam 
+frequency by 1KHz, the crystal can store 10 million still 
+picture frames, the equivalent of 100 hours of black-and-white 
+TV broadcasting or 30 hours of color video pictures. NTT has 
+already developed a high-precision dye laser for recording and 
+playing holography pictures. (Tokyo NIKKAN KOGYO SHIMBUN 25 May 
+94, Tokyo NIHON KOGYO SHIMBUN 25 May 94, Tokyo NIKKEI SANGYO 
+SHIMBUN 25 May 94) 
+  NEC has developed a silicon deposition technique capable of 
+forming an atom-thick layer. The technique uses silicon 
+dichloride gas with strong adhesive power as a material gas in 
+order to control layer thickness at the atomic level. Silicon 
+dichloride is chemically unstable, and therefore it can easily 
+be attached to a silicon substrate. As a result, the efficiency 
+in use of the material gas is boosted 1,000 times over 
+conventional techniques, and film deposition has become possible 
+at room temperature. NEC thinks that the technique will pave the 
+way for the development of gigabit-level memory. (Tokyo NIHON 
+KOGYO SHIMBUN 25 May 94) 
+

@@ -1,0 +1,146 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Yosuke Mochizuki] </F>
+  [Text] Toshibas's Manufacturing Engineering Laboratory has 
+developed a KrF excimer laser featuring narrow bandwidth, long 
+life, and high output. Its narrow spectral half-width is less 
+than 1 pm, and its life-span and average output are equal to 
+those of lasers mounted on cutting-edge excimer steppers, with 
+the output capacity 8 W doubling that of the laser currently in 
+use. Moreover, the initial costs of the laser as well as 
+operational costs remain the same. This was achieved by a 
+newly-developed resonator, which uses etalon as a narrow 
+bandwidth element. The narrower bandwidth made it possible to 
+reduce the degree of degradation of contrast produced by 
+chromatic aberration, and this, in turn, made it easier to 
+increase stepper lenses' numerical aperture (NA) to achieve the 
+range, 0.55-0.6. Since the designing of lens is simplified, rise 
+in stepper price resulting from higher NA can be compensated by 
+the savings in design costs. 
+  The 64M DRAM exposure technique employs the conventional i 
+line lithography in a non-critical layer, and in a critical 
+layer the technical trend is moving in the direction of the use 
+of KrF excimer. Currently, two leading domestic companies are 
+following this practice, that is at least in the first 
+generation version. In the second generation version, a greater 
+number of companies lists the KrF excimer as their first choice. 
+  As is the case with i line lithography, NA (numerical 
+aperture) of the KrF stepper needs to be enlarged as 
+miniaturization progresses. However, under the present state of 
+laser technology using diffraction grating in narrow-bandwidth 
+region elements, spectral half-width of 2 pm is considered too 
+large, causing the generation of chromatic aberration. 
+Consequently, even if NA is increased, degradation in contrast 
+will prevent a stable formation of minute patterns. (For further 
+detail on this problem, please refer to this journal's May 1989 
+issue, pp.70-80). If this problem is attacked by modifying the 
+lens, the cost will be prohibitive. Generally speaking, the 
+spectral width of 2 pm is sufficient to achieve NA 0.45. 
+However, spectral widths of 1.5pm and 0.8 pm are considered 
+necessary for NAs 0.55 and 0.6, respectively. In fact, the 
+half-width of lasers used in the latest excimer stepper is plus 
+or minus 2pm. The NA in this case is around 0.43, which still is 
+lower than that of the leading i line steppers. 
+<H5>  Elimination of Rate Controlling Factor for High N.A. </H5>
+  The laser developed by Toshiba's Manufacturing Engineering 
+Laboratory has a narrow spectral half-width of less than 1 pm 
+(See Table 1 and Fig. 1). Its life-span is about the same as 
+that of the laser mounted on the latest excimer stepper and its 
+average output is 8W, twice that of the diffraction grating 
+laser currently in use. By providing a narrow bandwidth zone, a 
+rate controlling factor, an obstacle to achieving high NA, can 
+be removed, making it possible to realize an optical system with 
+NA ranging from 0.55 to 0.6 pm. Toshiba has accomplished this by 
+using a newly developed resonator, in which etalon facing two 
+silicon boards is used as a narrow bandwidth zone element. 
+  According to Toshiba's trial calculations, the cost of 
+lasers, along with initial and operational costs, is 
+approximately the same as those incurred when the existing 
+diffraction grating method is used. Reasons for this are as 
+follows: 
+  (1) doubling of the average output improved stepper's 
+processing capability; 
+  (2) laser cost can be held at the same level as that of the 
+diffraction grating laser; 
+  (3) the life-span of laser is about equal to that of the 
+diffracting grating laser. 
+  Since narrow bandwidth zone makes it possible to reduce the 
+degradation of contrast caused by chromatic aberration, lens 
+design can be simplified. Thus a decrease in lens material cost 
+is creating expectations among LSI makers who look forward to 
+have ``the KrF steppers with high NA without paying higher 
+prices.'' 
+
+<FIG ID=JPRS-JST-008LC-31A>           Fig. 1. Spectral Half-Width Below 1 pm </FIG>
+
+
+
+
+
+<FIG ID=JPRS-JST-008LC-31B>           Fig. 2. Prototype Resonator Structure </FIG>
+
+
+
+
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 1. Performance of New KrF Excimer Laser                                | 
+------------------------------------------------------------------------------- 
+|Category                              |Performance                           | 
+------------------------------------------------------------------------------- 
+|Central wavelength(nm)                |248.4                                 | 
+------------------------------------------------------------------------------- 
+|Spectral width(pm)                    |less than 1                           | 
+------------------------------------------------------------------------------- 
+|Wavelength stability(pm)              |below +/-0.25                         | 
+------------------------------------------------------------------------------- 
+|Repeated pulse frequency(pulse/second)|600                                   | 
+------------------------------------------------------------------------------- 
+|Average output(W)                     |8                                     | 
+------------------------------------------------------------------------------- 
+|Average output stability(%)           |below +/-3                            | 
+------------------------------------------------------------------------------- 
+|Pulse-energy(mJ)                      |13.3                                  | 
+------------------------------------------------------------------------------- 
+|Gas life-span([schot])                |4 x 10[.sup]7[/]                    | 
+------------------------------------------------------------------------------- 
+|Beam size(mm)                         |Length 20, width 5 (aspect ratio 4)   | 
+------------------------------------------------------------------------------- 
+|Spreading beam angle (mrad)           |Length 6.35, width 1.26               | 
+------------------------------------------------------------------------------- 
+|Profile uniformity (%)                |Length 7.7 width 5.4                  | 
+------------------------------------------------------------------------------- 
+
+
+<H5>  Reducing Etalon Degradation </H5>
+  In order to realize the performance of KrF excimer laser, 
+Toshiba designed a resonator with a new structure and evaluated 
+it using a prototype device. Unlike existing resonators which 
+introduced total output light into etalon, Toshiba's new 
+resonator is structured to take in partial light through prisms 
+and into the etalon. By minimizing degradation of etalon with 
+this structure, the company was able to achieve a narrower 
+bandwidth region, longer life, and higher output. 
+  The following two factors account for Toshiba's ability to 
+reduce etalon degradation: 
+  (1) the light which enters etalon comprises 20% of 
+the total 
+light output; 
+  (2) the area of light which came through prisms was spread 
+by 
+three-fold on the etalon, which made it possible to lengthen the 
+life of lasers by more than tenfold as compared with the case in 
+which existing etalon method was employed. 
+  The reason why Toshiba was able to realize the narrowed band 
+region was that the etalon consists of two layers. Because of 
+the minimum degree of degradation, it was possible to have this 
+layered structure. 
+  It was possible for Toshiba to increase output to the 
+maximum 
+level simply because it was not necessary to suppress etalon 
+degradation, whereas in the past, the company did not have such 
+freedom, and this fact affected the level of output. 
+

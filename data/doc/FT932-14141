@@ -1,0 +1,89 @@
+FT  20 APR 93 / Survey of A-Z of Computing (6): More help for decision
+makers - . . . For EIS
+or at least, it did once, since it keeps changing. The term is now commonly
+interpreted as Enterprise Intelligence Service or Everybody's Information
+System, embracing wider managerial applications such as budgeting, planning
+and reporting.
+The original idea of an EIS was that top-level directors need a periscope on
+the rest of the world as well as a magnifying glass on internal data. The
+assumption is that the higher the executive, the more of a klutz (ie more
+incompetent) he, or less likely she, is supposed to be when seated at a
+computer keyboard. These IT dunces, however, are expected to know more about
+the entire company than anyone else.
+An EIS therefore has to take information from all available sources inside
+(and outside) the company, distill it, and deliver it in such a way that
+will woo the least IT-confident people in the building. The detail must not
+be blurred: the user must be able to investigate and 'drill down' to the
+component data to examine what lies behind the pretty graphs.
+It is this easy-to-use 'handle' on the information that distinguished the
+EIS from the long-established MIS (Management Information Systems) and DSS,
+Decision Support Systems. Another characteristic supposed to distinguish the
+genuine EIS from other systems is that it links not only with all internal
+data sources, (accounting, sales processing, and so on) but with external
+data sources, such as online database for share prices.
+EIS systems have been around for more than a decade, but have changed, as
+the latest shift in emphasis suggests, according to the prevailing view of
+executive needs. Comshare used to be known for modelling and forecasting
+software: now its Commander system claims to be the leading EIS with more
+than 40,000 users worldwide, many moving off the mainframe to the PC.
+However, a recent survey by EIS software house Cognos found that 70 per cent
+of companies interviewed do not currently use EIS, but 55 per cent believed
+they might help solve poor management and communication.
+Top executives have always had to make far-reaching decisions and hold the
+'big picture' of their companies in their heads. In the past they relied on
+people, not computers, for information.
+Here lies the real expense of installing EIS, not in the computer hardware
+or software, but in the analysis of what information is needed, a job often
+done better by outsiders. Rod Newing, freelance EIS specialist, points out
+that many top managers dislike discussing business strategy with internal IT
+professionals.
+'The point about EIS is that it should enable managers to do things with
+information they couldn't do before. A hefty document specifying
+requirements is a waste of time because the user doesn't know them. The
+important thing is to set up a prototype and get people to use it.'
+The evolution of requirements necessarily demands time from the top people
+who are to use the system. It can be radical in that it often challenges the
+established order of things. Who communicates with whom, and about what,
+defines the structure of organisations, and it is this reporting process
+that is taken apart and rebuilt.
+'The process is valuable in that it challenges assumptions - that can be of
+great value,' says Jon Morgan of Executive Information Solutions. 'The
+resulting EIS can be used to reinforce the new way of working.'
+Companies with EIS projects are often coy about revealing costs, which are
+often high at the start of the cycle, and hard to evaluate when the system
+is running. Chase Manhattan's Global Security Services sector has built an
+EIS using Comshare's Commander, called Managing Service Performance. David
+Da Costa, second vice-president within GSS operations at Chase Manhattan,
+says: 'EIS allows us to manage our service pro-actively and in partnership
+with our clients through the use of service and quality indicators, fed
+directly by our production systems. Its value to us is that it ensures we
+provide a premier service to our clients and differentiates us from our
+competitors.'
+VIEWPOINTS
+Another Commander user, British Steel, has discovered that top executives
+use the system less than expected, and prefer to dip into the database
+rather than use the ready-made screen displays.
+'The costs exceed the benefits as far as top executives are concerned, but
+the next layer down, the middle managers, find it invaluable,' says Richard
+Hewitt, manager of management accounts.
+There are many well-established EIS suppliers such as Acuity, Comshare,
+information Resources, Holistic Systems, Pilot and many others. The
+Softworld exhibition of EIS and Decison Support systems in October 1992
+attracted nearly 30 suppliers, and in four years the show has mushroomed.
+Yet Cognos' survey revealed that a large proportion of companies, 51 per
+cent, use their own DP departments to create EIS systems, and around 80 per
+cent, wrote and implemented their own systems - 'there is a lot of education
+to be done in this field, with companies having limited knowledge about the
+technology, how much it costs, and what business benefits it can bring,'
+comments Paul Hart, Cognos' UK marketing manager. 'It leaves the EIS market
+wide open.'
+Malcolm Harding, marketing director of Holos, sees the market as wider than
+just the top people - 'it's a technology, rather than a marketplace,' he
+says. Holos is now designed for the middle managers, accountants and others,
+not just a few people in the boardroom. For instance, there are as many as
+1,200 users in British Gas.'
+'There is a lot of scepticism about how important the external resources
+are. Lots of people put the tick in the box, but apart from the common use
+of share-price access, we only know of one Holos-user who regularly uses the
+system for the retrieval of text and numeric data, both internal and
+external.'

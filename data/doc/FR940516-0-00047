@@ -1,0 +1,194 @@
+ 
+
+b. ``Digital computers'' not controlled by 4A03 having a ``composite theoretical performance'' (``CTP'') equal
+to or greater than 
+6 million theoretical operations per second (Mtops); 
+c. ``Assemblies'' not controlled by 4A03 that are specially designed or modified to enhance performance by aggregation
+of ``computing elements'' (``CEs''), as follows: 
+c.1. Designed to be capable of aggregation in configurations of 16 or more ``computing elements'' (``CEs''); 
+
+or 
+c.2. Having a sum of maximum data rates on all channels available for connection to associated processors exceeding
+
+40 million Bytes/s;
+
+ 
+
+
+
+
+Note 1: 
+
+4A94.c applies only to ``assemblies'' and programmable interconnections with a ``composite theoretical performance''
+(``CTP'') not exceeding 12.5 million theoretical operations per second (Mtops), when shipped as unintegrated ``assemblies''.
+It does not apply to ``assemblies'' inherently limited by nature of their design for use as related equipment controlled
+by 4A03 or 4A94.
+
+ 
+
+
+
+Note 2: 
+
+4A94.c does not control any ``assembly'' specially designed for a product or family of products with a maximum configuration
+that does not exceed a ``CTP'' of 
+12.5 Mtops.
+
+ 
+
+d. Disk drives and solid state storage equipment: 
+d.1. Magnetic, erasable optical or magneto-optical disk drives with a ``maximum bit transfer rate'' exceeding 25
+million bit/s; 
+d.2. Solid state storage equipment, other than ``main storage'' (also known as solid state disks or RAM disks), with
+a ``maximum bit transfer rate'' exceeding 36 million bit/s; 
+e. Input/output control units designed for use with equipment controlled by 4A94.d; 
+f. Equipment for ``signal processing'' or ``image enhancement'', not controlled by 4A03, having a ``composite theoretical
+performance'' (``CTP'') exceeding 8.5 million theoretical operations per second (Mtops); 
+g. Graphics accelerators or graphics coprocessors, not controlled by 4A03, that exceed a ``3D vector rate''
+of 400,000 or, if supported by 2D vectors only, a ``2D vector rate'' of 600,000;
+
+ 
+
+
+
+Note 1: 
+
+The provisions of 4A94.g do not apply to work stations designed for and limited to: 
+a. Graphic arts (e.g., printing, publishing); 
+
+and 
+b. The display of two-dimensional vectors.
+
+ 
+
+h. Color displays or monitors having more than 120 resolvable elements per cm in the direction of the maximum pixel
+density;
+
+ 
+
+
+
+Note 1: 
+
+4A94.h does not control displays or monitors not specially designed for electronic computers.
+
+
+
+
+
+Note 2: 
+
+Displays specially designed for air traffic control (ATC) systems are treated as specially designed components
+for ATC systems under Category 6.
+
+ 
+
+i. Equipment containing ``terminal interface equipment'' exceeding the limits in 5A91F.
+
+ 
+
+
+
+Note: 
+
+For the purposes of 4A94.h, ``terminal interface equipment'' includes ``local area network'' interfaces, modems
+and other communications interfaces. ``Local area network'' interfaces are evaluated as ``network access controllers''.
+
+ 
+
+38. In Supplement No. 1 to Section 799.1 (the Commerce Control List), Category 4 (Computers) is amended: 
+a. By removing the sub-heading ``Equipment for the development and production of magnetic and optical storage equipment
+as follows.'' immediately following the heading 
+``B. Test, Inspection and Production Equipment'', which follows ECCN 4A96G; and 
+b. By removing ECCNs 4B01A, 4B02A, and 4B03A; 
+c. By adding a new ECCN 4B94F immediately following the heading ``B. Test, Inspection and Production Equipment'';
+and 
+d. By revising the heading of ECCN 4B96G to read as follows: 
+
+ 
+
+
+4B94F 
+
+
+Equipment for the ``development'' and ``production'' of magnetic and optical storage equipment, as described in
+this entry. 
+
+
+
+Requirements 
+
+
+
+
+Validated License Required: 
+
+SZ, Iran, Syria, South African military and police 
+
+
+Unit: 
+
+$ value 
+
+
+Reason for Control: 
+
+FP 
+
+
+GLV: 
+
+$0 
+
+
+GCT: 
+
+No 
+
+
+GFW: 
+
+No 
+
+
+List of Items Controlled 
+
+
+a. Equipment specially designed for the application of magnetic coating to controlled non-flexible (rigid) magnetic
+or magneto-optical media;
+
+ 
+
+
+
+Note: 
+
+4B94F does not control general-purpose ``sputtering'' equipment.
+
+ 
+
+b. ``Stored program controlled'' equipment specially designed for monitoring, grading, exercising or testing
+controlled rigid magnetic media; 
+c. Equipment specially designed for the ``production'' or alignment of heads or head/disk assemblies for controlled
+rigid magnetic and magneto-optical storage, and electro-mechanical or optical components therefor. 
+
+
+
+4B96G 
+
+
+Computer test, production and inspection equipment, n.e.s. 
+
+
+* * * * * 
+
+ 
+
+
+39. In Category 4 (Computers), ECCN 4C01A is removed, a new ECCN 4C94F is added immediately following the heading 
+``C. Materials'', and ECCN 4C96G is amended by revising the heading of the entry to read as follows: 
+
+
+
+
+

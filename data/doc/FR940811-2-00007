@@ -1,0 +1,131 @@
+ 
+
+Federal Information Processing Standards Publication 187
+
+
+
+(Date)
+
+
+
+Announcing the Standard for Administration Standard for the Telecommunications Infrastructure of Federal Buildings
+
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to Section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security act of 1987, Public Law 100235.
+
+
+
+1. Name of Standard. 
+
+Administration Standard for the Telecommunications Infrastructure of Federal Buildings (FIPS PUB 187) (Former
+Draft Federal Standard 1094).
+
+
+
+2. Category of Standard. 
+
+Telecommunications Standard; Telecommunications Administration.
+
+
+
+3. Explanation. 
+
+This standard, by adoption of ANSI/TIA/EIA6061993, Administration Standard for the Telecommunications
+Infrastructure of Commercial Buildings, specifies the administrative requirements of the telecommunications
+infrastructure within a new, existing, or renovated office building or campus. Telecommunications infrastructure
+can be thought of as the collection of those components (telecommunications equipment spaces, cable pathways, grounding,
+wiring, and termination hardware) that provide the basic support for the distribution of all information within
+a building or campus. Administration of telecommunications includes documentation (recordkeeping, drawings,
+labeling, etc.) of telecommunications outlet boxes, connectors, cables, termination hardware, patching and cross-connect
+facilities, conduits, other cable pathways, telecommunications closets, and other spaces.
+
+
+
+
+
+
+
+
+Note: 
+
+Development of ANSI/TIA/EIA6061993, which included Federal Government participation, was a joint
+Canadian/U.S. effort, resulting in the Canadian Standards Association (CSA) publication of the Canadian equivalent
+of the U.S. standard as CSA T528 at approximately the same time as publication of the American National Standard.
+
+
+
+
+
+
+
+
+4. Approving Authority. 
+
+Secretary of Commerce.
+
+
+
+5. Maintenance Agency. 
+
+National Communications System, Office of Technology and Standards.
+
+
+
+6. Related Documents. 
+
+a. Federal Information Resources Management Regulations subpart 20120.303, Standards, and subpart 20139.1002,
+Federal Standards.
+
+b. Federal Standard 1037B, Glossary of Telecommunications Terms.
+
+c. Federal Information Processing Standards Publication (FIPS PUB) 174, Federal Building Telecommunications
+Wiring Standard (Former Draft Federal Standard 1090).
+
+d. Federal Information Processing Standards Publication (FIPS PUB) 175, Federal Building Standard for Telecommunications
+Pathways and Spaces (Former Draft Federal Standard 1091).
+
+e. Federal Information Processing Standards Publication (FIPS PUB) 176, Residential and Light Commercial Telecommunications
+Wiring Standard (Former Draft Federal Standard 1092).
+
+f. Future Federal Information Processing Standards Publication (FIPS PUB), Federal Building Grounding and Bonding
+Requirements for Telecommunications (Draft Federal Standard 1093).
+
+At the time of publication of this standard, the editions indicated above were valid. All publications are subject
+to revision, and parties to agreements based on this standard are encouraged to investigate the possibility of applying
+the most recent editions of these publications.
+
+
+
+7. Objectives. 
+
+The purpose of this standard is to facilitate interoperability and transportability among telecommunication facilities
+and systems of the Federal Government and compatibility of these facilities and systems at the computer-communications
+interface with data processing equipment (systems) of the Federal Government. This standard specifies a uniform
+telecommunications infrastructure administration scheme that is independent of applications, which may change
+several times throughout the life of a building. This standard establishes guidelines for end users, manufacturers,
+consultants, contractors, designers, installers, and facility administrators involved in the administration
+of telecommunications infrastructure.
+
+
+
+8. Applicability. 
+
+This standard shall be used by all departments and agencies of the Federal Government in the administration of the
+telecommunications infrastructure for all new office buildings. Use of the FIPS is recommended for the administration
+of the telecommunications infrastructure within an existing or renovated office building or campus. Existing building
+wiring systems, especially those installed prior to the emergence of digital communications and voice/data integration,
+may not readily accept application of this standard. Modernization of the existing pathway, space, and wiring systems
+to meet the FIPS 174, FIPS 175, and FIPS 176 infrastructure standards may require a significant monetary expenditures.
+Agencies should conduct a thorough facility analysis of existing and renovated buildings to determine the cost of
+applying the standards, and develop a migration plan where cost savings can be achieved. This plan will help to ensure
+timely and efficient completion of the conversion process. The result of following this administration standard
+will be a telecommunications infrastructure that is well documented and easily managed by the administrator over
+the life cycle of the building. This standard is not intended to hasten the obsolescence of telecommunications administration
+procedures currently in use in Federal facilities; nor is it intended to provide systems engineering or applications
+guidelines.
+
+
+

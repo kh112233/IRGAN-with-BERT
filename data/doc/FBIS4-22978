@@ -1,0 +1,31 @@
+Competing   Processes 
+
+<F P=102> 947G0010B Kiev KIBERNETIKA I SISTEMNYY ANALIZ in Russian No. 
+4, Jul 93-Aug 93 (manuscript received 12 Nov 92) pp 144-154 </F>
+
+<F P=103> 947G0010B </F>
+<F P=104>  Kiev KIBERNETIKA I SISTEMNYY ANALIZ </F>
+<F P=105>  Russian </F>
+CSO 
+
+<F P=106> [Article by Yu. I. Kolosova; UDC 519.681:05] </F>
+  [Abstract] The problems of debugging parallel programs are 
+discussed. Metho ds of gathering information by tracing are 
+described. This information is sufficient to begin analysis 
+before one begins debugg ing repeated executions. This article 
+proposes a method of autonomous analysis of these event traces 
+which enables the user to better understand the behavior of the 
+parallel program, reduce the search for errors, and reduce 
+debugging tests. The first sec tion describes a method of 
+forming and using event traces, and includes a consideration of 
+an architecture with shared storage. The creation and use of 
+traces of implicit events are addressed. The second section 
+presents the autonomous analysis method. This method makes it 
+possible to find errors associated with a lack of correlation of 
+interacting processes, processes which are execution 
+time-independent in some parallel intervals, and implicit events 
+which occur when the program is stopped. Competitiv e processes 
+are detected. The method is implemented in Turbo Prolog 2.0. 
+Figures 7; references 14: 2 Russian, 12 Western. 
+
+

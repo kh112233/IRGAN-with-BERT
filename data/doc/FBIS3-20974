@@ -1,0 +1,50 @@
+Language: <F P=105> French </F>
+Article Type:BFN 
+
+<F P=106> [Report signed S.D.: "Rapid ASIC Prototyping for Signal </F>
+Processing"] 
+  [Text] Automatic tools for generating hardware and software 
+prototypes for the emulation of specific circuits -- in other 
+words, "virtual" ASIC's [Application Specific Integrated 
+Circuit] -- are a relatively recent invention. Quickturn Systems 
+and PiE Design Systems which have now joined forces under the 
+name Quickturn Design Systems, have led the way in this field. 
+The British company Inca (purchased last year by Zycad) has 
+turned the spotlight on digital signal processing applications. 
+Last year at the American DAC show it presented the initial 
+results of its work in the development of systems based on 
+digital signal processors (DSP's) carried out in the context of 
+the European ESPRIT project (footnote 1) (The Retides project. 
+Other participants include Philips, Thomson, EDC/Mentor 
+Graphics, and the Catholic University of Louvain). Continuing 
+with this line of work, Zycad is now bringing to market a family 
+of solutions for the rapid prototyping of specific applications, 
+christened Paradigm RP. The first model in this family is aimed 
+at DSP-based designs. This solution therefore makes it possible 
+to test complex designs based on DSP's even before they are 
+implanted onto silicon. These designs have a degree of 
+complexity ranging from 30,000 to 120,000 gates or more and 
+clock speeds in excess of 10 MHz (usually from eight to 15 MHz, 
+although 20 MHz may be possible in some cases). 
+<H5>  Emulation Based on FPGA's [Fixed Programmable Gate Arrays] </H5>
+  The Paradigm RP consists of a software component and a 
+hardware component. The software component is used to draw, 
+partition, compile, check, and debug a logical circuit on a 
+predefined and modular programmable hardware architecture. This 
+hardware component is built around an emulation mother board 
+containing the equivalent of 30,000 gates in the form of Xilinx 
+4010-type programmable gate arrays. Interchangeable daughter 
+boards can be connected to the main module, enabling 
+combinations of FPGA's, RAM, ROM, DSP's, and DSP cores and 
+forming a part of the emulated system. The company says that it 
+will support a range of daughter boards to cover all of the most 
+common DSP applications. 
+  Zycad is banking on this product to quickly take shares in 
+this rapidly expanding market for DSP applications, more 
+precisely in a segment of the DSP market that the American 
+consultancy Forward Concepts calls FASIC (Function and Algorithm 
+Specific IC) and estimated to be worth $1.2 billion in 1994 and 
+$3 billion by 1997. In addition, Zycad specializes in logical 
+simulation accelerators, fault simulation, and VHDL [Very High 
+Description Language] simulation. 
+

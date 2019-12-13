@@ -1,0 +1,87 @@
+FT  26 APR 94 / Survey of A-Z of Computing (6): Pragmatic view prevails -
+Enterprise Computing
+The mainframe is dead: long live the enterprise server.
+Computer manufacturers say organisations are finding that the traditional
+central mainframe does after all have a place in the new world of
+client-server systems and networked personal computers.
+Indeed, although client-server and PC systems initially take work from the
+mainframe, they later give it back even more.
+'Just 12 to 18 months ago, people talked about choosing between mainframes
+and client-server,' says Mr Peter Slavid, corporate systems business manager
+at computer manufacturer ICL.
+'Today, there is a more pragmatic view. People see that the future for
+enterprise and departmental computing lies in making the most appropriate
+and efficient use of both approaches.'
+Mr Slavid says client-server was initially seen as a cheaper approach but
+that this is no longer the case. Several studies over the last 18 months
+support this view. Separate surveys by research firms Xephon, International
+Technology Group and Ideas International conclude that in systems supporting
+200 users the mainframe cost per user in equipment, software and staff is
+40-50 per cent less than the networked PC cost.
+The Xephon research shows mainframe systems are also 25 per cent cheaper
+than client-server systems based on minicomputers.
+Mr Barry Graham, a consultant working on the Xephon research, says the
+increasing automation of mainframe operations and the falling costs of
+processing power, running at around 10 per cent a year, mean mainframes are
+becoming even more attractive.
+'PC networks in particular were not designed for 100 people doing
+complicated things,' he says. 'As you add users, you get queues, so you put
+in more powerful file servers and other processors, so the costs increase.
+With mainframes the reverse happens.'
+The argument here is that mainframes are designed to handle large numbers of
+users running big systems with fast access to big databases, so up to a
+point users can be added without increasing the costs.
+Researchers also point to hidden costs and other issues related to
+distributed client-server and networked PC systems. These include the time
+spent by office staff on running their systems instead of doing their own
+work - put at 10 per cent of their time, including training, by research
+firm Gartner Group. There are issues of file back-up, security, viruses,
+unauthorised use of pirated software products and other matters which a
+central mainframe operation, manned by specialist staff, deals with as a
+simple routine.
+Once the costs and issues are appreciated, the mainframe versus
+client-server debate disappears and the right combination of the two
+approaches can be selected, says Peter Slavid at ICL.
+First, organisations remove from the mainframe the jobs that it is not good
+at, such as word processing, plus applications which are truly departmental
+systems. The mainframe workload initially declines. But, as end-users get
+more and more of their own systems and their networks expand, the problems
+of handling large volumes of data and managing big networks arise, problems
+which mainframe data centres are used to handling.
+So the mainframe's workload increases again, albeit in a different
+direction, especially towards managing data. It becomes the enterprise
+server in the client-server set-up, running the corporate databases.
+Meanwhile, there are established corporate systems which the mainframe will
+continue to run, at least for the time being.
+'Most businesses are highly dependent on applications which have been
+carefully built over the last 10-20 years,' says Mr David Heap, a consultant
+at IBM.
+'These are often called legacy applications, implying that they are
+inflexible, of little value and soon to be replaced. I prefer to call them
+trusted applications. They may lack flexibility but they provide the basic
+information used to run the business.'
+The dependence on 'legacy systems' is reflected in various surveys on
+mainframe use. The research group, IDC last year found that over 80 per cent
+of organisations planned to continue running mainframes. Even so, half of
+those said new systems would be installed primarily on other equipment,
+mainly Unix machines.
+IDC concluded that 'traditional mainframes are not dead but they will become
+a dead end'.
+However, although mainframe use is apparently not declining significantly,
+the suppliers' mainframe revenues are. Peter Slavid at ICL says revenues
+from mainframes are falling by 10-15 per cent a year, yet the technology
+performance is increasing at about the same rate, so the amount of mainframe
+power in use is staying fairly stable.
+In addition, both ICL and IBM say organisations are increasingly merging
+data centres, saving money by running the same amount of work on fewer
+machines and with fewer staff.
+'Falling revenues can mean cuts in research and development but these are
+offset by other developments,' says Peter Slavid. 'Manufacturers are
+increasingly using commodity components. They are moving to open systems in
+their operating systems. In addition they are introducing specialist add-on
+processors, for example for database management. All these developments
+maintain the improvements in price performance.'
+Mr Slavid takes up the point about established 'legacy' systems and
+concludes where he started, with pragmatism: 'Most big critical business
+systems will continue to be run on the mainframe, if only for one simple
+reason: it works.'

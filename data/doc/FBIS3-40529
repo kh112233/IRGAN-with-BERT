@@ -1,0 +1,305 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Katsuki Yamashita] </F>
+  [Text] 1997 Is Deadline for Electric Car Development; Goal 
+is Ni-MH Battery But Lead Is Realistic 
+  Automakers have begun concentrated efforts to develop 
+electric vehicles in time for their fall 1997 product 
+announcement. This is in response to new emissions regulations 
+in the state of California in the United States that will begin 
+in 1998. There is less than four years until that deadline. 
+Manufacturers of batteries, semiconductors and motors will be 
+involved. A serious problem for the automakers is the secondary 
+battery. They want an advanced type of battery with high energy 
+density. The top candidate is a nickel-hydrogen battery, but 
+there are a mountain of problems to overcome to develop a 
+practical model. It is likely that they will start with a lead 
+battery, which has low energy density but has a record of safety 
+and reliability. There is also hope for an Li-based battery in 
+the 21st Century. 
+  The deadline for developing electric vehicles is the fall of 
+1997. Not much time is left. In the state of California in the 
+United States, the new emissions regulation bill (the new clean 
+air law) will go into effect in 1998. This regulation obligates 
+each manufacturer to ensure that 2% of the total number of 
+vehicles it sells are ``zero emission cars,'' and realistically 
+speaking, these are electric vehicles (see Figure 1). Automakers 
+probably will unveil electric vehicles responding to this 
+regulation in the fall of 1997. 
+
+
+  This regulation will apply to automakers that sold 35,000 
+vehicles per year in California. That means that each 
+manufacturer must sell a minimum of 700 electric vehicles. 
+Automakers that do not meet this regulation will penalized 
+heavily. Under the bill that was in force in 1992, the penalty 
+was only a fine of $5,000 for each vehicle under the 2% 
+minimum. The penalty was changed as a result of a review of the 
+1992 law, however, and now, automakers that cannot meet the 
+regulation will not be able to sell any gasoline vehicles in 
+California for the next year. 
+  Furthermore, this action will not stop with California 
+alone. 
+It is expected to expand to the eastern states in the future. 
+For this reason, automakers are forced to make concentrated 
+efforts to develop electric vehicles. They also are obligated to 
+sell hybrid cars that jointly use internal combustion engines 
+and motors (see Figure 1). 
+  Normally, automakers take four to five years to develop a 
+new 
+gasoline vehicle. They cannot meet the deadline if the basic 
+design is not already firmed up. At the 30th Tokyo Motor Show, 
+automakers displayed not only electric vehicles that were 
+converted from gasoline vehicles, but also electric and hybrid 
+vehicles that were newly designed from the chassis on up (see 
+Figure 2 [omitted]). 
+  However, everyone involved with electric vehicles says, 
+``The 
+electric vehicles that will be presented in the fall of 1997 
+will be different from this exhibition.'' According to Honda 
+Motor Company, ``Development of electric vehicles to be sold in 
+California in 1998 is being done in earnest apart from those 
+exhibited here.'' Beneath the surface, tension is growing in the 
+development of electric vehicles that actually will be sold. 
+
+<FIG ID=JPRS-JST-007LC-56A>  Figure 1. Electric Vehicle Introduction Schedule Under California's Clean Air Law </FIG>
+
+<H5>  Storage Battery Breakthrough Essential </H5>
+  Electronics manufacturers play a big role in the development 
+of electric vehicles. This is because the secondary battery 
+(storage battery) and semiconductors for motor and power use are 
+important technologies that make up the electric vehicle. 
+Automakers have brought in manufacturers of batteries, 
+semiconductors and motors to begin developing electric vehicles. 
+  Of these technologies, the storage battery is a serious 
+bottleneck to popularization of the electric vehicle. According 
+to a major battery manufacturer, ``A number of electric vehicle 
+storage battery development projects are in progress in 
+partnership with automakers.'' 
+  This is because storage battery performance decides a 
+vehicle's basic performance, including acceleration and the 
+distance the vehicle can travel on one charge. If a high energy 
+density storage battery is developed, it will increase the 
+distance traveled per charge. If output density (maximum power 
+per unit weight that can be extracted instantaneously from the 
+battery) can be raised, acceleration performance will improve. 
+The automakers' minimum requirements are 70Wh/kg weight energy 
+density, 130 W/kg output density and a cycle life of over 1,000 
+cycles (see Table 1). 
+
+
+  In addition, the safety condition of ensuring that shock to 
+the battery will not cause an outbreak of fire is indispensable. 
+Problems with reliability, such as battery capacity decreasing 
+as a result of over-charging, also must be resolved. Eliminating 
+the need for maintenance work, such as electrolytic solution 
+replenishment, also is an important point. 
+<H5>  MITI Standardizes Five Items </H5>
+  High cost is another factor that hinders popular use of 
+electric vehicles. To promote cost reduction, MITI has compiled 
+five standard specifications for batteries and chargers. 
+  First, concerning lead (Pb) batteries: Dimensions and 
+nominal 
+voltage are not set. What has been standardized is voltage 
+regulation, which has been set at 80 - 140% of nominal 
+voltage. 
+  Second, concerning communication protocol between charge 
+stand and electric vehicle: When the charger is inserted, seven 
+control signals are to be sent from the electric vehicle to the 
+charger. They include signals to start or stop charging, whether 
+the charger connector is connected properly, etc. 
+  Third, concerning the charger connector: At this time, 
+contact type connection has been made the standard. The method 
+of charging without contact by using electromagnetic guidance, 
+as proposed by General Motors Corporation of the United States, 
+has not been addressed. It is possible that both methods will 
+become standard in the United States. 
+  MITI also set standards for charger and charge stand, but 
+the 
+details have not been released. The Japan Electric Vehicle 
+Association plans to compile the standards in a book that will 
+be published in January 1994. 
+
+<FIG ID=JPRS-JST-007LC-57A>           Table 1: Candidates for Electric Vehicle Storage Battery </FIG>
+
+<H5>  Closed Type Pb Battery Most Likely for Fall 1997 </H5>
+  At present, the open type Pb batteries installed in electric 
+vehicles that are converted gasoline vehicles need maintenance 
+such as electrolytic solution replenishment. ``We cannot ask the 
+general consumer to use the vehicle under such conditions,'' 
+says the Japan Storage Battery Company. Battery manufacturers 
+are working to develop a closed type Pb battery, and already 
+have mounted one in an electric vehicle for experimental 
+purposes. 
+  Many battery manufacturers think that this closed type Pb 
+battery is ``the most likely candidate for the electric vehicle 
+battery that will appear in the fall of 1997.'' This is because, 
+while its weight energy density of about 30 to 35 Wh/kg is low 
+and its cycle life of around 400 cycles is short, it is a 
+``balanced battery'' with high safety and reliability, according 
+to the Japan Storage Battery Company. 
+  Nevertheless, since this energy density limits the use of 
+electric vehicles, it is not good enough to keep up with the 
+California regulation. 
+  The distance traveled per charge of the existing closed type 
+Pb battery, when loaded with about 200 kg and operated over 40 
+km of level ground, is about 75 km. At this rate, it can only be 
+used when the distance to be traveled per day is known in 
+advance, such as by dispatched freight delivery vehicles, trash 
+collection vehicles, or vehicles used for commuting when one way 
+is under 30 km. Says Matsushita Battery Industrial Company, 
+``The 2% minimum probably can be met by using the close 
+type Pb 
+storage battery in the first year under the new regulation, 
+1998, by selling to a limited market. From 1999 and thereafter, 
+however, sales beyond those to a limited market will be needed, 
+and that would be tough to do with the closed type Pb battery. 
+The automakers say they want the distance traveled per charge to 
+be at least 160 km.'' 
+  That is why development is underway to improve energy 
+density 
+and cycle life. Goals for improvement by 1997 are 45 Wh/kg 
+weight energy density and a cycle life of 1,000 cycles. 
+<H5>  Hopes Pinned to Ni-MH Battery </H5>
+  However, even if these goals are achieved, the closed type 
+Pb 
+battery will not reach the energy density required by the 
+automakers. 
+  That is why work is being done to develop advanced batteries 
+with higher energy density than the closed type Pb battery. 
+There are many candidates. These include the Ni-based Ni-Cd 
+battery and nickel-hydrogen battery, the Li-based lithium ion 
+battery that has started to be used recently in portable 
+equipment, and Na-based batteries. All the advanced batteries 
+carry unresolved problems, however, and none can be put to 
+practical use right away. 
+  The most hope is being pinned on the Ni-based battery. Even 
+now, its weight energy density is about 60 Wh/kg, about double 
+that of the closed type Pb battery, and it meets the 
+requirements of the automakers in output density and cycle life 
+as well. 
+  Expectations are especially strong in the United States. The 
+United States Advanced Battery Consortium (USABC), formed mainly 
+by U.S. automakers, is concentrating research on the 
+nickel-hydrogen battery with a view toward 1997. The battery 
+will be developed by the Ovonic Battery Company of the United 
+States (see Figure 3 [omitted]). In Japan, research is being 
+done by the Furukawa Battery Company, Matsushita Battery 
+Industrial Company and Sanyo Electric Company. 
+  However, battery manufacturers who cite the closed type Pb 
+battery as the best candidate for the vehicle to be presented in 
+1997 cite the high cost of the nickel-hydrogen battery as a 
+problem. Says a certain battery manufacturer, ``It may be almost 
+double the weight energy density as the Pb battery, but it is 
+three to four times the cost.'' It also has problems with 
+reliability. Temperature rises in the battery during charging 
+and discharging, which shortens its charge/discharge cycle life. 
+``Research on suppressing heat is needed. It does not meet the 
+requirements fully yet,'' says Matsushita Battery. 
+<H5>  The Ideal Li-Based Battery in 10 Years </H5>
+  Battery manufacturers that see the close type Pb battery as 
+the best with which to start also see the Li-based battery as 
+the advanced battery that will replace the closed type Pb 
+battery. Manufacturers that see the nickel-hydrogen battery as 
+promising also predict that the Li-based battery will succeed 
+the nickel-hydrogen battery. 
+  The attraction of the Li-based battery is its high energy 
+density. There is no other material that can be used for a 
+secondary battery that would raise energy density higher than 
+lithium. It can raise weight energy density to about 180 Wh/kg. 
+Calculated in terms of distance traveled per charge, this is 340 
+km. When realized, it can be expected to perform on a par with a 
+gasoline vehicle. 
+  It will be well into the future before actual use of the 
+Li-based battery. ``It probably will be realized in 10 years, 
+not in this century,'' says Thomas W. Evernham, senior vice 
+president of the U.S. firm Delco Electronics, which is 
+responsible for the motor and battery used in the electric car 
+``Impact'' that was developed by the General Motors Corporation 
+of the United States. Many Japanese battery manufacturers share 
+that view. Japanese research on the Li-based battery began in 
+FY92 in the ``dispersion type battery power storage technology'' 
+project, a 10-year project under the New Sunshine Project. The 
+Li-based battery is a long-term R&amp;D them for USABC as well. 
+<H5>  A Mountain of Problems with Li-Based Battery </H5>
+  R&amp;D has only just begun on the Li-based battery and 
+there are 
+a mountain of problems. First, serial/parallel connection of 
+multiple cells is difficult. When multiple cells with dispersed 
+capacity are connected, some cells become over-charged or 
+over-discharged. As a result, the battery electrolyte, an 
+organic solvent, may leak out and ignite. 
+  It is said that in the future, the electric vehicle will 
+need 
+around 200 to 300V output voltage. If lithium ion secondary 
+batteries with 3.6V output are used, this would mean a serial 
+connection of almost 100 cells. Parallel connection will be 
+necessary to gain capacity. At present, only three parallel 
+connections of three-cell serial connections has been achieved 
+even for portable equipment. Moreover, large cells with multiple 
+A capacity have yet to be manufactured. 
+  Work is being done to develop a lithium secondary battery 
+that uses a solid electrolyte instead of an organic solvent 
+electrolytic solution in order to avoid the danger of fire or 
+explosion. Use of a solid electrolyte will increase safety. 
+However, this makes it difficult to achieve large capacity, and 
+it also has less output density. 
+<H5>  Specific Uses of Na-S Battery Possible </H5>
+  R&amp;D also is proceeding on advanced batteries other than 
+nickel-hydrogen and Li-based batteries. Each one has serious 
+problems in practical application, however, and would have 
+difficulty in replacing the Pb battery as the most popular 
+battery. 
+  The Na-based battery is under intense development in 
+Germany. 
+Because its operating temperature is high (350C), it must 
+be heated before use. Once it cools down, it takes time before 
+it is heated up again. ``It is not for the Sunday driver who 
+drives only once a week, but it probably can be used for 
+vehicles that run every day and can maintain the necessary 
+temperature, such as delivery vehicles,'' says the Yuasa 
+Corporation. Another problem is that experiments cannot be 
+conducted on this battery in Japan. There is a legal restriction 
+in the Fire Services Law that prohibits the loading of sodium 
+and sulfur together over a specified quantity. 
+  However, an advantage of the Na-based battery, according to 
+the Yuasa Corporation, is that ``The 350C operating 
+temperature ensures that there will be no output density drops 
+or deterioration of life of the battery due to the cold.'' 
+Furthermore, the weight energy density of the Na-S battery is 
+100 Wh/kg, almost triple that of the Pb battery. Resources are 
+abundant, also. Thus the Swiss firm Asea Brown Boveri (ABB) is 
+working on the Na-S battery and AEG Anglo America AG, with the 
+backing of the German firm Daimler-Benz, is working on an 
+Na-NiCl battery (the zebra battery). Daimler-Benz, BMW 
+(Bayerische Motoren Werke) and Volkswagen already have test 
+manufactured electric vehicles in which these batteries have 
+been installed, and have tested them on public roads. 
+  As for the Ni-Cd battery, which is widely used for portable 
+equipment, limited cadmium resources is a problem. Deposits 
+contain only enough cadmium for about 30 million electric 
+vehicles. 
+  Other Ni-based batteries are the Ni-Fe and Ni-Zn-based 
+batteries. Both have serious problems. The Ni-Fe battery cannot 
+be sealed and therefore requires electrolyte replenishment and 
+other maintenance. The Ni-Zn battery has high energy density, 
+but is short-lived. 
+<H5>  Regulation To Be Reviewed in 1994 </H5>
+  ``The current situation resembles the one in 1973,'' says a 
+major storage battery maker. In 1973, legislation that 
+strengthened emissions regulations was promulgated in 
+California, and automakers were forced to respond. Japanese 
+automakers met these regulations, but U.S. automakers were 
+unable to do so, and enforcement was postponed for one year. It 
+is possible that this time as well, enforcement may be postponed 
+if advanced batteries cannot be developed by 1998. It also is 
+possible that the many hybrid cars that were exhibited at the 
+recent Tokyo Motor Show may initially be approved in place of 
+non-polluting vehicles. The recent legislation is reviewed every 
+two years, and the next review will be in 1994. 
+Bibliography 
+  Takano; ``Electric Vehicle Development Accelerated, from 
+Experimental to Era of Practical Use,'' NIKKEI ELECTRONICS, 11 
+Nov 91, No. 540, pp 213-219. 
+

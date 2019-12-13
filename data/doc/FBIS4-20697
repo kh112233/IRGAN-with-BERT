@@ -1,0 +1,423 @@
+System 
+<DATE1>  25 April 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
+<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<H4>    JAERI Database Development </H4>
+
+<F P=102> 94FE0122B Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+13-18 -- FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0122B </F>
+<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
+<F P=105>  Japanese </F>
+CSO 
+
+<F P=106> [Article by Yasuyuki Kikuchi] </F>
+  [Text] 
+<H5>  1. Current State of Database Maintenance at JAERI </H5>
+  JAERI stores the results of its research in various 
+databases. A report of a study carried out in March 1989 
+revealed that JAERI maintained roughly 80 such databases. The 
+information contained in these databases ranges from that on 
+basic research fields to safety research and large-scale 
+projects on nuclear fusion. 
+  However, most of these databases are used to store 
+memorandums on in-house research, to collect data required to 
+advance in-house research efforts and/or to serve as records of 
+operational activities. Very few of these databases were created 
+with the purpose in mind of allowing outsiders to access and use 
+the results of JAERI's research. 
+  This situation has created discontent among those outside 
+JAERI who find it difficult to use the results of JAERI 
+research, and this in turn raised the specter of declining 
+evaluations of JAERI as a research institute. Therefore, in 
+1988, JAERI set up a working group inside its Computing Center, 
+and for the next two years this group studied the current state 
+of database maintenance at JAERI, database requirements both 
+inside and outside of JAERI, and those databases that should be 
+upgraded to make them accessible to outside researchers as well 
+as the system for accomplishing this. 
+  This working group established conditions on which JAERI 
+could base decisions for upgrading its databases. These 
+conditions are: 
+  (1) data available only to JAERI (Originality); 
+  (2) data clearly collated via the research capabilities of 
+JAERI, and which are of benefit to all researchers 
+(Universality); 
+  (3) data that JAERI, as an independent research organ, 
+should 
+make available to outside users (Neutrality). 
+  It was also determined that database selection should stress 
+the degree of need as well as JAERI's development capacity. The 
+working group concluded that it would be impossible for JAERI to 
+undertake all the work involved in upgrading its databases on 
+its own, and recommended that a full-time organization be 
+established for this purpose. 
+  Based on these findings, JAERI has continued to strive to 
+upgrade its databases, but personnel and budget restrictions 
+have made it impossible to keep work moving ahead on schedule. 
+However, certain databases with high priorities have already 
+been upgraded and are being accessed and used by outside 
+researchers. JAERI is also putting together a system that will 
+enable its Information Systems Center to maintain and manage 
+databases and computer codes capable of being utilized by 
+outside parties. 
+  I would like to introduce here a number of JAERI databases 
+that currently offer good possibilities for outside use. These 
+include databases on nuclear fusion experiments (Originality); 
+databases containing nuclear data and atomic molecule data 
+(Universality); and a PA database, food irradiation database and 
+an emergency technical advisory support system database 
+(Neutrality). I will not discuss JPDR dismantling data or 
+comprehensive data on materials, since these topics are dealt 
+with in a separate article. 
+<H5>  2. Nuclear Fusion Experiment Databases </H5>
+<H5>  2.1 Overview </H5>
+  At present, the goals of nuclear fusion experiments include 
+using experimental data to clarify the transport phenomenon 
+inside plasma; discovering methods for generating higher 
+performance plasma; and designing a nuclear fusion reactor based 
+on this knowhow. JAERI has constructed the following three types 
+of databases to help it achieve these goals. 
+<H5>  2.2 Contents of Databases </H5>
+<H5>  (1) Experiment Databases </H5>
+<H5>  * JT-60 Experiment Database </H5>
+  This database contains information related to experiments 
+conducted using the JT-60 critical plasma testing device, and is 
+actually comprised of four individual databases: 
+  [1] a measurements database; 
+  [2] a system database (data related to plasma control); 
+  [3] a neutral particle heat database; 
+  [4] a high frequency heat database. 
+  A single shot experiment generates 10MB of data, and the 
+JT-60 experiment database comprises data accumulated from 
+experiments totaling roughly 20,000 shots. 
+<H5>  * JFT-2M Experiment Database </H5>
+  This database is used to store experiment data derived from 
+JAERI's medium-size high-performance JFT-2M Tokamak development 
+testing device. The contents of this database are similar to 
+those of the JT-60 database. Each single shot experiment 
+generates about 50KB of data, and the JFT-2M experiment database 
+holds roughly 50,000 shots worth of experimental data. 
+<H5>  (2) Refined Experiment Databases </H5>
+  These databases refine the above described experiment 
+databases to meet utilization objectives. 
+<H5>  * DARTS </H5>
+  This system comprises retrieval databases (up to 6KB per 
+shot) and tools for retrieving data from the huge JT-60 
+database. A retrieval database is a database that extracts data 
+characteristic of experiment shots from an experiment database. 
+<H5>  * H Mode Database </H5>
+  High efficiency containment modes (H modes) are occurring 
+experimentally as containment modes during Tokamak plasma 
+heating. This database edits data related to H mode experiments 
+taken from the JFT-2M experiment database. 
+<H5>  (3) JT-60 Experiment Analysis Databases </H5>
+  JAERI developed the ADAM database to handle large-scale 
+simulations of experimental data. This database comprises [1] a 
+magnetofluid equilibrium database, [2] a Tokamak transport 
+analysis code input database, and [3] a Tokamak transport 
+analysis code output database. 
+<H5>  2.3 Retrieval and Utilization Methods </H5>
+  Basically, the above databases are configured into tree 
+structures consisting of huge lists of shot numbers. Users can 
+obtain desired data simply by inputting the shot number and ID 
+name. The database management system (DBMS) was developed 
+entirely in-house. 
+  Of the above described databases, portions of the data 
+contained in DARTS has been released and can be accessed via a 
+magnetic nuclear fusion database at the University of Texas in 
+the United States. Also, portions of the JFT-2M H mode database 
+have been registered and are open to the public via the 
+Supercomputer Center at the Livermore National Research 
+Institute in the United States, where databases on H modes in 
+the world's six Tokamak devices are stored. None of the other 
+databases have been made available for public use yet. However, 
+JAERI has taken the occasion of joint Japan-U.S. research on 
+nuclear fusion to begin studying ways to open these other 
+databases to the public as well. 
+<H5>  3. Nuclear Data </H5>
+<H5>  3.1 Overview </H5>
+  As used here, nuclear data refers primarily to various data 
+related to reactions between neutrons and atomic nuclei required 
+for atomic reactor computations, i.e. nuclear reaction cross 
+sections and angular distributions, etc. It also includes 
+reaction data on charged particles and photons, as well as 
+nuclear structure and karyolysis data. 
+  This data was obtained via experiments, and there tend to be 
+discrepancies and errors between the experimental values. There 
+are also certain nuclear species and energy domains for which 
+there are no experimental values. This data, therefore, is not 
+suitable for reactor computations as-is. To make it suitable, it 
+is necessary to study the experimental values in detail and 
+select the correct ones, and where there are no experimental 
+values, to make good use of nuclear reaction theory and systems 
+to assign unique recommendation values that cover the entire 
+energy domain for all required physical quantities. This work is 
+known as evaluating nuclear data, and nuclear data that has been 
+evaluated in this way is referred to as evaluated nuclear data. 
+And when this evaluated nuclear data is compiled into a 
+fixed-format database, it is referred to as an evaluated nuclear 
+data library. An evaluated nuclear data library is the ultimate 
+goal for nuclear data. Users then process this nuclear data to 
+meet their own objectives, and utilize it in the form of group 
+constants. 
+  The evaluation of nuclear data has to start with the 
+retrieval of huge amounts of experimental data. For this reason, 
+international cooperation is vital. Therefore, a network of four 
+neutron nuclear data centers was established in the 1960's. 
+These four centers are located in four different regions of the 
+world, and individual international centers were set up to take 
+responsibility for the operation of these respective neutron 
+nuclear data centers (the international center for Japan is 
+called the NEA Databank). This system enables experimental data 
+and bibliographic databases generated in the respective areas of 
+responsibility (AORs) to be shared via the network, and serviced 
+within the respective AORs. 
+  In Japan, JAERIs Nuclear Data Center, with the cooperation 
+of 
+the SIGMA Committee, was developed into the Japanese Evaluated 
+Nuclear Data Library (JENDL). 
+<H5>  3.2 Contents </H5>
+  Nuclear data is the most widely utilized data of all the 
+data 
+stored in JAERI's databases. Let's discuss the principal kinds 
+of data currently being managed by the Nuclear Data Center. 
+<H5>  * NESTOR 2 </H5>
+  This is an experimental value database, and was constructed 
+by converting data obtained from the NEA Databank into an 
+original JAERI database. This database currently holds 
+approximately 2.5 million data elements. 
+<H5>  * JENDL </H5>
+  This is Japan's standard evaluated nuclear data library, and 
+is an encyclopedia of the results of Japan's nuclear data 
+activities. The latest version of this library, JENDL-3, 
+contains data on 324 nuclear species, and approximately 980,000 
+data records. 
+  And in addition to these general files, JENDL is also in the 
+process of becoming the repository for special purpose files 
+containing evaluated data on dosimetry, gas generation, 
+activation, (a,n) reactions, nuclear fusion neutron engineering, 
+actinides, photonuclear reactions, kerma (phonetic) and high 
+energy. 
+<H5>  * JNDC FP Karyolysis Data Library </H5>
+  This is a data library for FP karyolysis heat computations, 
+and is another major achievement of the SIGMA Committee. The 
+latest version of this data library contains data on 1,227 
+nuclear species, and roughly 9,500 records. 
+<H5>  * ENSDF </H5>
+  This is an evaluated nuclear structure/karyolysis data 
+library, and under the auspices of the IAEA, JAERI received 
+international cooperation in evaluating the data contained 
+herein by mass number. Evaluation allotment in Japan worked out 
+to A = 188-127, and as a database, the ENSDF data library 
+contains approximately 880,000 records covering all mass numbers. 
+<H5>  3.3 Retrieval and Utilization Methods </H5>
+  There is no need for a complicated DBMS since nuclear data 
+is 
+generally used by nuclear species and by reaction. 
+  Data stored in JENDL et al. as evaluated data is saved to a 
+data retrieval system where users can call this information up 
+to their display screens by specifying in an interactive mode 
+the nuclear species name and reaction name. They can also view 
+numerical data in this way. Users are capable, therefore, of 
+using all the evaluated data stored at the Nuclear Data Center. 
+  Beginning with JENDL, all the nuclear data maintained by the 
+Nuclear Data Center is available to the public. Those wishing to 
+utilize this data need only fill out a specified application 
+form and submit it to the Nuclear Data Center in order to access 
+its databases. 
+<H5>  4. Atomic Molecule Data </H5>
+<H5>  4.1 Overview </H5>
+  The atomic molecule data maintained at JAERI's Nuclear Data 
+Center is related to nuclear fusion plasma. More specifically, 
+this data consists of: 
+  1) collision process data such as ionization cross sections 
+and charge transfer cross sections of ions and atomic molecules 
+in plasma, 
+  2) data on the interaction of particles in the plasma with 
+the first wall and the diverter, 
+  3) ion spectral data for identifying impurities in plasma. 
+  There is no network for bibliographic or experimental data 
+for atomic molecule data like the four international centers 
+established for nuclear data, which means that researchers must 
+search for experimental data on their own. However, a system has 
+been put together recently under the auspices of the IAEA for 
+international cooperation in evaluating atomic molecule data. 
+This system is called the ALADDIN network system, and Japan is 
+contributing data to this system. 
+<H5>  4.2 Contents </H5>
+  The following databases are currently being managed by the 
+Nuclear Data Center. 
+<H5>  * Bibliographic Data </H5>
+  JAERI, in cooperation with IAEA and ORNL, has been storing 
+bibliographic data since 1987. 
+<H5>  * AMSTOR </H5>
+  This is an atomic molecule experiment database that stores 
+roughly 80,000 records. 
+<H5>  * JEAMDL </H5>
+  This is an evaluated atomic molecule data library. In 
+response to increasing requirements for this information, this 
+database has been expanded to include JEAMDL-1, -2 and -3. JAERI 
+is currently in the process of constructing JEAMDL-4 using data 
+requested from ITER and FER. 
+  Roughly 180,000 data elements are stored in JEAMDL-3 
+consisting of evaluated data on approximately 300 types of 
+collision processes involving H, H2, He, Li and ion impurities, 
+plus Ti-Cu, Kr and Mo ion spectral data and elementary process 
+data on particle recycling. 
+<H5>  4.3 Retrieval and Utilization Methods </H5>
+  The DBMS for atomic molecule data is a very simple system 
+similar to the one for nuclear data. Persons wishing to utilize 
+atomic molecule databases can do so simply by applying to the 
+Nuclear Data Center. 
+<H5>  5. STA's Nuclear Power PA Database </H5>
+<H5>  5.1 Overview </H5>
+  The importance of nuclear power is beyond doubt, and for 
+that 
+reason people must possess an accurate understanding of it. This 
+makes the communication of accurate information on nuclear power 
+imperative. However, nuclear power-related information is 
+diverse, to the extent that even the experts are incapable of 
+knowing all there is to know. This leads to instances where 
+misleading and/or contradictory information gets circulated, 
+raising the fear that people will become suspicious and 
+distrustful of nuclear power. 
+  In order to rectify this situation, the Science and 
+Technology Agency (STA) commissioned JAERI to develop a nuclear 
+power PA database containing accurate information on nuclear 
+power and related issues that can be retrieved via 
+telecommunications lines. Since this database is to serve as a 
+kind of electronic encyclopedia on nuclear power, and as such, 
+will contain various and diverse information, to ensure 
+accuracy, JAERI is coordinating the documents and other 
+materials and editing the contents of the database in 
+cooperation with the National Institute of Radiological Sciences 
+(NIRS), the Power Reactor and Nuclear Fuel Development 
+Corporation (PNC), the Japan Atomic Industrial Forum Inc. 
+(JAIF), the Japan Nuclear Power Culture Promotion Foundation and 
+the Nuclear Power Safety Research Association. 
+  For the time being, JAERI feels that users of this database 
+will be more or less limited to government officials, PA 
+instructors/lecturers, educators and others closely involved in 
+nuclear power PA. 
+  Development of this database got underway in 1989, and the 
+first stage of construction is scheduled to be completed this 
+year. 
+<H5>  5.2 Contents </H5>
+  This database is configured in a tree structure that 
+cascades 
+down from general to intermediate to specific items and finally 
+to the various details concerning these items. The detailed data 
+comprise titles, summaries, keywords, texts, diagrams, and 
+reference materials. 
+  General items of information consist of the following 16 
+items: 1) energy, 2) electric power, 3) national policies and 
+plans concerning nuclear power, 4) nuclear power generation 
+technology and its current status, 5) nuclear fuel cycle 
+technology and its current status, 6) nuclear reactor 
+obsolescence devices, 7) nuclear power safety regulations, 8) 
+operation management data, 9) nuclear power safety research, 10) 
+new uses for nuclear power, 11) radiation, 12) international 
+cooperation, 13) public opinion, 14) overseas trends, 15) Q&amp;A 
+and 16) supplementary data. In editing this data, JAERI is 
+taking care to contribute to users' decisions by making the 
+bibliographic data readable and easy-to-understand (complete 
+with diagrams), avoiding a PA style and stating facts. Overall, 
+approximately 1,500 titles are being input into this database, 
+along with roughly 2,400 diagrams and about 300 reference works. 
+<H5>  5.3 Retrieval and Utilization Methods </H5>
+  The three main methods of retrieval capable with this 
+database are: 
+  1) vertical retrieval whereby you retrieve displayed menus 
+sequentially beginning with general items, 
+  2) word retrieval whereby retrieval is accomplished by 
+inputting the appropriate words, 
+  3) retrieval via the serial numbers (structural numbers) for 
+each title. 
+  Retrieval is achieved using a personal computer or dedicated 
+word processor, communications software and ordinary telephone 
+lines. Retrieved data is either saved to a floppy disk or 
+printed out using a printer. Diagrams incorporated into the data 
+can be obtained via a facsimile machine. 
+  Since this database is currently being operated on a trial 
+basis, usage is limited to individuals registered with JAERI. 
+But JAERI is in the process of hooking its mainframe computer up 
+to a domestic packet-switched network, and plans to make the 
+database public by April, 1994. 
+<H5>  6. Emergency Technical Advisory Support System: COSTA </H5>
+<H5>  6.1 Overview </H5>
+  In the unlikely event an accident should occur at a nuclear 
+power plant, and it should impact or threaten to impact on the 
+surrounding community, an emergency technical advisory 
+organization (hereafter referred to as the advisory team), 
+established by the Nuclear Safety Commission and comprised of 
+nuclear power specialists will be called in to give a broad 
+range of advice on everything from problems inside the plant to 
+environmental impact evaluations and safeguard activities. In 
+support of these advisory activities, JAERI was commissioned by 
+the STA to develop a computer-based emergency technical support 
+system called COSTA. JAERI's Emergency Systems Laboratory 
+commenced work on COSTA in 1985. 
+  Of the data required by the advisory team, COSTA is used 
+primarily to rapidly access the following information concerning 
+the inside of nuclear power plants: 
+  a) edited graphs and tables showing accident-related data 
+transmitted from the plant (pressure in primary systems and the 
+operability of safety equipment, etc.), 
+  b) the soundness of the pressure vessel, storage vessel and 
+fuel cladding that serves as the FP containment barrier, time 
+until each of these elements loses its soundness, and estimated 
+time of FP discharge into the environment, the volume of that 
+discharge and its effect, 
+  c) samples of analyses of plant behavior during simulated 
+accidents, 
+  d) data on equipment specifications for the pertinent plant, 
+  e) accident malfunction data generated in the past at the 
+pertinent plant and/or accident malfunction data similar to that 
+of the accident in question, 
+  f) exposure dosage predictions for areas surrounding the 
+site 
+based on simple computer models, 
+  g) data related to those operations carried out in support 
+of 
+the emergency advisory team. 
+  There is also another system already in operation called the 
+SPEEDI Network System that predicts environmental radiation 
+impact in times of emergency. JAERI plans to integrate these two 
+systems in future to create an Emergency Technical Advisory 
+Bureau (ETAB) support system. 
+<H5>  6.2 Contents of System </H5>
+  In order to achieve the above described functions, the COSTA 
+system configuration consists of basic databases and information 
+processing programs. 
+  There are three kinds of basic databases in the COSTA 
+system. 
+These are: 
+  a) a nuclear power generation database (a database on the 
+nuclear power plant itself complete with schematic diagrams), 
+  b) an accident history database (a database containing 
+information on past accidents and malfunctions) 
+  c) a support database (a database containing information on 
+accident analyses and experimental data). Image data related to 
+databases a) and b) are stored in an electronic filing system. 
+  The information processing programs are used to carry out 
+comprehensive analyses of data stored in the databases and 
+accident information communicated from the plant at the time of 
+the accident. These programs comprise three types: 
+  a) a database information retrieval and display program, 
+  b) a program for determining the soundness of the FP barrier 
+and for predicting FP discharge, 
+  c) a consultation system. 
+  The consultation system incorporates a database of the 
+emergency procedures followed by the emergency technical 
+advisory team during an emergency situation and is designed to 
+increase the efficiency of the advisory team's actions. 
+<H5>  6.3 Utilization Methods </H5>
+  Due to the very nature of this system, it is designed to be 
+used only by experts in emergency situations. However, since 
+there is no way of predicting when an emergency will occur, the 
+hardware and software are continuously maintained so that the 
+system can be used at any time. 
+

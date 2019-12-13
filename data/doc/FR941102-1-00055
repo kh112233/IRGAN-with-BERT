@@ -1,0 +1,153 @@
+ 
+
+
+
+Enhanced 911
+
+: A telephone network feature that automatically provides emergency response agencies with telephone directory
+number and location information on calls placed to the national emergency number, 911.
+
+
+
+Enhanced 911 compatibility
+
+: The ability to relay a number associated with each served emergency response location.
+
+
+
+Enhanced 911 emergency services trunk
+
+: Any 2-wire or 4-wire telephone connection that provide access to Enhanced 911 service.
+
+
+
+* * * * *
+
+
+
+
+
+Restriction
+
+: The blocking of specific dial codes and sequences during call initiation.
+
+
+
+
+* * * * *
+
+
+
+4. Section 68.106 is proposed to be amended by adding paragraph (f) to read as follows:
+
+
+
+68.106
+
+Notification to telephone company.
+
+
+
+* * * * *
+
+
+
+
+(f) 
+
+Dispersed private telephone system trunk and station number verification for Enhanced 911 purposes.
+
+ Customers who install dispersed private telephone systems after [18 months after effective date of order adopting
+rules in this proceeding] shall provide the telephone company with:
+
+
+(1) The number of trunk connections desired;
+
+(2) The number of stations that may originate emergency calls;
+
+(3) The number of, and identification of emergency response locations that will require number identification;
+and
+
+(4) The FCC Registration Number of the equipment being used. The telephone company will provide 10-digit numbers
+for the identified emergency response locations.
+
+
+5. Section 68.228 is proposed to be added to read as follows:
+
+
+
+68.228
+
+Enhanced 911 trunk and station number verification.
+
+
+
+
+(a) 
+
+Verification requirements.
+
+
+(1) General.
+
+ The proper transmission of station number identification (SNI) for the station dialing the emergency number 911
+shall be verified as part of initial installation and subsequent changes in emergency response location data.
+
+(2) 
+
+Station number identification.
+
+ The 10-digit station number identification transmitted for 911 calls shall be verified to:
+
+
+(i) Be in the group of station numbers assigned to the trunk by the telephone company and, (ii) Be assigned to the specific
+emergency response location of the corresponding calling station.
+
+
+(b) 
+
+Verfication personnel.
+
+ Work associated with the verification of Enhanced 911 emergency services trunk operation shall be performed under
+the supervision and control of a supervisor as defined in paragraph (c) of this section. The supervisor and installer
+may be the same person.
+
+
+(c) 
+
+Supervision.
+
+ Work by installation personnel shall be performed under the responsible supervision and control of a person who:
+
+
+(1) Has at least 6 months of on-the-job experience in the installation of telephone terminal equipment;
+
+(2) Has been trained in the operation of Enhanced 911 emergency services trunks and in the performance of operations
+needed to verify proper identification procedures and results; 
+
+(3) Or, regardless of compliance with paragraphs (c)(1) and (c)(2) of this section, is a licensed professional engineer
+in the jurisdiction in which the installation is performed.
+
+
+(d) 
+
+Verification procedure.
+
+ The installation supervisor shall provide written notification to the telephone company that the required verification
+tests have been performed, including the following information:
+
+
+(1) The responsible supervisor's full name, address and business telephone number; and
+
+
+(2) The date when Enhanced 911 trunks will go into service, the date when the verification tests were completed, and
+a list of trunk identification numbers and station numbers verified.
+
+(e) 
+
+Verification of changes.
+
+ Addition or deletion of Enhanced 911 data base entries will be cause for verification of operation.
+
+
+

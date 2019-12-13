@@ -1,0 +1,80 @@
+FT  26 APR 94 / Survey of A-Z of Computing (15): New ways to cope with fuzzy
+data - Neural Networks
+Parallels have always been drawn between computers and the human brain.
+Early references to computers persistently spoke of 'electronic brains,'
+despite the fact that they were nothing of the sort.
+Brains and computers work in entirely different ways and each has its
+virtues and problems.
+Current views on how the brain works suggest that it is more like a network
+of several computers - rather than only one. Power is distributed rather
+than centralised.
+Studies of the workings of the human brain have provided models for building
+computers and their software. One of the most promising is a technique
+called neural networks.
+Conventional computers emulate the human brain - but not the way it works.
+By contrast, neural computers work on similar lines to the brain, using a
+network of interconnected parallel processes.
+Although the theory of neural computing dates back to the 1940s, it was only
+recently that it has crept out of the shadows of conventional computing.
+Advances in hardware technology now make it possible to build neural
+networks and employ them to do useful tasks.
+The basic unit of computing in a neural computer is called a neuron. Each
+neuron can accept one or more inputs - known as connections - and generates
+only one output. Each connection is weighted according to its importance and
+this is used to calculate whether an output signal is produced.
+The neuron works by multiplying the input signals by their weighting value
+and then adding them all together. If the value exceeds a predefined
+threshold value, the neuron generates an output signal. If the threshold
+value is not reached, then no output signal is generated.
+A single neuron is, of course, not much use on its own. Neurons must be
+connected together in a network if they are to be useful.
+Unlike conventional computers, neural networks must be 'trained' rather than
+programmed. There are several techniques to achieve this, with so-called
+'supervised training' the most popular.
+This is comparable to the method used to train a paint-spraying robot in a
+factory. The part to be painted is carried on an overhead conveyor belt and
+a human moves the paint gun to cover the required areas. Each move is
+recorded by the robot's built-in computer and can be 'replayed'
+automatically.
+A neural computer is trained by feeding it with input examples and expected
+output results. As input signals percolate through the network, the
+weighting calculations are performed by each neuron and fed to the next
+level until they reach the output stage.
+Here, the results are compared to the expected values. The difference
+between the two is used to alter the weighting values until the desired
+output is produced. This exercise is repeated with thousands of examples
+until the network produces correct results consistently. At this point the
+weighting values are frozen and the network is ready to be used.
+The main advantage of neural networks is their ability to cope with
+incomplete or 'fuzzy' data. This makes them ideal for applications where
+complex data are involved, such as pattern recognition or financial
+forecasting.
+Although it is still early days for neural technology, several companies
+have developed applications in these two areas. The German computer
+manufacturer Siemens Nixdorf, for example, demonstrated practical
+applications of its Synapse-1 neural computer at the CeBIT computer fair in
+Hanover earlier this year.
+'Our research into neural computing has enabled us to build the concept into
+a processing engine and put a workstation on the front end,' says Mr Andy
+Smith, UK marketing manufacturer for Siemens Nixdorf.
+'At Hanover, we demonstrated a real-time currency and interest rate
+fluctuation simulator, which is being used by German financial institutions,
+and a fast fingerprint recognition system which we are showing to the UK
+police.'
+EDS, the giant software consultancy, has also built a neural computer-based
+fingerprint recognition system - this time to help combat credit card fraud.
+The system, now undergoing field trials, can store the information needed to
+recognise a fingerprint in less than 64 bytes, making it possible to store
+it on the magnetic stripe of a credit card.
+A number of UK banks, including Barclays, are watching the progress of the
+trials 'with interest'.
+The UK government has provided funding for neural computing research and
+development though the Department of Trade and Industry (DTI). At the
+beginning of last year, the DTI started an awareness scheme to promote
+business applications of neural computing in the UK.
+About 150 companies in the UK are now active in neural computing research
+and the first applications have started to appear. These include a system
+used by the BBC to predict audience ratings and one developed by IBM to spot
+soldering faults in circuit boards.
+These early applications of neural computing show great promise in what
+could be a very large market.

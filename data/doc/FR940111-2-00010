@@ -1,0 +1,117 @@
+ 
+
+<IMPORT>
+
+
+
+
+E:GRAPHICSEN11JA94.001
+
+
+
+</IMPORT>
+
+
+
+For a one year period following the six months after the establishment of the FIPS 1401 validation program,
+agencies shall purchase either equipment with validated FIPS 1401 cryptographic modules, or equipment whose
+cryptographic modules have been submitted for FIPS 1401 validation. After this period, only FIPS 1401
+validated cryptographic modules will be considered as meeting the provisions of this standard. 
+
+Table 2 summarizes the schedule for acquisition of FIPS 140 compliant equipment. For up to three years following June
+30, 1994, equipment with cryptographic modules complying to FIPS 140, General Security Requirements for Equipment
+Using the Data Encryption Standard (formerly Federal Standard 1027), may be purchased in lieu of equipment with modules
+that comply with this standard. These modules either shall have been endorsed by the National Security Agency (NSA)
+as complying to Federal Standard 1027, or shall be affirmed in writing by the manufacturer as complying to FIPS 140.
+NSA endorsed modules shall have been endorsed prior to December, 1993. A list of endorsed products (NSA Endorsed Data
+Encryption Standard (DES) Products List) is available from the NSA. For modules affirmed by the manufacturer as complying
+with FIPS 140, a copy of the written affirmation shall have been sent by the manufacturer to the Director of the Computer
+Systems Laboratory at NIST prior to June 30, 1994. A list of these methods is available from NIST. 
+
+Equipment purchased under the above conditions may continue to be used for the lifetime of the equipment without the
+need for further affirmation or validation for conformance to this standard. 
+
+15. 
+
+Qualifications. 
+
+The security requirements specified in this standard are based upon information provided by many sources within
+the Federal government and private industry. The requirements are designed to protect against adversaries mounting
+cost-effective attacks on unclassified government or commercial data (e.g., hackers, organized crime, economic
+competitors). The primary goal in designing an effective security system is to make the cost of any attack greater
+than the possible payoff. 
+
+While the security requirements specified in this standard are intended to maintain the security of a cryptographic
+module, conformance to this standard does not guarantee that a particular module is secure. It is the responsibility
+of the manufacturer of a cryptographic module to build the module in a secure manner. 
+
+Similarly, the use of a cryptographic module that conforms to this standard in an overall system does not guarantee
+the security of the overall system. The responsible authority in each agency shall assure that an overall system provides
+an acceptable level of security. 
+
+Since a standard of this nature must be flexible enough to adapt to advancements and innovations in science and technology,
+this standard will be reviewed every 5 years in order to consider new or revised requirements that may be needed to meet
+technological and economic changes. 
+
+16. 
+
+Waiver Procedure. 
+
+Under certain exceptional circumstances, the heads of Federal agencies may approve waivers to Federal Information
+Processing Standards (FIPS). The head of such agency may redelegate such authority only to a senior official designated
+pursuant to Section 3506(b) of Title 44, U.S. Code. Waivers shall be granted only when: 
+
+a. Compliance with a standard would adversely affect the accomplishment of the mission of an operator of a Federal
+computer system, or 
+
+b. Cause a major adverse financial impact on the operator which is not offset by Government-wide savings. 
+
+Agency heads may act upon a written waiver request containing the information detailed above. Agency heads may also
+act without a written waiver request when they determine that conditions for meeting the standard cannot be met. Agency
+heads may approve waivers only by a written decision which explains the basis on which the agency head made the required
+finding(s). A copy of each such decision, with procurement sensitive or classified portions clearly identified,
+shall be sent to: National Institute of Standards and Technology; ATTN: FIPS Waiver Decisions, Technology Building,
+Room B154; Gaithersburg, MD 20899. 
+
+In addition, notice of each waiver granted and each delegation of authority to approve waivers shall be sent promptly
+to the Committee on Government Operations of the House of Representatives and the Committee on Government Affairs
+of the Senate and shall be published promptly in the 
+
+Federal Register
+
+. 
+
+When the determination on a waiver applies to the procurement of equipment and/or services, a notice of the waiver
+determination must be published in the Commerce Business Daily as a part of the notice of solicitation for offers of
+an acquisition or, if the waiver determination is made after that notice is published, by amendment to such notice.
+
+
+A copy of the waiver, any supporting documents, the document approving the waiver and any supporting and accompanying
+documents, with such deletions as the agency is authorized and decides to make under Section 552(b) of Title 5, U.S.
+Code, shall be part of the procurement documentation and retained by the agency. 
+
+17. 
+
+Where to obtain copies. 
+
+Copies of this publication are available for sale by the National Technical Information Service, U.S. Department
+of Commerce, Springfield, VA 22161. When ordering, refer to Federal Information Processing Standards Publication
+1401 (FIPS PUB 1401), and title. When microfile is desired, this should be specified. Payment may be
+made by check, money order, credit card, or deposit account. 
+
+ 
+
+
+
+<FRFILING>
+[FR Doc. 94539 Filed 11094; 8:45 am]
+
+
+</FRFILING>
+<BILLING>
+BILLING CODE 3510CNM
+</BILLING>
+
+
+
+

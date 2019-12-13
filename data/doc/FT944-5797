@@ -1,0 +1,190 @@
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (9): Seeking a
+winner - Authors of the submissions for this year's Business Software
+Challenge ranged from teams of HND students, to specialised entries from
+individual postgraduate and PhD students
+Brainbox
+Written by: Peter Smee of the Open University
+Aimed at: individual users who wish to organise their ideas on-screen
+Runs on: IBM compatible PCs (486) under Microsoft Windows 3.1, written in
+Visual Basic 3.0
+Professional
+'Mental scaffolding' was the phrase the author himself used to describe the
+process created by his program, Brainbox.
+The system organised and collated ideas, depicting them on the screen in a
+series of boxes or 'connective maps'.
+Its target audience could be almost anybody, doing anything from writing an
+essay to formulating a marketing campaign.
+The screen used drop-down 'sheets' of ideas to prompt users to rank ideas
+and topics in order of importance, and rate them - something that was
+actually easier to do on the computer than by using the traditional
+'card-shuffling' exercise with slips of paper.
+Using a computer might legitimise this simple but effective way of
+organising ideas, argued the author. The success of at least two well-known
+commercial products in the same area suggests that he may be right.
+Marketing is already under way and well-produced documentation was part of
+the demonstration.
+***
+Scrapcutter- product-based optimisation
+Written by: Glynn Timmins of Aston University
+Aimed at: A company specialising in manufacturing metal safe-access
+equipment
+Runs on: IBM compatible PCs (486) under Microsoft Windows 3.1, written in
+Visual Basic
+3.0 Professional
+Where there is scrap, there is money being wasted. This product was written
+in order to save money on material and optimise the process of cutting
+specified lengths from fixed-length raw material.
+Clever use of the screen-space showed the pattern being cut, and allowed the
+user to define and store it to create the basis of a 'materials database'
+that would eventually link up with other systems in order to carry out stock
+control and job estimation.
+The idea came to the author while working on industrial placement, and the
+system has already proved its worth in saving manufacturing costs in a live
+implementation. Users appreciated the ability to design and store
+custom-sheets, and create automatic orders.
+While other similar products exist, this one won a place on the shortlist
+because of the flexibility built into the PC-based design, and the creative
+use of the screen, which made it easy to follow the process.
+As his product is well-established in its beta-test site, the author hopes
+to interest other potential users.
+***
+Hydroponics Controller
+Written by: Stephen Armitage, Peter Collins, Kevin Hatcher, Will Halsall,
+Ian Wilson of the Farnborough College of Technology
+Aimed at: Market gardeners and greenhouse
+nurseries
+Runs on: IBM PC 386 or compatible under MS-DOS 5.0, written in Microsoft
+Windows, C and
+C++ Version 7
+Nursery growers and greenhouses are always racing to get their products to
+market before anyone else does, especially those working on large-scale
+sites.
+The trick is to extend the growing season, and that means keeping careful
+control of heat, light, and other factors. It was this commercial ambition
+that gave the team the idea of developing a 'real time' system.
+The system makes automatic adjustments to control greenhouse equipment for
+warmth, light, moisture and other factors used to encourage growth, using
+levels chosen by the user to suit the crop. This entry found favour for its
+thoroughness and well thought out programming and screen depiction.
+Each 'cell' or growing unit showed a graph for each variable, which
+responded in real time to changes in the values.
+The system itself had been well-built and tested, sadly without the
+involvement of a real life grower.
+***
+Merlin Metrics System
+Written by: Antony Powell of Aston University
+Aimed at: Any company which needs to estimate the cost of producing software
+Runs on: Sun Microsystems Sparcstations and compatibles under Unix (SunOs),
+written using Ingres database and Windows 4GL Version 2.0/02
+'You can't deliver what you can't measure' is a well-known conundrum of the
+software industry. Software metrics provide one of the traditional
+yardsticks used to estimate the time and effort it will take in order to to
+create new software.
+Such metrics are based on generally accepted, tried and tested rules of
+thumb, often an estimate of lines of code written per day. These were simply
+too wide of the mark for a specialised company such as Rolls Royce and
+Associates, where the Scientific Software Department had highly trained
+staff, working on scientific problems.
+Other measurement systems proved unsatisfactory, so the author set out to
+create a system that could 'model' specialised developments.
+Models could be stored, manipulated, and drawn on to adapt to new
+circumstances, so that the development model closely reflects the experience
+and the culture of a particular company.
+Most important, the author had defeated the main problem experienced with
+such systems in that the data was simple to collect and enter.
+Commercial plans for this product have not spread beyond its enthusiastic
+users at Rolls-Royce as yet.
+***
+Live - Makaton Environments
+Written by: Richard Eastgate, Mirabelle D'Cruz, Brendan Collins and
+Christopher Lee of Nottingham Univerity
+Aimed at: Schools for children with learning difficulties, including
+multiple disabilities
+Runs on: IBM compatible 486 PC, with joystick and SVGA graphics, under
+MS-DOS 5.0, written using Virtual R
+The word 'Live' in the title of this product stands for 'Learning In Virtual
+Environments', a description of an innovative computer-based approach to the
+teaching of a special sign language, Makaton.
+This cross-disciplinary team, inspired by practical research, set out to
+create a world within the classroom. The teacher can explore the various
+properties of an item (such as a ringing telephone, shown on an office desk)
+and children taught and tested using the signs within a 'real' environment.
+The system supports various special peripherals - such as a joystick and
+speakers - so that it can be used by multiply-handicapped children with
+learning difficulties.
+The split screen shows on one side a moving cartoon figure who demonstrates
+the making of the sign (this is easier to follow and interpret than the
+traditional card-based pictures with arrows) and on the other the
+'environment'. The product may soon be available through a specialist
+software company, Rompa, and the team is continuing to develop new modules
+and facilities.
+***
+Inspire - Intelligent System for the Purpose of Information Retrieval in
+Education
+Written by: Alan Cloughley, David Black, John Taylor of Napier University,
+Edinburgh
+Aimed at: Educational institutions and students in higher education
+Runs on: IBM compatible PCs under MS-DOS or SCO Xenix, written in Borland
+Turbo C Version 5.0.
+This product is aimed at the overworked student counsellor who needs an
+instant source of information on higher education grants and funding.
+Currently such advisors, and those students that are trying to help
+themselves, find that they have to wade through a maze of books, pamphlets
+and other sources to find the information they need.
+Furthermore, they may remain ignorant of special funds - such as charities
+and trusts - that could help them, given the right set of qualifications.
+Inspire uses a series of menus and draws a 'profile' of the enquirer's
+special circumstances and connections, so that every possible source of
+funding is revealed, with an analysis of the potential grants, loans,
+benefits, trusts and sponsorships, and even tax benefits, that could be
+drawn upon.
+The enormous effort made in gathering and organising the information was
+matched by a thoughtfully-planned screen presentation.
+This enterprising team of authors has already formed itself into a company,
+called Knowledge Tree Systems, and is marketing and supporting the system
+commercially.
+They will, however, have to keep a close eye on pricing and the cost of
+maintaining an up-to-date knowledge bank.
+***
+The Word-Of-Mouth- Emulator
+Written by: Clare Harvey of University of Sunderland
+Aimed at: Any company which needs to centralise and use its body of research
+knowledge
+Runs on: IBM compatible PC 486 under Microsoft Windows 3.1, written in
+Visual Basic
+A researcher starting off on a new project is well-advised to finding
+someone who already knows something about the subject. The traditional
+method is word of mouth.
+In a large, widely-spread organisation, this might not be so easy, and many
+a goldmine is stashed away in laboratory notebooks of which colleagues may
+not even be aware. It was to create a knowledge network at Courtaulds
+Coatings Research and Development Department that this student created the
+Word of Mouth Emulator.
+A database registers the interests of users as they file and retrieve their
+everyday work, and builds up its knowledge on their enquiries, so that the
+more the system is used, the more useful it becomes as a 'map' of internal
+knowledge.
+The screen showed simple-to-use prompts and listings of areas of expertise
+and interest, so that people could investigate for themselves, a popular
+feature with pilot users.
+***
+Minvest - Financial Evaluation of Mining Projects
+Written by: Dr Chaoshui Xu of the University of Leeds
+Aimed at: Mining companies assessing investments
+Runs on: IBM Compatible PC 386 under MS-DOS version 4.0, written using
+Zortech C++ from Symantec, Version 3.1.
+Mining is a high-capital investment business, and assessing the risk of a
+new venture is a job for experts. Few experts, however, are equally at home
+in the worlds of mining and high finance.
+This PhD student set out to marry the two topics in one robust and
+easy-to-use piece of software, having researched the limitations of current
+methods and software tools. The screen walks the user through a number of
+considerations and variables, including the quality and amount of ore, tax
+rules and profitability, (which vary according to the country of origin and
+the material).
+The answers can be constructed into a model, using a series of spreadsheets,
+grids and graphics to show cash-flow and payback analysis. Although
+developed without the benefit of Windows, this thorough and professional
+tool used simple Windows-like techniques.
+The pool of 35 test users are reported to be enthusiastic, and this product
+has good commercial prospects.

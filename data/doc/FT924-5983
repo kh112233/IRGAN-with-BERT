@@ -1,0 +1,78 @@
+FT  24 NOV 92 / Technology: Something to shout about - Computers that
+recognise human speech are the talk of the town
+For at least two decades, the computers of science fiction novels and films
+have obeyed spoken commands. Now, with the development of advanced automatic
+speech recognition technology, reality is beginning to catch up with
+imagination.
+In the US and Italy, hospital radiologists are experimenting with a computer
+that can directly transcribe their comments as they examine x-ray images.
+Some New York stockbrokers are trying out computers that can respond to
+their verbal buy and sell orders.
+At one of the leading US newspapers, writers who have become disabled by
+repetitive strain injuries that limit their use of a computer keyboard are
+dictating their reports to computers that can transform speech directly into
+text.
+All are pilot customers for a new range of products unveiled last week by
+International Business Machines which demonstrates significant strides in
+the ability of computers to decipher the frequently ambiguous mutterings of
+human speech.
+Until now, speech recognition has been more of a curiosity than a practical
+means of communicating with a computer. Pioneers of computer speech input
+have focused upon the needs of disabled computer users with systems that are
+trained to 'understand' an individual's speech, or upon narrowly defined
+applications that require a limited vocabulary.
+Yet the vast potential of speech recognition to provide a more 'natural'
+link between man and machine is spurring development efforts throughout the
+computer industry.
+For people whose jobs keep their hands full - dentists, bank clerks,
+emergency room doctors, pilots or police car drivers, for example - speech
+recognition could provide a way to make use of computers as they work.
+'Speech is the most natural and efficient means of communications,' says
+James Cannavino, IBM vice president and general manager of personal systems.
+'Enabling computers to accept and compute the spoken word can mean
+tremendous gains in productivity for existing customers and can open up the
+world of computing to a whole new population of users.'
+Advances in the complex mathematical algorithms needed to analyse speech and
+guess at the true meaning of the spoken word have contributed to the latest
+generation of speech recognition products.
+The availability of powerful microprocessors and signal processor chips at
+relatively low cost has brought speech processing to the desktop computer.
+Noise-cancelling microphones that screen out background noise are also
+critical to making speech processing systems practical in the workplace.
+Still, key challenges remain. These are: the variations between the way
+different people pronounce the same words; a wide vocabulary; and the
+tendency of speakers to blend one word into the next in continuous speech.
+IBM's new offerings reflect compromises between these challenges.
+IBM's 'Speech Server' is a voice dictation system that must be trained to
+recognise the voices of individual users. It also requires users to talk in
+a clipped fashion, pausing between each word.
+However, the system provides the most accurate speech recognition available,
+IBM claims. Its vocabulary of 20,000 words is larger than any existing
+system and it can be customised to accept new words by individual users. The
+program accepts dictation at up to 70 words per minute - faster than most
+computer users can type.
+Speech Server is aimed at businesses that generate large volumes of
+documents that must be transcribed with great accuracy. As text is dictated
+into a headset or lapel microphone, the program is trained to accept the
+speaker's accent. It analyses the speaker's voice and displays the speech in
+text.
+A statistical language model sorts out homonyms such as two, to, or too, and
+recognises frequently used word patterns such as President George Bush.
+If the program does not recognise a new word - a name, for example - it will
+display a few guesses, enabling the user to 'point and click' with a mouse,
+or type in a new word on the keyboard.
+Speech Server is designed to run on an IBM RS/6000 workstation with up to
+eight users on a local area network. The program costs Dollars 6,950 (Pounds
+4,600), plus Dollars 695 per user for networked systems. It requires a
+special processor circuit board costing Dollars 1,900.
+For continuous speech applications, IBM is taking a different tack. Its
+Continuous Speech program, developed in conjunction with Carnegie-Mellon
+University, is designed to enable software developers to incorporate speech
+recognition in existing or new applications products. Continuous Speech
+accepts any voice and is expected to find use in a broad range of
+applications with a relatively limited vocabulary of up to 1,000 words.
+Systems that allow anyone to say anything to a computer at a normal rate of
+speech are still on the drawing board. IBM's new offerings do not quite live
+up to the capabilities of Hal, the infamous computer in the science-fiction
+classic 2001: A Space Odyssey, but they do suggest that by the turn of the
+century we may indeed be regularly talking - and listening - to computers.

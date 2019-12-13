@@ -1,0 +1,102 @@
+ 
+
+Applications: The SHA1 may be used with the DSA in electronic mail, electronic funds transfer, software distribution,
+data storage, and other applications which require data integrity assurance and data origin authentication. The
+SHA1 may also be used whenever it is necessary to generate a condensed version of a message. 
+
+Implementations: The SHA1 may be implemented in software, firmware, hardware, or any combination thereof.
+Only implementations of the SHA1 that are validated by NIST will be considered as complying with this standard.
+Information about the requirements for validating implementations of this standard can be obtained from the National
+Institute of Standards and Technology, Computer Systems Laboratory, Attn: SHS Validation, Gaithersburg, MD 20899.
+
+
+Export Control: Implementations of this standard are subject to Federal Government export controls as specified
+in Title 15, Code of Federal Regulations, Parts 768 through 799. Exporters are advised to contact the Department of
+Commerce, Bureau of Export Administration for more information. 
+
+Patents: Implementations of the SHA1 in this standard may be covered by U.S. and foreign patents. 
+
+Implementation Schedule: This standard becomes effective (insert 90 days after approval by the Secretary of Commerce).
+
+
+Specifications: Federal Information Processing Standards (FIPS 1801) Secure Hash Standard (affixed).
+
+
+Cross Index: 
+
+a. FIPS PUB 461, Data Encryption Standard. 
+b. FIPS PUB 73, Guidelines for Security of Computer Applications. 
+c. FIPS PUB 1401, Security Requirements for Cryptographic Modules. 
+d. FIPS PUB 186, Digital Signature Standard. 
+e. Federal Information Resources Management Regulations (FIRMR) subpart 201.20.303, Standards, and subpart 201.39.1002,
+Federal Standards. 
+
+Objectives: The objectives of this standard are to: 
+a. Specify the secure hash algorithm required for use with the Digital Signature Standard (FIPS 186) in the generation
+and verification of digital signatures; 
+
+b. Specify the secure hash algorithm to be used whenever a secure hash algorithm is required for Federal applications;
+and 
+
+c. Encourage the adoption and use of the specified secure hash algorithm by private and commercial organizations.
+
+
+Qualifications: While it is the intent of this standard to specify a secure hash algorithm, conformance to this standard
+does not assure that a particular implementation is secure. The responsible authority in each agency or department
+shall assure that an overall implementation provides an acceptable level of security. This standard will be reviewed
+every five years in order to assess its adequacy. 
+
+Waiver Procedure: Under certain exceptional circumstances, the heads of Federal departments and agencies may approve
+waivers to Federal Information Processing Standards (FIPS). The head of such agency may redelegate such authority
+only to a senior official designated pursuant to section 3506(b) of Title 44, United States Code. Waiver shall be granted
+only when: 
+
+a. Compliance with a standard would adversely affect the accomplishment of the mission of an operator of a Federal
+computer system; or 
+
+b. Compliance with a standard would cause a major adverse financial impact on the operator which is not offset by Government-wide
+savings. 
+
+Agency heads may act upon a written waiver request containing the information detailed above. Agency heads may also
+act without a written waiver request when they determine that conditions for meeting the standing cannot be met. Agency
+heads may approve waivers only by a written decision which explains the basis on which the agency head made the required
+finding(s). A copy of each decision, with procurement sensitive or classified portions clearly identified, shall
+be sent to: National Institute of Standards and Technology; ATTN: FIPS Waiver Decisions, Technology Building, Room
+B154, Gaithersburg, MD 20899. 
+
+In addition, notice of each waiver granted and each delegation of authority to approve waivers shall be sent promptly
+to the Committee on Government Operations of the House of Representatives and the Committee on Government Affairs
+of the Senate and shall be published promptly in the 
+
+Federal Register
+
+.
+
+When the determination on a waiver applies to the procurement of equipment and/or services, a notice of the waiver
+determination must be published in the Commerce Business Daily as part of the notice of solicitation for offers of
+an acquisition or, if the waiver determination is made after that notice is published, by amendment to such notice.
+
+
+A copy of the waiver, any supporting documents, the document approving the waiver and any accompanying documents,
+with such deletions as the agency is authorized and decides to make under 5 United States Code Section 552(b), shall
+be part of the procurement documentation and retained by the agency. 
+
+Where to Obtain Copies of the Standard: Copies of this publication are for sale by the National Technical Information
+Service, U.S. Department of Commerce, Springfield, VA 22161. When ordering, refer to Federal Information Processing
+Standards Publication 1801 (FIPS PUB 1801), and identify the title. When microfiche is desired, this
+should be specified. Prices are published by NTIS in current catalogs and other issuances. Payment may be made by check,
+money order, deposit account or charged to a credit card accepted by NTIS.
+
+ 
+
+
+<FRFILING>
+[FR Doc. 9416666 Filed 7894; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 3510CNM 
+</BILLING>
+
+
+

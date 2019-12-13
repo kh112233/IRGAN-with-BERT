@@ -1,0 +1,102 @@
+ 
+
+
+
+
+
+
+
+<USDEPT>POSTAL SERVICE</USDEPT>
+
+
+
+<DOCTITLE>Automation Compatibility of Glassine </DOCTITLE>
+
+
+<AGENCY>
+AGENCY:
+
+ Postal Service. 
+
+
+</AGENCY>
+<ACTION>
+ACTION:
+
+ Notice of inquiry. 
+
+
+
+
+</ACTION>
+<SUMMARY>
+SUMMARY:
+
+ The Postal Service requests comments on the issuance of a haze value guideline for glassine envelope window-covering
+material. This guideline would be advisory only; it would not affect the existing Domestic Mail Manual (DMM) standards
+concerning mail prepared with glassine windows. 
+
+
+</SUMMARY>
+<DATE>
+DATES:
+
+ Comments must be received on or before October 5, 1994. 
+
+
+</DATE>
+<ADDRESS>
+ADDRESS:
+
+ Written comments should be mailed or delivered to the Manager, Business Mail Acceptance, 475 L'Enfant Plaza SW, Room
+8430, Washington, DC 20260-6808. Copies of all written comments will be available for inspection and photocopying
+between 9 a.m. and 4 p.m., Monday through Friday, in Room 8430 at the above address. 
+
+
+
+</ADDRESS>
+<FURTHER>
+FOR FURTHER INFORMATION CONTACT:
+
+ George T. Hurst, (202) 268-5232, or John J. Mampe, (703) 280-7031. 
+
+
+</FURTHER>
+<SUPPLEM>
+SUPPLEMENTARY INFORMATION:
+
+ Postal Service automation-compatibility standards for envelope window-covering material focus on a measurement
+that combines the window material's transparency and the print quality of the address or barcode that appears behind
+it. Measuring the transparency and the print quality in concert provides the most relevant data to determine whether
+Postal Service automated sorting equipment will be capable of successfully reading the address and/or barcode during
+processing. Thus, Domestic Mail Manual (DMM) standards for letter-size mail in automation-rate mailings require
+that addresses viewed through a glassine window covering must provide a print contrast ratio (PCR) of at least 45 percent
+and that barcodes viewed through the material must provide a print reflectance difference (PRD) of at least 30 percent.
+(These percentages pertain to both the red and the green portions of the optical spectrum, when measured using a USPS
+or USPS-licensed envelope reflectance meter.) 
+
+
+Although these readability standards identify useful performance criteria for window-covering material, some
+glassine manufacturers have complained that it is difficult to translate them into production criteria for their
+products. It is impractical for glassine manufacturers to know, in advance of production, the quality of the printing
+that will show through the window of an envelope using their product, yet this information becomes critical in determining
+whether the material meets USPS automation-compatibility specification. 
+Accordingly, to help glassine manufacturers establish appropriate criteria for the glassine itself in isolation
+from the printing that will be used with it, the Postal Service conducted a series of laboratory and operational tests
+on a variety of materials. 
+The laboratory test method used was the American Society of Testing and Materials (ASTM) D 1003, Standard Test Method
+for Haze and Luminous Transmittance of Transparent Plastics. Test measurements were taken with a MacBeth Color-Eye
+7000 Spectrophotometer and Optiview software set for correlated haze. Environmental conditions, material thickness,
+dimensional stability, gloss, and haze were carefully measured and monitored during testing on both the Postal Service
+multiline optical character reader (MLOCR) version A and the wide area barcode reader (WABCR). (A detailed description
+of testing methods and criteria is available on request.) 
+As a result of these tests, the Postal Service proposes that glassine window-covering material be evaluated for automation
+compatibility by measuring its haze value. Correlated (transmitted) haze is defined as the percentage of transmitted
+light that deviates from the incident beam by forward scattering when passing through a specimen. Any specimen with
+a haze value greater than 30 percent, when tested in accordance with ASTM D 1003 is considered diffusing or translucent.
+This can affect readability on the OCR or WABCR by diffusing the image of the printed insert as read through the window-covering
+material. 
+
+
+
+</SUPPLEM>

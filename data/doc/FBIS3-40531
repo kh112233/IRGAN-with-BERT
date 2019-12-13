@@ -1,0 +1,30 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+  Professor Toshio Fukuda and others at Nagoya University 
+have developed a line-tracing micro robot that travels on its 
+own while evaluating its journey. The robot can distinguish 
+between the color of the ground (white) and the color of the 
+line (black), so its progress is controlled to stick to its 
+course. The robot includes an actuator, photo-sensors, and logic 
+circuits. Its dimensions are 1 centimeter by 1 centimeter by 1 
+centimeter. The micro robot was created for a maze competition. 
+Good results were achieved in experiments. 
+  The width of the line corresponds to the size of the robot. 
+Two photosensors distinguish white from black on the left and 
+right. The robot's course is controlled by logic circuits. The 
+actuator uses a combination of electromagnets and nylon angled 
+hairs. 
+  This was developed by Professor Fukuda and his associates. 
+It 
+uses a coil and an iron core that are drawn and repelled by 
+turning electricity on and off. The angled hairs that act as the 
+feet of the robot proceed as they are moved forward. A 
+distinctive characteristic is that the hairs scratch the ground. 
+  There is an electromagnet and angled hairs for both the left 
+and right sides. Direction is changed by controlling their 
+left-right movement. This was the first time that a 1 cm by 1 cm 
+by 1 cm robot with sensing capability and logic circuits was 
+used in a micro maze contest. It is noteworthy as a new micro 
+robot system. 
+

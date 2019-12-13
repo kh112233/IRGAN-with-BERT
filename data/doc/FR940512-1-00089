@@ -1,0 +1,151 @@
+ 
+
+
+Definitions To Be Revised 
+
+
+
+
+
+Title X amends the Lead-Based Paint Poisoning Act to change the childhood age of concern from less than 7 years of age
+to less than 6 years. This change, which also reflects the advice of the CDC in its Statement, cited above, requires
+revisions to HUD's lead-based paint regulations in several locations. For example, the current definition of residential
+structure (24 CFR 35.3), includes a reference to nondwelling facilities ``commonly used by children under seven
+years of age.'' A similar reference currently is found in 24 CFR 200.815(c), which requires that, in the case of a sale
+of a HUD-owned single-family property, if the purchaser is an owner-occupant and the occupant family contains one
+or more children under the age of seven years, the sale of a HUD-owned single-family property must be deferred to allow
+time to check for elevated blood lead levels and test for and abate lead-based paint. A similar requirement pertains
+to multifamily properties (see 24 CFR 200.820(c)(ii) and 24 CFR 200.825(c)(1)). 
+
+
+
+HUD also would revise or add definitions of the following terms in 24 CFR 35.22: defective paint, HEPA, HUD-associated
+housing, misted scraping, paint removal, replacement, and residential structure. 
+
+
+
+Options To Test Defective Surfaces and Use Laboratory Analysis 
+
+
+
+
+
+The proposed rule would provide an option for testing of defective paint surfaces to determine if, in fact, lead-based
+paint is present; if the test results are below 1.0 mg/cm
+
+2
+
+, abatement is not required. For structures built prior to 1978, the existing regulations require visual inspection
+for defective paint surfaces and treatment of those surfaces found to be defective. Therefore, under the existing
+regulations, surfaces that are defective but do not contain lead and are not hazardous may be unnecessarily treated.
+Testing the surface is the only way to determine if it is hazardous and thus requires treatment. The revision would
+permit a cost review between testing and treatment without testing. 
+
+
+
+The proposed rule also specifically would permit laboratory analysis as an approved alternative to XRF testing.
+Current program regulations require the Federal Housing Commissioner's permission to use laboratory analysis
+on a case-by-case basis. This has led to a burdensome and growing number of individual concurrence actions. XRF readings
+are given in milligrams per square centimeter (mg/cm2), but laboratories frequently report test results as a percent
+of lead by weight. Therefore, an alternative standard of 0.5 percent by weight or 5000 parts per million (ppm) would
+be permitted as an alternative to the more widely used standard of 1.0 mg/cm2.
+
+
+
+ 
+Approved Abatement and Dust-Control Practices 
+
+
+
+
+
+At the time the existing regulation was written, abatement techniques were not refined and the danger of lead dust
+was relatively unknown. Research and experience in both the public and private sectors have advanced the state of
+knowledge on these subjects. The proposed rule would reference various abatement methods (defined in 24 CFR 35.22)
+that are consistent with the HUD Interim Guidelines and In-Place Management Recommendations. The proposed rule
+also would warn about the danger of lead dust. Sections 35.56(a) (1) and (2), concerning requirements applicable
+to the sale of federally owned property that will be used for residential purposes, also would be amended in this proposed
+rule. 
+
+
+
+
+Including Up-to-Date Sampling and Testing Information 
+
+
+
+
+
+Given the high cost of testing for lead-based paint, it is desirable to follow a statistically sound random sampling
+technique that provides satisfactory assurance of detecting lead-based paint, while not requiring the testing
+of all units in a multifamily property. Existing regulations for the multifamily mortgage insurance and multifamily
+property disposition programs require the testing of chewable surfaces in a random sample of ten housing units in
+properties of 20 units or more. For properties with fewer than 20 units, six units must be tested. These requirements
+do not have statistical validity and consequently do not provide the desired degree of assurance. Using the sample
+sizes and random sampling procedures in this proposed rule, if no unacceptable hazards are observed in the sample
+units tested, then there would be at least 95 percent confidence that no more than 5 percent of all units or 50 units,
+whichever is smaller, would have an unacceptable lead-based paint hazard. The table included in 200.820(e)
+of the proposed rule was developed to achieve the 95 percent confidence level. 
+
+
+
+As an example, the table would require that 56 units must be tested in a 600-unit development. If lead (above th e standard
+of 1.0 mg/cm
+
+2
+
+) is not found in any of the 56 tested units, the Department can be 95 percent confident that no more than 30 units (the
+lesser of 50 or 5 percent of 600) have lead levels above the standard. As a second example, 236 units (5.9 percent of 4,000)
+must be tested in a 4,000-unit development. If all are below the standard, there is 95 percent confidence that no more
+than 50 of the 4,000 units (the lesser of 50 or 5 percent of 4000) have lead levels above the standard. 
+
+
+
+The size of the sample (number of units to be tested) is determined by three factors:
+
+
+
+
+
+
+N = Total number of units in the project; 
+
+
+k = Maximum number of leaded units (a unit with one or more components with lead-based paint at or above the standard
+of 1.0 mg/cm
+
+2
+
+) that can be tolerated to be missed completely; 
+
+n = Smallest number of units that must be tested to provide 95 percent confidence that the total number of leaded units
+is less than ``k'', based on finding no leaded units in the sample tested.
+
+
+
+
+
+
+For example, to be 95 percent confident that no more than 5 percent of 300 units have lead, then k=15; if no more than 50
+out of 4,000 with lead, then k=50. 
+
+
+
+
+
+In the usual statistical convention, ``n'' is defined as the smallest integer for which the probability of obtaining
+no positives in a simple random sample of size ``n'' from a population of size ``N'', of which ``k'' are positive, is
+less than 0.05. When ``k'' of ``N'' total are positive, the probability of observing no positives in a simple random
+sample of size ``n'' is given by the formula:
+
+
+
+
+[(N^k)(N^k^1) ... (N^k^n+1)]/[(N)(N^1) ... (N^n+1)].
+
+
+
+
+
+
+

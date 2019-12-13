@@ -1,0 +1,100 @@
+ 
+
+&bull;For code 996.86 (Complications of pancreas transplant) delete code V42.8 (Other specified organ or tissue
+transplant influencing health status) as a CC. 
+
+&bull;For code 996.89 (Complications of other specified organ transplant) V42.8 (Other specified organ or tissue
+transplant influencing health status) as a CC. 
+
+All of the changes discussed above have been added to Table 6f, Additions to the CC Exclusions List, in section V of the
+addendum to this proposed rule. 
+
+Tables 6f and 6g in section V of the addendum to this proposed rule contain the proposed revisions to the CC Exclusions
+List that would be effective for discharges occurring on or after October 1, 1994. Each table shows the principal diagnoses
+with proposed changes to the excluded CCs. Each of these principal diagnoses is shown with an asterisk and the additions
+or deletions to the CC Exclusions List are provided in an indented column immediately following the affected principal
+diagnosis. 
+
+CCs that are added to the list are in Table 6f_Additions to the CC Exclusions List. Beginning with discharges on or after
+October 1, 1994, the indented diagnoses will not be recognized by the GROUPER as valid CCs for the asterisked principal
+diagnosis. 
+
+CCs that are deleted from the list are in Table 6g_Deletions from the CC Exclusions List. Beginning with discharges
+on or after October 1, 1994, the indented diagnoses will be recognized by the GROUPER as valid CCs for the asterisked
+principal diagnosis. 
+
+Copies of the original CC Exclusions List applicable to FY 1988 can be obtained from the National Technical Information
+Service (NTIS) of the Department of Commerce. It is available in hard copy for $84.00 and on microfiche for $20.50,
+plus $3.00 for shipping and handling. A request for the FY 1988 CC Exclusions List (which should include the identification
+accession number, (PB) 88133970) should be made to the following address: National Technical Information
+Service; United States Department of Commerce; 5285 Port Royal Road, Springfield, Virginia 22161; or by calling
+(703) 4874650. 
+
+Users should be aware of the fact that all revisions to the CC Exclusions List (FYs 1989, 1990, 1991, 1992, 1993, and
+1994) and those in Tables 6f and 6g of this document must be incorporated into the list purchased from NTIS in 
+order to obtain the CC Exclusions List applicable for discharges occurring on or after October 1, 1994. 
+
+Alternatively, the complete documentation of the GROUPER logic, including the current CC Exclusions List, is available
+from 3M/Health Information Systems (HIS), which, under contract with HCFA, is responsible for updating and maintaining
+the GROUPER program. The current DRG Definitions Manual, Version 11.0, is available for $195.00, which includes
+$15.00 for shipping and handling. Version 12.0 of this manual, which will include the changes proposed 
+in this document as finalized in response to public comment, will be available in September 1994 for $195.00. These
+manuals may be obtained by writing 3M/HIS at: 100 Barnes Road; Wallingford, Connecticut 06492; or by calling (203)
+
+9490303. Please specify the revision or revisions requested. 
+
+
+
+6. Review of Procedure Codes in DRGs 468, 476, and 477 
+
+
+
+Each year, we review cases assigned to DRG 468 (Extensive OR Procedure Unrelated to Principal Diagnosis), DRG 476
+(Prostatic OR procedure Unrelated to Principal Diagnosis), and DRG 477 (Nonextensive OR Procedure Unrelated 
+to Principal Diagnosis) in order to determine whether procedures are properly assigned among these DRGs. 
+
+DRGs 468, 476, and 477 are reserved for those cases in which none of the OR procedures performed is related to the principal
+diagnosis. These DRGs are intended to capture atypical cases, that is, those cases not occurring with 
+sufficient frequency to represent a distinct, recognizable clinical group. DRG 476 is assigned to those discharges
+in which one or more of the following prostatic procedures are performed and are unrelated to the principal diagnosis:
+
+ 
+
+
+60.0_Incision of prostate 
+60.12_Open biopsy of prostate 
+60.15_Biopsy of periprostatic tissue 
+60.18_Other diagnostic procedures on prostate and periprostatic tissue 
+60.2_Transurethral prostatectomy 
+60.61_Local excision of lesion of prostate 
+60.69_Prostatectomy NEC 
+60.81_Incision of periprostatic tissue 
+60.82_Excision of periprostatic tissue 
+60.93_Repair of prostate 
+60.94_Control of (postoperative) hemorrhage of prostate 
+60.95_Transurethral balloon dilation of the prostratic urethra 
+60.99_Other operations on prostate 
+
+
+
+All remaining OR procedures are assigned to DRGs 468 and 477, with DRG 477 assigned to those discharges in which the
+only procedures performed are nonextensive procedures that are unrelated to the principal diagnosis. The original
+list of the ICD9CM procedure codes for the procedures we consider nonextensive procedures if performed
+with an unrelated principal diagnosis was published in Table 6C in section IV of the addendum to the September 30, 1988
+final rule (53 FR 38591). As part of the final rules published on September 4, 1990, August 30, 1991, September 1, 1992,
+and September 1, 1993, we moved several other procedures from DRG 468 to 477. (See 55 FR 36135, 56 FR 43212, 57 FR 23625,
+and 58 FR 46279, respectively.) 
+
+
+
+a. Adding Procedure Codes to MDCs.
+
+ We annually conduct a review of procedures producing DRG 468 or 477 assignments on the basis of volume of cases in these
+DRGs with each procedure. Our medical consultants then identify those procedures occurring in conjunction with
+certain principal diagnoses with sufficient frequency to justify adding them to one of the surgical DRGs for the MDC
+in which the diagnosis falls. On the basis of this review, 
+we are proposing the following DRG classification changes in order to reduce unnecessary assignment of cases to DRG
+468 or 477. 
+
+
+

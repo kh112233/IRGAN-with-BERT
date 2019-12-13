@@ -1,0 +1,533 @@
+Productivity   Production Systems 
+
+<F P=102> 94FE0298A Tokyo NIKKEI MICRODEVICES in Japanese Dec 93 pp 
+88-95--FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 94FE0298A </F>
+<F P=104>  Tokyo NIKKEI MICRODEVICES </F>
+<F P=105>  Japanese </F>
+CSO 
+
+<F P=106> [Article by Yasuaki Nagahiro] </F>
+  [Text] 
+<H5>  Production Equipment Competes on the Basis of COO at Semicon </H5>
+Japan 
+  Equipment for 16M DRAM production lines in 1994, with 
+increased productivity by factors from 1.3 to 2, and 
+experimental equipment to evaluate the future productivity of 
+the 64M line, with increased productivity by factors from 1.5 to 
+2, have appeared repeatedly. The productivity of this equipment 
+has begun to be evaluated by using the COO index, which 
+quantifies the economics of production lines and production 
+equipment. This trend was clear at "Semicon Japan 93," where 
+there were seminars on the topic of COO. The equipment that 
+appeared this year for improving the 16M line does not provide 
+size reduction, so their prices are unchanged. Throughput is 
+being improved by shortening the conveyor time, and availability 
+is being improved by reducing the number of parts. On the other 
+hand, steppers for the 64M line are improving throughput while 
+providing 2-to-1 size reduction. 
+  Various kinds of equipment for making semiconductors have 
+appeared with performance improvements by factors from 1.3 to 2 
+in throughput, availability, and cost (Figures 1 and 2). 
+  The 16M DRAMs have started to receive real funding in 1994. 
+Attempts to improve the productivity of 0.5 m, 8-inch 16M 
+DRAM equipment have paid off with productivity improvements by 
+factors from 1.3 to 2 over the previous equipment of the same 
+manufacturers. At the same time, prototype equipment to evaluate 
+the productivity of 64M DRAMs, which will begin mass production 
+in 1996, have made improvements by factors from 1.5 to 2. 
+  Manufacturers are using the COO model to evaluate the 
+economics of production lines and production equipment, 
+competing on the basis of this index. (The concept of COO, which 
+stands for "cost of operation," quantifies the economics of 
+capital expenditures and operation of equipment. The COO model 
+uses various coefficients to calculate the contributions of the 
+equipment's cost, productivity, reliability, and yield over the 
+mechanical life of the equipment. It can also evaluate the 
+economics of an entire production line. The COO value is 
+expressed as the cost in dollars per wafer.) This trend was 
+clearly apparent at "Semicon Japan 93," which was held on 
+December 1-3. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 1. Appearance of 0.5 m, 8-Inch 
+Production Equipment With 1.3 to 2 Times Better Efficiency. For 
+4M, the COO value decreased about 20 percent every year. For a 
+DRAM of the same capacity in the 16M case, a decrease of 30 
+percent per year is expected. In accordance with this, equipment 
+that increases productivity by 25-50 percent appears 
+repeatedly.&lt;/graphic&gt; 
+
+&lt;graphic&gt;
+&lt;capt&gt; Figure 2. Improvements in CEO Values For Various 
+Equipment. The CEO value has gone down 25-50 percent for every 
+type of equipment.&lt;/graphic&gt; 
+
+<H5>  Quantification Using the Simpler CEO Index for Equipment </H5>
+Manufacturers 
+  This trend is the result of the great demands for lower cost 
+being made on LSI manufacturers, a trend which began growing 
+around 1990. 
+  The cry for lower costs has been getting louder in Japan 
+since around 1990. At the start of 1993, slogans such as "200 
+Percent Production Efficiency" (Toshiba) and "Triple Efficiency" 
+(Fujitsu) were prominent in newspapers. LSI manufacturers have 
+been demonstrating how much effort they are putting into 
+lowering costs, not just in their production departments but 
+also in design and development. 
+  So far, however, this index has only been used for entire 
+production lines, and each of the individual types of equipment 
+has only had a "qualitative goal" (Toshiba Semiconductor 
+Production Engineering Promotion Center). It seems that Japanese 
+LSI manufacturers will soon be decreasing their domestic 
+purchases and "America will take the lead," not just in 
+equipment technology but even in production technology, says a 
+process engineer working for a manufacturer doing joint 
+Japanese-American DRAM development. 
+  The high productivity of Korean manufacturers has also been 
+recognized, and there is now a strong danger that "Japanese LSI 
+manufacturers will lose the cost war" (NEC memory department). 
+It seems that Japan may fall into third place behind America and 
+Korea. 
+  In America, on the other hand, quantification of 
+productivity 
+is moving forward, centered around SEMATECH. (SEMATECH is an 
+American semiconductor research organization that is a joint 
+project of the public and private sectors. They have two 
+programs to improve and develop equipment. The aim is to secure 
+world leadership in the area of production.) The model for 
+quantifying the economics of production lines and production 
+equipment is COO, based on an economic evaluation model 
+developed by the American company Intel. They also use a 
+simplified model called CEO (Cost of Equipment Ownership), which 
+concentrates on evaluating just one piece of equipment by 
+omitting the yield factor. (The CEO model simplifies the COO 
+model in order to evaluate just one type of equipment. In 
+particular, the CEO model omits the yield factor that is not 
+possible to evaluate for a single piece of equipment.) 
+  Such evaluation methods have existed in the past, but only 
+in 
+a simple form capable of discussing the economics of investing 
+in entire production lines. Such methods could not 
+quantitatively evaluate the economics of individual processes 
+because, unlike COO and its simplified variant CEO, they did not 
+take into account the throughput and availability of each 
+process and each piece of equipment, nor did they consider labor 
+costs or equipment floor space. 
+  At the present time, SEMI (Semiconductor Equipment and 
+Materials International) is the most important world body 
+concerned with equipment and raw materials, and they are making 
+the COO and CEO models into standards. 
+<H5>  The Three Worst Types of Equipment Are Etchers, Sputters, </H5>
+and CVD 
+  With the current strong push to lower costs, Japanese LSI 
+manufacturers are accepting COO as a new standard of 
+productivity. While simplifying their processes, they are also 
+looking to equipment manufacturers to improve productivity. 
+  Up through 4M, most LSI manufacturers were decreasing the 
+COO 
+index about 20 percent per year, for DRAMs of the same capacity. 
+However, the goal has become 30 percent for 16M. Also, starting 
+with 64M, the aim is to use size reduction to offset the usual 
+increase in COO in going to a new generation, bringing it down 
+from 50 percent to 20 percent. In reducing costs, "60 percent of 
+the reduction should come from equipment improvements, working 
+together with the equipment manufacturers" (Fujitsu process 
+general manager). 
+  This magazine conducted a survey of the Japanese LSI 
+manufacturers that have performed quantitative evaluations of 
+present 0.5 m, 8-inch production line equipment, namely, 
+NEC, 
+Toshiba, Mitsubishi Electric, and Fujitsu. The results make it 
+clear that "the three worst types of equipment are etchers, 
+sputters, and CVD [chemical vapor deposition]" (Table 1). On a 
+scale from 1 to 10, these three types of equipment came in 
+between 3 and 4. 
+  The reason for these results is low availability. The LSI 
+manufacturers all evaluate it to be below 60 percent. That means 
+that these types of equipment are only working two days out of 
+three. There are even examples where one day is spent wet 
+washing the chamber for every hundred hours of operation. It 
+would be difficult to dramatically improve the availability 
+alone, so equipment manufacturers are looking for ways to 
+improve the combined availability and throughput. 
+
+
+
+  Table 1. Evaluation of Equipment Productivity by LSI Manufacturers. 
+
+                               Company    Company    Company    Company    Average 
+                               A          B          C          D 
+
+CVD         SiO[.sub]2[/]       2-3 3      3 3        6 3        2 3        3 3 
+            Metal 
+
+Etchers     Metal              2 4 3      2 3 3-4    4 6 4      3 3 4      3 4 4 
+            SiO[.sub]2[/] 
+            Polycrystalline 
+            Si 
+
+Sputters    Al TiN             4 4-5      3-4 3-4    3 3        3 4        3 3 
+
+Steppers                       6          5          5          8          6 
+
+Vertical Furnaces              7          7          9          8          8 
+
+Ion Implantation               7          7          6          7          7 
+
+Application Phenomena          8          8          7          9          8 
+Equipment 
+
+Washing                        8          8          7          9          8 
+
+The average values are simply rounded off from the answers of the individual 
+manufacturers. 
+
+
+<H5>  [Boxed item, p 91] The 0.5 m 8-Inch Line Will </H5>
+Produce 10,000 Wafers Per Month for Japanese LSI Manufacturers 
+  For one Japanese LSI manufacturer after another, beginning 
+in 
+the second half of 1994 and going into 1995, the 0.5 m 
+8-inch 
+line availability will be 10,000 wafers per month (Figure A). Up 
+until now the capabilities had only been several thousands of 
+wafers per month. 
+  At present, orders from Japanese manufacturers to equipment 
+manufacturers are increasing. With regard to steppers, which 
+sell more than any other type of equipment, "orders dropped by 
+half during 1993, but will return to the 1992 levels in 1994" 
+(Canon, Nikon). 
+  Among Japanese manufacturers, Toshiba will be first in 
+expanding its Yokkaichi 8-inch line to 10,000 wafers per month. 
+The equipment will be installed in the second quarter of 1994, 
+with the plan to achieve 10,000 wafers per month in the third 
+quarter. At full production the wafer processing capability will 
+be 20,000 wafers per month, although they have only decided so 
+far to install three-fourths of the equipment. 
+  Next will be Mitsubishi Electric and Hitachi Seisakusho. 
+Mitsubishi will install equipment in their Nishijo factory in 
+the third quarter, and put it into operation in the fourth 
+quarter. Hitachi will install equipment in its Naka factory 
+starting in early 1994, which will be capable of 20,000 wafers 
+per month at full production. However, the line will only be put 
+into operation in stages, so 10,000 wafers per month capability 
+will not be realized until as late as the first quarter of 1995. 
+NEC should also be capable of 10,000 wafers per month by the 
+beginning of 1995. However, Mitsubishi Electronics of Korea will 
+soon be capable of 20,000 wafers per month, so they are far 
+ahead of Japan. 
+
+
+
+  Figure A. Actual Production Capability of 0.5 m, 8-Inch Lines of Japanese Manufacturers. 
+
+              (Year)        1994                      95                      Notes 
+
+              (Quarter)     1Q      2Q    3Q    4Q    1Q    2Q    3Q    4Q 
+
+NEC           Kyushu                      X           X 
+              "Diffusion 
+              8" 
+
+Toshiba       Yokkaichi             X     X 
+
+Hitachi       Naka "N2"     X                         X                       Production 
+                                                                              line will 
+                                                                              be expanded 
+                                                                              in several 
+                                                                              stages. 
+
+Fujitsu       Wakamatsu             X           X                             Joint 
+                                                                              venture 
+                                                                              with AMD, 
+                                                                              aiming at 
+                                                                              flash 
+                                                                              memory. 
+
+Mitsubishi    Nishijo "A                  X     X 
+              Wing 2B" 
+
+Mitsubishi    No. 5         X             X 
+              "Phase 2" 
+
+The first X in the row shows when the equipment is installed and the second X shows when 
+actual production reaches the level of 10,000 wafers per month. 
+
+
+<H5>  The CEO Value as the Basis for Selecting Equipment </H5>
+  Equipment manufacturers have responded to the strong demand 
+for cost reductions from LSI manufacturers by using the CEO 
+index to quantify their equipment, dividing the cost by 
+throughput and availability. This trend was visible at Semicon 
+Japan (Figures 3 through 6). 
+  The use of the CEO index aims at the American LSI 
+manufacturer market, which is moving toward CEO as a basis for 
+selecting equipment for purchase. At the same time, this also 
+should set up a common ground for competition in Japan, where 
+evaluation standards have been less rigorous. In fact, it has 
+even been said that Intel has not made purchases because the CEO 
+value was not provided. 
+  The equipment with higher productivity to be introduced 
+starting at the end of 1993 and into 1994 falls mainly into two 
+types. The first type is equipment to improve productivity by a 
+factor from 1.3 to 2 for 16M, which will receive real funding in 
+1994. In other words, the CEO value will decrease 25 to 50 
+percent compared to earlier equipment. The second type is 
+experimental equipment preceding the completion of 64M 
+production equipment. Here the productivity will increase by a 
+factor from 1.5 to 2, meaning that the CEO value will decrease 
+30 to 50 percent. 
+  In the 16M case, size reduction is not being provided, so 
+the 
+equipment price will be stable. This equipment improves 
+throughput and availability. For example, the wafer conveyor 
+time, which constitutes more than half of tact time, will be cut 
+in half in order to improve throughput by a factor of 1.3. And 
+availability will be improved by decreasing the number of parts 
+so that periodic maintenance will need to be performed less 
+frequently. 
+  In the 64M case, the hope is for a breakthrough that will 
+improve productivity while providing size reduction. For 
+example, steppers have appeared with 2-to-1 size reduction and 
+double the throughput. Unlike the case of 5-to-1 steppers, a 
+great improvement is expected just by loosening the design rules. 
+<H5>  Etchers: Robot Wait Time Cut by a Factor of Three </H5>
+  One of the "three worst" etchers have now appeared for 16M 
+that reduce the CEO value by 30 percent, from &yen;520 per wafer 
+for previous equipment to &yen;400 per wafer. (SEMATECH shows 
+COO and CEO values as dollars per wafer, but here we have 
+converted this to yen per wafer for Japanese manufacturers.) 
+  Applied Materials (AMAT) of America is selling the "P-5000 
+Mark II-J Etch MxP," which lowers the CEO value by keeping the 
+price the same, improving availability 10 percent, and improving 
+throughput 20 percent (Figure 3). The price is about &yen;200 
+million, and sales began in Japan in October. 
+  The improvement in availability was achieved by reducing the 
+generated particles by an order of magnitude and doubling the 
+interval between maintenance. The number of particles of size 
+greater than 0.3 m was reduced to between 0.03 and 0.05 
+particles per cc. This was achieved by means such as using an 
+aluminum cutting chamber with attached rounds, using the most 
+appropriate blow holes for the gas supply, and switching to a 
+hot wall method. The improvement in availability also includes a 
+12.5 percent improvement in MTBF [mean time between failures] 
+(This is the average time from the occurrence of one failure to 
+the occurrence of the next failure) over earlier equipment, and 
+an improvement in MTTR [mean time to repair] by 22 percent. 
+(This is the average time from the occurrence of a failure until 
+it is repaired.) MTBF improved because the number of parts 
+within the chamber decreased. 
+  Throughput was increased by decreasing the convey time, 
+which 
+is more than half of the tact time. The conveyor speed was 
+increased by a factor of three when not waiting for a wafer. In 
+the future, robots will be used that can hold two wafers 
+simultaneously, and the convey speed will be made even faster. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 3. An Etcher With the CEO Value Reduced by 30 
+Percent. The throughput was increased 20 percent and 
+availability increased 10 percent while holding the price to the 
+same level as earlier equipment. Applied Materials of 
+America.&lt;/graphic&gt; 
+
+<H5>  Sputters: Cutting the CEO Value in Half to &yen;300 Per Wafer </H5>
+  Two companies, Nihon Denwa Anelba and Nihon Shinku 
+Technologies, are introducing 16M sputters that cut the CEO 
+value in half to &yen;300 per wafer. They reduce the gas exhaust 
+time and convey time, respectively. 
+  The "ILD-1060," introduced by Nihon Denwa Anelba in October, 
+decreased the CEO value from the &yen;600 per wafer of previous 
+machines to &yen;360 per wafer. The price of about &yen;160 
+million is the same as previous machines, while the availability 
+has been increased 10 percent and the throughput 50 percent. 
+  The improvement in availability was achieved by reducing the 
+hundreds of moving parts by about 50. 
+  The improvement in throughput was achieved by shortening the 
+vacuum exhaust time, which according to LSI manufacturers took 
+up between 40 and 50 percent of the tact time. The exhaust time 
+was cut in half by performing loading and unloading 
+simultaneously. This was achieved by developing robots that 
+could hold two wafers simultaneously. Previous robots were 
+improved, rather than developing new ones. 
+  The "Z-1000" sputter introduced by Nihon Shinku reduced the 
+CEO value from &yen;660 to &yen;330 per wafer. While slightly 
+reducing the price to &yen;170 million, the availability was 
+improved 40 percent and the throughput was improved 50 percent. 
+  The improvement in availability was achieved by cutting in 
+half the number of parts, which had been 4500. Sites of particle 
+generation were reduced, and the area of the nonstick board 
+within the chamber was reduced by an order of magnitude. 
+  The improvement in throughput was due to a 40 percent 
+reduction in convey time. Nihon Shinku accomplished this by 
+changing from the previous belt drive method to a frog leg 
+method. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 4. Productivity Is Higher for a Low Pressure Method 
+Than For a Collimated One. Productivity cannot be maintained 
+with a collimated method because as the number of processed 
+wafers increases the speed of membrane formation degrades and 
+particle generation increases markedly. Nihon Shinku.&lt;/graphic&gt; 
+
+<H5>  CVD Equipment: Close Attention Paid To Improving Throughput </H5>
+  The 16M CVD equipment has appeared with a CEO value of 
+&yen;400 per wafer that is reduced to 60 percent of prior 
+equipment. This is CVD that works at ordinary pressures with 
+TEOS for the raw material gas. 
+  Canon estimates that their CVD "ATP-5800" reduces the CEO 
+value to &yen;400 per wafer. They found it difficult to improve 
+availability, so they increased the throughput by 60 percent. 
+The price of about &yen;200 million is the same as before. They 
+investigated improvements in availability by in-situ cleaning, 
+but gave up on that idea because they felt that the price 
+increase of &yen;10 million was not worth the small improvement 
+in the CEO. 
+  Throughput went up 25 points by increasing the number of 
+process chambers from four to five, and 30 points more by 
+changing the convey method. The rectangular shape of prior 
+equipment was changed to a polygonal form, without much increase 
+in the area occupied by the equipment. The convey speed was 
+increased while changing from linear motion to circular motion. 
+<H5>  Vertical Furnaces: First, Realize an Increase in the Number </H5>
+of Charges 
+  Kokusai Electric has announced two new 16M vertical 
+furnaces, 
+one with sales beginning in January, 1994, and the other in the 
+second quarter of 1994. These reduce the CEO value over previous 
+equipment by 30 percent and 50 percent, respectively, for the 
+case of field oxidation. Unfortunately, however, it is the 
+policy of Kokusai Electric not to announce the absolute numbers 
+for the CEO values. 
+  The vertical furnace "V-IIIE," with a 30 percent lower CEO 
+value, increases throughput by increasing the number of charges. 
+They said that the availability was already so good that it 
+could have little effect on improving the CEO value. 
+  The vertical furnace "V-IIIF," with a 50 percent lower CEO 
+value, decreases the tact time of the V-IIIE. Kokusai Electric 
+plans to invest most heavily in this product for 16M. The V-IIIE 
+is available for users who need an earlier delivery date. 
+  Both the V-IIIE and V-IIIF increase the number of charges 
+from 100 to 150. The convey time increases, but this convey time 
+is still only 10 minutes as compared with the four hours 
+required for the field oxidation process, so there really is 
+little effect on the tact time. The larger number of charges is 
+achieved by increasing the length of the heater from 1200mm to 
+1350mm and the height of the equipment from 2800mm to 3100mm. 
+  The V-IIIF plans to decrease the tact time by reducing the 
+process time from 4 hours to only 1.5 or 2 hours. They plan to 
+produce test equipment at the beginning of 1994. 
+  Kokusai Electric states that increasing the number of 
+charges 
+is advantageous for field oxidation and the trench flushing 
+process. Kokusai Electric is investigating the CEO value 
+together with LSI manufacturers (Figure 5). They have also 
+quantitatively found that there is little advantage for the case 
+of processes that take less time, such as the capacitor 
+insulating membrane formation process. For such processes, size 
+reduction is the way to improve throughput. 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 5. Improving CEO by Increasing the Number of 
+Charges. For example, in the case of a field oxidation membrane, 
+increasing the number of charges to 150 reduces the CEO value by 
+30 percent. Kokusai Electric.&lt;/graphic&gt; 
+
+<H5>  Ion Implantation/Washing: The Road to Low Cost </H5>
+  For 16M, ion implantation equipment and washing equipment 
+have appeared with lower costs. 
+  Nihon Shinku will market the "IDZ-8800" ion implantation 
+equipment that cuts the CEO in half from &yen;500 per wafer to 
+&yen;250 per wafer. They have given up the parallel method of 
+vertically implanting ions in the wafer surface and returned to 
+the previous scan method. They returned to the scan method to 
+lower the cost, because half the cost of the equipment was in 
+the parts needed for parallelization. The price is &yen;200 
+million. 
+  Nihon Shinku developed the new equipment after 
+investigations, performed together with LSI manufacturers, had 
+shown that the parallel equipment is only needed 10 to 20 
+percent of the time. However, LSI factories usually have a 
+tendency to purchase several of the same type of equipment so 
+that an equipment failure does not stop the entire line. A 
+question is whether this will continue to be the case even 
+without the parallel equipment. 
+  The throughput has increased to 280 wafers per hour. One 
+wafer is already being conveyed while another one is being 
+processed. In the future, the convey time should not be a factor 
+at all, and it should be possible to have 360 wafers per hour. 
+  Dainippon Screen Seizo will sell washing equipment where the 
+CEO value has decreased from &yen;450 per wafer to &yen;400 per 
+wafer, for prices ranging from several tens of millions of yen 
+to &yen;300 million. Lower prices have been achieved by reducing 
+the number of parts from 125 to 50. While throughput may double 
+for other types of equipment, such as etchers or CVD, washing 
+equipment still has throughput to spare, so there is no way to 
+improve the CEO value except through lower costs. 
+<H5>  Appearance of 64M, 2-to-1 Steppers </H5>
+  Experimental steppers for 64M production give a 2-to-1 
+reduction ratio. 
+  Some LSI manufacturers had used 5-to-1 steppers together 
+with 
+magnifying exposers in 4M production lines. The 16M production 
+lines that invested in bubble technology went exclusively to 
+5-to-1 steppers. The appearance of 2-to-1 steppers now is for 
+the purpose of reducing the cost of the exposure process. Of 
+course, the CEO value is much lower for magnifying exposers than 
+for steppers. Therefore, some LSI manufacturers are looking for 
+steppers that can be used as magnifying exposers in processes 
+that have flexible design rules, such as ion implantation 
+processes or bonding pad opening. Throughput is increased by 
+changing the ratio from 5-to-1 to 2-to-1, increasing the 
+exposure surface area, and reducing the number of shots. 
+  Preliminary calculations for the new 2-to-1 steppers from 
+the 
+two largest companies, Nikon and Canon, show reductions in CEO 
+from &yen;500 per wafer to &yen;350 per wafer and from &yen;500 
+per wafer to &yen;400 per wafer, respectively. The Nikon price 
+is about &yen;300 million, and the Canon price is over &yen;300 
+million. Both have an exposure surface area of 50mm on a side 
+and an NA of 0.3. Both companies have doubled the throughput of 
+earlier equipment. The light source is i-rays. 
+<H5>  Proposals for Increasing Productivity Through Process </H5>
+Shortening 
+  There are also sputters and vertical furnaces that aim to 
+increase productivity for the 64M generation. 
+  Nihon Shinku has found that low pressure sputters are more 
+effective at increasing productivity than collimated methods 
+(Figure 4). Beginning with 64M, they are developing high vacuum 
+equipment of 10[.sup]-9[/] Torr (one Torr is 133 Pa) for 
+barrier metal membrane formation. A linear beam of sputter 
+particles increases the distance between the target and the 
+wafer, and the sputter particles reach to the bottom of the 
+hole. It is not possible to maintain productivity with a 
+collimated method because as the number of processed wafers 
+increases the membrane formation speed degrades and the number 
+of particles generated increases markedly. 
+  Kokusai Electric is pursuing research into equipment for 
+processes with short processing times, such as for capacitor 
+insulator membranes. They take the point of view that thin style 
+CVD will be advantageous for productivity and membrane formation 
+characteristics. The equipment is in the experimental stage, 
+with calculations suggesting that the CEO value can be decreased 
+20 to 30 percent. Generated particles are kept under control by 
+using a hot wall method, raising the temperature with a heater. 
+If the temperature can be maintained at a constant value even 
+during conveying, then membranes that may grow on the side walls 
+will not peel, so particles will not form. 
+  Equipment manufacturers are also reporting that they can 
+reduce CEO values by shortening their processes. For example, in 
+CVD processes that form layer insulator membranes, multiple 
+processes such as SOG were used for imbedding in the past, but 
+now a plasma CVD method with just a single cycle has appeared 
+(Figure 6). 
+&lt;graphic&gt; 
+&lt;capt&gt; Figure 6. Layer Insulator Membrane Processes With 
+One-Cycle Imbedding. Imbedding characteristics are improved by 
+using plasma TEOS membrane formation reactions with fluorinated 
+gas and etching reactions with fluorinated gas at the same time. 
+Such announcements were made at the Fall 1993, 54th Applied 
+Physics Research Conference (Mizuno, et. al., Fall 54th Applied 
+Physics Research Conference; Paper Number 28 p-X-2; September, 
+1993). This is one example of a process that LSI manufacturers 
+hope to be able to shorten.&lt;/graphic&gt; 
+
+

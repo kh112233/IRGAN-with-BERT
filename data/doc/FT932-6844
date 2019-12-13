@@ -1,0 +1,99 @@
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software &amp; Services
+(11): Big Idea changes software - A look at the enthusiasm for object
+orientation
+There is a basic law in information technology. When a new 'Big Idea' comes
+along its progress follows a predictable pattern: initially, there is
+unbridled enthusiasm from the technologists who advocate it; this is
+followed by a process of bandwagon building - as supplier companies'
+marketing departments recognise the Big Idea's potential as a way to
+increase sales.
+Finally, there is an inevitable backlash - as the Big Idea fails to live up
+to the inflated expectations pushed by the marketeers. Artificial
+intelligence, expert systems, computer-aided software engineering and many
+other examples have followed the same pattern.
+Object-oriented computing - a relatively new way of designing information
+technology systems - could be an exception. As a Big Idea, it is approaching
+the end of the second phase - with most manufacturers now claiming that they
+offer products which may be described as object-oriented. It is time,
+therefore, to look for signs of the backlash.
+But, so far, there are no signs that the initial enthusiasm for the
+object-oriented approach has started to wane. On the contrary, the bandwagon
+is rolling along nicely and the first experiences of the genuine application
+of the object-oriented approach are beginning to surface. Generally, the
+results appear to be positive.
+Mr Kerry Williams, an object-oriented technology specialist with the Swiss
+Bank, reports significant success with the approach. 'The bank decided to
+move to the technology about two years ago and we have delivered about a
+dozen applications using it,' he says.
+The applications are mainly concerned with the bank's front office
+operations and what Mr Williams describes as applications 'which fill the
+vacuum between the front and back office'. He is reluctant to be more
+specific because the bank is conscious of the competitive advantage that the
+new software brings.
+There are a growing number of examples of similar successes using the
+object-oriented approach. And if the number of conferences on
+object-oriented design, scheduled over the next few months, is an indicator,
+the level of interest is increasing and what might be termed a 'paradigm
+shift' is in the wind.
+Academically-minded purists will disagree but the essence of the
+object-oriented approach is deceptively simple. It means thinking about
+information processing systems as a set of well-defined components which can
+interact with each other. Applications can be constructed from these
+components in the same way that a child builds a toy from a set of Lego
+bricks.
+Any part of an IT system can be viewed as an object - from a complete
+application like a sales order processing system down to a simple program
+code routine to calculate a date. The object-oriented design approach
+provides a formal theoretical base with which to define and build objects.
+It also fits well with current pre-occupations in IT systems design such as
+the client-server architecture and networked systems.
+Advocates of the object-oriented approach claim that it makes building IT
+applications much easier because software 'objects' can be directly related
+to the 'real' world, rather than traditional software design methods which
+concentrate on technology issues.
+If successful, the object-oriented approach has profound implications for
+the future of software and IT systems in general.
+One of the main advantages of object components is that they can be used by
+many different applications. This means that a program to prepare data for a
+Postscript laser printer can be used by many applications. This technique is
+widely used in personal computers which use Microsoft's Windows environment.
+Similarly, the same 'spelling checker' program or object can be used by a
+word processing package, a spreadsheet and a presentation package.
+Inevitably, this means that it becomes more difficult to define exactly what
+an 'application' is. Is it a complete 'solution' with all of the program
+code required to perform the task 'built in'? Or is it a set of objects
+which are brought together to perform the task as required?
+A recent paper prepared by the Object Management Group (OMG), an industry
+organisation set up to promote object-oriented technology, suggests that
+future software applications will conform to the latter model. It uses the
+concept of 'electronic brokerage' of software components - akin to the Stock
+Exchange - as its starting point: 'We see this affecting software developers
+in the first instance. They are looking for ways to put new software
+products together by leveraging existing applications,' explains Mr Richard
+Soley, technical director of OMG and co-author of the paper.
+'An electronic brokerage system would allow them to 'discover' what objects
+are available and what they can do. By delivering them electronically or
+with CD-ROM, they can assess whether the software is suited to their
+purpose.'
+Mr Soley says that this has significant implications for software
+distribution channels.
+'It means that you can distribute software to a mass market with very few
+overheads. It also means users can benefit from being able to choose from a
+variety of different component objects to suit their needs.'
+Such a system does, of course, assume a standard infrastructure to support
+software components. The OMG says it is well on the way to building this
+infrastructure and has been remarkably successful in persuading the IT
+industry to adopt common standards.
+'You will see brokerage-type operations beginning to emerge this year and,
+within two years, end-user companies will see the effects,' says Mr Soley.
+If this forecast is correct, then the Big Idea behind object-oriented
+technology could be the one exception that proves the rule.
+OBJECT-ORIENTED EVENTS, 1993
+Object-Oriented Methods: Do they work in practice?, June 9-11, Swallow
+International Hotel, London (Object Trainers: 0491 410222)
+Object World, June 14-17 Moscone Center, San Francisco, California. (Object
+World:(US) 0101 508 820 4300, (UK) 081 570 2182)
+Object Expo Europe, July 12-16, Queen Elizabeth II Conference Centre, London
+(Object Expo: 0306 631696)
+Object World UK, October 13-15, Heathrow Penta Hotel (Object World: 081-570
+2182).

@@ -1,0 +1,129 @@
+ 
+
+2.1Definitions shall include the definitions specified in section 1.2 of IES LM9, section 3.0 of IES
+LM20, section 2 of IES LM45, section 2 of IES LM58, section 1.2 of IES LM66 and section IV
+of CIE Publication No. 13.2. (See 430.22) 
+2.2ANSI Standard 
+
+means a standard developed by a committee accredited by the American National Standards Institute (ANSI). 
+2.3
+
+CIE 
+
+means the International Commission on Illumination. 
+2.4
+
+CRI 
+
+means Color Rendering Index as defined in Section 430.2. 
+2.5
+
+IES 
+
+means the Illuminating Engineering Society of North America. 
+2.6
+
+Lamp efficacy 
+
+means the ratio of measured lamp lumen output in lumens to the measured lamp electrical power input in watts, rounded
+to the nearest whole number, in units of lumens per watt. 
+2.7
+
+Lamp lumen output 
+
+means the total luminous flux produced by the lamp at the measured reference condition, in units of lumens. 
+2.8
+
+Lamp electrical power input 
+
+means the total electrical power input to the lamp, including both arc and cathode power where appropriate, at the
+measured reference condition, in units of watts. 
+2.9
+
+Reference condition 
+
+means the test condition specified in IES LM9 for general service fluorescent lamps, in IES LM20 for
+incandescent reflector lamps, in IES LM45 for general service incandescent lamps and in IES LM66 for
+medium base compact fluorescent lamps. (See 430.22) 
+3.0
+
+Test Conditions 
+3.1General Service Fluorescent Lamps: 
+
+Test ambient conditions, electrical circuits, reference ballasts, stabilization requirements, instruments
+and detectors shall be as described in the relevant sections of IES LM9. The photometric test procedure and
+test report shall conform to sections 11 and 13 of IES LM9. (See 430.22) 
+3.2
+
+General Service Incandescent Lamps: 
+
+The selection and seasoning of the test lamps, the equipment and instrumentation, and the test conditions shall conform
+to sections 3, 4, 5 and 6 of IES LM45. (See 430.22) 
+3.3
+
+Incandescent Reflector Lamps: 
+
+The selection and seasoning of the test lamps, and the test conditions shall conform to sections 4.0 and 5.0 of IES LM20.
+(See 430.22) 
+3.4
+
+Medium Base Compact Fluorescent Lamps: 
+
+The selection, seasoning and stabilization of the test lamps, and the test conditions, shall be as described in sections
+1, 2, 3, and 7 of IES LM66. (See 430.22) 
+4. 
+
+Test Methods and Measurements 
+4.1General Service Fluorescent Lamps 
+4.1.1The measurement procedure shall be as described in IES LM9, except as noted below. Lamps shall
+be operated at the appropriate voltage and current conditions as described in ANSI C78.375 and ANSI C78.1, C78.2 or
+C78.3. Lamps shall be operated using the appropriate reference ballast as described in ANSI C82.3. (See 430.22)
+
+4.1.2Lamp lumen output (lumens) and lamp electrical power input (watts) at the reference condition shall
+be measured and recorded. Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output
+and lamp electrical power input at equilibrium for the reference condition. 
+4.2General Service Incandescent Lamps 
+4.2.1The measurement procedure shall be as described in IES LM45, except as noted below. Lamps shall
+be operated at 120 volts and 60 hertz regardless of the rated lamp voltage. (See 430.22) 
+4.2.2The test procedure shall follow section 7 and lamp lumen output determined in accordance with sections
+4.2a or b of IES LM45 at the reference condition. Lamp electrical power input in watts shall also be measured
+and recorded. Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical
+power input at equilibrium for the reference condition. The test report shall conform to section 8 of IES LM45.
+(See 430.22) 
+4.3Incandescent Reflector Lamps 
+4.3.1The measurement procedure shall be as described in IES LM20, except as noted below. Lamps shall
+be operated at 120 volts and 60 hertz regardless of the rated lamp voltage. (See 430.22) 
+4.3.2Lamp intensity distribution shall be measured in accordance with section 6.0 and lamp lumen output,
+or total flux, shall be determined in accordance with section 7.3 of IES LM20, at the reference condition. The
+integrating sphere measurement method, section 7.1, shall not be used. Lamp electrical power input in watts shall
+also be measured and recorded. (See 430.22) 
+4.3.3Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical
+power input at equilibrium for the reference condition. The test report shall conform to section 10.0 of IES LM20.
+(See 430.22) 
+4.4Medium Base Compact Fluorescent Lamps 
+4.4.1The measurement procedure shall be as described in IES LM66, as it pertains to lamps with integral
+ballasts. Lamps shall be operated at 120 Volts and 60 Hertz. Lamp lumen output shall be measured according to section
+11 of IES LM66 at the reference condition. Lamp electrical power input in watts shall also be measured and recorded.
+(See 430.22) 
+4.4.2Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical
+power input at equilibrium for the reference condition. The test report shall conform to section 13 of IES LM66.
+(See 430.22) 
+4.5Determination of Color Rendering Index (CRI) 
+4.5.1The CRI shall be determined in accordance with the method specified in CIE Publication 13.2 for general
+service fluorescent lamps. The required spectroradiometric measurement and characterization shall be conducted
+in accordance with the methods given in IES LM58 and IES LM16. (See 430.22) 
+4.5.2The test report shall include a description of the test conditions, equipment, and measured lamps,
+spectroradiometric measurement results and CRI determination.
+
+ 
+
+<FRFILING>
+[FR Doc. 9423748 Filed 92794; 8:45 am] 
+
+</FRFILING>
+<BILLING>
+BILLING CODE 645001P 
+</BILLING>
+
+
+

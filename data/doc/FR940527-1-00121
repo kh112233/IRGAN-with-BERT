@@ -1,0 +1,83 @@
+ 
+
+C. DRG Relative Weights
+
+
+
+As discussed in section II of the preamble, we have developed a classification system for all hospital discharges,
+assigning them into DRGs, and have developed relative weights for each DRG that are intended to reflect the resource
+utilization of cases in each DRG relative to Medicare cases in other DRGs. The intermediary makes an adjustment to
+the prospective payment rate by multiplying the standardized amount by the relative weight for the DRG to which the
+discharge is assigned.
+
+Table 5 of section V of this addendum contains the relative weights that we propose to use for discharges occurring
+in FY 1995. These factors have been recalibrated as explained in section II of the preamble.
+
+
+
+D. Calculation of Prospective Payment Rates for FY 1995
+
+
+
+General Formula for Calculation of Prospective Payment Rates for FY 1995
+
+
+
+Prospective payment rate for all hospitals located outside Puerto Rico except sole community hospitals=Federal
+rate.
+
+Prospective payment rate for sole community hospitals=Whichever of the following rates yields the greatest aggregate
+payment: 100 percent of the Federal rate, 100 percent of the FY 1982 hospital-specific rate, or 100 percent of the FY
+1987 hospital-specific rate.
+
+
+
+Prospective payment rate for Puerto Rico=75 percent of the Puerto Rico rate+25 percent of a discharge-weighted average
+of the large urban, other urban, and rural national rates.
+
+
+
+1. Federal Rate
+
+
+
+For discharges occurring on or after October 1, 1994 and before October 1, 1995, except for sole community hospitals
+and hospitals in Puerto Rico, the hospital's rate is comprised exclusively of the Federal national rate.
+
+The Federal rates are determined as follows:
+
+Step 1_Select the appropriate national adjusted standardized amount considering the type of hospital and designation
+of the hospital as large urban or other (see Tables 1a and 1b, section V of this addendum).
+
+Step 2_Multiply the labor-related portion of the standardized amount by the applicable wage index for the geographic
+area in which the hospital is located (see Tables 4a, 4b, and 4c, section V of this addendum).
+
+Step 3_For hospitals in Alaska and Hawaii, multiply the nonlabor-related portion of the standardized amount by the
+appropriate cost-of-living adjustment factor.
+
+Step 4_Add the amount from Step 2 and the nonlabor-related portion of the standardized amount (adjusted if appropriate
+under Step 3).
+
+Step 5_Multiply the final amount from Step 4 by the relative weight corresponding to the appropriate DRG (see Table
+5, section V of this addendum).
+
+
+
+2. Hospital-Specific Rate (Applicable Only to Sole Community Hospitals)
+
+
+
+Sections 1886(d)(5)(D)(i) and (b)(3)(C) of the Act provide that sole community hospitals are paid based on whichever
+of the following rates yields the greatest aggregate payment: the Federal rate, the updated hospital-specific rate
+based on FY 1982 cost per discharge, or the updated hospital-specific rate based on FY 1987 cost per discharge.
+
+Hospital-specific rates have been determined for each of these hospitals based on both the FY 1982 cost per discharge
+and the FY 1987 cost per discharge. For a more detailed discussion of the calculation of the FY 1982 hospital-specific
+rate and the FY 1987 hospital-specific rate, we refer the reader to the September 1, 1983 interim final rule (48 FR 39772);
+the April 20, 1990 final rule with comment (55 FR 15150); and the September 4, 1990 final rule (55 FR 35994).
+
+
+
+
+
+

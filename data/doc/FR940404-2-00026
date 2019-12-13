@@ -1,0 +1,203 @@
+ 
+
+2.3.1Water-heating clothes washers.
+
+ The temperature of the water supply shall be maintained at a minimum of 55 
+&cir;F (12.8 
+&cir;C) and a maximum of 60 
+&cir;F (15.6 
+&cir;C). 
+
+(iii) Sections 3.2.1 through 3.3.5 in Appendix J shall be deleted and replaced with the following: 
+
+3.2.1
+
+Per-cycle electrical energy consumption at maximum fill.
+
+ Set the water level selector to the maximum fill position, if manually controlled. 
+
+3.2.1.1
+
+Hottest wash at maximum fill.
+
+ Activate the machine and insert the appropriate test load as specified in 2.8.2.1. Select the normal or its
+equivalent wash cycle. Where spin speed selection is available, set the control to its maximum setting. Set the water
+temperature selector to the hottest setting and activate the wash cycle. Measure and record the kilowatt-hours of
+electrical energy consumed for the complete cycle as E
+
+ht,max
+
+.
+
+3.2.1.2
+
+Hot wash at maximum fill.
+
+ Insert a water temperature sensing device inside the inner drum prior to testing. Activate the machine and insert
+the appropriate test load as specified in 2.8.2.1. Select the normal or its equivalent wash cycle. Where spin
+speed selection is available, set the control to its maximum setting. Set the water temperature selector to the hot
+setting (a minimum of 140 
+&cir;F (60 
+&cir;C) and a maximum of 145 
+&cir;F (62.8 
+&cir;C)) and activate the wash cycle. Verify the wash water temperature, which must be at a minimum of 140 
+&cir;F (60 
+&cir;C) and a maximum of 145 
+&cir;F (62.8 
+&cir;C). If the measured water temperature is not within the specified range, stop testing, adjust the temperature
+selector accordingly and repeat the procedure. Otherwise, proceed and complete testing. Measure and record the
+kilowatt-hours of electrical energy consumed for the complete cycle as E
+
+h,max
+
+.
+
+3.2.1.3
+
+Warm wash at maximum fill.
+
+ Repeat 3.2.1.2 for a warm wash setting at a minimum of 100 
+&cir;F (37.8 
+&cir;C) and a maximum of 105 
+&cir;F (40.6 
+&cir;C). Measure and record the kilowatt-hours of electrical energy consumed for the complete cycle as E
+
+w,max
+
+.
+
+3.2.1.4
+
+Cold wash at maximum fill.
+
+ Repeat 3.2.1.1 for the coldest water setting. Measure and record the kilowatt-hours of electrical energy
+consumed for the complete cycle as E
+
+c,max
+
+. Ensure that the inlet water temperature is maintained per 2.3.1.
+
+3.2.2
+
+Per-cycle electrical energy consumption at minimum fill.
+
+ Set the water level selector to the minimum fill position, if manually controlled. 
+
+3.2.2.1
+
+Hottest wash at minimum fill.
+
+ Repeat 3.2.1.1 for a test load as specified in 2.8.2.1. Measure and record the kilowatt-hours of electrical
+energy consumed for the complete cycle as E
+
+ht,min
+
+.
+
+3.2.2.2
+
+Hot wash at minimum fill.
+
+ Repeat 3.2.1.2 for a test load as specified in 2.8.2.1. The hot wash setting shall be at a minimum of 140
+
+&cir;F (60 
+&cir;C) and a maximum of 145 
+&cir;F (62.8 
+&cir;C). Measure and record the kilowatt-hours of electrical energy consumed for the complete cycle as E
+
+h,min
+
+.
+
+3.2.2.3
+
+Warm wash at minimum fill.
+
+ Repeat 3.2.1.2 for warm wash setting at a minimum of 100 
+&cir;F (37.8 
+&cir;C) and a maximum of 105 
+&cir;F (40.6 
+&cir;C). Measure and record the kilowatt-hours of electrical energy consumed for the complete cycle as E
+
+w,min
+
+.
+
+3.2.2.4
+
+Cold wash at minimum fill.
+
+ Repeat 3.2.1.1 for the coldest wash setting. Measure and record the kilowatt-hours of electrical energy consumed
+for the complete cycle as E
+
+c,min
+
+. Ensure that the inlet water temperature is maintained per 2.3.1.
+
+(iv) Sections 4.1 through 4.6 in Appendix J shall be deleted and replaced with the following: 
+
+4.1
+
+Per-cycle temperature-weighted machine electrical energy consumption for maximum and minimum water fill levels.
+
+ Calculate the per-cycle temperature-weighted electrical energy consumption for the maximum water fill level,
+E
+
+max
+
+, and for the minimum water fill level, E
+
+min
+
+, expressed in kilowatt-hours per cycle and defined as:
+
+
+
+
+E
+
+max
+
+=(0.05&times;E
+
+ht,max
+
+)+(0.25&times;E
+
+h,max
+
+)+(0.55&times;E
+
+w,max
+
+)+(0.15&times;E
+
+c,max
+
+)
+
+E
+
+min
+
+=(0.05&times;E
+
+ht,min
+
+)+(0.25&times;E
+
+h,min
+
+)+(0.55&times;E
+
+w,min
+
+)+(0.15&times;E
+
+c,min
+
+)
+
+
+
+

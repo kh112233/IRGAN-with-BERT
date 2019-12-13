@@ -1,0 +1,39 @@
+ 
+
+As noted, we believe electronic filing will promote efficiencies for both the Commission and insurers, resulting
+in benefits to the public. To help gauge the full effect of our proposal, we seek comments on the number of insurers that
+envision filing electronically and the extent to which they will avail themselves of the opportunity to file their
+forms electronically. Given the potential for significant public benefits from electronic filing of insurance
+and substantial voluntary use of such a system by insurers, we also seek comments on the alternative of making electronic
+filing mandatory, either initially or at some point in the future. Such comments should include a discussion of the
+impact of such a mandatory system on insurers and an assessment of the type of system that would be necessary to handle
+the resulting volume of use. 
+After receiving comments on the proposal, our Systems Services Branch will build and test the electronic filing system,
+as well as prepare and maintain systems documentation and a User Manual. Each participating insurer will receive
+a unique account and password for login purposes on the timesharing system. We also envision that the insurer could
+register branch offices or other authorized filers under its account and password. We contemplate access being available
+24 hours a day, 7 days a week (except scheduled maintenance) by way of dial-up at either 1200 or 2400 baud to a local telephone
+number in the Washington, D.C., metropolitan area (although we recognize that 9600 baud may be more desirable). Any
+long distance telephone charges required to reach such number will be the responsibility of the filer, and even at
+1200 baud should be minimal. Once connected, the insurance company will be presented with a variety of menu options.
+
+After an authorized insurer logs in on the system and selects the menu option to upload insurance filings, the ICC computer
+will initiate the communications protocol, KERMIT, to receive filings. Upon completion of the transmission of the
+insurance filings, the ICC computer system will append the filings to a transaction file for subsequent batch processing.
+The insurance company will be returned to the main menu. One of the menu options contemplated is the insurer's ability
+to generate a report showing the number and type of transactions transmitted and received by the ICC. This transaction
+report will not be available to the home office of the insurance company at the time the transactions are filed. The
+home office will receive a comprehensive list of filings accepted at the time it receives its monthly billing statement.
+
+However, mere transmission of the filings does not guarantee acceptance by the Commission. Any record not containing
+a valid field or containing fields with incomplete or invalid data will be flagged with an error code. Each of these
+records will generate a rejection notice to be sent back to the insurance company. Records passing the initial validity
+checks will then be edited field by field against the ICC carrier and insurance data base. When all transmitted fields
+have been edited and verified, the filing will be applied against the insurance master file, either adding a new filing
+or applying a cancellation against an existing filing. All records that do not pass the automated edits will be flagged
+for manual processing. After manual review, those records accepted will be applied against the insurance master
+file, and those rejected will generate a rejection letter. A follow-up ``hard copy'' of an accepted filing will not
+be required. However, we do propose that insurers agree to furnish the Commission a duplicate original of any policy
+(or policies) and all endorsements, surety bond, trust fund agreement, or other filing. 
+
+

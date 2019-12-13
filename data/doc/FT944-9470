@@ -1,0 +1,84 @@
+FT  15 NOV 94 / Survey of Computers in Finance (2): Keeping customers happy
+ -New approaches to retail banking
+Ten years ago, Ken Pilbeam was head of marketing at Compucard, a project to
+promote telephone shopping. It was an era of unbridled optimism - and Mr
+Pilbeam shared the common dream of technology sweeping through the retail
+sector to revolutionise the most mundane purchases.
+Today, he is head of operational systems management at Barclays Bank, and
+despite commanding a formidable arsenal of technology, Mr Pilbeam is no
+longer an IT visionary - 'with the remote shopping idea in the '80s, we
+encountered significant consumer resistance. We didn't realise that social
+interaction is important, that people want to get out and about when they
+shop.'
+This has proved a useful lesson for Mr Pilbeam: under the Pounds 100m
+Customer System Project, 1,100 Barclays branches have joined a new approach
+to the retail customer. A central database has been constructed to hold 14m
+customer records. The big idea is to pull together previously separate
+processes, such as current account versus deposit, and replace them with one
+flow of data relating to each individual.
+The Customer System is aimed at eliminating the delays that characterise
+opening a new account. Rather than take forms from a customer, then process
+the risk involved and get back to the customer after an extensive credit
+check, Barclays wants to be in a position to approve and issue an account
+number on the spot.
+A central index held on an IBM 3090 mainframe at the bank's Gloucester data
+centre is accessed via smaller IBM RS 6000 processors at each branch. The
+central index integrates data from customer accounts at branch level,
+Barclaycard and the bank's financial services operation. This goldmine of
+information is also a mountain of data to store. The database alone holds
+the equivalent of 72m sides of A4 paper.
+Although the end-product should make itself felt at branch level, Barclays'
+has had to take a strategic view of the IT requirement that powers the
+Customer System. Huge quantities of data are best handled by a combination
+of mainframe computer and dedicated storage capacity. The Gloucester data
+centre, run under the aegis of Barclays' IT arm, Barclays Computer
+Operations (BCO), has installed extra storage capacity.
+US data storage specialist EMC supplied a Symmetrix 5500 system.
+Essentially, a sophisticated series of interlinked hard disks similar to
+those found in an office PC, the Symmetrix provides an electronic filing
+cabinet that holds data for the IBM mainframe.
+This box cost Pounds 750,000 including maintenance over a five-year period.
+It is not wholly dedicated to the Customer System, but with a storage
+capacity equivalent to 10,000 desktop PCs, the EMC 5500 illustrates the kind
+of technology that is necessary to keep a huge retail project
+up-and-running.
+If this impressive investment is to pay off, the retail customer must sense
+the bank is offering a reliable service. Sudden interruptions to normal
+service attributed to the catch-all excuse 'the computer is down' are fatal
+to customer relations in a competitive high-street market.
+Keith Durham, a customer account executive at Barclays' Cheshire computer
+centre, has studied the options for Business Resumption Planning Procedure
+(BRPP). In the event of a big systems failure at Gloucester, the operation
+could be run off another mainframe site within a couple of hours.
+This is the dramatic end of BRPP. What it really boils down to is having
+paper forms under the counter to cope with any collapse in the branch server
+ -'we don't want our staff to have to twiddle their thumbs while customers
+wait for a service. You've got to have procedures in place to handle any
+type of failure,' says Mr Durham.
+Telephone banking services such as Midland Bank's First Direct or TSB's
+Teleservice are being touted as the obvious direction for retail banking.
+Multimedia branches offering an array of automated terminals that stretch
+existing Automated Teller Machine (ATM) technology into the world of
+interactive video and live links to financial advisers are under review by
+most large banks.
+The Nationwide Building Society has been running a pilot remote banking
+installation in Aylesbury, using technology from Siemens-Nixdorf, for the
+last year.
+In Italy, a large number of institutions compete in the retail banking
+sector. So national branch networks are not as extensive as in the UK where
+the historic competition has been between four operators. Italian banks have
+been swift to install automated branches designed by Olivetti as a
+comparatively cheap means of rapid expansion.
+The impetus behind these developments is cost. A presence on every high
+street is expensive in terms of real estate and staff salaries. One of the
+Italian automated branches will cost around Dollars 1m to build and equip.
+Reliability is a key component of retail banking. Pilbeam expresses
+reservations about automated branches running intelligent multimedia
+terminals - 'the technology is still not perfect. Even if the failure rate
+is only one per cent, that can put people off. There will be resistance
+until it becomes the norm.'
+Barclays appears to be steering clear of the herd instinct in retail
+banking. By putting appropriate data at the disposal of branch staff, it is
+gambling that the customer still wants a human face behind the counter.
+Relegating the computer terminal to a vital supporting role may prove to be
+a crowd-puller.

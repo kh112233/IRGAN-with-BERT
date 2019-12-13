@@ -1,0 +1,43 @@
+FT  26 SEP 94 / Survey of Using Computers in Business (22): Obstacles along
+the ISO route - Case study
+Even large users run into difficulties in trying to follow what they are
+told are international standards. An example is Trafalgar House Engineering
+Division, which includes John Brown Engineering.
+It has won a clutch of awards for technological excellence and has been
+committed to an open systems strategy for several years, yet it was
+perplexed by a string of obstacles along the route prescribed by the ISO.
+It set up an international network connecting all the company's 37 offices
+in 12 countries, as well as a number of its suppliers and contractors. The
+network supports a global database, which can be accessed by its engineers
+and designers wherever they may be.
+It disposed of 12 Unisys mainframes and substituted some 200 UNIX
+workstations. To procure these machines it issued to UNIX vendors a list of
+criteria for openness. From the replies it discovered that it could not be
+sure of interoperability even though all the vendors claimed to offer open
+systems. In the end it standardised on machines from Hewlett Packard and Sun
+Microsystems.
+To make such a complex network possible it stuck to what it considered to be
+industry standards, among them TCP/IP, X400, the SQL database standard and
+Microsoft's DOS operating system.
+It preferred OSI standards where they existed but was willing to adopt de
+facto ones where they did not, or make up its own where neither existed.
+'OSI standards are necessary but not sufficient,' concludes Mr Jim Noble,
+the division's information technology director.
+'We adopted the official standards for ISDN (Integrated Service Digital
+Network), X4OO and X21 but we still found that A did not talk to B because
+the suppliers had interpreted the standards differently. So we had to knock
+heads together.'
+In some cases this proved possible  - Trafalgar House succeeded in
+persuading BT and its Dutch counterpart to interpret standards in the same
+way  - but now it is struggling to do the same in countries where achieving
+compatibility is much harder, such as Vietnam, Puerto Rico and Kasakhstan.
+Mr Noble says his company, like others, is getting to interoperability by
+pragmatic steps. 'OSI was seen as the holy grail but it no longer is. TCP/IP
+will do for us for the foreseeable future. We're prepared to set aside
+principles in order to get effective solutions. We will look at X/Open
+specifications for guidance, but we are not concerned to buy products that
+have the X/Open brand.'
+The X/Open interoperability brand will therefore be an important milestone,
+but is not expected by users to resolve all their problems at once.
+Interoperability is likely to preoccupy the industry for at least another
+decade.

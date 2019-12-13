@@ -1,0 +1,123 @@
+ 
+
+Appendix II to the Preamble_Determination of Historical Conditions 
+
+
+Appendix II summarizes the methodology used in developing the historical conditions data presented in Table 1, above.
+
+
+
+
+1. Calculating Delta Outflow Over Historical Period 
+
+
+Net Delta outflow at Chipps Island is estimated by performing a water balance at the boundary of the Delta. The water
+balance involves adding the total Delta inflow and Delta precipitation runoff, then subtracting Delta channel depletions
+and exports. 
+
+See
+
+ Equation 1, below. DWR has estimated net Delta outflow for water years 1956present with their flow accounting
+model, DAYFLOW. A similar model, using a smaller number of measured flows, was used to estimate Delta outflow from
+19291962. In the years of overlap the two models yield very similar results. 
+
+
+
+
+
+
+
+Equation 1
+
+: Delta outflow = river inflows + precipitation 
+^ channel depletions_exports 
+
+
+
+
+
+The four components used to calculate net Delta outflow are based on a variety of measurements. Most of the river inflows
+are gaged or directly measured at some point before they enter the Delta. Local precipitation is derived by multiplying
+the surface area of the Delta by the rainfall recorded at Stockton. Local precipitation is usually a trivial amount
+of flow but within-Delta uses (called channel depletions) can be substantial. Prior to construction of Shasta Dam
+and its regulation of Sacramento River flow, net Delta outflow was often negative during summer months because channel
+depletions exceeded Delta outflow. The level of channel depletions in DAYFLOW are based on average monthly crop demands
+for the acreage of each crop grown on Delta islands. Exports are directly measured at the point of diversion. 
+
+
+Because of the arithmetic nature of these estimates of Delta outflow, the estimated flows cannot reflect the impacts
+of such factors as the spring/neap tidal cycles, wind, etc. that would affect the actual mean daily flow velocities
+in the western Delta. 
+
+
+
+
+2. Calculation of Historical Occurrence of 2 ppt Isohaline Position 
+
+
+
+The daily estimates of net Delta outflow from October 1, 1939 to September 30, 1975 were used to calculate the frequency
+with which the 2 ppt isohaline was downstream of each of the specified positions in each year. Isohaline position is
+a function of net Delta outflow on a particular day and the isohaline position on the previous day, as specified in Eq.
+2. (Kimmerer and Monismith 1993). 
+
+
+
+
+
+
+Equation 2:
+
+ Mean daily position of 2 ppt near-bottom isohaline (X2) on day t: 
+X2
+
+(t)
+
+ = 10.16 + (0.945 times X2
+
+(t-1)
+
+) 
+^ (1.487 times log
+
+10
+
+(Delta outflow)) 
+
+
+
+3. Adjustment for Water Year Type 
+
+
+
+
+The proposed criteria were developed to reflect the average position of the 2 ppt isohaline in different water year
+types, according to the classification adopted by the State Board (SWRCB 1991). First, for each year from 1940 to 1975,
+the number of days on which the 2 ppt level was attained at each target location was tabulated. These totals were then
+averaged across each water year type. Because no critical years were available for comparison during this historical
+period, the average position of the 2 ppt isohaline in critical years was extrapolated from the other year types. The
+extrapolation was performed by fitting a curvilinear model to the averages for the other year types. These extrapolations
+are shown in Figures 1 and 2, above. The results of average number of days for each year type, along with the extrapolated
+values for critical years, are presented in Table 1, above. 
+
+
+
+
+4. Sensitivity to Starting Assumptions 
+
+
+
+No estimate of the location of the 2 ppt isohaline on October 1, 1939 was available, so the starting position in October
+1939 was assumed to be 75 km. However, sensitivity analysis showed that the calculated isohaline position on February
+1 was largely independent of the assumed isohaline position on the preceding October 1. This sensitivity analysis
+was performed as follows: for each of the ten years from 1940 to 1949, the February 1 isohaline position was calculated
+under two assumptions: (1) that the October 1 starting position was at the Golden Gate (km 0), and (2) that the October
+1 starting position was 100 km upstream of the Golden Gate. The historical delta outflow patterns and volumes differed
+greatly among these years and the calculated February 1 isohaline positions ranged from 49 km above the Golden Gate
+after wet winters to as much as 72 km above the Golden Gate during dry winters. However, by February 1 the difference
+in calculated positions based on the two different starting positions varied by no more than 0.1 km in any year. 
+
+
+
+
+

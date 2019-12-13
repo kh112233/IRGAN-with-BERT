@@ -1,0 +1,51 @@
+ 
+
+Discussion 
+
+
+
+The Direction G&eacute;n&eacute;rale de l'Aviation Civile (DGAC), which is the airworthiness authority for France,
+recently notified the FAA that an unsafe condition may exist on certain Airbus Model A310 and A300600 series
+airplanes. The French DGAC advises that a Model A300600 series airplane was recently involved in an accident
+during which the flight crew may have attempted a go-around while the airplane was in an out-of-trim condition. Investigation
+into the cause of this out-of-trim condition revealed that the flight crew may have attempted to override the autopilot
+while it was engaged in the COMMAND mode. If the airplane is in pitch axis, and the autopilot is overridden for prolonged
+periods by the flight crew via manual input from the control column, and if the autopilot is subsequently disengaged,
+the resultant out-of-trim condition between the trimmable horizontal stabilizer and the elevator could reduce
+controllability of the airplane. 
+
+Further investigation indicates that the design of Model A300600 series airplanes does not provide for disengagement
+of the autopilot in a manner that would allow for manual input from the control column without adversely affecting
+controllability of the airplane. The design of Model A310 series airplanes is identical in this respect to Model A300600
+series airplanes. 
+
+The French DGAC issued French Airworthiness Directive 94185165(B), dated August 17, 1994, in order
+to assure the continued airworthiness of these airplanes in France. The French AD requires modification of FCC's
+having part numbers (P/N) B216ABM6, B350AAM1, B350AAM2, B350AAM3, and B470ABM1 (for Model A310 series airplanes);
+and P/N's B297AAM3, B297AAM4, B297AAM5, and B470AAM1 (for Model A300600 series airplanes). 
+
+The French AD references Airbus Service Bulletins A310222036, dated December 14, 1993 (for Model A310
+series airplanes), and A300226021, Revision 1, dated December 24, 1993 (for Model A300600 series
+airplanes), as the appropriate sources of service information to accomplish the modification of the FCC's. However,
+Airbus Service Bulletin A310222036, dated December 14, 1993, describes procedures for modification
+of only one of the FCC's, P/N B470ABM1, which is installed on Model A310 series airplanes; while Airbus Service Bulletin
+A300226021, Revision 1, dated December 24, 1993, describes procedures for modification of only one
+of the FCC's, P/N B470AAM1, which is installed on Model A300600 series airplanes. Upon accomplishment of this
+software modification, the autopilot will disengage whenever the airplane is in the ``go-around'' mode above 400
+feet radio altitude and whenever the pilot attempts to override the autopilot by exerting a certain amount of manual
+force on the control column. 
+
+This airplane model is manufactured in France and is type certificated for operation in the United States under the
+provisions of section 21.29 of the Federal Aviation Regulations (14 CFR 21.29) and the applicable bilateral airworthiness
+agreement. Pursuant to this bilateral airworthiness agreement, the French DGAC has kept the FAA informed of the situation
+described above. The FAA has examined the findings of the French DGAC, reviewed all available information, and determined
+that AD action is necessary for products of this type design that are certificated for operation in the United States.
+
+
+Since an unsafe condition has been identified that is likely to exist or develop on other airplanes of the same type
+design registered in the United States, the proposed AD would require modification of FCC's having P/N's B216ABM6,
+B350AAM1, B350AAM2, and B350AAM3 (for Model A310 series airplanes); and P/N's B297AAM3, B297AAM4, and B297AAM5
+(for Model A300600 series airplanes). Since the manufacturer has not yet developed a modification for these
+FCC's, these modifications are to be accomplished in accordance with a method approved by the FAA. 
+
+

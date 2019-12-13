@@ -1,0 +1,105 @@
+SCIENCE GETS BOOST FROM SUPERCOMPUTERS; 
+TECHNOLOGY: SUPERCOMPUTERS ARE SUBSTITUTING AS LABORATORIES TO STUDY COMPLEX OR 
+INACCESSIBLE PHENOMENA OF NATURE. 
+Inside the world's fastest computers, rows of sweet summer corn are being 
+attacked by insects. Thunderstorms are brewing. Hearts are beating. And stars 
+are colliding. 
+Although they undulate with energy and follow the laws of nature, none of these 
+activities are real. The insects and thunderstorms are nothing more than 
+numbers and equations rushing through the processors of a Cray-2 or ETA10 Model 
+E supercomputer. 
+Yet to a growing number of academic and industrial scientists, the colliding 
+stars and beating hearts are real enough. More and more, supercomputers are 
+being used as laboratories in which to simulate and study complex or 
+inaccessible phenomena, such as the churning innards of a storm or the onset of 
+a heart attack. 
+"The supercomputer allows us to do experiments that would be extremely 
+cumbersome, if not impossible, to do in the lab," said Art Winfree, a biologist 
+at the University of Arizona who is trying to understand the process of cardiac 
+arrest by doing computer experiments at the John von Neumann National 
+Supercomputing Center at Princeton, one of five such facilities supported by 
+the National Science Foundation. 
+Like most scientists using supercomputers, Winfree has not abandoned studying 
+real life. But he has found that by using a supercomputer, he can examine in 
+minute detail the swirling bioelectrical vortex thought to be responsible for 
+the onset of ventricular fibrillation in heart muscle, the irregular 
+contractions that precede a heart attack. 
+Doing the same studies in a human heart is not yet possible. Doing the same 
+simulations on Apple or IBM personal computers, instead of a supercomputer, 
+would take centuries or longer. 
+The supercomputers are so big and so fast that for the first time researchers 
+can simulate such feats as the head-on collision of superdense neutron stars 
+and the intertwining of cosmic strings. They can simulate black holes and drop 
+matter into them. They can watch model galaxies spew jets of gas into 
+interstellar space. 
+On a more practical level, supercomputers can be used to make a better ice-cube 
+tray by enabling designers to understand how hot plastic fills a mold. 
+Engineers can design better bridges by investigating how cracks propagate 
+through different materials. 
+David Onstad of the Illinois Natural History Survey has studied the population 
+dynamics of insects. At the National Center for Supercomputing Applications at 
+the University of Illinois at Urbana-Champaign, Onstad recently simulated the 
+intricate life histories of a tiny beetle that infests grain silos. On the 
+supercomputer's circuits, as in the real world, the beetle was attacked by 
+microorganisms and subjected to cannibalism. By doing the millions of 
+computations necessary, the supercomputer allowed Onstad to understand how 
+beetle populations over hundreds of days are controlled by disease and 
+predators. 
+The supercomputer's speed and memory are the sources of its allure. 
+Calculations that would take months or years on the ubiquitous work station can 
+be done in minutes or hours on a supercomputer. Onstad, for example, recently 
+simulated how a population of European corn borers changed over 25 years. The 
+program took only hours to run through the supercomputer, though reviewing the 
+data and presenting it took several more months. 
+The machines achieve their speed by doing many calculations simultaneously, a 
+trick called "vector processing," in which several rows or "vectors" of 
+equations are attacked by the computer at the same time. Even faster computers 
+are now being produced that do "parallel processing." Compared to these new 
+machines, ordinary computers are electronic dullards -- doing their work 
+step-by-step, completing one task before moving on to the next. 
+This ability to do so many calculations gives Robert Wilhelmson, a 
+meteorologist at the University of Illinois, the ability to simulate severe 
+thunderstorms within a computer. Into the supercomputer, Wilhelmson feeds the 
+basic equations that describe how fluids are transported and clouds are formed. 
+He then gives the computer some other basic parameters, such as temperature and 
+moisture. Then he simply turns the program on. 
+"We can use the computer to study the dynamics of the storm, and we can see 
+things that we can't observe in the real world because things are happening too 
+fast or they're too hard to sort out," said Wilhelmson. 
+Indeed, Wilhelmson confesses that he is fascinated by the images that the 
+supercomputer and its advanced software can create. While most scientists are 
+eager to show visitors their slides and graphs, Wilhelmson preserves his 
+experiments on videotape. 
+On his tape, a small cloud gathers strength and grows in size, forming broad 
+shoulders and then becoming dark and threateningly anvil-shaped. As the video 
+runs, and while Wilhelmson stops and starts and rewinds the tape, the simulated 
+thunderstorm shows how updrafts and downdrafts influence the storm and how wind 
+circulates inside the cloud. 
+Wilhelmson believes that being able to visualize the computer simulation is 
+crucial to understanding the experiments. "You are producing gigabits of data," 
+he said, referring to the supercomputer's capacity to perform functions 
+involving billions of individual digits. "So much data is coming out of the 
+computer that we have to be able to move it around and make sense of it. You 
+have to find some order in all this," he said. 
+To deal with the volume of data, scientists have turned to artists and software 
+engineers to produce three-dimensional graphics of the research. Much of this 
+software was first developed by technicians working in the entertainment and 
+advertising industries. Indeed, some of the most advanced software programs 
+come from the people who produced movies loaded with special effects. 
+"These visual images allow us to extract scientific knowledge that is hidden in 
+all these data," said Karl-Heinz Winkler, deputy director of the National 
+Center for Supercomputing Applications at the University of Illinois. Winkler 
+said this visual information, not numbers that a computer can understand, are 
+at the heart of understanding phenomena such as thunderstorms and stellar 
+collisions. 
+Still, some researchers worry that the pretty pictures generated by computers 
+do not always tell the whole story. "A lot of the complex computer graphics you 
+see are closer to art than to science," said Donna Cox, an assistant professor 
+and artist at the University of Illinois who works with scientists to create 
+images of their computer-generated experiments that are both accurate and 
+insightful. 
+"There's more computers around, and more scientists are bowing and scraping 
+before them and believing what comes out of them as if they were some kind of 
+oracle," said Winfree. "You have to remember that 90 percent of what comes out 
+of a supercomputer is junk. You have to remember it's a tricky business. You 
+have to be careful." 

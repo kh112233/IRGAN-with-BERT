@@ -1,0 +1,247 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Haruo Arashi, Hitoshi Naito, Scientific </F>
+Measurement Laboratory, Tohoku University; and Yasuhiro 
+Yamanouchi, Ngasaki Research Institute, Mitsubishi Heavy 
+Industries] 
+  [Text] 
+<H5>  1. Introduction </H5>
+  In order to check the destruction of our global environment 
+by a large amount of CO&lt;inf&gt; 2&lt;/inf&gt;  emissions caused by mass 
+consumption of fossil fuels and to revitalize the earth's 
+environment, various measures are being proposed at present. Of 
+these the most effective, in our opinion, will be a large-scale 
+introduction of clean energy and development of an innovative 
+energy conversion technology. Faced with the environmental 
+crisis situation, we feel that development of a revolutionary 
+technology designed to convert clean and inexhaustible solar 
+light into energy will be extremely important. 
+  Based on our judgment that hydrogen will become one of the 
+main energy sources of the future, we have undertaken a project 
+designed to construct a hydrogen manufacturing system utilizing 
+a high-temperature vapor electrolytic technology combined with 
+the use of solar radiation as a primary energy source. The 
+conceptual diagram of this system is shown in Fig. 1. 
+
+
+<FIG ID=JPRS-JST-003LC-38A>             Fig. 1. The Conceptual Design of Hydrogen Manufacturing </FIG>
+
+
+
+
+  One of the characteristics of this system is that, since it 
+converts solar energy at 1000&deg;C, unlike the type of 
+conversion occurring in a mid-temperature zone, we can expect 
+high thermodynamic conversion efficiency. This system collects 
+solar light in a solar collector, thereby generating high 
+temperature of approximately 1000&deg;C. High-temperature 
+electrolytic cells are heated by means of oxide solid 
+electrolyte. This electrolytic system is intended to obtain 
+direct current necessary for electrolysis through direct 
+conversion of heat into electricity by using exhaust heat of 
+approximately 700&deg;C produced during the latter stage of the 
+electrolytic unit operation. In order to construct this system, 
+it will be necessary to develop a component technologies such as 
+solar concentrator, solar heat receiver, high-temperature 
+electrolytic cell, and thermoelectric converter. 
+  In this report, we will describe our experimental research 
+in 
+a thermoelectric power generator into which an FeSi&lt;inf&gt; 2&lt;/inf&gt; 
+thermoelectric element (which uses as its heat source a 
+high-temperature heat obtained from a large-scale solar 
+concentrator) is incorporated. The concentrator is installed at 
+Tohoku University. 
+  2. Solar Light Concentrator and Solar Heat 
+Receiver 
+  A large-scale solar light concentrator which uses a rotating 
+parabolic mirror with an aperture measuring 10 meters and focal 
+distance of 3.2 meters is installed at Tohoku University. Energy 
+input capacity of this concentrator is 50kW, and when a disc 
+sample is placed on a focal plane, the degree of conversion 
+becomes 50,000 times as great, making it possible for us to 
+obtain super high temperature reaching as high as 4000K. 
+  The temperature required for a hot vapor electrolysis is no 
+more than 1000&deg;C, and, since an extremely high concentration 
+of solar light is not required for this purpose, the solar heat 
+receiver is designed to gather sunlight while defocusing on a 
+8-cm diameter ceramic tube surface so as to obtain an adequately 
+high temperature required for high-temperature electrolysis. The 
+computational result of sunlight concentration distribution over 
+the tube surface was reported at a research forum held last 
+year, revealing that it was possible to obtain the maximum 
+concentration level of 6000. This computed value is in good 
+agreement with the distribution of solar radiation gathered on 
+the tube surface obtained by actual measurement using a 
+heat-flux meter. 
+
+
+<FIG ID=JPRS-JST-003LC-39A>             Fig. 2. Solar Radiation Receiver Made of Porous </FIG>
+
+
+
+
+   In order to obtain high-temperature heat efficiently from 
+concentrated sunlight, we have developed a solar receiver made 
+of porous ceramics shown in Fig. 2. Our experiment in high 
+temperature heat generation by the combined use of the solar 
+receiver and a large-scale solar concentrator installed at 
+Tohoku University already has been reported&lt;sup&gt; 1)&lt;/sup&gt; . 
+Generation of heat stabilized at 1000&deg;C in the part, into 
+which electrolytic cell is fitted, and at 800&deg;C in the part, 
+into which thermoelectric power generation elements are 
+assembled at a latter stage of heat generation, have been 
+verified. 
+<H5>  3. Development of FeSi </H5>
+&lt;inf&gt; 2&lt;/inf&gt;  Thermoelectric Power 
+Generator Using Sunlight as Heat Source 
+  As described in the previous section, it has become possible 
+to obtain high heat of 800&deg;C stabilized at the latter stage 
+of electrolytic cell unit operation with the use of the 
+prototype solar receiver. We have, therefore, conducted R&amp;D 
+of a 
+system designed to generate power used in electrolysis through 
+the direct conversion of heat into electricity utilizing 
+thermoelectric elements which utilizes the high temperature of 
+800&deg;C. 
+  The performance of thermoelectric materials is evaluated by 
+the performance index given by 
+
+  &lt;/graphic&gt; 
+
+  (&agr;, &kgr;, and &rgr; represent thermoelectric power, 
+thermal 
+conductivity, and electrical resistivity) SiGe and 
+FeSi&lt;inf&gt; 2&lt;/inf&gt;  are known as high-temperature-type power 
+generating elements. Although the performance index of the 
+FeSi&lt;inf&gt; 2&lt;/inf&gt;  thermal power generating element is considered 
+low, Matsubara and his team at Yamaguchi University reported 
+recently that, by treating the FeSi&lt;inf&gt; 2&lt;/inf&gt;  element in the 
+oxygen plasma, they were able to produce a 
+high-performance-index&lt;inf&gt; 2)&lt;/inf&gt;  FeSi&lt;inf&gt; 2&lt;/inf&gt; 
+thermoelectric power generating element. As a result, this 
+element is now attracting attention as a promising 
+high-temperature power generating element material. Moreover, 
+since a large number of power-generating elements are required 
+in heat-electric direct conversion, element material cost must 
+be low. From the standpoint of material cost, also, the use of 
+the FeSi&lt;inf&gt; 2&lt;/inf&gt;  thermoelectric power generating element 
+will be welcome. For these reasons, in this research, we used 
+the FeSi&lt;inf&gt; 2&lt;/inf&gt;  element in our power generation experiment. 
+  Photo 1 shows FeSi&lt;inf&gt; 2&lt;/inf&gt;  thermoelectric power 
+generating elements K and I. These are produced by different 
+companies. 
+
+
+<FIG ID=JPRS-JST-003LC-39B></FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-39C>                           Fig. 4. One K Element's Power Generation </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-40A>              Fig. 5. Gas Temperature in Each Block </FIG>
+
+
+
+
+  Current-voltage and output characteristics of these single 
+elements are shown in Figs. 3 and 4. The reason why the output 
+of I element is lower than that of K element is that its 
+sectional area is smaller than that of K element, resulting in 
+an increase in internal resistance. When the conversion, 
+designed to make a sectional area of both elements to be in the 
+same size, is performed, both outputs were approximately on the 
+same level. Using these elements, as shown in Photo 2, we made 
+an FeSi&lt;inf&gt; 2&lt;/inf&gt;  thermoelectric power generator, designed to 
+convert solar energy into a primary energy, and attached it to a 
+lower part of the solar receiver. This generator consists of the 
+first, second, and third blocks. Eight elements are attached 
+around a stainless steel tube of each block measuring 6 cm in 
+diameter and 2mm in thickness. The power generating element's 
+cold junction part is fixed on a water-cooled copper plate. 
+Photo 3 shows the way in which the interior of the power 
+generator is viewed from the lower part. The power generation 
+element's p-n junction is extruding in the central part touching 
+a hot gas. It is clear that a space between the junction and the 
+stainless steel tube is insulated by a heat-resistant blanket. 
+In the first block, five layers of I elements, in the second 
+block, six layers of I elements, and in the third block, four 
+layers of K element, a total of 120 elements are attached. 
+  We conducted a thermoelectric power generation experiment 
+with sunlight focused on the solar receiver. In this experiment, 
+we installed a thermocouple device in the center of the 
+stainless steel tube and measured each layer's gas temperature. 
+Fig. 5 plots shifting gas temperatures and power generating 
+element's cold junction temperatures by time, indicating clearly 
+the stabilized temperatures. The lower part of the first block 
+has the highest temperature, and as we move upward, we see 
+temperature gradually falling, which makes us think that a 
+further study on insulation of the stainless steel tube side may 
+be necessary. 
+  We conducted power generation experiment by connecting 
+blocks 
+in series to measure current-voltage and output characteristics 
+through resistance load. The results are shown in Fig. 6. The 
+highest output was 2.7W. 
+
+
+<FIG ID=JPRS-JST-003LC-40B>             Fig. 6. Power Generation Characteristics of Thermoelectric </FIG>
+
+
+
+
+  Fig. 7 (not reproduced) shows the relationship between 
+electric current of high-temperature electrolytic cell made of 
+solid zirconia electrolyte (covered in our study) and impressed 
+voltage. Also shown in the diagram is a comparison of 
+current-voltage characteristics of the thermoelectric power 
+generator. We can see from the chart that even with this level 
+of power generating capability, electrolysis progresses and 
+hydrogens are being produced. In order to increase the amount of 
+hydrogen generated, it will be necessary to increase power 
+generator's output. The power generator's current-voltage 
+characteristics indicate that high resistance existing inside 
+this generator is curbing output growth. As shown in Fig. 8, an 
+element developed recently has a different shape and has the 
+capacity to generate nearly 1 W power. Incorporation of this 
+type of elements into the generator will enable us to obtain a 
+greater output capacity. 
+
+
+<FIG ID=JPRS-JST-003LC-41A>             Fig. 8. Power Generation Characteristics of </FIG>
+
+
+
+
+
+<H5>    4. Conclusion </H5>
+  We have produced a highly efficient solar receiver made of 
+porous ceramics. We were able to learn that, by heating this 
+solar receiver with a large-scale solar concentrator installed 
+at Tohoku University, the electrolytic cell and thermal power 
+generating elements can be maintained at a stable high 
+temperature. By using a power generator equipped with 120 
+FeSi&lt;inf&gt; 2&lt;/inf&gt;  thermal power generating elements, we have 
+succeeded in producing 2.7W electric power. These results 
+clearly state that experimentally it would be possible to 
+construct the type of hydrogen manufacturing system based on a 
+high-temperature vapor electrolysis using only solar energy 
+(shown in Fig. 1) as its primary energy. Our future plans are to 
+use FeSi&lt;inf&gt; 2&lt;/inf&gt;  elements with low internal resistance to 
+produce a power generator with the optimal heat design and to 
+develop high-efficiency hydrogen generation system. 
+Reference 
+  1) Haruo Arashi and Hitoshi Naito: Society of Energy and 
+Resources. 11th Research Forum Lecture, Collected Papers. 
+pp.21-26 (1992) 
+  2) Kakue Matsubara : Ministry of Education Energy Focused 
+Area Study. 1993 Report on Research Results, p.341. 
+

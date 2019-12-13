@@ -1,0 +1,55 @@
+Language: <F P=105> Italian </F>
+Article Type:BFN 
+
+<F P=106> [Article by Umberto Torelli: "A Robot is even Working in </F>
+the Greenhouse"] 
+  [Text] We are used to robot butlers, and to robots that do 
+dangerous jobs underground, as well as those inside stores where 
+explosives are kept. A robotic manipulator that is just as able 
+to perform operations as the surgeon and uses remote control 
+techniques has also been experimented. This time robotics is 
+being applied to agriculture. The robot "farmer" project 
+started at the Agrobot consortium, a pool of university centers 
+and companies working in the sector engaged in the CNR [Italian 
+National Research Council] finalized robotics project. 
+  The body of the system, which is designed to work in the 
+greenhouse for the time being, is made up of a strong 
+caterpillar vehicle that can move about, and also serve as a bed 
+on which the produce that has been harvested can be carried. An 
+anthromorphic arm, which can translate and rotate operating with 
+six grades of restraint between ground level and 1.5 meters 
+above ground level, is fixed onto the upper base. 
+  The manipulation system is made up of three fingers and lies 
+at the end of the arm. It is entrusted with the job of 
+delicately grasping the produce that is to be picked and this is 
+not simple. The articulated phalanges of each finger are able to 
+assess the consistency of the object being handled with extreme 
+precision, just like the human hand, and evaluate the force that 
+should be applied to take hold of it. 
+  Finally there is the vision system. It is as sophisticated 
+as ever and uses a pair of stereo color television cameras. 
+These artificial eyes are given the delicate task of evaluating 
+the size of the obstacles that are met and this information is 
+used to give the correct navigational instructions. But this is 
+not all. The robot can pinpoint the position of the fruits or 
+vegetables with millimetric precision and evaluate the 
+tonalities of their color. 
+  In this way it manages to identify flowers for hormone 
+treatment, select the position of fruits to be treated, and 
+above all select the harvest with precision on the basis of the 
+grade of color and the consistency of the pulp. Naturally, it 
+is easy to program the robot so that it picks the fruit that has 
+the weight and form required, then places it in boxes, in rows, 
+with the stalks facing in the same direction. 
+  "At present greenhouse produce is harvested all at once, 
+often picking produce in different stages of maturation," says 
+Giulio Sandini of the University of Genoa DIST (Department of 
+Information Science). 
+  "With the advent of robotics all the produce is separately 
+picked, assuring the correct grade of maturity. We must also 
+consider the reduction made in the quantity of chemicals used. 
+Now, when parasites are present, it is necessary to spray the 
+whole area, in the future the robot system will be able to 
+locate the individual plants that are affected and treat them 
+separately." 
+

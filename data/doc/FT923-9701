@@ -1,0 +1,92 @@
+FT  04 AUG 92 / Technology: Chilling the chips - Andrew Baxter describes why
+engineering in sub-zero conditions is becoming a hot topic
+In the public imagination, cryogenics conjures images of astronauts frozen
+for science fiction's interstellar voyages or of rich Californians put on
+ice until the secret of eternal life is discovered.
+Cryogenics - engineering at extremely low temperatures - is a serious
+business, however, with a range of applications in space and at a more
+down-to-earth level.
+Inside one of Carrier's air conditioning factories in Syracuse, upstate New
+York, is a tightly-guarded prototype manufacturing laboratory where the
+final touches are being made to a 'cryocooler', confidently expected to win
+a distinctly frosty reception.
+Carrier is among a number of companies and universities which have been
+developing cryocoolers during recent years. Much of the work has been based
+on adaptations of the Stirling cycle engine patented by the Rev James
+Stirling in 1816, which can be used as a refrigerator if the direction of
+rotation is reversed.
+Other advances in cryocooling were made by Philips of the Netherlands after
+the Second World War, while Oxford University's Department of Engineering
+Science has been developing cryocoolers for the past 14 years and was the
+first to produce a long-life maintenance-free cryocooler about 10 years ago.
+Oxford's Stirling cycle cryocoolers are used almost exclusively for cooling
+infra-red detectors to give clearer images - two of its machines are
+installed on satellites - and its machines are now licensed to four
+companies in the UK and US, with a fifth deal in prospect.
+The phenomenon that has galvanised Carrier into developing cryocoolers is
+slightly different. At extremely low temperatures, computer chips work much
+faster, because the resistance in the copper interconnects is reduced and
+the signals can travel more quickly. For reasons not yet clear,
+superconductors do not work at all unless kept very cold.
+At 77 Kelvin or - 321 deg F - CMOS (Complimentary Metal Oxide Semiconductor)
+chips used in mid-range computers are twice as fast as when used in a
+standard air-cooled environment. The 77 Kelvin benchmark is the boiling
+point of nitrogen, used because nitrogen has always been an inexpensive,
+convenient refrigerant, although the working gas in cryocooling is normally
+helium.
+The challenge for widespread commercial use of cryocoolers in electronics
+has been in getting them to work unattended for a long period and in making
+them cheaply, says Brian Hands, a research lecturer at Oxford.
+In conditions of some secrecy, Carrier, part of United Technologies (UTC),
+has been working with the computer industry and with the multi-disciplinary
+United Technologies Research Centre at Hartford, Connecticut, to solve the
+problem. In the past few weeks, it has unveiled the first 250W cryocooler
+with an estimated 'initial maintenance-free power-on time' of 50,000 hours.
+The Carrier cryocooler is designed to fit on the standard electronic
+equipment rack at the bottom of a computer unit. The CMOS chip sits on the
+cryocooler's six-inch copper plate cool head.
+Carrier has spent some tens of millions of dollars on its cryocooler, says
+Charles Lockerby, business development director of the Transicold division's
+advanced electronics cooling unit.
+Much of the effort has gone into improving reliability and reducing noise
+and vibration down to a total of 45 decibels, but Carrier has also had to
+work hard, says Lockerby, convincing computer manufacturers 'that it was
+going to be OK putting something mechanical inside the temple of the
+computer'.
+Carrier's hope is that mid-range computer manufacturers will buy the
+cryocooler in place of all the extra components currently used to make
+computers run faster. Once in volume production - which may not yet be for a
+year or two - the machines will cost about Dollars 20,000 (Pounds 10,500)
+when bought in quantity.
+Lockerby sees a market of at least 10 to 15 years for cryocooled CMOS chips.
+The big question, however, is whether conventional developments in chip
+design will yield the faster speeds anyway.
+Hands sees more potential for cryocoolers in superconductors, where the
+availability of reliable, inexpensive systems will assist in the development
+of high Tc (critical temperature) applications. The availability of
+mass-produced cryocoolers may well depend on their success in the much
+bigger computer market.
+There are many other possible applications. Carrier is beginning to develop
+a cryocooler for magnetic resonance imaging machines which use low Tc
+superconductors - MRI is used widely in medicine as an alternative to X-rays
+ -and also sees uses for cryocooled superconductors in space and defence.
+At very low temperatures, superconductors have zero resistance, but they can
+also repel an external magnetic field, in such a way that a spinning magnet
+can be held in a levitated position. Known as the Meisner effect, this
+creates opportunities for cryocoolers in magnetically levitated transport
+(Maglev) and for levitating flywheels to store cheap energy for electric
+cars, says Lockerby. 'We'd love to put one in every electric car,' he adds.
+At Oxford, there is particular interest in developing Stirling cycle 'green'
+refrigerators - using nitrogen rather than ozone-damaging CFCs as the
+refrigerant. The cool head of a cryocooler is very localised, requiring a
+fan to distribute the cold and thus necessitating a complete redesign. 'The
+biggest problem,' says Hands, 'is persuading the fridge manufacturers that
+it's a good idea. They want a 'drop-in' replacement to CFCs.'
+Carrier's forthcoming entry into the emerging, fragmented market for
+cryocoolers could be very significant, although mass-production will have to
+wait until the computer industry is ready to incorporate the machines in
+their designs.
+The project has been given a high priority within Carrier and UTC, and
+Carrier wants to use its global marketing and distribution network to
+support what is eventually intended to be a very broad range of cryocoolers,
+says Lockerby.

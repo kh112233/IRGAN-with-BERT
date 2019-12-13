@@ -1,0 +1,807 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Space Industry Section, Machinery and </F>
+Information Industries Bureau, Ministry of International Trade 
+and Industry] 
+  [Text] Thanks to the progress made in international space 
+development efforts in recent years, topics related to space 
+technology are becoming increasingly familiar to the people. For 
+example, the images of cloud patterns over and around Japan, 
+which are sent by the meteorological satellite "Himawari," are 
+shown on television every day. The number of households 
+subscribing to satellite broadcasting service exceeds 4 million. 
+In addition, we are communicating with people in foreign 
+countries using the international telephone service offered via 
+communications satellites. In recent years, the use of the 
+global positioning system (GPS) satellite launched by the United 
+States is expanding from use on ships to use in cars, as well as 
+to portable use by individuals. 
+  The space industry has been promoting the use of the space 
+technology that makes it possible to offer these services. The 
+industry comprises the space hardware production industry which 
+manufactures satellites and rockets, etc.; the space utilization 
+industry which offers broadcasting, communications, 
+meteorological and earth observation services; and the 
+space-related service industry which offers various services, 
+including database services using satellites. As their markets 
+continue to expand, these industries are beginning to experience 
+increased competition on the international market. Under these 
+circumstances, the Japanese space industry is experiencing a 
+turning point that is expected to continue up to around the year 
+2000. 
+  The Ministry of International Trade and Industry (MITI) has 
+been promoting a number of programs aimed at encouraging the use 
+of space technology and services in Japan. These programs have 
+been promoted through increased cooperation with the 
+organizations devoted to promoting the use of space technology 
+and other space-related establishments in foreign countries. In 
+promoting these programs, the ministry took into consideration 
+the recent progress being made in global information exchange 
+services and the urgency of tackling the problem of the earth's 
+deteriorating environment. 
+  Figure 1 [not reproduced] outlines the current system in 
+Japan aimed at promoting space development and the use of space 
+technology. Table 1 explains the contents of MITI's budgets for 
+space development in FY91 and 92. This paper will outline MITI's 
+policy for promoting domestic space industry. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 1. Space Development Efforts Promoted by MITI                          | 
+------------------------------------------------------------------------------- 
+|Budgetary Item           |Budget Amount for FY93 (-|Comments                 | 
+|                         |unit: &yen;1 million)    |                         | 
+------------------------------------------------------------------------------- 
+|Utilization of Space Env-|                         |                         | 
+|ironment                 |                         |                         | 
+------------------------------------------------------------------------------- 
+|Development of unmanned  |4,397                    |Aiming at 1994 launching;| 
+|space experiment system (|                         | flyer is being develope-| 
+|free flyer for space exp-|                         |d jointly by Education M-| 
+|eriments and earth obser-|                         |inistry (Institute of Sp-| 
+|vation                   |                         |ace and Astronautical Sc-| 
+|                         |                         |ience) and Science and T-| 
+|                         |                         |echnology Agency (Nation-| 
+|                         |                         |al Space Development Age-| 
+|                         |                         |ncy)                     | 
+------------------------------------------------------------------------------- 
+|R&amp;D of self-returnin-|3,325                    |R&amp;D on capsuled unma-| 
+|g unmanned space experim-|                         |nned system that will re-| 
+|ent system               |                         |turn to earth on its own | 
+|                         |                         |after having completed e-| 
+|                         |                         |xperiments in weightless | 
+|                         |                         |environment for approx. 1| 
+|                         |                         | week                    | 
+------------------------------------------------------------------------------- 
+|Remote Sensing           |                         |                         | 
+------------------------------------------------------------------------------- 
+|R&amp;D of technology fo-|1,932                    |R&amp;D of technology ne-| 
+|r remote sensing of oil  |                         |eded to process and anal-| 
+|deposits                 |                         |yze data obtained from e-| 
+|                         |                         |arth resource satellite  | 
+|                         |                         |No 1                     | 
+------------------------------------------------------------------------------- 
+|R&amp;D of natural resou-|61                       |Operation of natural res-| 
+|rce exploration system   |                         |ource exploration satell-| 
+|                         |                         |ite No 1 (JERS-1) launch-| 
+|                         |                         |ed in 1991, and evaluati-| 
+|                         |                         |on of the satellite's pe-| 
+|                         |                         |rformance in space       | 
+------------------------------------------------------------------------------- 
+|R&amp;D of natural resou-|2,907                    |Development of advanced  | 
+|rce exploration system t-|                         |natural resource explora-| 
+|o be installed on polar--|                         |tion sensor for installa-| 
+|orbit satellite (EOS-AM1)|                         |tion on NASA's EOS-AM1 s-| 
+|                         |                         |atellite                 | 
+------------------------------------------------------------------------------- 
+|R&amp;D of next-generati-|44 (new budgetary item)  |R&amp;D of radar for pro-| 
+|on synthetic aperture ra-|                         |moting natural resource  | 
+|dar, etc.                |                         |exploration efforts by p-| 
+|                         |                         |aying better attention t-| 
+|                         |                         |o preservation of the en-| 
+|                         |                         |vironment                | 
+------------------------------------------------------------------------------- 
+|R&amp;D for building dat-|57 (new budgetary item)  |R&amp;D for building dat-| 
+|abase network of data ob-|                         |abase network of data ob-| 
+|tained from satellite    |                         |tained from various sate-| 
+|                         |                         |llites to promote its ef-| 
+|                         |                         |fective use, including d-| 
+|                         |                         |ata on the earth's envir-| 
+|                         |                         |onment                   | 
+------------------------------------------------------------------------------- 
+|Monitoring of environmen-|904                      |Development of CO[.sup]2  | 
+|tal changes in large are-|                         |[/] sensor (IMG-I) fo-| 
+|as (development of senso-|                         |r installation on earth  | 
+|r to detect substances c-|                         |observation satellite    | 
+|ausing greenhouse effect)|                         |                         | 
+------------------------------------------------------------------------------- 
+|R&amp;D of next-generati-|100 (new budgetary item) |R&amp;D of IMG-II CO[.sup]| 
+|on greenhouse-effect-cau-|                         |2[/] sensor for conti-| 
+|sing substance sensor IM-|                         |nued observation of eart-| 
+|G-II                     |                         |h's environment          | 
+------------------------------------------------------------------------------- 
+|Development of Advanced  |                         |                         | 
+|Technology               |                         |                         | 
+------------------------------------------------------------------------------- 
+|Development of space rob-|137                      |Development of highly fu-| 
+|ot technology            |                         |nctional robot hand for  | 
+|                         |                         |installation on technolo-| 
+|                         |                         |gy testing satellite (ET-| 
+|                         |                         |S-VII), scheduled for 199| 
+|                         |                         |7 launch                 | 
+------------------------------------------------------------------------------- 
+|Survey and Research      |                         |                         | 
+------------------------------------------------------------------------------- 
+|Study of future of rocke-|9                        |Study of commercializati-| 
+|t launch service industry|                         |on of the industry in Ja-| 
+|                         |                         |pan in the future, with  | 
+|                         |                         |study to include reform  | 
+|                         |                         |of administrative system | 
+------------------------------------------------------------------------------- 
+|Survey and research on p-|20                       |Survey on developments i-| 
+|ossibility of electric p-|                         |n space electric power g-| 
+|ower generation in space |                         |eneration efforts in Jap-| 
+|                         |                         |an and foreign countries;| 
+|                         |                         | study of problems which | 
+|                         |                         |must be tackled in the e-| 
+|                         |                         |ffort                    | 
+------------------------------------------------------------------------------- 
+|Survey on situation of e-|11                       |Study of appropriate div-| 
+|fforts to develop next-g-|                         |ision of space developme-| 
+|eneration commercial sat-|                         |nt tasks between governm-| 
+|ellite and commercial ut-|                         |ent and private sector t-| 
+|ilization of space techn-|                         |o realize future launch  | 
+|ology                    |                         |of commercial satellite  | 
+------------------------------------------------------------------------------- 
+|Other Items              |                         |                         | 
+------------------------------------------------------------------------------- 
+|Special research by Agen-|81                       |                         | 
+|cy of Industrial Science |                         |                         | 
+|and Technology, etc.     |                         |                         | 
+------------------------------------------------------------------------------- 
+|Development of system to |2                        |                         | 
+|promote use of data from |                         |                         | 
+|natural resource explora-|                         |                         | 
+|tion satellite           |                         |                         | 
+------------------------------------------------------------------------------- 
+|Total Budget Amount      |13,987                   |                         | 
+------------------------------------------------------------------------------- 
+
+
+<H3>  Promotion of Utilization of Satellite-Based Remote Sensing 
+Technology </H3>
+  Remote sensing technology, which involves earth observation 
+from satellites, is one space technology in which the demand for 
+the technology is expected to increase for applications not only 
+involving meteorological observation, but also for natural 
+resource exploration, environmental observation and geographical 
+survey. Japan has launched a series of meteorological satellites 
+(GMS: Himawari) and a series of marine observation satellites 
+(MOS-1a and MOS-1b) to conduct space research and development 
+and to promote the use of space satellites. In February 1992, 
+Japan launched a natural resource exploration satellite (JERS-1) 
+that went into commercial operation that September. Japan has 
+exchanged memorandums for the joint operation of the satellite 
+with the National Aeronautics and Space Administration (NASA) of 
+the United States and the European Space Agency (ESA). In 
+November 1992, data received from the satellite was initially 
+supplied to researchers for AO verification. Talks are currently 
+under way between MITI and the National Space Development Agency 
+of Japan (NASDA) to make the data available to other customers. 
+In the meantime, there are plans to launch advanced earth 
+observation satellites (ADEOS-I and ADEOS-II) and a tropical 
+rainfall measuring mission (TRMM) satellite. There is also a 
+plan to participate in an international satellite launching 
+program in which Japan will provide the sensing equipment for 
+earth observation to be launched aboard a foreign-made 
+satellite. To strengthen the efforts toward natural resource 
+exploration and the observation of the natural environment to 
+grasp the effects industrial activities have on the environment, 
+MITI has been promoting the development of an optical sensor 
+(OPS) and a synthetic aperture radar (SAR) to be launched by the 
+JERS-1 satellite, the development of a 
+greenhouse-effect-causing-gas sensor (IMG) to be launched by the 
+ADEOS satellite, and the development of an advanced visible 
+light/infrared radiation sensor (ASTER) to be launched by NASA's 
+earth observation satellite (EOS-AM1). In addition, the ministry 
+is promoting the development of a next-generation synthetic 
+aperture radar (next-generation SAR) and a next-generation 
+greenhouse effect-causing gas sensor (next-generation IMG). At 
+the same time, the ministry is promoting the development of the 
+technology for the processing, analysis and utilization of the 
+data obtained from these satellites and sensors, and is 
+improving the system for distributing this data. Efforts are 
+also being made to construct a database of satellite observation 
+data and to construct a database network. 
+  1. Development of Earth Resource Exploration Satellite 
+No 1 (JERS-1) JERS-1 is a satellite that was launched in 
+February 1992 for natural resource exploration using remote 
+sensing technology. The satellite was developed through joint 
+cooperation between MITI and NASDA. MITI has overseen the 
+development of the observation system, including the optical 
+observation sensor and synthetic aperture radar. The actual 
+development work has been commissioned to the Organization for 
+the Development of Natural Resource Exploration Systems (JAROS). 
+The development effort is now passing from the test operation 
+stage to commercial operation. 
+  The JERS-1 satellite, equipped with synthetic aperture 
+radar, 
+is capable of performing multi-dimensional observation and of 
+conducting observation in short-wavelength infrared frequency 
+bands. The satellite is superior to those launched by the United 
+States and European countries, including LANDSAT and SPOT. 
+JERS-1 has drawn high expectations from researchers around the 
+world for its capabilities in natural resource exploration and 
+earth environment monitoring. Efforts are currently being made 
+by the Earth Resource Survey and Data Analysis Center (ERSDAC), 
+an extragovernmental organization affiliated with MITI, and 
+NASDA to improve the system to process, analyze and distribute 
+the data obtained from the satellite. 
+  The data from the satellite is being received through the 
+cooperation of ground stations in the United States, Canada, 
+Australia and Europe. By receiving data from a European earth 
+resource survey satellite (EERS-1) for the ESA, Japan has 
+entered into a mutual cooperation agreement regarding satellite 
+data reception with those European countries. The European 
+satellite was launched in July 1991. A memorandum was exchanged 
+between ERSDAC and King Abdul Aziz City of Science and 
+Technology (KACST) of Saudi Arabia for the joint reception of 
+JERS-1 data and joint research between them. Research is 
+currently under way. 
+  With the operation of the JERS-1 satellite, this joint 
+research is expected to produce useful results. 
+  2. Development of Advanced Visible Light/Infrared 
+Radiation Sensor (ASTER) 
+  ASTER is an optical observation sensor that is being 
+developed for a future launch aboard the JERS-1 satellite. A 
+similar sensor is scheduled to be launched in 1998 aboard the 
+U.S. satellite EOS-AM1 for earth observation. This satellite is 
+being developed by NASA. ASTER is currently under development by 
+JAROS, with the development commissioned to the establishment by 
+MITI. This sensor is an advanced version of the observation 
+sensor currently being used on the JERS-1 satellite. ASTER will 
+make it possible to conduct observation in multi-band 
+frequencies in the thermo-infrared frequency range for the first 
+time ever. This sensor is expected to be used in diverse 
+application fields, including natural resource exploration and 
+earth environment observation. In the United States, too, the 
+need to develop a sensor similar to ASTER has been voiced. The 
+fact that ASTER has been picked by NASA for launching aboard the 
+American satellite means that the Japanese sensor technology has 
+reached international standards. Considering that the sensor 
+will play an important role in the earth observation system 
+(EOS) project being promoted by NASA with cooperation from 
+Japan, Canada and European countries, the sensor has been 
+drawing great international attention. This has prompted the 
+formation of research teams not only in Japan, but also in the 
+United States with assistance from NASA, for developing 
+application fields for ASTER. MITI intends to promote the 
+development of the application fields through cooperation with 
+foreign researchers, including those from the United States and 
+Europe. 
+  3. Survey of Earth's Environment Using 
+Satellite-Mounted Sensor (Wide-Area Environment Monitoring and 
+Surveying) 
+  In recent years, the deterioration of the earth's 
+environment 
+has grown into a major international issue. The prime target of 
+the efforts to combat environmental pollution has been to 
+restrain the levels of substances in the environment which are 
+responsible for causing the so-called greenhouse effect. These 
+substances include CO[.sup]2[/] and methane. It is not yet 
+known in which part of the earth's environment these substances 
+are concentrated and in what density. The effort to monitor and 
+survey the earth's environment over a wide area will involve 
+earth observation using a satellite-mounted sensor (IMG) that is 
+capable of detecting these greenhouse effect-causing substances. 
+The earth observation satellite ADEOS is scheduled to be 
+launched by NASDA in 1995. The development of the sensor is 
+being conducted by JAROS, the construction of the ground system 
+for receiving IMG data is being conducted by ERSDAC, and the 
+development of data analysis technology has been undertaken by 
+the Central Research Institute of the Electric Power Industry. 
+All of these projects have been commissioned to these 
+establishments by MITI. The sensor is designed to measure the 
+distribution of these substances in vertical and horizontal 
+directions in the environment by detecting special types of 
+light in infrared wavelength ranges which are emitted by these 
+substances. This is the first time that an attempt to observe 
+the earth's environment using this method has been made, and 
+thus great attention is being paid by environmental specialists 
+around the world. 
+  4. Development of Utilization Technology in Field of 
+Natural Resource Exploration 
+  In the search for natural resources, including oil deposits, 
+it is important to comprehend the geological structure of a 
+particular region on the earth. The effort toward grasping the 
+structure combines the surveying of the earth's surface features 
+and boring. Until recent years, surveying was conducted by 
+dispatching specialists to a designated region and having them 
+conduct their tasks using exploration instruments. Recently, 
+aerial exploration using aircraft has begun to be conducted to 
+improve efficiency, enabling a larger area to be explored at one 
+time. Exploration from a satellite in space makes it possible to 
+cover an even greater area by scanning the earth's surface at 
+regular intervals. This new method has raised expectations among 
+those involved in such exploration. 
+  MITI has been making an effort to make it possible to use 
+the 
+observation data obtained from LANDSAT and SPOT in the 
+exploration of natural resources, including exploration for oil 
+deposits. The development of the technology needed to promote 
+this effort has been conducted by ERSDAC as part of a 
+development task commissioned by MITI. So far, efforts have been 
+made to verify the effectiveness of the remote sensing 
+technology in exploring natural resource deposits by comparing 
+the data obtained by these remote sensing satellites with the 
+data obtained through ground exploration. In addition, the 
+development of the technology to improve the data processing and 
+analyzing techniques has been promoted to ensure the effective 
+use of the data. The use of the remote-sensed data has already 
+been started in the exploration of oil deposits and metal 
+resources, as well as in the exploration of geothermal energy. 
+The application field is expected to expand in the future with 
+further progress in the R&amp;D of remote sensing technology. 
+  In June 1992, JERS-1 began to be used for practical 
+applications, and efforts are currently being made to adapt a 
+data processing method for the satellite. At the same time, the 
+development of the technology needed to process and analyze the 
+data obtained from ASTER is under way in cooperation with the 
+EOSDIS data processing and distribution system of the United 
+States. ASTER will be put into commercial operation in 1998. 
+  So far, Japan has lagged behind other 
+technologically-advanced countries in developing the technology 
+to use remote-sensed data. However, it is expected that the 
+number of customers using the data will increase in the future 
+as a result of the improvement of data utilization systems. 
+Efforts to improve the system are currently under way in 
+preparation for the reception of data from JERS-1 and ASTER. 
+  5. Development of Data Utilization Technology in Field 
+of Hydropower Development 
+  In formulating a hydropower development plan, it is 
+essential 
+to grasp the available flow rate of water in a river. So far, 
+data on flow rates has been obtained by measuring the flow rates 
+at the measurement stations located along major rivers. Flow 
+rate calculations have been conducted by taking the river 
+surface area and other necessary elements into account. However, 
+there are many rivers in which it has been difficult to grasp 
+the flow rate due to a lack of measurement stations, as well as 
+for other reasons. Under these circumstances, in 1991 MITI 
+started to develop a method for calculating the flow rate in 
+Japan's rivers using the data obtained from remote sensing 
+satellites. 
+<H3>  Promotion of Use of Microgravitational 
+Experiment Environment </H3>
+  A microgravitational environment prevents the convection 
+resulting from the presence of temperature differences from 
+occurring. Such an environment also prevents the separation of 
+materials due to differences in the specific gravities of these 
+materials. These advantages of a microgravitational environment 
+are expected to offer a better environment for experimentation 
+that will contribute to understanding physical phenomena better 
+and to the development of new useful materials. To ensure the 
+continued progress of space development, it is important to 
+understand the effects on the human body of living in a 
+microgravity environment for long periods of time. For the 
+purpose of better understanding these effects, experiments 
+within a microgravity environment must be stepped up in the 
+future. Microgravity conditions lasting for a very short time, 
+i.e., ranging from a few seconds to several minutes, can be 
+created during free falls from high towers, during ballistic 
+flights by airplanes, and by using a sounding rocket. However, 
+the microgravity conditions created using these media are not 
+sufficient for conducting experiments to develop new materials 
+or for conducting experiments involving living creatures. This 
+makes it essential for these experiments to be conducted in 
+space. NASDA has conducted research aboard the space shuttle by 
+seeking the cooperation of the United States. NASDA plans to 
+conduct experiments aboard the space station projected for the 
+future. In parallel with these efforts, MITI, in cooperation 
+with other research organizations, has been promoting the 
+development of an unmanned space experiment system (free flyer) 
+and self-returning unmanned space experiment system. At the same 
+time, the ministry is trying to make it easier for those 
+involved in space research to use their free-fall tower facility. 
+  The experiment conditions experienced under a microgravity 
+differ greatly from the conditions encountered on the ground. In 
+order to promote the development of space technology under 
+microgravity, it is important to accumulate the sufficient basic 
+data needed to conduct the experiments smoothly. With this 
+understanding, MITI has been providing assistance to the Space 
+Environment Utilization Research Corporation and other 
+establishments engaged in the development of space technology. 
+  1. Development of Free Flyer 
+  In cooperation with the Education Ministry (Institute of 
+Space and Astronautical Science) and the Science and Technology 
+Agency (NASDA), MITI has been developing an unmanned free flyer 
+for conducting earth observation and conducting experiments 
+under microgravity conditions in space. The flyer is scheduled 
+to be launched by the H-II rocket in early 1995. It will be 
+recovered by the space shuttle that will be sent up to the 
+flyer's orbit six months after the flyer's launch. During this 
+period, various experiments will be conducted using the flyer, 
+with the results of the experiments expected to make it possible 
+for us to better use the microgravity space experiment 
+environment. The space flyer will play an important role as a 
+space experiment facility in preparation for the future 
+construction of a space station. The experimental equipment to 
+be installed on the flyer will have a modular design, which will 
+make it easy to replace the equipment units and the specimens 
+for reuse of the flyer. By employing the flyer for unmanned 
+experiments, the experiment environment aboard the vehicle will 
+be made free from the changes in gravity caused by crew 
+movements. This will make it possible for the flyer to realize 
+an experiment environment superior to that aboard the space 
+station. Another advantage of the flyer is the availability of 
+sufficient electric power to run the onboard instruments since 
+it will be equipped with solar batteries. MITI plans to include 
+experimental units involving three types of furnaces, i.e., a 
+single heat-source furnace, a combination heat-source furnace 
+and a focused-heat furnace, as an onboard experiment system to 
+produce high-purity GaAs crystals. GaAs, as a composite 
+semiconductor material, has a promising future for use in solar 
+electric power generation. 
+  The efforts to develop a free flyer are currently at the 
+final stages of creating a flight model. 
+  2. Development of Self-Returning Unmanned Space 
+Experiment Vehicle 
+  The free flyer will provide an ideal microgravity experiment 
+environment. However, its disadvantages include inflexibility of 
+operation since it must be recovered by launching a space 
+shuttle, and safety requirements since the orbiting flyer must 
+be pulled into the cargo bay of the space shuttle by the crew 
+for recovery. Taking these disadvantages into consideration, 
+MITI plans to develop a self-returning unmanned space experiment 
+vehicle by seeking cooperation from the Education Ministry 
+(Institute of Space and Astronautical Science) and the German 
+government. With the self-returning vehicle, it will be possible 
+for Japan to launch and recover the vehicle for reuse without 
+requiring the help of other countries. The vehicle will provide 
+a solution to the problems encountered in the unmanned free 
+flyer. Considering the cloudy future of the space shuttle 
+operation, it will be necessary for Japan to develop such a 
+self-returning experiment vehicle. The disadvantages of the 
+self-returning vehicle are the limited supply of electric power 
+and the shorter experimental period during a single flight. 
+  With the development of the self-returning vehicle, it will 
+become possible to launch experimental equipment with a total 
+weight of approximately 160 kg for conducting various 
+experiments under microgravity conditions for about a week. 
+Using the vehicle, it will also become possible to conduct 
+experiments to produce catalysts with better performance and to 
+evaluate the performance of carbon materials by exposing them to 
+the heat generated by the vehicle's re-entry into the earth's 
+atmosphere. Japan has yet to master the skills for recovering a 
+flying object from orbit. Success in the recovery will 
+contribute greatly to Japan's efforts in developing space 
+technology. 
+  3. Positive Use of Free-Fall Experiment Tower 
+  A free-fall tower for realizing microgravity conditions on 
+the ground, offering the greatest free-fall distance in the 
+world and which was constructed at a former coal mine in 
+Kamisunagawa Town on Japan's northernmost main island of 
+Hokkaido, was first used for experiments in September 1991. 
+Construction began in 1988, with the project undertaken by the 
+Underground Weightless Experimentation Center, a consortium of 
+the New Energy Development Organization (NEDO), local 
+governments and private companies. A free-fall tower makes it 
+possible for microgravity conditions to be realized repeatedly 
+on the ground relatively easily. Such a facility has been very 
+useful in conducting experiments in preparation for the 
+full-scale experiments to be conducted in space. For this 
+reason, free-fall towers are being used by space research 
+centers in many countries, including Bremen University in 
+Germany and NASA's (Louis) Research Center. 
+  The Kamisunagawa free-fall tower has a free-fall distance of 
+approximately 500 meters and can produce a microgravity of 
+10[.sup]-4[/] lasting for 10 seconds. The availability of the 
+tower is expected to greatly boost Japanese research on the use 
+of the microgravity experiment environment. 
+  Study is currently being conducted to promote joint space 
+research using the Kamisunagawa facility. Regarding one such 
+projected research project, MITI is considering conducting joint 
+research with Germany and France to develop the technology for 
+controlling furnace combustion under microgravity conditions, 
+aimed at applying the technology to the development of a 
+high-performance industrial furnace. As for another such 
+research project, the ministry is considering conducting joint 
+research with the United States to develop the technology for 
+controlling fuel combustion under microgravity conditions for 
+possible application to aircraft and space transport systems. 
+  4. Activity of Space Technology Corporation 
+  The Space Technology Corporation (STC) was founded in 1986 
+to 
+promote research and tests for creating and processing the 
+crystals for producing composite semiconductors under 
+microgravity conditions, and, consequently, to promote the 
+development of an advanced electronic technology. STC, an R&amp;D 
+company, is capitalized 70 percent by the Japan Key Technology 
+Center, with the rest handled by private companies. The company 
+has been conducting research under microgravity conditions by 
+launching small TEXUS rockets produced in Germany. STC's 
+research has focused on obtaining basic data that can only be 
+obtained under microgravity conditions. In the research 
+conducted by launching the small rockets, many useful data items 
+have been obtained. In particular, a feat in which the thermal 
+conductivity of InSb fluid was measured accurately drew 
+international attention. It had been impossible to obtain such 
+accurate thermal conductivity measurements on the ground due to 
+thermal convection and other effects. Considering the fact that 
+this kind of data is essential for growing the crystals used in 
+producing composite semiconductors and for the processing of the 
+crystals, systematic efforts must be made to accumulate such 
+data. 
+  When the space shuttle Columbia was launched in 1993, STC 
+conducted experiments to develop new materials by participating 
+in the D-2 program. (The D-2 program involved experiments 
+conducted under microgravity conditions in the quarters aboard 
+the space shuttle that had been hired by Germany.) The 
+experiments conducted by STC involved obtaining the basic data 
+that will become necessary when developing new semiconductor 
+materials. The results of the experiments are expected to be 
+published in autumn 1993. 
+  STC is the first Japanese company established to develop the 
+utilization of the microgravity environment of space. In this 
+sense, STC must assume a leadership role in the effort to 
+develop Japan's space industry. 
+  5. Activities of Other Related Organizations in 
+Promoting Use of Space Environment 
+  The Japan Society for the Promotion of Machine Systems 
+(JSPMS) has been developing small experiment systems to be used 
+aboard the space shuttle by taking advantage of the microgravity 
+conditions lasting six to seven minutes that were made available 
+during the launching of the small Swedish MASER rockets and 
+NASDA's small TR-IA rockets. In March 1989, with the cooperation 
+of the Society of Japanese Aerospace Companies, Inc. (SJAC), 
+JSPMS conducted experiments on molded oxide semiconductor 
+materials and conducted on-the-spot observation of this 
+material's crystallization process aboard these rockets. In 
+April 1992, the JSPMS conducted a second series of experiments. 
+JSPMS is scheduled to conduct experiments during the September 
+1993 flight of a TR-IA rocket to unravel the mechanism of the 
+fluid phenomenon accompanying the boundary phenomenon. 
+  On the other hand, SJAC has been involved in conducting 
+experiments to grow zeolite crystals aboard a German satellite, 
+in addition to extending its cooperation to JSPMS in the 
+experiments described above. 
+  In May 1993, SJAC conducted experiments aboard the Russian 
+space ship Mir in which they grew crystals of proteins. These 
+experiments have been conducted under limited weightless 
+conditions. However, MITI wants the publication of the results 
+of these experiments to lead to recognition by the industries 
+and researchers concerned of the importance of promoting the 
+utilization of microgravity conditions. 
+  In the meantime, the Japan Space Utilization Promotion 
+Center 
+(JSUP) has been actively introducing the results of research on 
+the utilization of microgravity environments conducted in Japan 
+and abroad, as well as research trends. 
+<H3>  Promotion of the Development of Space Plane-Related 
+Technology </H3>
+  In order to promote space development, it is important to 
+substantially cut the costs of ferrying men and equipment 
+between the ground and space. To realize this, it is necessary 
+to step up the development of a space plane (space shuttle) that 
+can be used repeatedly. Current efforts are centered around the 
+development of space shuttle-type transport systems launched by 
+nonreusable rockets. A number of countries are currently 
+developing space plane-type vehicles, including Hermes being 
+developed by the European Space Agency and Home being developed 
+by Japan. In the United States, the development of a completely 
+reusable space plane that will take off and land just like an 
+ordinary aircraft is already underway. 
+  The most difficult part of developing the space plane is the 
+development of the materials for use in the engines and fuselage 
+that must withstand temperatures approaching 1,800C. In 
+preparation for the development of such materials, MITI has 
+conducted a series of investigations of developments occurring 
+between 1987 and 1990. In addition, MITI has promoted such 
+development through the R&amp;D Project of Basic Technologies for 
+Future Industries ("Next Generation Project") being undertaken 
+by the government's Agency of Industrial Science and Technology, 
+and by promoting efforts through its program for the Improvement 
+of R&amp;D Infrastructures being launched by the New Energy 
+Development Organization (NEDO). 
+  1. Development of Advanced Super-High 
+Temperature-Withstanding Materials 
+  The Agency of Industrial Science and Technology kicked off 
+an 
+eight-year project in 1989 to develop advanced super-high 
+temperature-withstanding materials as part of the agency's 
+endeavors in the Next Generation Project. The interdisciplinary 
+project involves researchers from the agency's laboratories, the 
+nation's universities, and private companies who are developing 
+materials with super-high temperature-withstanding and good 
+antioxidation capabilities suitable for use in constructing the 
+space plane. The materials under development include Ti-Al and 
+Nl-Al intermetallics, as well as composite materials reinforced 
+with carbon or silicon carbide fibers. 
+  This project has attracted considerable interest from 
+foreign 
+companies. So far, a number of foreign companies, including 
+Rolls-Royce, have participated in the project by extending 
+cooperation to the Research and Development Institute of Metals 
+and Composites for Future Industries (RIMCOF), an organization 
+representing the private sector that is responsible for 
+promoting the project. 
+  2. Activities of Japan Ultra-High Temperature Materials 
+Research Center (JUTEM) 
+  As part of the project of Improvement of R&amp;D 
+Infrastructures, 
+JUTEM was established to help NEDO with the development of 
+super-high temperature-withstanding materials. The center is 
+responsible for making the facilities needed to produce 
+super-high temperature-withstanding materials and to evaluate 
+the materials developed that are available to Japanese and 
+foreign researchers. 
+  The center has two regional centers--one in Ube City, 
+Yamaguchi Prefecture, and the other in Tajimi City, Gifu 
+Prefecture. The former is mainly equipped with production 
+facilities, while the latter mainly holds evaluation facilities. 
+The operation of these regional centers is being subsidized by 
+local governments and the companies using the centers. A portion 
+of the facilities at these centers became operational and 
+available for R&amp;D use in April 1991. It is expected that 
+these 
+centers will serve as the nucleus of regional activities for the 
+developing advanced technology industries. 
+  The facilities installed at these centers have drawn 
+considerable attention from foreign researchers. So far, many 
+researchers from foreign countries have visited these centers. 
+<H5>  Promotion of Development of Space Robot Technology </H5>
+  The effort directed toward space development so far has 
+relied mainly on manned space programs, including the Apollo 
+space program and programs involving the use of the space 
+shuttle and Mir spaceships. In order to promote space 
+development further, it will be essential to develop space 
+robots. The robots will make it possible to perform various 
+hazardous space tasks for the astronauts, including satellite 
+maintenance in orbit and constructing a large-scale space 
+station at comparatively low cost. 
+  In fact, it has been found that the space station program 
+(preparation for it is under way, aiming at starting space 
+station operation in the late 1990s) will involve vast amounts 
+of construction and maintenance work that will be more than the 
+astronauts can handle. This has caused the program to be 
+completely reviewed. 
+  The need for the introduction of space robots will become 
+more important in the larger-scale space station programs needed 
+in the future for the exploration of the moon and Mars. 
+  In the meantime, Japan lags behind Canada in the development 
+of space robot technology. (Canada developed the robot arms 
+currently being operated from the space shuttle.) However, Japan 
+has a reached the top level of industrial robot technology, and 
+its potential ability in robotics has been highly evaluated 
+internationally. In 1990, the United States and France each sent 
+fact-finding missions to Japan to investigate the Japanese 
+situation regarding the development of space robot technology. 
+As described above, international cooperation in the field of 
+space robot technology has begun to be promoted in recent years. 
+  Under these circumstances, MITI plans to start research on 
+space robot technology so that it can evaluate the fundamental 
+technology needed to create space robots by taking advantage of 
+the launch of technology evaluation satellite No 7 (EST-VII), 
+scheduled to be launched by NASDA in 1997. 
+  Joint research by Japan and the United States on a technique 
+for mutual manipulation of a telerobot installed a very long 
+distance away was scheduled to start in 1993. 
+<H5>  Study of Electric Power Generation System in Space </H5>
+  Amid the mounting concern in recent years about the 
+deterioration of the earth's environment, the Japanese 
+government has announced that it will make an effort to 
+formulate a plan to save the earth from aggravating 
+environmental pollution, that it will promote the transfer of 
+environment-related technologies to developing countries, and 
+that it will promote the development of new energy-related 
+technologies that may prevent environmental pollution from 
+causing further aggravation. The space electric power generation 
+scheme involves generating electric power using solar energy, 
+and transmitting the electric power thus generated to ground 
+stations in the form of microwave energy. This energy generation 
+system represents one of those new energy generation methods 
+being studied for possible introduction in the future in our 
+effort to save the earth from environmental destruction. In 
+order to realize electric power generation from space, a number 
+of problems must be resolved. These problems include the 
+development of a technology for constructing a large-scale 
+electric power generation system in space, grasping the effects 
+on the earth's environment of using microwaves to send the 
+electric power generated, and reducing the cost of constructing 
+such a system. Technologically, however, a major hurdle has 
+almost been cleared, and it is highly possible that electric 
+power generation from space will be realized. Since 1991, MITI 
+has been conducting surveys on space electric power generation 
+system development in Japan and abroad, on the technological 
+possibilities of constructing such systems, and on their 
+economic viability. 
+<H5>  Study of Launching Rockets on Commercial Basis </H5>
+  As a result of the progress being made in recent years in 
+the 
+commercial utilization of communications and broadcasting 
+satellites worldwide, rockets for placing these satellites in 
+orbit are beginning to be launched on a commercial basis by 
+Ariane Space Corporation and other companies. In the meantime, 
+with the appearance of a company established to procure rockets 
+and launch them for its customers, it will become possible to 
+launch rockets on a commercial basis in Japan. The company was 
+founded by setting sights on the launch of the H-II rocket that 
+is under development by NASDA. 
+  However, in order to make it possible to launch rockets on a 
+commercial basis in Japan, a number of problems must first be 
+solved. These problems include revising the space law with 
+respect to clauses defining the responsibility of third parties, 
+improving the rocket launch center utilization system, 
+transferring rocket-related technologies currently held by 
+governmental organizations, adjusting interests with fishermen, 
+and developing the demand to ensure that rocket launching will 
+continue on a commercial basis. 
+  Since 1993, MITI has been making an effort to realize the 
+launching of domestically-developed rockets on a commercial 
+basis. 
+<H3>  Survey of Situation of Development of Next-Generation 
+Commercial Satellites and Their Utilization </H3>
+  The need for developing next-generation commercial 
+satellites 
+has been mounting in recent years. For example, in the case of 
+satellites for observing the earth's environment, disaster areas 
+and conditions on the ground, the next-generation satellites 
+will make it possible to establish more sophisticated earth 
+observation systems that will allow observation to be realized 
+at greater frequencies. However, many problems must still be 
+solved before development can proceed. These problems include 
+who will develop and operate the satellites, how the satellite 
+services will be operated, and other problems expected to be 
+encountered in promoting international cooperation in the 
+development and utilization efforts. 
+  In preparation for such development, MITI has been 
+conducting 
+surveys since 1991 on the situation in Japan and abroad with 
+respect to the development of advanced commercial satellites, 
+focusing on ones to be used in earth observation. Parallel to 
+this, the ministry has been studying the measures it will 
+introduce to promote the development and use of the satellites 
+on a commercial basis. 
+<H5>  Problems MITI Must Tackle To Promote Space Development </H5>
+  So far, this report has introduced the current situation in 
+the Japanese space industry that is experiencing a turning point 
+in various respects, and the efforts MITI has been making to 
+promote space development. There are still many problems that 
+must be tackled in promoting the commercial utilization of space 
+technology and international cooperation. 
+  These problems include: 
+  1. Improvement of the Industrial Infrastructure for 
+Better Market Competitiveness 
+  The space industry depends heavily on government subsidies. 
+The Japanese space industry has not had sufficient 
+commercial-base experiences in its activities. Taking these 
+things into consideration, it is important for the industry to 
+promote the use of parts and hardware systems in actual space 
+applications, and to accumulate data on the results of actual 
+use. Improvement must also be made in the production and test 
+systems necessary to produce satellites and rockets. In 
+addition, the industry must formulate a corporate strategy that 
+will take international cooperation and the international 
+division of space development tasks into account. 
+  2. Promotion of Utilization of Space Technology 
+  An urgent task involves developing a technology that will 
+promote the use of the data obtained from the remote-sensing 
+satellites in industrial applications, and reforming the 
+administrative system to facilitate the commercial use of the 
+data. It is important to promote experiments in microgravity 
+conditions, including experiments using free-fall towers. 
+Efforts must be made to develop the demand for ground-use as 
+well as space-use equipment and systems. 
+  3. Establishment of Framework for Commercial Use of 
+Space 
+  The industry must strengthen competitiveness in the 
+international market. At the same time, the Japanese government 
+must take measures to promote space development and the 
+utilization of space technology in the private sector. Such 
+measures would include the legislation of laws governing the 
+commercial launching of rockets in compliance with the space 
+treaty and ensuring the availability of rocket launch centers 
+that can be used year-round. 
+

@@ -1,0 +1,23 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by A. P. Krivelev, V. V. Chepkiy; UDC 621.396.96] </F>
+  [Abstract] The coefficients of signal spectrum logarithm 
+expansion along base function systems may be used as a 
+recognition signature. Feasibility of joined measurement of the 
+energy and non-energy signal parameters, reflected from targets 
+is analyzed. Algorithms are developed for estimating structural 
+parameters applicable to the conditions of regular measurements. 
+A system is examined of structural parameters for targets' 
+identification. Spectrum analysis of complex signal envelopes, 
+reflected from the ``i'' and ``k'' class signals indicate that 
+they exhibit values of structural parameters _b_[.sup]_n_[/] 
+and _a_[.sup]_n_[/]. For example, the absence of parameters 
+_b_[.sup]_n_[/] and _a_[.sub]_n_[/] at _n_&gt; 2, constitute 
+
+a characteristic feature of the spectrum of signals reflected 
+from radar targets, combined in a class of single targets. 
+Therefore, these parameters may be used as signatures of 
+multiple-point targets in the background of single-point 
+targets. References 5 Russian. 
+

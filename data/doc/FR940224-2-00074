@@ -1,0 +1,78 @@
+ 
+
+Appendix A_Fedwire Study Group
+
+
+
+Bruce J. Summers, FRB Richmond, Chair 
+Carol W. Barrett, FRB New York 
+Gayle Brett, Board staff 
+Paul Connolly, FRB Boston 
+Lisa Hoskins, Board staff 
+Dara Hunt, FRB Chicago 
+Oliver Ireland, Board staff 
+Barbara Kavanagh, FRB Chicago 
+Donald R. Lieb, FRB San Francisco 
+David E. Lindsey, Board staff 
+Jeffrey C. Marquardt, Board staff 
+Christopher J. McCurdy, FRB New York 
+Gerard J. Nick, FRB Chicago 
+Patrick M. Parkinson, Board staff 
+John H. Parrish, Board staff 
+Israel Sendrovic, FRB New York 
+A. Patricia White, Board staff.
+
+
+
+Appendix B_Structure of Large-Value Interbank Payment Arrangements
+
+
+
+Most large-value, domestic interbank payments are currently made via the transfer of money balances on the books
+of the Federal Reserve Banks through the Fedwire system. Fedwire is the large-value payment system operated by the
+Federal Reserve Banks for the transfer of funds and delivery of book-entry (electronic) securities against payment.
+Fedwire is a real-time gross settlement system that settles transfers immediately on a transaction-by-transaction
+basis. The Fedwire funds transfer service is a credit transfer process. That is, a bank sends a funds transfer to the
+Federal Reserve instructing the Federal Reserve to debit its account for a specified amount and to credit the account
+of another bank. In 1993, the daily average value of transfers originated over the Fedwire funds transfer system was
+about $824 billion. 
+
+In contrast, the Fedwire securities transfer service, which is the principal means for transferring and settling
+U.S. government securities,
+<FOOTCITE>1</FOOTCITE>
+ is a debit transfer process that permits the seller of the securities to send a transfer that will result in the Federal
+Reserve withdrawing funds from the account of the receiver of the securities transfer. The Fedwire securities transfer
+process is based on the delivery-versus-payment (DVP) principle, whereby the final transfer of securities from
+the seller to the buyer (delivery) occurs at the same time as final transfer of funds from the buyer to the seller (payment).
+Fedwire achieves such simultaneous settlement by treating the instruction initiated by the seller as both an instruction
+to deliver securities to the buyer and an instruction to debit payment from the buyer's reserve or clearing account.
+In 1993, the daily average value of transfers originated through the Fedwire securities transfer system was roughly
+$580 billion. 
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+1
+
+</FOOTNAME>
+Netting is performed outside Fedwire through the Government Securities Clearing Corporation (GSCC) for transactions
+that settle on a next day or forward basis, with the netted securities and funds positions settled on Fedwire. 
+
+</FOOTNOTE>
+
+
+Banks may also provide settlement services to their customers through the final transfer of balances across their
+books. In addition, banks also use multilateral clearing and settlement arrangements to meet some of their large-value
+payment needs. In such arrangements, including the Clearing House Interbank Payments System (CHIPS) operated by
+the New York Clearing House, payment instructions may be entered into a netting system throughout a pre-determined
+clearing cycle and each participant's net position vis-a-vis the other participants is determined on an ongoing
+basis throughout the cycle. Settlement for the payment instructions occurs at an agreed upon settlement time. Participants
+with net debit obligations may satisfy their obligations by transferring funds on the books of a ``settlement bank.''
+Central banks can serve as a ``settlement bank'' for such interbank netting arrangements and, in the case of CHIPS,
+this role is performed by the Federal Reserve Bank of New York. In this arrangement, CHIPS settling participants in
+a net debit position send Fedwire funds transfers to a settlement account at the Federal Reserve Bank of New York, which,
+when fully funded, is the source for payments to participants in net credit positions. In 1993, the daily average value
+of transfers originated through the CHIPS system was over $1 trillion.
+
+

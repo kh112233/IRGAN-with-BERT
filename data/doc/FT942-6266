@@ -1,0 +1,98 @@
+FT  31 MAY 94 / Survey of the Computer Industry - Battle for the Desktop
+(13): Storage problem intensifies / New, inventive software eats away at PC
+hard disk space
+There is an assumption that when you buy a PC you will get enough storage to
+last you five years.
+'That's not true and not possible,' according to Peter Sondergaard, an
+analyst at the Gartner Group. 'We are on the verge of a significant increase
+in storage requirements.'
+Key drivers include the onset of multimedia (combining voice and video with
+the PC) and the development of storage-hungry software - 'from 1995, when we
+buy a PC we'll get 'free' audio and video (multimedia) support,' says Mr
+Sondergaard. 'And when users have it, they'll exploit it. But video and
+voice make heavy demands on storage.'
+Compression software, which helps users reduce the space taken up by voice,
+video and data, is improving all the time. But the Gartner Group does not
+believe that it will enable people to stick with what facilities they have.
+Storage-hungry software is also eating away at hard disk space. Anyone who
+bought a 386-based PC with a 20 megabyte hard disk a few years ago will find
+that it is almost impossible to get anything but a slimmed down version of
+one of the latest word processing packages on to it.
+Microsoft's Word for Windows 6.0 and WordPerfect for Windows both take up
+over 20 megabytes of storage. And you cannot run either of them without
+MS-Dos and Microsoft's Windows graphical user interface (itself much larger
+than earlier PC operating systems). Using compression software and deleting
+superfluous files can help but both require spare time and technical
+knowledge.
+In the future, as object-oriented operating systems and software catch on,
+the problem is likely to become worse. Object-oriented software, which
+combines data with the instructions used to process it - for example,
+statistical data and the graph needed to plot it - will allow software
+developers to come up with ever more inventive and more storage-hungry
+software.
+However, the good news from the Gartner Group is that the price per megabyte
+of storage will continue to fall over the next five years. At the same time
+the range of different storage options will increase. Today, the main
+choices for PC storage are:
+Magnetic hard disks. These are built in to most PCs. Removable hard disks
+are available, too. Alessandra Bianchini, notebook manager at Olivetti in
+Italy, asks: 'Why carry a portable into the office, when all you want is
+access to the data it contains?'
+With this in mind, Olivetti's latest Philos portable includes a removable
+hard disk (under the keyboard) measuring about 3 ins. by 5 ins. This can be
+carried into the office and plugged into a slot in a desktop PC.
+PCMCIA hard disks (PCMCIA stands for Personal Computer Memory Card
+Association) are another form of portable storage. These are the size of
+thick credit cards and can be slotted into small expansion slots conforming
+to PCMCIA standards. These slots are becoming the norm on most portable
+computers (for hard disks, fax modems and so on) but are only available on a
+small proportion of new desktop PCs - 'there is almost universal support for
+PCMCIA in the mobile computing market,' says Gavin Lennox, brand manager for
+communications products at Lotus.
+CD-Rom disks (compact disk, read-only memory). These are optical disks which
+look like music CDs but store data, voice, video - or all three. They are
+usually non-rewritable; which means you can retrieve information from them
+but not add to it. To use CD-Rom disks you need a CD-Rom drive plugged into
+your PC or built into it.
+Magneto-optical CDs. These are also based on CD technology but are similar
+to magnetic floppy and hard disks in that they are rewritable. They are
+often used for storing digitised images of paper documents in industries
+like insurance. The entry costs for using this technology are relatively
+high in terms of the equipment needed and access is slow, but the cost per
+megabyte is low.
+'Raid' technology (raid: redundant arrays of inexpensive disks) are mainly
+used in conjunction with PC servers, computers which store files and manage
+PCs in a network, and with mid-range systems.
+Raid technology cleverly combines low-cost PC hard disks with techniques and
+peripherals common to mid-range and mainframe computing environments. Hard
+disks are essentially stacked together so that several can be accessed
+simultaneously for extra speed.
+Tape drives: where fast access is not needed - for example, in data
+archiving - data can be stored on tape (such as digital audio tape) and this
+provides a cheaper alternative than Raid.
+Floppy disks: once the main form of PC storage, these are now used mainly to
+transfer information to another computer - for example, through the post -
+or from an office PC to a portable/home computer.
+The Gartner Group believes that hard disks will remain the dominant form of
+PC storage until at least 1997 for a number of reasons: first, they are
+inexpensive which is very important in the competitive PC market.
+Second, there is a large installed base of users and a wide choice of
+suppliers. In the computer industry this situation tends to slow the take up
+of newer technologies.
+Third, they do not suffer from some of the drawbacks of potential rivals.
+They are rewritable and offer fast access to data. They are also available
+in high-capacity versions, such as 200 megabytes.
+CD-Rom disks can store far more data than hard disks. But most are not
+rewritable. This makes them most suitable for delivering information which
+cannot be changed. They are ideal for dictionaries and software programs.
+Rewritable CDs are starting to appear - 'but over the next few years, growth
+of CD-ROMS will be slightly inhibited because they offer slower access to
+data than hard disks,' says Sondergaard,
+PCMCIA hard disks take up less space and consume less energy than hard
+disks. For this reason, IBM has one in its small footprint 'green' PC.
+Peter Sondergaard says the dominance of hard disks could change after 1997;
+after that,'we'll see the emergence of CDR (CD rewritable) and we may see
+CDs with faster data access,' he says. 'But even then, hard disks will still
+be faster and cheaper.'
+The writer is associate editor of the FT newsletter, Business Computing
+Brief.

@@ -1,0 +1,331 @@
+ 
+
+<TABLE>
+
+
+
+
+
+
+DS1 Cross_Connection Function
+
+
+
+[Recurring Rate]
+
+1
+1Rate element name 
+
+#
+
+1
+1Rate element name 
+
+#
+
+2
+1Rate element name 
+
+#
+
+3
+1Rate element name 
+
+#
+
+4
+
+
+
+
+1 Total investment: List Plant  Equip
+$
+$
+$
+$
+2List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+3List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+4List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+5List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+6List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+7List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+8List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+9List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+10List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+11List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+12List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+13List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+14List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+15List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+16List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+17List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+18List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+19List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+20List: Name_Pt. 32 Acct No._Dep. Life
+$
+$
+$
+$
+21 Depreciation expense
+$
+$
+$
+$
+22 Cost of money ($Amount)
+$
+$
+$
+$
+23 Cost of money (Percentage)
+%
+%
+%
+%
+24 Federal income tax
+$
+$
+$
+$
+25 State and local income tax
+$
+$
+$
+$
+26 Other tax: List Taxes
+$
+$
+$
+$
+27List Property Tax
+$
+$
+$
+$
+28List
+$
+$
+$
+$
+29List
+$
+$
+$
+$
+30List
+$
+$
+$
+$
+31List
+$
+$
+$
+$
+32List
+$
+$
+$
+$
+33 Maintenance expense
+$
+$
+$
+$
+34 Admin and other expense: List Expense
+$
+$
+$
+$
+35List: Name-Pt. 32 Account No
+$
+$
+$
+$
+36List: Name-Pt. 32 Account No
+$
+$
+$
+$
+37List: Name-Pt. 32 Account No
+$
+$
+$
+$
+38List: Name-Pt. 32 Account No
+$
+$
+$
+$
+39List: Name-Pt. 32 Account No
+$
+$
+$
+$
+40List: Name-Pt. 32 Account No
+$
+$
+$
+$
+41List: Name-Pt. 32 Account No
+$
+$
+$
+$
+42List: Name-Pt. 32 Account No
+$
+$
+$
+$
+43List: Name-Pt. 32 Account No
+$
+$
+$
+$
+44List: Name-Pt. 32 Account No
+$
+$
+$
+$
+45List: Name-Pt. 32 Account No
+$
+$
+$
+$
+46List: Name-Pt. 32 Account No
+$
+$
+$
+$
+47List: Name-Pt. 32 Account No
+$
+$
+$
+$
+48List: Name-Pt. 32 Account No
+$
+$
+$
+$
+49List: Name-Pt. 32 Account No
+$
+$
+$
+$
+50List: Name-Pt. 32 Account No
+$
+$
+$
+$
+51 Annual cost per unit
+$
+$
+$
+$
+52 Monthly cost per unit
+$
+$
+$
+$
+53 Monthly rate per unit
+$
+$
+$
+$
+54 Unit of measurement
+
+
+
+
+55 Ratio: Rate/Direct Cost
+
+
+
+
+56 Ratio: Rate/Unit Cost
+
+
+
+
+
+
+Notes:
+
+(1) Cross_Connection Function includes costs for all cabling and cable support structures between and LEC's main
+distribution frame (MDF) and the central office terminating equipment dedicated to the interconnector.
+
+(2) Row 54: Unit of measurement is the unit on which the rate is being assessed, e.g., per ft., per DS1 arrangement, etc.
+
+</TABLE>
+

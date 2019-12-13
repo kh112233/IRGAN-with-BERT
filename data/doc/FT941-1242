@@ -1,0 +1,88 @@
+FT  25 MAR 94 / Ingenuity - The FT Engineering Review (2): Untouched by
+human hands - Intelligent machines are a familiar sight on motor production
+lines. Now they are expected to turn their 'hands' to the high-speed packing
+of food and drink / Robots
+A PLATOON of raw recruits drafted in to the French army to pack combat
+rations are having to look lively. Up to 10 different menus are needed each
+month.
+Each ration consists of 18 items ranging from a pack of biscuits and a tin
+of meat to purification tablets and a miniature stove. In order to keep the
+fighting troops fed, the new recruits have to pack rations at the rate of 24
+a minute.
+The luckless legionnaires are 13 industrial robots, part of a FFr25m
+automated packaging and palletising line built for the army by ABB Robotics.
+Three robots unload boxes of goodies from pallets on to a conveyor which
+delivers them to the ration packing station.
+Here another nine machines, using videos cameras to recognise the right
+items, pack them into ration boxes in just 2.5 seconds. The 13 robots stack
+the ration boxes on to a pallet for delivery to the barracks. Five different
+menus can be put on one pallet to match a barracks' order.
+David Marshall, responsible for customer training at ABB Robotics in Milton
+Keynes, fervently hopes that the food, drinks and confectionery industry -
+including even army rations - will become the next big market for robots.
+'The whole robot industry has depended on the automotive industry since day
+one. Look at the figures - 80 per cent of the world market for robots is in
+the automotive and automotive supply industry. We are looking to the food
+industry to perform as well as the automotive industry.'
+The reason for his optimism is that industrial robots have become more
+attractive to the food industry for packing and handling, particularly in
+the light of new health and safety regulations restricting the weight of
+loads that can be lifted manually.
+They have become faster, reliable, more accurate, and easier to incorporate
+into a production line. Better motor control software has allowed ABB, for
+example, to squeeze 25 per cent more performance out of the same robot.
+Robots are also simpler to program, operate and maintain. And they can lift
+bigger loads. They can also be washed down with a hosepipe. And prices are
+coming down to a level where paybacks are acceptable to the food industry.
+'The food, drink and confectionery industry is surviving on low-cost female
+labour. Despite their flexibility, using people to pack those army rations
+would have been a nightmare,' says Marshall. Also, the industry is looking
+to cut costs. Although robots are flexible and reliable, so far they have
+been too slow and too expensive, says Marshall.
+But what is good for the food and drinks makers is good for manufacturing
+industry. Mike Wilson, marketing manager at Fanuc Robotics in Coventry, says
+of the improvements in robot performance: 'Our new ARC Mate welding robot,
+for example, is 30 per cent cheaper in real terms than a similar model three
+years ago. And it is 20 per cent faster. A spot welding robot can now do one
+spot weld every 1.5 seconds.' Ten years ago, says Wilson, it would have
+taken three.
+Some of the gain has come from the improved mechanical performance of robots
+ -faster acceleration and deceleration and better overshoot behaviour. And
+some has come from better integration of the robot into the process, says
+Wilson. 'The spot welding gun will begin to close before it gets to the
+weld, for instance.' The load capacity and accuracy of robots has come on in
+leaps and bounds, too. 'The biggest robot we do carries 300kg. That was
+unheard of 10 years ago for an electric robot,' says Wilson.
+Reliability has also greatly improved, he says. An example is the arc
+welding robot. Weld wires occasionally get stuck in the solidified weld pool
+at the end of a weld. A few years ago, as the robot moved away it would rip
+the welding torch off the arm. Today, says Wilson, 'wire-stick' sensors
+prevent this and automatically send a pulse of current down the wire to burn
+it free.
+A similar example of improved capability is 'scratch start'. If a bead of
+silica from the flux gets left on the end of the welding wire, it will not
+strike an arc and has to be snipped off manually. Today's robot will sense
+this and scratch the tip of the wire along the component to rub the bead
+off. It will then go back to the correct place on the weld and start
+welding.
+Overall, says Wilson, the cost-to-performance ratio of robots today is
+considerably better than a few years ago. Most people now buy a robot
+'package' which includes some process engineering expertise and an
+application software package. 'This avoids a lot of programming and makes
+them quicker to install and easier to operate.'
+When Vauxhall bought 120 Fanuc welding robots for its new Astra line at the
+Ellesmere Port plant a couple of years ago, it handed them on to six
+companies building the welding lines. 'We designed a software package for
+Vauxhall that would interface the robots with all the hardware and provide
+an operator interface. That forced all the line builders to use the robots
+in the same way. It made maintenance a lot simpler and saved money. We only
+had to write the software once and copy it six times. Each line builder
+would have had to develop their own.'
+Yet despite the advances in robot technology, Britain has one of the
+smallest robot populations of all the industrialised nations, around 7,600,
+compared with Germany's 39,000 and Japan's staggering 350,000.
+Even the former USSR has more robots per employee in manufacturing industry
+than Britain. The problem is the 18 month to two year paybacks demanded in
+Britain, says Wilson, compared with as long as five years in Japan. 'It is
+very difficult to justify any capital expenditure on an 18 month payback.'
+John Dunn is deputy editor of The Engineer

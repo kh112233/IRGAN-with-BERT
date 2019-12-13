@@ -1,0 +1,103 @@
+FT  12 APR 94 / Technology: Mainframe reborn - IBM is jumping on the
+client/server bandwagon by adapting its existing technology
+In the corporate computing world, the mainframe computer is the symbol of a
+bygone era; a legacy of the days when the data processing department
+strictly controlled access to computers housed in a big air-conditioned
+glass room.
+Networks of low-cost personal computers brought democracy to information
+processing in the 1980s, putting computers at the command of individuals.
+Yet, as many companies are finding out, managing that democracy is more
+complicated and expensive than they expected.
+Open 'client/server' computing has not achieved the nirvana of lower costs
+and greater efficiencies that the computer industry promised. Instead,
+companies face continuing problems with incompatibility between computers,
+difficulty keeping track of corporate data and rising costs for training and
+systems management.
+Fully 80 per cent of total client/server computer costs occur after the
+initial purchases of hardware and software, according to US-based Gartner
+Group, a computer industry market research company. A single Dollars 3,000
+(Pounds 2,054) personal computer linked to a client/server network costs
+about Dollars 40,000 over its five-year life cycle when the costs of
+training, administration, maintenance and other factors are tallied, the
+researchers estimate.
+Even die-hard networking advocates such as Sun Microsystems, the workstation
+market leader, now recognise the need for some measure of centralised
+control over distributed computing systems. 'You have to manage the network
+like a mainframe,' says Curt Wozniak, Sun's marketing vice-president. He
+encourages customers to 'pull data back into controlled areas'.
+Stepping into this milieu with a new-found determination to establish itself
+as a leader in the client/server market, International Business Machines has
+seen opportunities to bring its mainframe-world expertise to bear on the
+complex problems of enterprise-wide, client/server computing.
+'Implementing client/server (computing) in a real live customer environment
+has turned out to be rife with problems. And those problems open a very wide
+door of opportunity for IBM,' says Lou Gerstner, IBM chairman and chief
+executive.
+Gerstner's remarks signal a significant change of heart at IBM, the
+mainframe computer market leader. Rather than minimising the significance of
+client/server computing, as it has in the past, IBM is finally jumping on
+the bandwagon.
+A critical element of IBM's strategy is to create links between the old
+world of mainframes and the new world of client/server computing. Last week
+it introduced a new generation of 'large-scale computers' (no longer called
+mainframes) specifically designed to work as 'servers' on networks.
+In a radical departure from traditional mainframe designs, the new IBM
+systems are built on microprocessor chips manufactured using the same
+semiconductor technology as those found in personal computers. These
+powerful chips are linked to work in parallel on a computing task, like a
+fleet of tugs pulling an ocean liner.
+The advantages of parallel processing are twofold. Customers can increase
+the power of a parallel processing system in small increments by adding a
+few processors, rather than having to purchase expensive mainframe upgrades.
+Also, because the new IBM parallel systems are based on microprocessor
+chips, they can be expected to follow similar price decline and performance
+improvement trends to those seen in the personal computer and workstation
+segments of the market.
+The most important new offerings from IBM are two parallel computing servers
+built around chips that emulate the brains of the company's traditional
+mainframe products. The S/390 parallel transaction server and the S/390
+parallel query server can run the same software as IBM's traditional
+mainframe computers, hiding the complexities of parallel processing from
+users and software developers.
+The transaction server is designed for applications such as credit card
+processing, ticketing and banking. The query server elicits new information
+from existing data. A company might, for example, mine its customer database
+for clues to the potential of a product.
+The new servers can be coupled to existing IBM mainframe computers so that
+the new and old machines work together like a single computer, automatically
+balancing the workload and sharing data.
+This facility, which IBM calls the parallel sysplex, is 'as significant as
+any technology we have announced since the introduction of the 360 (the
+first IBM mainframe 30 years ago', says Ned Donofrio, IBM vice-president and
+general manager of the large-scale computing division.
+The parallel servers give the mainframe a new lease of life, he explains.
+With the introduction of a new 10-processor mainframe last week, IBM's line
+of conventional mainframes may have reached its peak. 'We are not sure if we
+can go to 12 or 14, but we are sure that the way we are scaling (the
+parallel systems) will enable us to move to almost limitless numbers of
+microprocessors while preserving all of the programming, all of the skill
+and the infrastructure that our mainframe customers have built,' says
+Donofrio.
+'These systems deliver what customers tell me they want: lower cost, more
+power and protection of their existing Dollars 1 trillion investment in
+software,' he adds.
+Indeed, the high prices of mainframe hardware and software, along with the
+need to link different types of computers in a seamless network, have
+created a strong impetus behind the shift to client/server computing. By
+reducing mainframe hardware and software prices IBM might aim to slow the
+trend away from mainframe computers.
+Yet IBM is no longer counting on client/server computing being a temporary
+fad. Instead, it has designed its new parallel processors to link to
+networks. The company last week announced a new version of its mainframe
+computer operating system, MVS, with 'open' features that will enable
+mainframes to run the Unix applications favoured in client/server systems.
+IBM also introduced a Unix-based 'Powerparallel' system, based on the same
+microprocessor technology that it uses in its latest workstations. The SP2
+is an outgrowth of IBM's massively parallel supercomputer, introduced a year
+ago. The new computer will run 'nearly all' of the 10,000 applications
+programs available for AIX, IBM's version of Unix.
+By applying the latest semiconductor and software technologies to
+large-scale computers, IBM has created a new perspective on the benefits of
+client/server computing. Rather than killing off mainframe computers,
+client/server networks may increasingly incorporate mainframe-like features
+and some mainframe computers.

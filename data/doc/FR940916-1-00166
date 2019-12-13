@@ -1,0 +1,78 @@
+ 
+
+Availability of NPRM
+
+
+Any person may obtain a copy of this notice by submitting a request to the Federal Aviation Administration, Office
+of Public Affairs, Attention: Public Inquiry Center, APA230, 800 Independence Avenue SW., Washington, DC
+20591; or by calling (202) 2673484. Communications must identify the notice number of this NPRM. Persons interested
+in being placed on a mailing list for future rulemaking documents should also request a copy of Advisory Circular No.
+112A, Notice of Proposed Rulemaking Distribution System, which describes the application procedure.
+
+
+
+Background
+
+
+
+The National Advisory Committee for Aeronautics (NACA), the predecessor of the National Aeronautics and Space Administration
+(NASA), began an inflight gust measurement program in 1933 to assist in the refinement of gust load design criteria.
+Using unsophisticated analog equipment, that program resulted in the development of the improved design requirements
+for gust loads that were issued in part 04 of the Civil Aeronautics Regulations (CAR) in the 1940's. The corresponding
+Civil Aeronautics Manual (CAM) 04 provided a simplified formula from which to derive the design gust loads from the
+specified design gust velocities. These criteria were based on an analytical encounter of the airplane with a discrete
+ramp-shaped gust with a gradient distance (the distance necessary for the gust to build to a peak) of 10 times the mean
+chord length of the airplane wing. An alleviation factor, calculated from wing loading, was provided in order to account
+for the relieving effects of rigid body motion of the airplane as it penetrated the gust. With the development of the
+VGH (velocity, load factor, height) recorder in 1946, NASA began collecting a large quantity of gust load data on many
+types of aircraft in airline service. Although that program was terminated for transport airline operations in 1971,
+the data provided additional insight into the nature of gusts in the atmosphere, and resulted in significant changes
+to the gust load design requirements. The evolution of the discrete gust design criteria from part 04 through part
+4b of the CAR to current part 25 of Title 14 of the Code of Federal Regulations (CFR) (which contains the design requirements
+for transport category airplanes) resulted in the establishment of a prescribed gust shape with a specific gust gradient
+distance and increased peak gust design velocities. The prescribed shape was a ``one-minus-cosine'' gust shape
+with a specified gust gradient distance of 12.5 times the mean chord length of the airplane wing. The gust gradient
+distance, for that particular shape, was equal to one-half the total gust length. A simplified analytical method
+similar to the methodology of CAM 04 was provided along with an improved alleviation factor that accounted for unsteady
+aerodynamic forces, gust shape, and the airplane rigid body vertical response.
+
+The increasing speed, size, and structural flexibility of transport airplanes resulted in the need to consider not
+only the rigid body response of the airplane, but also structural dynamic response and the effects of structural deformation
+on the aerodynamic parameters. Early attempts to account for structural flexibility led to a ``tuned'' gust approach
+in which the analysis assumed a flexible airplane encountering gusts with various gradient distances in order to
+find the most critical gust gradient distance for use in design for each major component. A tuned discrete gust approach
+became a requirement for compliance with the British Civil Airworthiness Requirements.
+
+Another method of accounting for the structural dynamic effects of the airplane involved the power spectral density
+(PSD) analysis technique which accounted for the statistical distribution of gusts in continuous turbulence in
+conjunction with the aeroelastic and structural dynamic characteristics of the airplane. In the 1960's, the Federal
+Aviation Administration (FAA) awarded study contracts to Boeing and Lockheed for the purpose of assisting the FAA
+in developing the PSD gust methodology into continuous gust design criteria with analytical procedures. The final
+PSD continuous turbulence criteria were based on those studies and were codified in Appendix G to part 25 in 1980.
+
+Recognizing that the nature of gusts was not completely defined, and that individual discrete gusts might exist outside
+the normal statistical distribution of gusts in continuous turbulence, the FAA retained the existing criteria for
+discrete gusts in addition to the new requirement for continuous turbulence. The current discrete gust criteria
+in Subpart C of part 25 require the loads to be analytically developed assuming the airplane encounters a gust with
+a fixed gradient distance of 12.5 mean chord lengths. For application of the current criteria, it is generally assumed
+that the airplane is rigid in determining the dynamic response to the gust while the effects of wing elastic deflection
+on wing static lift parameters are normally taken into account. The minimum value of the airplane design speed for
+maximum gust intensity, V
+
+B
+
+, is also established from the discrete gust criteria.
+
+Recent flight measurement efforts by FAA and NASA have been aimed at utilizing measurements from the digital flight
+data recorders (DFDR) to derive gust load design information for airline transport airplanes. The Civil Aviation
+Authority (CAA) of the United Kingdom has also been conducting a comprehensive DFDR gust measurement program for
+transport airplanes in airline service. The program, called CAADRP (Civil Aircraft Airworthiness Data Recording
+Program), uses data sampling rates that allow the measurement of a wide range of gust gradient distances. The CAADRP
+program is still continuing and has resulted in an extensive collection of reliable gust data.
+
+In 1988, the FAA, in cooperation with the JAA and organizations representing the American and European aerospace
+industries, began a process to harmonize the airworthiness requirements of the United States and the airworthiness
+requirements of Europe in regard to gust requirements. The objective was to achieve common requirements for the certification
+of transport airplanes without a substantive change in the level of safety provided by the regulations. Other airworthiness
+authorities such as Transport Canada have also participated in this process.
+

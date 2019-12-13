@@ -1,0 +1,65 @@
+ 
+
+(a) Channels in the Private Radio General Access Pool and the Private Radio Power Pool may be assigned only if the applicant
+shows that none of the channels in the Public Mobile Pool are available for the proposed use.
+(b) Channels in the Public, Private, Government Shared Pool are allocated for assignment in the Private Operational-Fixed
+Microwave Service (47 CFR part 94) and to U.S. government fixed stations.
+
+
+22.623 
+
+System configuration.
+
+
+This section requires a minimum configuration for point-to-multipoint systems using the channels listed in 22.621.
+(a) 
+
+928960 MHz. 
+
+The channels may be assigned, individually or paired, only to fixed transmitters in a system that controls at least
+four public mobile base transmitters that transmit on the same channel. If a 932933 MHz channel and a 941942
+MHz channel are assigned as a pair, the 941942 MHz channel must be assigned only to control transmitters; the
+932933 MHz channel may be assigned to control or fixed relay transmitters.
+(b) 
+
+470512 MHz. 
+
+These channels may be assigned only individually (unpaired), to control transmitters that directly control at least
+four public mobile base transmitters that transmit on the same channel. Fixed relay transmitters are not authorized.
+(c) 
+
+Selection and assignment. 
+
+The FCC selects and assigns a channel when granting applications for authorization to operate a new station to transmit
+in the 470512, 932933 and 941942 MHz frequency ranges. Applicants having a preference may request
+the assignment of a specific channel or channel pair, but the FCC may in some cases be unable to satisfy such requests.
+
+
+22.625 
+
+Transmitter locations.
+
+
+This section governs where point-to-multipoint transmitters on the channels listed in 22.621 may be located.
+(a) 
+
+928960 MHz. 
+
+In this frequency range, the required minimum distance separation between co-channel fixed transmitters is 113
+kilometers (70 miles). However, this requirement may be waived if the applicant submits an engineering analysis
+that shows that no interference would be caused to either system. In such a case, a developmental authorization may
+be issued (see 22.415). If no interference is experienced during the term of the developmental authorization,
+the licensee may apply for a regular authorization.
+(b) 
+
+470512 MHz. 
+
+The purpose of the rule in paragraph (b)(1) of this section is to define the areas in which the 470512 MHz channels
+are allocated for public mobile use. The purpose of the rules in paragraphs (b)(2) and (b)(3) of this section is to reduce
+the likelihood that interference to television reception from public mobile operations on these channels will occur.
+(1) 
+
+Control transmitter locations. 
+
+Control transmitter locations must be within 80 kilometers (50 miles) of the designated locations in this paragraph.
+

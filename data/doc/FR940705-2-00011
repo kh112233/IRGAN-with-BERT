@@ -1,0 +1,67 @@
+ 
+
+Proposed Federal Information Processing Standards Publication
+
+
+XXXXXX
+
+
+
+
+(date)
+
+
+Announcing the Standard for Application Profile for the Government Information Locator Service (GILS)
+
+
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to Section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100235.
+
+
+1. Name of Standard. Application Profile for the Government Information Locator Service (GILS).
+
+2. Category of Standard. Software Standard, Information Interchange.
+
+3. Explanation. This standard describes an application profile for the Government Information Locator Service
+(GILS). This application profile is based primarily on the American National Standard for Information Retrieval
+Application Service Definition and Protocol Specification for Open Systems Interconnection (ANSI/NISO Z39.501992),
+developed by the National Information Standards Organization (NISO). The Government Information Locator Service
+(GILS) is a decentralized collection of servers and associated information services that will be used by the public
+either directly or through intermediaries to find public information throughout the Federal government.
+
+This GILS Profile specifies the use of ANSI/NISO Z39.501992 in information service applications and provides
+specifications for the overall GILS application, including the GILS Core and other aspect of a GILS server operating
+in the Internet environment. This GILS profile will enable GILS client systems to interconnect and to interoperate
+with any GILS server. This profile addresses intersystem interactions and information interchange for the GILS,
+but does not specify user interface requirements, the internal structure of databases that contain GILS Locator
+Records, or search engine functionality.
+
+GILS servers will support search and retrieval by accepting a search query and returning a result set or diagnostic
+messages. GILS servers may also support browsing by accepting a well-known search query and returning a list of Locator
+Records in brief display format.
+
+Some of the information resources pointed to by GILS Locator Records, as well as the GILS server itself, may be available
+electronically through other communications protocols including the common Internet protocols that facilitate
+electronic information transfer such as remote login (Telnet), File Transfer Protocol (FTP), and electronic mail.
+The use of SMTP and MIME protocols or other communications paths is outside the scope of the GILS Profile.
+
+The GILS Profile was developed by a group of industry and government experts in ANSI/NISO Z39.501992 implementations,
+system implementations, and the organization of information. The specifications included in the GILS Profile reflect
+the consensus of this group based on its work and input from a range of stakeholders.
+
+4. Approving Authority. Secretary of Commerce.
+
+5. Maintenance Agency. U.S. Department of the Interior, United States Geological Survey (USGS).
+
+Questions concerning this standard are to be addressed to the Maintenance Agency: GILS Program, United States Geological
+Survey (USGS), 802 National Center, Reston, VA 22092. Users of this standard who need to be notified or changes that
+occur prior to the next publication of the standard should complete the Change Request Form provided in this publication
+and send it to: Standards Processing Coordinator (ADP), Computer Systems Laboratory, National Institute of Standards
+and Technology, Gaithersburg, MD 20899. The NIST will issue Change Notices on an as-needed basis.
+
+
+
+

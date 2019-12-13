@@ -1,0 +1,305 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+  [Text] 
+<H5>  Introduction </H5>
+  For minute MOS devices, oxide gate film damage caused during 
+the processes of dry etching and ion implantation is 
+problematic. In the ion implantation process, charge-up damage 
+caused by the ionsU electric charge, and the impact of energy 
+granules are major problems. Especially in the doping process by 
+which source and drain are implanted simultaneously, it is 
+necessary to pay attention so as not to cause damage. 
+  Generally, as a way to prevent damage caused by charge-up at 
+the time of ion implantation, a method is employed by which 
+electrons are supplied and the positive ion beam is neutralized. 
+However, sometimes because of the supply of electrons, a reverse 
+negative charge is built up and the damage to the oxide film 
+becomes even greater. 
+  In this text, the problem of oxide film damage is discussed 
+based on the results of measurements obtained from oxide film 
+pressure tolerance, and the reduction of negative charge-up 
+using magnetic and electrical fields. Also quantitative 
+evaluation of oxide film damage at the time of ion implantation 
+using the method of QBD (charge to breakdown) by 
+TDDB (time dependent dielectric breakdown) is discussed. 
+<H5>  Method of Experiment </H5>
+
+<FIG ID=JPRS-JST-008LC-36A>           Figure 1. Antenna Capacitor Cross Section </FIG>
+
+
+
+
+  The device used for ion implantation in this experiment is a 
+batch type large electrical current ion implantation model, 
+equipped with a flood gun which neutralizes the electric charge 
+of the ion beam. This flood gun employs a method in which low 
+energy secondary electrons from Ar atoms derived from heated 
+electrons (first generation electrons) are pulled out from a 
+filament and then exposed to Ar gas. The quantity of secondary 
+energy is controlled by the emission current (filament bias). 
+
+
+<FIG ID=JPRS-JST-008LC-36B> Figure 2. Ratio Of Good Quality Yields By Pressure Tolerance </FIG>
+
+
+
+  In the experiment to evaluate deterioration of pressure 
+tolerance in the oxide film caused by charge-up, a 15nm thick 
+oxide gate film with an area of 20x20 m[.sup]2[/] was 
+formed. Using an antenna capacitor (figure 1) formed by poly-Si 
+electrodes with a 200 nm thick film as a test device, and an 
+80keV beam current at 22mA, 5 x 10[.sup]15[/]/cm[.sup]2[/] 
+As ions were implanted. The experiment was evaluated by studying 
+the dependency of antenna ratio (ratio of area in electrodes and 
+oxide film) on the rate of production of an oxide film with good 
+pressure tolerance (&gt; 8MV/cm). 
+  In the experiment to measure Q[.sup]BD[/] due to constant 
+current TDDB, the same test device used in the evaluation of 
+pressure tolerance was employed, and the sample to which ions 
+were implanted by changing the energy and dose, and to which 
+constant current stress (10mA/cm[.sup]2[/]) was applied, was 
+measured. The amount of electric charge damage Q[.sup]BDO[/] 
+(initial characteristic of oxide film) measured with the test 
+material without ion Implantation was 47 C/cm[.sup]2[/]. 
+<H5>  Damage Of Oxide Film Pressure Tolerance Caused By Charge-Up </H5>
+  First of all, damage of oxide film pressure tolerance in the 
+case of ion implantation without neutralized electrons is 
+discussed here. When ions are implanted without operating a 
+flood gun, the rate of producing material with good pressure 
+tolerance tends to be low because of the high antenna ratio 
+(figure 2 (a).) This is because, if the antenna ratio is higher, 
+that is to say, as the area of the electrodes exposed to the ion 
+beam increases, the amount of electric charge the electrodes 
+receive also increases, and a large electric charge is implanted 
+in the oxide film. 
+  Therefore, damage of oxide film at the time of ion 
+implantation depends on the electric charge to which the 
+electrodes are exposed. This damage can effectively be prevented 
+by neutralizing the ion beamUs positive electrical charge by 
+electron exposure. For this reason, figure 2 (b) shows antenna 
+ratio dependency with good pressure tolerance when ion 
+implantation occurs with flood gun operation. In this case, when 
+flood gun was operated, compared to ion beam exposure only, the 
+rate of acceptable production declined. This is thought to be 
+because electrons from the flood gun reversely cause a negative 
+charge-up . Thus an experiment to verify the occurrence of this 
+negative charge was conducted. 
+  Under the same condition of flood gun exposure but in the 
+absence of an ion beam as shown in figure 2 (b), there is an 
+antenna ratio dependency to the good production rate for 
+pressure tolerance, when only electrons are exposed, as shown in 
+figure 2 (c). In this case, even with higher antenna ratios, it 
+is observed that good production ratio for pressure tolerance is 
+not reduced. By calculating the amount of electric charge 
+electrodes receive from electrons as a result of the waferUs 
+exposure to the electron beam, and the maximum antenna ratio, 
+the amount of electric charge Q[.sup]BDC[/] 
+(47C/cm[.sup]2[/]) was found not to be large enough to cause 
+static damage to the oxide film. From this finding, the cause of 
+negative charge-up in the case of the flood gun is thought to be 
+caused by the interaction of electrons with the ion beam when 
+both are present simultaneously. Therefore the following 
+experiment was conducted. 
+  Generally ions are implanted inside the wafer uniformly by 
+wafer foil spin and scan at the time of implantation. If ions 
+are implanted without scanning, then different stress can occur 
+inside the wafer as shown in figure 3. Figure 4 shows the 
+distribution of the oxide film pressure tolerance in the wafer. 
+From this figure, it is clear that the loss of pressure 
+tolerance is found initially in the peripheral area of the ion 
+beam exposure region. This shows that electrons are accumulated 
+at the peripheral area of the ion beam. And it is considered 
+that this high density of electrons causes negative charge-up. 
+
+<FIG ID=JPRS-JST-008LC-37A>           Figure 3. Conceptual Diagram Of Ion Implantation Without </FIG>
+
+
+
+
+
+<FIG ID=JPRS-JST-008LC-37B>           Figure 4. Distribution Of Pressure Tolerance When Ions Are </FIG>
+
+
+
+
+<H5>  Control of Electron By Magnetic Field </H5>
+  Although negative charge-up occurs as electrons reach the 
+wafer, when charge-up advances to some level, electrons having 
+low energy can not reach the wafer, and charge-up will not 
+advance. Therefore even if there is a high density of low energy 
+electrons, the charge-up at that point may not contribute to 
+oxide film damage. That is to say, in the prevention of negative 
+charge-up, the supply of low energy electrons to the wafer is 
+important. 
+  In the ion implantation device used this time, an upward 
+direction of magnetic field was observed near the wafer. In this 
+case, as seen in figure 5 (a), first generation electrons 
+released from flood gun, can reach the wafer. Thus, as shown in 
+figure 5 (b), an experiment was conducted in which the direction 
+of the magnetic field was changed to the opposite direction, and 
+the orbit of first generation electrons was reversed, that is 
+opposite of the wafer direction. 
+
+<FIG ID=JPRS-JST-008LC-38A> Figure 5. Conceptual Diagram Electron Orbit To The </FIG>
+
+
+
+  Figure 6 shows the result of an experiment in which the 
+direction of the magnetic field was reversed. In this 
+experiment, the condition was established so that the density of 
+electrons reaching the wafer became evenly dispersed, 
+independent of the direction of the magnetic field. When the 
+magnetic field is in an upward direction, as the antenna ratio 
+increases, the production rate of material with good pressure 
+tolerance decreases, however with a downward magnetic field, it 
+was found that as the antenna ratio increases the rate of good 
+material production is maintained. This is thought to be because 
+the direction of electron orbits with higher energy are bent in 
+a reverse direction by the magnetic field, and as a result the 
+distribution of electron energy that reaches wafer is changed 
+(figure 7). In the case of an upward directed magnetic field, 
+the maximum energy level of electrons reaching the wafer is the 
+same as the filament bias (electron heat pulled out by the 
+applied voltage), and it is thought that first generation 
+electrons are reaching the wafer. On the other hand, it was 
+found that in the case of a downward directed magnetic field, 
+even though filament bias is high, only low energy second 
+generation electrons reach the wafer, and high energy first 
+generation electrons are fully eliminated. 
+
+<FIG ID=JPRS-JST-008LC-38B>           Figure 6. Distribution Of Pressure Tolerance Good </FIG>
+
+
+
+
+
+<FIG ID=JPRS-JST-008LC-39A>           Figure 7. Distribution Of Pressure Tolerance Good Product </FIG>
+
+
+
+
+  By doing this, it was found that controlling high energy 
+electron orbits by using an electrical field effectively 
+prevented damage to oxide film pressure tolerance caused by 
+negative charge. 
+<H5>  Control Of Electrons By Electrical Field </H5>
+  In this section, we discuss the result of experiments in 
+which the electron energy reaching the wafer is effectively 
+changed by applying a DC bias to the wafer, in addition to the 
+effect of the magnetic field. In the experiments, -10V and +10V 
+bias voltages are applied to the wafer while the magnetic field 
+was directed downward. 
+  Figure 7 (a) shows the antenna dependency of good product 
+rate of oxide film pressure tolerance when bias is applied to 
+wafer. The electron energy at this point is shifted as much as 
+the amount of the bias current (figure 7 (b). When a positive 
+bias is applied, maximum electron energy is controlled at a low 
+level, even though the higher antenna ratio will maintain a good 
+product rate. 
+  Thus, for prevention of charge at the time of large current 
+ion implantation, it is important to supply low energy 
+electrons. By using magnetic and electrical fields, the test 
+verified that the method to control the electron energy using 
+magnetic and electrical field is valid. Also the experiment this 
+time found that the oxide film pressure tolerance will not 
+deteriorate when the distribution of electron energy supplied is 
+less than 40-50 eV. 
+<H5>  Evaluation Of Oxide Film Damage By Q </H5>
+[.sup]BD[/] Method 
+  In the following, evaluation of oxide film damage due to ion 
+implantation employing the method of Q[.sup]BD[/] with 
+constant quantities is discussed. In this experiment, after ions 
+are injected under each antenna capacitor in conditions having 
+various antenna ratios (As+: 30-80keV, 5x10[.sup]14[/] - 2 x 
+10[.sup]16[/]/cm[.sup]2[/]), electric charge 
+Q[.sup]BD[/] causing damage by applying constant current 
+stress (10mA/cm[.sup]2[/]) was measured. Figure 8 (a) and (b) 
+are the measurements plotted for Q[.sup]BD[/] against the 
+stress of electric charge Q[.sup]ST[/] (amount of electric 
+charge that antenna receives) by ion implantation. Figure 8 (a) 
+shows that Q[.sup]ST[/] changes with dose, and figure 8 (b) 
+shows Q[.sup]ST[/] also changes with the antenna ratio. The 
+value of Q[.sup]BD[/] when Q[.sub]ST[/] = 0 shows 
+Q[.sup]BD0[/] (47C/cm[.sup]2[/]), and the other plot shows 
+the value of Q[.sup]BD[/] after each stress is applied. 
+Namely, it shows how oxide film is damaged by ion implantation 
+stress. The broken line is the line shown by the equation of 
+Q[.sup]BD[/] = Q[.sub]BD0[/] -Q[.sub]ST[/], and like 
+the constant current TDDB, it shows damage to the extent that 
+the electric charge that flows in the oxide film reduces 
+Q[.sup]BD[/]. 
+
+
+<FIG ID=JPRS-JST-008LC-40A>           Figure 8. Relation Between Q[.sup]BD[/] And Ion </FIG>
+
+
+
+
+  When ion implantation energy is low (30keV), dependency of 
+dose Q[.sup]BD[/], and antenna ratio dependency are almost on 
+the same direct line, and the characteristic is similar to that 
+of the broken line. This demonstrates that the damage of oxide 
+film is proportional to ion implantation stress and it 
+progresses along with constant current TDDB. On the other hand, 
+the figure shows that when ion implantation energy is high 
+(&gt; 50keV), Q[.sup]BD[/] dose dependency and antenna ratio 
+dependency tend to be different. The antenna ratio dependency 
+shows the characteristic of flatness which indicates that oxide 
+film damage is not dependent on the amount of electric charge. 
+From this and reduction of Q[.sup]BD[/] by increase of dose, 
+it can be said that the increased amount of ion exposure rather 
+than the electrical charge contributes to the damage. Also, even 
+in implanted ion profile which is in range of energy collected 
+in the shallow region in poly-Si, it should be noted that damage 
+to the oxide film is considered to be caused by ion exposure. 
+  Therefore, for damage of oxide film due to ion implantation, 
+three modes of damages can be cited: Damage that depends on the 
+amount of implantation of electric charge which is significant 
+in the low energy region; damage that depends on the amount of 
+ion exposure which is significant in the higher energy region; 
+and damage in the early stage that depends on the implantation 
+energy. In the case of the damage caused by the amount of 
+electric charge implanted, it is possible to reduce this by 
+supplying neutral electrons, but since the damage by ion 
+exposure will have bad a effect on the reliability of the oxide 
+film, it is necessary to be cautious. 
+<H5>  Conclusion </H5>
+  At the time of large current ion implantation, damage to the 
+pressure tolerance of oxide film caused by charge up was 
+studied. It was found that negative charge-up, in the case when 
+neutral electrons are employed, is generated when excess high 
+energy electrons exist, and when these electrons collect around 
+the high density ion beam to which the material is exposed. And, 
+as a way of preventing this negative charge-up, it was found 
+through the results of our experiments in which a magnetic field 
+was applied near the wafer or a DC bias was applied to the 
+wafer, so that the distribution of electron energies reaching 
+the wafer was controlled, and only the high energy electrons 
+were eliminated, that the negative charge-up was effectively 
+reduced. As a benchmark indicator for lowering the energy, we 
+found that when the electron energy reaching the wafer is 
+controlled to less than 40eV, damage of pressure tolerance in 
+the oxide film was not seen even with capacitors having high 
+antenna ratios. 
+  From the evaluation found using the Q[.sup]BD[/] method to 
+assess the damage of oxide film due to ion implantation, it was 
+determined that there are two causes: One mode is derived from 
+the amount of implantation of electrical charge and is seen when 
+the implanted energy is quite low, and another mode is derived 
+from ion exposure and is seen when the implanted energy is 
+relatively high. It was found that in the former case, the 
+relation of the amount of implantation of electric charge and 
+Q[.sup]BD[/] is almost the same as the constant current TDDB, 
+and in the latter case, the amount of damage becomes greater as 
+the injected energy becomes higher. 
+  From the discussion above, for the prevention oxide film 
+damage during the process of ion implantation to gate 
+electrodes, it is important to pay attention to the relation 
+between the film density at gate electrodes and the energy 
+implanted, so that ion exposure damage can be prevented, and 
+furthermore, charge-up damage can be prevented by supplying low 
+energy electrons. 
+  For their help in conducting this research we thank our 
+associates at Applied Materials Japan, Incorporated. 
+

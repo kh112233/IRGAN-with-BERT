@@ -1,0 +1,147 @@
+ 
+
+(c)Physical Treatment_
+
+
+
+
+(1) Separation of components 
+
+
+
+
+T35Centrifugation 
+T36Clarification 
+T37Coagulation 
+T38Decanting 
+T39Encapsulation 
+T40Filtration 
+T41Flocculation 
+T42Flotation 
+T43Foaming 
+T44Sedimentation 
+T45Thickening 
+T46Ultrafiltration 
+T47Other (specify)
+
+
+
+
+(2) Removal of Specific Components
+
+
+
+T48Absorption-molecular sieve 
+T49Activated carbon 
+T50Blending 
+T51Catalysis 
+T52Crystallization 
+T53Dialysis 
+T54Distillation 
+T55Electrodialysis 
+T56Electrolysis 
+T57Evaporation 
+T58High gradient magnetic separation 
+T59Leaching 
+T60Liquid ion exchange 
+T61Liquid-liquid extraction 
+T62Reverse osmosis 
+T63Solvent recovery 
+T64Stripping 
+T65Sand filter 
+T66Other (specify) 
+
+
+
+
+(d)Biological Treatment 
+
+
+
+T67Activated sludge 
+T68Aerobic lagoon 
+T69Aerobic tank 
+T70Anaerobic tank 
+T71Composting 
+T72Septic tank 
+T73Spray irrigation 
+T74Thickening filter 
+T75Tricking filter 
+T76Waste stabilization pond 
+T77Other (specify) 
+T78[Reserved] 
+T79[Reserved] 
+
+
+
+
+(e)Boilers and Industrial Furnaces 
+
+
+
+
+T80Boiler 
+T81Cement Kiln 
+T82Lime Kiln 
+T83Aggregate Kiln 
+T84Phosphate Kiln 
+T85Coke Oven 
+T86Blast Furnace 
+T87Smelting, Melting, or Refining Furnace 
+T88Titanium Dioxide Chloride Process Oxidation Reactor 
+T89Methane Reforming Furnace 
+T90Pulping Liquor Recovery Furnace 
+T91Combustion Device Used in the Recovery of Sulfur Values 
+From Spent Sulfuric Acid 
+T92Halogen Acid Furnaces 
+T93Other Industrial Furnaces Listed in 40 CFR 260.10 (specify) 
+
+
+
+
+(f)Other Treatment 
+
+
+
+
+T94Containment Building (Treatment) 
+
+
+
+3. Disposal 
+
+
+
+D79Underground Injection 
+D80Landfill 
+D81Land Treatment 
+D82Ocean Disposal 
+D83Surface Impoundment (to be closed as a landfill) 
+D99Other Disposal (specify) 
+
+
+
+4. Miscellaneous (Subpart X) 
+
+
+
+X01Open Burning/Open Detonation 
+X02Mechanical Processing 
+X03Thermal Unit 
+X04Geologic Repository 
+X99Other Subpart X (specify)
+
+
+
+
+
+<FRFILING>
+[FR Doc. 946830 Filed 32394; 8:45 am]
+
+</FRFILING>
+<BILLING>
+BILLING CODE 656050P
+</BILLING>
+
+
+

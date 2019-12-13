@@ -1,0 +1,251 @@
+ 
+
+The desired gene(s) may be introduced into a host plant by one of several methods, including: (1) Direct DNA uptake
+by the plant cells mediated by chemical or electrical treatments; (2) microinjection of DNA directly into plant cells;
+(3) biolistics, or firing tiny particles coated with the DNA of interest into plant cells; and (4) the use of a bacterium,
+such as the soil bacterium 
+
+Agrobacterium tumefaciens, 
+
+as a vehicle to carry the DNA into plant cells. (For a discussion of these processes, see Ref. 4).
+
+
+B. Need for a Selectable Marker
+
+
+Transformation of plant cells by introducing exogenous DNA is an inefficient process and, in general, only a small
+proportion of cells will successfully take up, integrate, and express the new genetic material (Ref. 5). Further,
+the few cells that do so are not readily distinguishable from the vast majority of cells that do not. Therefore, developers
+of transgenic plants need a means to distinguish cells that are successfully transformed from those that are not.
+Selectable markers, such as the 
+
+kan
+
+
+
+r
+
+ gene, perform this function.
+The 
+
+kan
+
+
+
+r
+
+ gene is linked to the gene (or genes) of interest and then this genetic material is inserted into plant cells. Because
+plant cells are sensitive to the antibiotic kanamycin, incorporation of the 
+
+kan
+
+
+
+r
+
+ gene into cells and subsequent expression of APH(3
+&rsquo;)II provides a convenient method for selecting successfully transformed cells. 
+
+Kan
+
+
+
+r
+
+ works as a marker because only successfully transformed cells (which contain both the 
+
+kan
+
+
+
+r
+
+ and the desired genetic material) survive when grown in a kanamycin-containing medium. These cells are subsequently
+regenerated into transgenic plants. 
+
+
+C. Identity of the Additive
+
+
+APH(3
+&rsquo;)II
+
+1
+
+ (CAS Reg. No. 58943398) is encoded by the 
+
+kan
+
+
+
+r
+
+ gene, which was originally isolated as a component of transposon Tn
+
+5
+
+
+
+2
+
+ from the bacterium 
+
+Escherichia coli 
+
+(Refs. 6 and 7). APH(3
+&rsquo;)II is an enzyme with an apparent molecular weight of 25,000 that catalyzes the transfer of a phosphate group
+from adenosine 5
+&rsquo;-triphosphate (ATP) to a hydroxyl group of aminoglycoside antibiotics (see below), thereby inactivating
+the antibiotics.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+1
+
+</FOOTNAME>
+Other names for this enzyme include neomycin phosphotransferase II (NPT II), neomycin phosphotransferase, and
+kanamycin phosphotransferase II.
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+2
+
+</FOOTNAME>
+A transposon is a segment of DNA that is mobile and has the capacity to move from one site in the genome to another. Transposons
+vary in size and frequently contain, as does Tn
+
+5
+
+, antibiotic resistance genes in addition to genes coding for functions concerned with movement of the transposon.
+
+</FOOTNOTE>
+
+
+APH(3
+&rsquo;)II inactivates the aminoglycoside antibiotics neomycin, kanamycin, paromomycin, ribostamycin, gentamicins
+A and B, as well as butirosins (Refs. 8 and 9). Of the antibiotics that are inactivated by APH(3
+&rsquo;)II, only neomycin and kanamycin are currently approved for use in humans or animals in the United States (Refs.
+10 and 11).
+
+3
+
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+
+
+3
+
+</FOOTNAME>
+Gentamicin, which is used therapeutically, is composed of a complex mixture of the antibiotic substances produced
+by 
+
+Micromonospora purpurea 
+
+that contain primarily gentamicin C
+
+1
+
+ (25 to 50 percent), gentamicin C
+
+1a
+
+ (10 to 35 percent), and gentamicins C
+
+2a
+
+ and C
+
+2
+
+ (25 to 55 percent) (Ref. 10). Gentamicins A and B are at most minor components of the commercial drug. Thus, APH(3
+&rsquo;)II does not confer resistance to gentamicin that is used therapeutically (Ref. 12).
+
+</FOOTNOTE>
+
+
+The APH(3
+&rsquo;)II evaluated in this document is the enzyme whose synthesis is directed by the 
+
+kan
+
+
+
+r
+
+ gene derived from transposon Tn
+
+5
+
+. This enzyme is not to be confused with enzymes that may be similarly named (e.g., a type I aminoglycoside phosphotransferase
+encoded by a gene isolated from transposon Tn601) or other bacterial enzymes (including acetyltransferases, nucleotidyltransferases,
+and phosphotransferases) that inactivate kanamycin and neomycin (Refs. 8 and 12).
+
+
+D. Use and Intended Technical Effects
+
+
+Aminoglycoside antibiotics exert their effect on bacteria by binding to bacterial ribosomes and inhibiting protein
+synthesis. Phosphorylation of the antibiotics by APH(3
+&rsquo;)II interferes with this binding and thus prevents the antibiotics from inhibiting protein synthesis (Ref.
+13). In this way, cells that contain the 
+
+kan
+
+
+
+r
+
+ gene and that express APH(3
+&rsquo;)II are rendered resistant to the action of the antibiotics. In plant cells, the antibiotics exert their effect
+on mitochondria and chloroplasts where protein synthesis takes place on ribosomes that resemble bacterial ribosomes
+(Ref. 14).
+The proposed use of the 
+
+kan
+
+
+
+r
+
+ gene and gene product APH(3
+&rsquo;)II is as a processing aid in the development of new varieties of tomato, cotton, and oilseed rape intended
+for food use. As discussed above, because transformation of plant cells is an inefficient process, the presence of
+APH(3
+&rsquo;)II and the consequent ability of the plant cells to grow in the presence of antibiotics is used to distinguish
+between transformed and nontransformed cells. Therefore, the intended technical effect of APH(3
+&rsquo;)II is to permit, in the early phases of development of genetically modified plants, the selection of transformants
+carrying the 
+
+kan
+
+
+
+r
+
+ gene along with the genetic material of interest. However, APH(3
+&rsquo;)II has no intended technical effect in the final plant or final crop product.
+
+
+III. Safety Evaluation
+
+
+A. APH(3
+&rsquo;)II
+
+
+Safety issues associated with APH(3
+&rsquo;)II can be divided into two areas: (1) Those associated with the direct effects of ingestion of the protein,
+including the possibility of allergenicity; and (2) those associated with the biological activity of APH(3
+&rsquo;)II (i.e., the effect of the enzyme on the therapeutic efficacy of orally administered antibiotics).
+
+

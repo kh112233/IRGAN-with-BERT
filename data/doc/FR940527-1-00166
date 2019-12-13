@@ -1,0 +1,260 @@
+ 
+
+<TABLE>
+
+
+
+
+Table 
+
+6
+
+d._Revised Diagnosis Code Titles
+
+
+1Diagnosis
+
+code
+
+1Description
+
+1CC
+
+1MDC
+
+1DRG
+
+
+
+
+
+
+
+
+
+
+
+
+070.20 
+
+Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.21 
+
+Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.30 
+
+Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891
+
+070.31 
+
+Viral hepatitis B without mention of hepatic coma, acute or unspecified, with hepatitis delta 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.41 
+
+Acute or unspecified hepatitis C with hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.42 
+
+Hepatitis delta without mention of active hepatitis B disease with hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.43 
+
+Hepatitis E with hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.49 
+
+Other specified viral hepatitis with hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.51 
+
+Acute or unspecified hepatitis C without mention of hepatic coma 
+Y 
+
+07 
+15 
+
+205, 206 
+387 3891 
+
+070.52 
+
+Hepatitis delta without mention of active hepatitis B disease or hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.53 
+
+Hepatitis E without mention of hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+070.59 
+
+Other specified viral hepatitis without mention of hepatic coma 
+
+Y 
+
+07 
+15 
+
+205, 206 
+387, 3891 
+
+440.20
+
+Atherosclerosis of native arteries of extremities, unspecified
+
+N
+
+05
+
+130, 131
+
+440.21
+
+Atherosclerosis of native arteries of extremities with intermittent claudication
+
+N
+
+05
+
+130, 131
+
+440.22
+
+Atherosclerosis of native arteries of extremities with rest pain
+
+N
+
+05
+
+130, 131
+
+440.23
+
+Atherosclerosis of native arteries of extremities with ulceration
+
+N
+
+05
+
+130, 131
+
+440.24
+
+Atherosclerosos of native arteries of extremities with gangrene
+
+Y
+
+05
+
+130, 131
+
+440.29
+
+Other atherosclerosos of native arteries of extremities
+
+N
+
+05
+
+130, 131
+
+
+
+770.1 
+
+Meconium aspiration syndrome 
+
+Y 
+
+15 
+
+387, 3891 
+
+
+
+1Diagnosis code is classified as a ``major problem'' in these DRGs.
+
+
+</TABLE>
+
+

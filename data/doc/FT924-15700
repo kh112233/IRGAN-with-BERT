@@ -1,0 +1,124 @@
+FT  02 OCT 92 / Survey of Software at Work - Autumn 1992 (25): Seeking to
+win friends and influence people - Telemarketing; Direct mail
+'In the next five years there will be two sorts of company, those who use
+computers as a marketing tool, and those who face bankruptcy' - Warren
+McFarlen, Harvard Business School
+'JUST what I always wanted.' The phrase became a family joke for the
+preposterous items to be found in a direct mail catalogue which kept
+arriving, unrequested but persistent, at a household unlikely to provide a
+warm welcome for a musical garden gnome.
+Nowadays, the postcode alone would reveal social class and spending bracket.
+Every time you fill in a form with name, address and other details, you
+become hostage to the thousands of companies wanting to reach you with the
+special offer you won't be able to resist.
+Your name and address are grist to the database marketing mill. Squeezed by
+the recession, pushed harder by the competition, more companies are looking
+towards efficient use of information technology (IT) to help them make their
+sales. And here at last is an area where IT can demonstrably prove its
+value, not just in creating a systematic working environment, but in
+providing data.
+That data is likely to be used to seduce you into buying all sorts of
+products and services direct, because, if it is accurate, the services might
+well be what you are seeking. A previous sales and marketing issue of
+Software At Work, (December 1991) concentrated on systems for progressing
+and and managing sales leads. It brought into focus an emerging market, one
+of the few boom areas of software development at present.
+This return-visit deals with the initial marketing effort, winning leads,
+identifying customers, and finding new prospects by telemarketing or direct
+mail, with the aid of a marketing database.
+The biggest issue facing people who embark on direct marketing is the
+quality, accuracy and consistency of the data they require. It's all too
+easy to assume that accounting information is adequate: it certainly is not.
+The key facts usually exists in a morass of data, in different systems
+throughout the company.
+A point made by many users during their interviews is that there is usually
+an overload of information. The challenge can be recognising it, thrashing
+it out, consolidating it, and making it useful to the marketeers.
+There can be other outside sources; market research, lists bought from
+brokers, and profiling aids to fill in the background on names and
+addresses. These include Acorn, the household classification provided by
+CACI, Mosaic, a similar geo-demographic system from CCN, and Define, a
+household and financial profiling system.
+The providers of information are also getting more sophisticated. Ronin, an
+international market research company, has enhanced Computer Aided Telephone
+Interviewing (CATI) to include Expert System-Based Interviewing Software, a
+technique for extracting more specific and detailed responses in a variety
+of languages.
+Taylor Nelson, the UK's largest market research organisation, uses barcode
+data and computer links to poll the 8,500 homes on its consumer panel, and
+provides the results in electronic format. CD-ROM discs make it easy to
+disseminate large amounts of information, but the whole point of creating a
+marketing database is to concentrate on quality, rather than volume of data.
+The range of solutions is bewildering, ranging from microcomputer-based
+systems such as Compass, to mainframe services such as CCN's. A remarkable
+proportion of the users interviewed in this issue had chosen to 'outsource'
+their marketing solution. They are using mainframes, specialist bureau
+services and bespoke systems, solutions viewed as outdated elsewhere in the
+computer industry. This swimming against the stream (in an era dedicated to
+bringing things in-house on PC and client-server networks) might be
+explained by the chasm that most marketing people felt between themselves
+and in-house DP staff.
+There is undoubtedly a need for specialist expertise. De-duplication of
+names and addresses demands precise techniques, mastered by experts such as
+The Computing Group, part of direct marketing company WWAV (Watson Ward
+Albert Vandell).
+Tony Masters, director WWAV advises that it is important to look at the
+software product underpinning the marketing database: it has to be flexible.
+'The technology is always moving forward. The percentage of turnover a
+supplier spends on research and development is usually a good measure of
+dedication.'
+Forthcoming trade shows provide useful shop windows for those unsure where
+to start. At last month's Business Computing Show, sales and marketing
+systems arrived as a recognised sector.
+More specialised is Softworld, a trade show dedicated to sales and
+marketing, which uses 'interactive' techniques of presentations, workshops,
+seminars and hands-on demonstrations as a showcase for a maximum of 45
+software suppliers. The Softworld event manager, Jeremy Walker, who runs a
+series of dedicated exhibitions, reports a boom in this particular niche
+market - 'it's one of the last major growth areas for software, as yet to be
+exploited in terms of applications products and installations. I know about
+300 products in all, with about one new one per week.'
+Christopher Bradley heads the sales and marketing IT consultancy group at
+Coopers and Lybrand: he keeps count of every package supplier and most of
+the 2,000 or so list brokers in the UK. He knows in excess of 250 UK sales
+and marketing packages, and another 200 available in the US.
+'The whole purpose of such systems is not just to win new sales,' he says.
+'The real advantage comes not only from winning new sales, but in gaining
+incremental profit on existing customers. The largest and most profitable
+use of database marketing has been in cross-selling, improving lifetime
+value. If we hammer home any one message, it's: 'Think of the lifetime value
+ -not just the value of one sale.''
+At Softworld, Mr Bradley represents the Association of Information Systems
+in Marketing and Sales (AIMS), an organisation set up two years ago to
+represent the suppliers of direct marketing software products and services.
+There are all sorts of opportunities, he points out, for service companies
+(such as electricity supply) to anticipate product needs, much as insurance
+and financial companies already do. First, the industry has to lose its
+reputation for bombarding the consumer with forest-loads of unsolicited,
+duplicated mailshots.
+'Please, keep the phrase 'junk mail' out of the headline . . . it's the very
+thing we're trying to stamp out,' says Jeg Gray, marketing manager for
+building society Northern Rock, (see page 17). He knows the power of a
+direct appeal: it is on his shoulders, along with other colleagues in the
+newly formed Direct Marketing Association, to make sure that database
+marketing wins friends and influences people.
+The DMA (UK), a more widely-based body than AIMS, was formed in April 1992,
+as an association of advertisers, mailing houses, agencies, list brokers,
+consultants and other parties in the industry. Mr Gray is well aware how
+most people equate direct mail with waste paper through the letterbox - 'any
+organisation which wants to have its customers buy additional products must
+make sure that they do not annoy those customers by sending them totally
+irrelevant mail,' he emphasises.
+Mr Gray is convinced of the benefits of systematic database marketing, and
+sees it as part of his job to convince the world at large of its benefits -
+'the DMA is not interested in junk mail. We intend to advise and negotiate
+with Whitehall, Westminster, and Brussels in order to position our industry
+in its most favourable light, to win favour with the Great British Public.'
+The unrequested but perfectly targeted missive should find a welcome on your
+doormat, he argues. It could, after all, be offering you just what you
+always wanted.
+Forthcoming event: Softworld in Sales and Marketing: November 17-18, 1992 at
+Heathrow Penta, (directory available); tel: Interactive Exhibitions in
+London, 081 541 5040.
+Contact: AIMS, PO Box 1508 Maidenhead, Berks., SL6 4RX; tel. 0628 778846.
+Direct Marketing Association (UK), c/o Jeg Gray, tel. 071 321 2525.

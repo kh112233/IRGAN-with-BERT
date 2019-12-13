@@ -1,0 +1,325 @@
+CSO 
+
+<F P=106> [Article by Minoru Hosaka, Fuel Cell Development Department, </F>
+Ishikawajima-Harima Heavy Industries Co.] 
+  [Text] 
+<H5>  1. Introduction </H5>
+  The 1990 mid-term report of the Electric Power Industry 
+Council's Supply and Demand Section says that the current power 
+situation is heading toward the actualization of conditions that 
+will put constraints on electric power supply and demand. 
+Fearing future critical supply-and-demand stringencies if the 
+situation continues as is, the report points to the introduction 
+of 5,700,000 kW of electricity by 2010 from distributed sources 
+centering around new energies. In this scenario, there is 
+progress in the development of fuel cells, which are noted for 
+being the fourth kind of electric power generation. In 
+particular, there are great expectations for molten carbonate 
+fuel cells (MCFCs). 
+  MCFCs are now at a level where 100-kW batteries are being 
+tested. The development of fuel cells requires technologies that 
+have to do with carbonate chemistry, high-temperature 
+structures, heat transfer and flow, electrochemistry, and metal 
+and ceramic materials. This article, however, as a special 
+article on liquid chemistry, introduces the principles of fuel 
+cells, centering on the technology used in dealing with MCFC 
+liquids, and the state of MCFC development at 
+Ishikawajima-Harima Heavy Industries. 
+<H5>  2. MCFC Features </H5>
+  The most important features of fuel cells are their high 
+efficiency and that they are environmentally clean. 
+  As with thermal power generation, fuel cells use fossil 
+fuels, but in contrast to thermal power generation, which 
+produces electrical energy by burning fuel to move thermal 
+machinery, fuel cells convert the chemical energy of the fuel 
+directly into electrical energy in an electrochemical reaction. 
+For that reason fuel cells are not subject to Carnot efficiency 
+limits, and, ideally, all of the free energy conversion in the 
+reaction can be converted into work. The energy that can be 
+converted into work by the reaction of the fuel and oxygen is 
+very high -- about 80% of the energy produced by 
+combustion. 
+When current is produced with a fuel cell, the efficiency drops 
+because of the loss due to the internal resistance, gas 
+diffusion, and so forth, but even so a high power generation 
+efficiency of 40-60% is obtained with a fuel cell. 
+Furthermore, 
+because the 700C heat discharge from an MCFC can be 
+utilized, the use of MCFCs in urban cogeneration (heat and 
+electricity supply) systems is anticipated. In that case, the 
+overall thermal efficiency can be raised to 80%. 
+  Because fuel cells do not burn fuel, they generate hardly 
+any 
+of the atmospheric pollutants, such as oxides of nitrogens, that 
+are produced when fuel is burned at high temperatures. In 
+addition, by using the water that results from fuel-cell power 
+generation, systems that consume hardly any water can be set up. 
+Furthermore, fuel cells are not moving machines, like turbines, 
+so they generate little noise. That fact points to why fuel-cell 
+power plants are not subject to site restrictions in urban areas. 
+<H5>  3. Principles of an MCFC </H5>
+<H5>  3.1 Basic Electrode Reaction </H5>
+  When two electrodes are placed in water (the electrolyte) 
+and 
+a current flows between them, the electrolysis reaction results 
+in the generation of hydrogen gas from one electrode and oxygen 
+gas from the other. In a fuel cell, however, by having the 
+reaction gases flow to the electrodes instead, direct current is 
+generated between the electrodes. The fuel cell will continue to 
+generate power as long as the reaction gas continues to be 
+supplied. Figure 1 shows the principles of an MCFC. By supplying 
+oxygen (air) and carbon dioxide in the cathode (air electrode) 
+passage, an electrochemical reaction occurs at the cathode and 
+carbonate ions form in the electrolyte. On the other hand, fuel 
+supplied in the anode (the fuel electrode) passage undergoes an 
+electrochemical reaction with the carbonate ions in the 
+electrolyte to produce water vapor and carbon dioxide. Supplying 
+the carbon dioxide produced at the anode to the cathode side 
+results in an overall reaction in which the fuel and oxygen 
+react to form water and carbon dioxide gas. At that time, a 
+potential difference occurs between the cathode and anode, fuel 
+and oxygen are consumed in the electrochemical reaction, and 
+power is generated. 
+
+<FIG ID=JPRS-JST-020L-16A>      Figure 1. Principles of an MCFC </FIG>
+
+
+<H5>  3.2 Basic Structure of the Fuel Cell </H5>
+  Figure 2 shows the basic structure of the fuel cell. The 
+main 
+structural components are the anode, cathode, electrolytic plate 
+(also called a tile, it is a porous ceramic soaked with 
+electrolyte), and a separator. This one set is called a single 
+cell. The electrolytic plate is between two separators that use 
+gas seals, called wet seals, which increase the liquid-retaining 
+power in a wet state. We set up a device that squeezes the 
+layered cells all together so that the wet seal and the 
+components make good contact with each other. 
+
+<FIG ID=JPRS-JST-020L-16C>      Figure 2. Basic Structure of the Fuel Cell </FIG>
+
+
+  Table 1 gives the specifications for the main components. 
+Next, I will point out the features of each component. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 1. Main Component Specifications                                       | 
+------------------------------------------------------------------------------- 
+|Anode                                 |Material: Ni base (Cr, Al) added      | 
+------------------------------------------------------------------------------- 
+|Average pore diameter: 3-6 m     |                                      | 
+------------------------------------------------------------------------------- 
+|Porosity: 55-70|                                      | 
+------------------------------------------------------------------------------- 
+|Cathode                               |Material: NiO (Ca, Mg) added          | 
+------------------------------------------------------------------------------- 
+|Average pore diameter: 6-10 m    |                                      | 
+------------------------------------------------------------------------------- 
+|Porosity: 70-80(before oxidation)   |                                      | 
+------------------------------------------------------------------------------- 
+|Electrolytic plate                    |Retaining material: LiAlO[.sub]2[/] | 
+------------------------------------------------------------------------------- 
+|Electrolyte: (Li, K)[.sub]2[/]CO    |                                      | 
+|[.sub]3[/]                          |                                      | 
+------------------------------------------------------------------------------- 
+|Average pore diameter: 0.2-0.4 m |                                      | 
+------------------------------------------------------------------------------- 
+|Porosity: 50-60(before oxidation)   |                                      | 
+------------------------------------------------------------------------------- 
+|Separator                             |Materials: anode side, Ni             | 
+------------------------------------------------------------------------------- 
+|cathode side, SUS316L and SUS310S     |                                      | 
+------------------------------------------------------------------------------- 
+|Wet seal: aluminized                  |                                      | 
+------------------------------------------------------------------------------- 
+
+
+<H5>  3.2.1 The Electrodes </H5>
+  The anode is a sintered compact of nickel powder. Because it 
+is a porous metal, as shown in Figure 3, creep at high 
+temperatures and changes in the fine structure due to the 
+sintering become problems. However, we added Cr and Al to 
+prevent creep and got a good electrode that changes very little 
+over time. The cathode is a porous sintered plate of nickel 
+oxide. The conductivity of the material holds up sufficiently 
+during use because we doped it with lithium. When the partial 
+pressure of the carbon dioxide increases in the cathode gas 
+atmosphere, the cathode solves out into the electrolytic plate, 
+which in turn can cause an electrical short between the anode 
+and cathode. To keep that from happening, we added a third 
+substance to decrease the solubility of the material's surface; 
+during operation, the fuel cell is run with the carbon dioxide's 
+partial pressure lowered. 
+
+<FIG ID=JPRS-JST-020L-16D>      Figure 3. Microscopic Photograph of Anode </FIG>
+
+
+<H5>  3.2.2 The Electrolytic Plate </H5>
+  The electrolytic plate is a porous sheet made of 
+LiAlO[.sub]2[/] powder (the electrolyte-retaining material) 
+that is soaked with a dissolved carbonate, which is the 
+electrolyte. Li[.sub]2[/]CO[.sub]3[/] and 
+K[.sub]2[/]CO[.sub]3[/], both of which have a melting 
+point of about 490C, are mainly used for the carbonate. In 
+order to prevent combustion that is caused by air and fuel 
+mixing in the cell and to keep the reaction gases from leaking 
+outside of the cell, we made the pores of the electrolytic plate 
+between the cathode and anode small, i.e., with sub-micron 
+diameters, and increased the liquid-retaining power of the plate 
+by means of capillary tube forces so that the pores are almost 
+completely filled with electrolyte. While the electrolytic plate 
+is ceramic, metal is used for the separator material. During 
+heat cycling, cracks due to the thermal stress appeared in the 
+electrolytic plate. To solve that, however, we increased the 
+strength by mixing coarse particles and fiber into the 
+electrolytic plate. The stability of the LiAlO[.sub]2[/] 
+powder when it is soaked with electrolyte, which was an issue, 
+is improved by controlling the surface properties of the powder 
+and the phase state of the material. 
+<H5>  3.2.3 The Separator </H5>
+  The separator plays three roles: it separates the cathode 
+gas 
+from the anode gas, supplies reaction gases to all of the 
+electrode surfaces, and acts as a conductor that connects the 
+layers of cells. Because a molten salt is used, the surface of 
+the wet seal that is wet with electrolyte and the anode passage 
+are in a severely corrosive environment. For the wet seal, we 
+can keep the corrosion down to a permissible range by 
+aluminizing it. Of the various aluminizing methods, slurry 
+coating, plating, and flame coating are methods that can be used 
+for large-scale separators. The metals used in the passages and 
+the diaphragm must exhibit corrosion resistance in both the 
+atmospheres on the anode and cathode sides. We solved the 
+corrosion problem by using nickel on the anode side and 
+copper-clad stainless steel on the cathode side. 
+<H5>  3.3 Electrolyte Liquid Control Technique </H5>
+  A layered body of materials with different pore diameters 
+achieves a balance of forces due to the capillary tube forces, 
+as shown in Figure 4. The relation describing that balance in 
+the fuel cell is 
+<FIG ID=JPRS-JST-020L-17A>      Equation </FIG>
+
+  where p is the gas pressure, d is the pore diameter, _s_ 
+is 
+the surface tension, _r_ is the electrolyte density, h is the 
+height of the liquid, _th_ is the leakage angle, a indicates 
+the 
+anode side, and c indicates the cathode side. A porous material 
+has a pore diameter distribution, and a typical fine structure 
+consisting of the basic components of the fuel cell, i.e., the 
+anode, cathode, and electrolytic plate, is like that shown in 
+Figure 5. The electrolyte liquid soaks in from where the pore 
+diameters are small to the diameter that corresponds to the 
+filling amount, then the parts where the pore diameters are 
+larger than that become a gas space and do not fill up with 
+electrolyte. This balance arises even in layers of porous 
+materials. Figure 6 is a conceptual diagram of electrolyte 
+soaking states. The electrode reaction occurs between the 
+reaction gases, ions, and electrons. To bring out the 
+performance of the fuel cell, the appropriate amount of 
+electrolyte must soak into the electrode vacancy areas that are 
+porous, and three interfaces -- between the reaction gases, the 
+electron-conducting electrodes, and the ion-conducting 
+electrolyte -- must form adequately. In addition, because the 
+electrolyte dissipates due to leakage, corrosion, and 
+vaporization during operation, the amount of that dissipation 
+must be taken into account when initially filling the electrodes 
+with electrolyte. The fine structure of the electrodes and the 
+electrolytic plate and the amount of electrolyte are determined 
+in such a way that as those functions are fulfilled. 
+
+
+
+<FIG ID=JPRS-JST-020L-17B>      Figure 4. Balance of Forces due to Capillary Tube </FIG>
+
+
+
+<FIG ID=JPRS-JST-020L-17C>       Figure 5. Pore Diameter Distribution and Carbonate </FIG>
+
+
+
+
+
+<FIG ID=JPRS-JST-020L-18A>      Figure 6. Model of Electrodes Soaked with </FIG>
+
+
+<H5>   4. State of Development, and Topics </H5>
+<H5>  4.1 Power Generation Characteristics </H5>
+  Like dry batteries, the lower the voltage obtained from a 
+fuel cell, the larger the current that is produced. The voltage 
+increases along with an increase in the process gas pressure, so 
+higher efficiency and more compact piping are considered in 
+planning the operation of large-scale power plants under 
+pressurized conditions. Figure 7 shows the performance of a 
+10-kW stack under pressure; the stack consists of 10 layers of 
+cells with 1-m[.sup]2[/] electrodes. An output of 12 kW is 
+obtained with an operating pressure of 7 atmospheres and a load 
+current of 1500 A. As for larger-scale fuel cells, we are now 
+testing the kind of 100-kW fuel cell shown in Figure 8, which 
+has 50 1-m[.sup]2[/] cell layers above and below an 
+intermediate holder. 
+
+<FIG ID=JPRS-JST-020L-18B>      Figure 7. Characteristics of 1-m[.sup]2[/] X 10 Cell </FIG>
+
+
+<FIG ID=JPRS-JST-020L-18C>      Figure 8. 100-kW Fuel Cell </FIG>
+
+
+  A fuel cell lifetime ranging from 25,000 hours to 40,000 
+hours, depending on the system, is said to be cost effective. 
+Now, 10,000 hours of operation can be had with a kW-class fuel 
+cell stack, which offsets the cost by just a hair's breadth. 
+Figure 9 shows the relationship between the rate of a fuel 
+cell's deterioration and the amount of electrolyte dissipation. 
+The amount of electrolyte dissipation needs to be reduced 
+further to lengthen the lifetime of fuel cells. We are pouring 
+our effort into increasing the carbonate-retaining power by 
+reducing the average pore diameters in the fine structure of the 
+electrolytic plate, and preventing carbonate loss by reducing 
+the separator's wet area. 
+
+<FIG ID=JPRS-JST-020L-18D>      Figure 9. Amount of Electrolyte Dissipation and </FIG>
+
+
+<H5>  4.2 Production Techniques </H5>
+  At first we produced the electrolytic plate by mixing the 
+retaining material powder with the electrolyte powder, then 
+putting that into a mold and pressing it at a temperature very 
+close to that of the electrolyte's melting point. With the 
+hot-press method, however, larger-scale plates were difficult to 
+make. Now we make the electrolytic plates by means of a 
+tape-forming method with a doctor blade, which is used in making 
+ceramic sheets. The doctor blade method is a way of using a 
+doctor blade to thinly coat a film with a slurry consisting of 
+the material powder mixed with a solvent, binding agent, and a 
+dispersing agent to get the appropriate viscosity. The doctor 
+blade method makes possible the production of large-scale, thin, 
+uniform electrolytic plates by means of a tape-forming device. 
+(The tape made by the tape forming is called a green tape.) Now, 
+1-m[.sup]2[/]-class electrolytic plates are formed 
+continuously. The electrodes are made by the same method, but, 
+the electrodes are baked before they are incorporated into the 
+fuel cell whereas the electrolytic plate is left as a tape. 
+  The component parts of the separator are made from a thin 
+plate, the objective of which is to make them all compact, but 
+the number of parts is large and the processing is difficult. We 
+are now investigating separators that are press-formed from thin 
+plates, which may enable mass production. 
+<H5>  5. Conclusion </H5>
+  Under the New Sunshine Project, we were commissioned by the 
+New Energy and Industrial Technology Development Organization 
+(NEDO) to develop an MCFC. We are now at the stage of testing a 
+100-kW MCFC. In parallel with that effort, we are aiming for 
+commercialization in our research to develop lower-cost 
+separators and our investigations of a MW-class plant as an MCFC 
+demonstration plant after the 100-kW tests conclude. The 
+American Public Power Association in the U.S. also chose the 
+MCFC from the various types of fuel cells, and the Energy 
+Research Corporation has embarked on the development of a 2-MW 
+MCFC. In Europe, too, development efforts have gained momentum. 
+  We want to work toward reliability improvements and cost 
+reduction in order to put the MCFC out in the world. Look 
+forward to future developments. 
+

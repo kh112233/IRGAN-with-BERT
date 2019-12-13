@@ -1,0 +1,1800 @@
+Language: <F P=105> Russian </F>
+Article Type:CSO 
+
+<F P=106> [Article by USSR State Committee for Safety in Industry and </F>
+Atomic Power Industry; approved by Resolution No. 7 of the USSR 
+State Committee for Safety in Industry and Atomic Power Industry 
+of 12 Jun 90; effective 1 Sep 90; coordinated with the USSR 
+Ministry of Atomic Energy and Industry and USSR Civil Defense] 
+  [Text]Contents 
+  List of Abbreviations Principal Definitions 1. 
+Principal Premises 2. Requirements for Ensuring Nuclear 
+Safety Imposed on the Reactor and Reactor Plant Systems Crucial 
+for Safety 2.1. General Requirements 2.2. 
+Requirements for the Core and its Structural Members 2.3. 
+Requirements for the Reactivity Control System of the 
+Reactor 2.3.1. General Requirements 2.3.2. Emergency 
+Reactor Protection System Requirements 2.3.3. Requirements 
+for Monitoring and Controlling the Neutron Flux and 
+Reactivity 2.4. Requirements for the Reactor Plant 
+Monitoring and Control Systems 2.5. Requirements for the 
+Primary Circuit of the Reactor Plant 2.6. Requirements for the 
+Emergency Reactor Cool-Down Systems 2.7. Requirements for 
+the Recharging Procedures and Devices 2.7.1. Requirements 
+for the Charging Procedures 2.7.2. Requirements for the 
+Recharging Devices 3. Requirements for Ensuring Nuclear 
+Safety During Reactor Plant Operation 4. State Oversight 
+and Monitoring of Adherence to the Rules and Responsibility for 
+Their Violation Appendix: Additional Safety Requirements 
+for Nuclear Stations with Most Common Types of Reactor Plants in 
+the USSR 
+List of Abbreviations 
+  AZ--Emergency reactor protection system AS--Nuclear station 
+BShchU--Generating-unit control panel OPB--General rules for 
+ensuring nuclear station safety (regulatory technical manual) 
+PZ--Preventive protection system RU--Reactor plant detail design 
+RShchU--Back-up control panel SUZ--Reactivity control systems of 
+the reactor TVS--Fuel assembly TVEL--Fuel element TOB--Safety 
+feasibility analysis 
+Principal Definitions 
+  1. EMERGENCY REACTOR PROTECTION SYSTEM--Safety function 
+amounting to rapidly switching the reactor core to the 
+subcritical condition and maintaining it in the subcritical 
+state; a complex of safety systems which execute the emergency 
+reactor protection system function. 
+  2. EMERGENCY SITUATION[.sup]1[/]--Nuclear station 
+condition characterized by violation of the limits and/or safe 
+operation conditions which has not evolved into an accident. 
+  3. NUCLEAR STATION MANAGEMENT 
+PERSONNEL[.sup]2[/]--Management officials to whom the 
+authority is delegated and who have the obligation as well as 
+the responsibility for the nuclear power station operation. 
+  4. CORE--A reactor section which houses the nuclear fuel, 
+moderator, absorber, coolant, and the means of controlling 
+reactivity and the structural members intended for executing a 
+controlled nuclear chain reaction and transmitting energy to the 
+coolant. 
+  5. INTERNAL SELF-PROTECTION OF THE REACTOR 
+PLANT[.sup]1[/]--The ability to ensure safety on the basis of 
+natural feedback and processes. 
+  6. GROUP OF REACTOR CONTROL SYSTEM ACTUATORS--One or several 
+reactor control system actuators combined with respect to their 
+control function for the purpose of one-time joint movement. 
+  7. DIAGNOSTICS--Technical monitoring of systems or elements 
+in order to determine and/or predict the possibility of 
+executing the stipulated functions on the basis of given values 
+of parameters or symptoms. 
+  8. OFF-DESIGN ACCIDENT--An accident caused by initial events 
+not taken into account for design emergencies or accompanied by 
+additional failures of safety systems over a one-time failure 
+compared to design emergencies, or by execution of erroneous 
+personnel decisions which may lead to severe damages or core 
+meltdown whose consequences can be alleviated by controlling the 
+accident and/or executing planned measures to protect the 
+personnel and population. 
+  9. EXTRACTION OF REACTIVITY CONTROL FACILITIES--A movement 
+or 
+a change in the conditions of the reactivity control facilities 
+which results in introducing positive reactivity (an 
+introduction of reactivity control facilities leads to an 
+introduction of negative reactivity). 
+  10. ACTUATING MECHANISM OF THE REACTOR CONTROL SYSTEM--A 
+device consisting of an actuator, end effectors, and connecting 
+elements intended for changing the reactor core reactivity. 
+  11. INITIAL EVENT[.sup]1[/]--A one-time failure in power 
+station systems, an external event, or personnel error which 
+lead to disruptions in normal operation and may result in 
+violating the limits and/or safe operation conditions. The 
+initial event incorporates all dependent failures which are its 
+consequences. 
+  12. MONITORING CHANNEL--A combination of transducers, 
+transmission lines, and signal processing and/or parameter 
+display facilities intended for ensuring monitoring on a scale 
+specified by the design. 
+  13. SYSTEM CHANNEL[.sup]1[/]--A part of the system 
+executing the function of the system on a scale stipulated by 
+the design. 
+  14. EMERGENCY REACTOR CONTROL SYSTEM EQUIPMENT SET--A part 
+of 
+emergency reactor protection system which executes the reactor 
+protection system functions on a scale stipulated by the reactor 
+plant design. 
+  15. MONITORING--Collection, processing, and transmission of 
+signals for display to the personnel and/or to control devices 
+in accordance with the values of the process parameters or the 
+reactor plant equipment status. 
+  16. SAFETY CONDITIONS WITH HIGH 
+STANDARDS[.sup]1[/]--Professional and psychological 
+preparedness of all persons at which the guarantee of nuclear 
+station safety is a high-priority goal and internal demand which 
+leads to conscious responsibility and self-control in executing 
+all operations affecting safety. 
+  17. LOCALIZED CRITICALITY--Criticality reached in a part of 
+the reactor core, nuclear fuel storage, or any other space 
+containing nuclear fissionable materials. 
+  18. MAXIMUM REACTIVITY MARGIN--Reactivity which may be 
+realized in the reactor when all reactivity control systems and 
+other extractable absorbers are removed from the reactor core at 
+the reactor life cycle moment and reactor condition with the 
+maximum value of the effective multiplication factor. 
+  19. DISRUPTION OF NORMAL REACTOR PLANT OPERATION--Reactor 
+plant condition characterized by violation of the operating 
+limits and conditions. 
+  20. INDEPENDENT SYSTEMS OR ELEMENTS[.sup]1[/]--Systems or 
+elements for which failure of a single system or element does 
+not result in the failure of another system or element. 
+  21. NORMAL REACTOR PLANT OPERATION[.sup]2[/]--Reactor 
+plant operation within the operating limits and conditions 
+stipulated by the reactor plant design. 
+  22. PRIMARY CIRCUIT[.sup]2[/]--A circuit together with the 
+pressure equalization system through which coolant circulates in 
+the reactor core at an operating pressure. 
+  The reactor plant's primary circuit ensures heat removal by 
+the coolant from the reactor core under normal operation, 
+departures from normal operation, and design emergencies. 
+  23. REACTOR CORE RECHARGING (RECHARGING)--Nuclear-hazardous 
+operations at the reactor plant involving the charging, 
+extraction, and movement of fuel assemblies or fuel elements, 
+reactivity control facilities, and other elements which control 
+reactivity in order to repair, replace, or dismantle them. 
+  24. CONSEQUENCES OF A REACTOR PLANT EMERGENCY[.sup]2[/]--A 
+radiation environment developing due to a reactor plant accident 
+within the confines of the containment system which leads to 
+losses as a result of exceeding the established limits of staff 
+radiation exposure. 
+  25. SUBCRITICAL CONDITION--Reactor core condition which is 
+characterized by the following: a value of the effective 
+multiplication factor less than unity or an absence of localized 
+criticality. 
+  26. LIMITS OF SAFE REACTOR PLANT OPERATION[.sup]2[/]--The 
+values of process parameter values established by the reactor 
+plant design whose violation may lead to an accident. 
+  27. PREVENTIVE PROTECTION SYSTEM--A safety function ensured 
+by the reactor plant reactivity control and monitoring system in 
+order to prevent the emergency reactor protection system 
+operation and/or violation of the safe operation limits and 
+conditions (a total or partial decrease in power, control 
+blocking, or triggering of equipment operation, a check of the 
+preventive protection system settings or operation conditions, 
+generation of preventive protection system signals to personnel, 
+etc.). 
+  28. REACTOR CONTROL SYSTEM ACTUATOR--A device intended for 
+changing the position of the reactor control system's mechanical 
+end effector. 
+  29. PRINCIPLE OF SINGLE FAILURE[.sup]1[/]--A principle 
+according to which the system must execute its specified 
+functions given any initial event requiring its operation or 
+given a failure of one active or passive element having 
+mechanical moving parts, independently from the initial event. 
+  30. INDEPENDENCE PRINCIPLE--A principle of increasing the 
+system reliability by changing the functional and/or physical 
+separation of channels or elements for which failure of one 
+channel or element does not lead to a failure of another channel 
+or element. 
+  31. DIVERSIFICATION PRINCIPLE--A principle of increasing the 
+system reliability by using different facilities and/or similar 
+facilities in different systems (or within the same system but 
+in different channels) based on different operating principles 
+in order to execute a specified function. 
+  32. REDUNDANCY PRINCIPLE--A principle of increasing the 
+system reliability by employing structural, functional, 
+information, and time redundancy relative to the scope which is 
+the minimum necessary and sufficient for the system to execute 
+specified functions. 
+  33. DESIGN ACCIDENT[.sup]2[/]--An emergency for which the 
+reactor plant design defines the initial events and final states 
+of the reactor plant and stipulates control systems which limit 
+its consequences within the limits established for such 
+emergencies allowing for the single failure principle of the 
+safety system or one human error independent from the initial 
+event. 
+  34. DESIGN LIMITS[.sup]2[/]--The values of the system or 
+element parameters or status characteristics and the reactor 
+plant as a whole established by the reactor plant design for 
+normal operation, emergency situations, and accidents. 
+  35. END EFFECTOR OF THE REACTIVITY CONTROL SYSTEM OF THE 
+REACTOR--A reactivity control facility employed by the reactor 
+control system. 
+  36. END EFFECTOR OF THE EMERGENCY REACTOR PROTECTION 
+SYSTEM--A reactivity control facility used in the emergency 
+reactor protection system. 
+  37. REACTOR--A device for executing a controlled nuclear 
+chain reaction in order to generate thermal energy. 
+  38. REACTOR PLANT[.sup]2[/]--A complex of nuclear station 
+systems and elements intended for converting nuclear power into 
+thermal power which includes the reactor and the systems 
+directly related to it which are necessary for its normal 
+operation, emergency cool-down, emergency protection, and 
+maintenance of safe conditions provided that the required 
+auxiliary and supporting functions are being executed by other 
+station systems. The reactor plant boundaries are set by the 
+chief designer of the reactor plant, the chief developer, and 
+scientific supervisor and are submitted together with the detail 
+reactor plant design. 
+  39. EMERGENCY REACTOR PROTECTION SYSTEM SIGNAL--A signal 
+generated in the emergency reactor protection system equipment 
+set in order to trigger the emergency reactor protection system 
+actuators; the signal enters the recording facilities as well as 
+the generating-unit control panel and back-up control panel for 
+notifying the personnel. 
+  40. PREVENTIVE PROTECTION SYSTEM SIGNAL--A signal generated 
+and recorded by the control and monitoring systems for 
+triggering the preventive protection functions and notifying the 
+personnel about the possibility of a depature from normal 
+operation. 
+  41. SYSTEM[.sup]1[/]--A combination of elements intended 
+for executing specified functions. 
+  42. SAFETY SYSTEMS OR ELEMENTS[.sup]1[/]--Systems or 
+elements intended for executing safety functions. 
+  43. OPERATOR INFORMATION SUPPORT SYSTEM--A system intended 
+for monitoring, analyzing, and predicting the conditions and 
+formulating recommendations for controlling the reactor plant 
+and checking the operator actions. 
+  44. REACTOR SHUTDOWN SYSTEMS--Systems intended for 
+transferring the reactor core to the subcritical condition and 
+maintaining it in the subcritical state with the help of 
+reactivity control facilities. 
+  45. REACTIVITY CONTROL SYSTEMS OF THE REACTOR--A combination 
+of hardware, software, and data base support systems intended 
+for ensuring safe course of the chain reaction. 
+  The reactor control systems are systems which are crucial 
+for 
+safety and combine the functions of normal operation and safety; 
+they consist of elements of control and monitoring systems and 
+protective, controlling, and supporting safety systems. 
+  46. REACTOR PLANT SYSTEMS OR ELEMENTS CRUCIAL FOR 
+SAFETY[.sup]2[/]--Safety systems or elements as well as 
+normal operation systems or elements whose failure impairs 
+normal operation of the reactor plant and may lead to design and 
+off-design accidents. 
+  47. REACTOR PLANT CONTROL AND MONITORING SYSTEMS OR 
+ELEMENTS[.sup]2[/]--Systems or elements intended for 
+monitoring and controlling normal reactor plant operation 
+systems. 
+  48. NORMAL OPERATION SYSTEMS OR 
+ELEMENTS[.sup]1[/]--Systems or elements intended for 
+executing normal operation. 
+  49. REACTIVITY CONTROL FACILITIES--Engineering facilities 
+realized in the form of solid, liquid, or gaseous absorbers or 
+moderators and reflectors whose position or conditions within 
+the reactor core or reflector is changed in order to ensure a 
+change in the reactor core reactivity. 
+  50. FUEL ASSEMBLY--An assembly of fuel elements intended for 
+charging, discharging, and placement in the reactor core. 
+  51. FUEL ELEMENT (TVEL)--An individual assembly unit with 
+nuclear fuel positioned in the reactor core which ensures 
+generation of thermal energy, accumulation of fission materials, 
+and secondary nuclear fuel. 
+  52. SPECIFIC THRESHOLD FUEL ELEMENT BREAKDOWN ENERGY--Energy 
+released during a short period of time within a unit of nuclear 
+fuel mass with a rapid introduction of reactivity sufficient for 
+destroying the fuel element. 
+  53. INDICATOR OF THE WORKING POSITION OF THE REACTIVITY 
+CONTROL SYSTEM ACTUATOR--A device for determining the position 
+of the end effector of the reactivity control system of the 
+reactor in the core. 
+  54. OFF-DESIGN ACCIDENT CONTROL[.sup]1[/]--Actions aimed 
+at preventing the design accidents from developing into 
+off-design accidents and at alleviating the consequences of 
+off-design emergencies. Any available serviceable engineering 
+facility intended for normal operation or for ensuring safety 
+under design emergencies as well as specifically intended for 
+alleviating the consequences of off-design emergencies can be 
+used for these operations. 
+  55. REACTOR PLANT CONTROL--Bringing the reactor plant to a 
+specified condition and/or maintaining this condition with the 
+help of the facilities specifically intended for this purpose. 
+  56. SAFE OPERATING CONDITIONS[.sup]1[/]--The minimum 
+conditions stipulated by the design for the quantity, 
+characteristics, and serviceability status and maintenance 
+conditions of systems or elements crucial for safety which 
+ensure the adherence to safe operation limits and/or safety 
+criteria. 
+  57. SAFETY FUNCTIONS[.sup]1[/]--A specific concrete 
+objective and actions ensuring its accomplishment aimed at 
+preventing an emergency or limiting its consequences. 
+  58. OPERATING LIMITS[.sup]2[/]--The bounds of parameter 
+values and status characteristics of systems or elements and the 
+reactor plant as a whole specified by the reactor plant design 
+for normal operation. 
+  59. OPERATING CONDITIONS--The conditions stipulated by the 
+design for the quantity, characteristics, serviceability status, 
+and maintenance of the systems or elements crucial for safety 
+under which operating limits are not violated. 
+  60. OPERATING ORGANIZATION[.sup]1[/]--A state enterprise 
+or association or organization set up or appointed by superior 
+government control bodies for executing the activity of the 
+nuclear station at all life cycle stages in selecting the site, 
+designing, building, commissioning, operating, and 
+decommissioning the nuclear station using its own facilities or 
+with the help of other organizations or enterprises which are 
+authorized by state oversight and control bodies to carry out 
+this activity. 
+  61. ELEMENTS[.sup]2[/]--Equipment, instruments, pipelines, 
+cables, building structures, and other products which ensure 
+execution of specified functions independently or within systems 
+and which are treated by the reactor plant design as structural 
+units for the purpose of reliability and safety analyses. 
+  62. NUCLEAR ACCIDENT[.sup]2[/]--An accident involving 
+damage to fuel elements which exceeds the established safe 
+operation limits and/or irradiation of personnel which exceeds 
+permissible limits for normal operation caused by the following 
+factors: a breakdown of nuclear chain reaction monitoring and 
+control in the reactor core; the development of localized 
+criticality during the nuclear fuel recharging, transfer, or 
+storage; and a disruption of heat removal from the fuel elements. 
+  63. NUCLEAR SAFETY--A property of the reactor plant and 
+nuclear station whereby there is a certain probability of 
+preventing the development of nuclear accidents. 
+  64. NUCLEAR-HAZARDOUS OPERATIONS--Operations at the reactor 
+plant which may lead to a nuclear accident. 
+Footnotes 
+  1. Text of definition from OPB-88. 
+  2. The definition reflects the text of OPB-88. 
+  General Premises 
+  1.1. These nuclear safety rules of nuclear station reactor 
+plants--IBYa RU AS (hereinafter referred to as the 
+rules)--extend to all reactor plants of USSR nuclear stations in 
+operation, under construction, and at the design stage. 
+  The necessity, deadlines, and scope of measures for bringing 
+operating reactor plants and reactor plants under construction 
+in conformance with the requirements of the rules herein is 
+established in each specific case by the bodies which approved 
+the rules. 
+  1.2. The rules establish the general requirements imposed on 
+the design, characteristics, and operating conditions of reactor 
+plant systems and elements as well as organizational 
+requirements aimed at ensuring nuclear safety during the design, 
+construction, and operation of reactor plants. 
+  1.3. These rules are mandatory for all ministries, 
+departments, enterprises, and organizations in designing, 
+constructing, and operating nuclear station reactor plants as 
+well as for designing and manufacturing reactor plant elements. 
+  1.4. The rules have been developed allowing for the 
+requirements of the ``General Premises of Ensuring the Nuclear 
+Station Safety'' and other regulatory documents in effect in the 
+USSR as well as the nuclear station design, development, 
+construction, and operation experience. 
+  The rules elaborate on the requirements of OPB-88 with 
+respect to ensuring nuclear safety. 
+  1.5. The reactor plant nuclear safety is determined by the 
+engineering perfection of the designs, the requisite quality of 
+manufacturing, erection, adjustment, and testing of the reactor 
+plant elements and systems crucial for safety, their reliability 
+during operation, status diagnostics, quality and timeliness of 
+equipment servicing, maintenance, and repairs, process control 
+and monitoring during operation, work management, and personnel 
+skill and discipline. 
+  The reactor plant nuclear safety is ensured by a system of 
+technical and organizational measures and is maintained due to 
+the following: 
+  utilizing and developing the properties of internal 
+self-protection; 
+  employing the concept of deeply echeloned protection; 
+  using safety systems developed on the basis of redundancy 
+principles, spatial and functional independence, single failure, 
+etc.; 
+  utilizing reliable and practically tested designs and sound 
+procedures; 
+  adhering to the regulations, standards, rules, and other 
+regulatory and technical nuclear station safety manuals as well 
+as strictly adhering to the requirements incorporated in the 
+nuclear station design; 
+  process stability; 
+  development and implementation of safety practices with high 
+standards; and 
+  a system for ensuring quality at all reactor plant 
+development and operation stages. 
+  1.6. Additions and amendments to the rules may be made on 
+the 
+basis of the decisions made by the bodies which approved and 
+coordinated the rules herein. 
+  2. Nuclear Safety Requirements Imposed on the Reactor and 
+Reactor Plant Systems Crucial for Safety 
+  2.1. General Requirements 
+  2.1.1. The design, construction, and operation of reactor 
+plants as well as the design and manufacturing of reactor plant 
+elements must be characterized by adherence to the requirements 
+of the regulatory and technical manuals in effect in the USSR. 
+  2.1.2. The request for proposal for designing the reactor 
+plant and the reactor plant design draft must be coordinated 
+with the USSR State Committee for Safety in Industry and Atomic 
+Power Industry. Amendments to the composition, design, and/or 
+characteristics of the reactor plant and reactor plant systems 
+crucial for safety as well as amendments to the limits and 
+conditions established by the reactor plant detail design must 
+be coordinated with the USSR State Committee for Safety in 
+Industry and Atomic Power Industry prior to their implementation 
+at the reactor plant. 
+  2.1.3. The detail design of the reactor plant must stipulate 
+the reactor plant systems crucial for safety indicating the 
+safety functions they execute and the principal characteristics, 
+e.g., the functioning sequence, operating conditions, block 
+diagrams, efficiency, monitoring and diagnostics facilities, 
+speed of response, service life, and reliability. 
+  2.1.4. In designing the reactor plant, quality control 
+programs at the design, development, manufacturing, 
+construction, commissioning, and operating stages must be 
+formulated. 
+  2.1.5. The detail design of the reactor plant must stipulate 
+measures for decommissioning the reactor plant while adhering to 
+the requirements of the rules herein. 
+  2.1.6. The following must be stipulated by the reactor plant 
+detail design: 
+  normal operation systems, including reactor plant monitoring 
+and control systems; 
+  safety systems; and 
+  engineering facilities and measures intended for controlling 
+off-design emergencies. 
+  2.1.7. The reactor plant elements or systems crucial for 
+safety must be subjected to monitoring and testing during 
+manufacturing, erection, and adjustments in order to maintain 
+and confirm the design characteristics as well as periodic 
+checks in the course of operation. 
+  The reactor plant detail design must stipulate the fixtures, 
+devices, procedures, and schedules for checking the systems 
+crucial for safety to see whether they correspond to their 
+design characteristics, including comprehensive tests (the 
+signal transmission sequence and duration, including emergency 
+reactor protection system operation, switch-over to emergency 
+power supply sources, execution of safety functions, etc.). 
+  The reactor plant detail design must develop the lists which 
+enumerate reactor plant systems or elements whose serviceability 
+and characteristics are to be checked in operating or shut-down 
+reactors and indicate the conditions of the reactor plant and 
+reactor plant systems crucial for safety. 
+  The inspection devices and procedures should not affect the 
+nuclear station safety. 
+  2.1.8. The principal reactor plant nuclear safety 
+feasibility 
+document for each nuclear station generating unit is the reactor 
+plant detail design section entitled ``Reactor Plant Safety 
+Feasibility Analysis'' which must be developed by the chief 
+designer of the reactor plant and coordinated with the chief 
+developer of the nuclear station and scientific supervisor. 
+  2.1.9. The structure and contents of the reactor plant 
+safety 
+feasibility analysis must correspond to the current regulatory 
+technical manual entitled ``Standard Content and Reactor Plant 
+Safety Feasibility Analysis.'' 
+  2.1.10. The reactor plant safety feasibility analyses and 
+technological regulations of the reactor plant operation which 
+must be coordinated with the scientific supervisor, chief 
+nuclear station developer, and USSR State Committee for Safety 
+in Industry and Atomic Power Industry should be corrected by the 
+chief designer of the reactor plant on the basis of the outcome 
+of physical and power-generating startups as well as operating 
+experience of each nuclear station generating unit. 
+  2.1.11. The reactor plant safety feasibility analysis should 
+demonstrate execution of the requirements of the rules hereunder. 
+  2.1.12. The reactor plant safety feasibility analysis should 
+contain a study of likely failures of systems or elements 
+crucial for safety identifying those failures which are 
+dangerous for the reactor plant and an evaluation of their 
+consequences on the basis of a probabilistic safety analysis. 
+  2.1.13. The reactor plant safety feasibility analysis should 
+contain a list of initial events and an analysis of departures 
+from normal operation, a study of design and off-design 
+emergencies, and a classification of design and off-design 
+accidents based on the probability of their development and the 
+severity of their consequences. Accidents with a severe damage 
+or reactor core meltdown should be considered among off-design 
+emergencies. 
+  In designing the reactor plant, one should strive to ensure 
+that the probability of a severe damage or reactor core meltdown 
+in the case of an off-design emergency does not exceed 
+10[.sup]-5[/] per reactor per year. 
+  2.1.14. The operating limits and conditions, safe operation 
+limits and conditions, and design limits established for design 
+emergencies must be justified and listed in the reactor plant 
+safety feasibility analysis. 
+  2.1.15. Each design emergency or a group of emergencies must 
+be associated in the reactor plant safety feasibility analysis 
+to the design limits for design accidents which should not be 
+exceeded allowing for the operation of safety systems. 
+  2.1.16. The reactor plant safety feasibility analysis should 
+demonstrate that the maximum design fuel element damage limit 
+must not be exceeded for the most severe design accidents. 
+  The design fuel element damage limits for the remaining 
+design accidents should be established by the reactor plant 
+detail design and should have the values lower than the maximum 
+design limit of fuel element damage. 
+  The permissible fuel element damage limits are cited in the 
+appendix entitled ``Additional Nuclear Station Safety 
+Requirements for the Most Common Reactor Plant Types in the 
+USSR.'' For other and newly developed nuclear station reactor 
+plants, additional safety requirements must be coordinated with 
+the USSR State Committee for Safety in Industry and Atomic Power 
+Industry. 
+  2.1.17. The reactor plant detail design must contain a 
+list of nuclear-hazardous operations. 
+  2.1.18. The reactor plant safety feasibility analysis must 
+contain the lists of procedures and programs used for justifying 
+safety and indicate their applications. The programs used must 
+be certified. 
+  2.2. Requirements for the Reactor Core and Its Structural 
+Members 
+  2.2.1. The reactor plant design and operating regulations 
+must ensure that operating limits of fuel element damage are not 
+exceeded during normal operation. 
+  2.2.2. The core must be designed so that any change in 
+reactivity under normal operation, departures from normal 
+operation, and design emergencies does not lead to violation of 
+the corresponding fuel element damage limits. 
+  The requirements for reactivity coefficients are summarized 
+in the appendix. 
+  2.2.3. The reactor plant detail design must demonstrate that 
+given design emergencies related to a rapid increase in 
+reactivity, the specific threshold fuel element breakdown energy 
+at each reactor life cycle point is not exceeded, and fuel 
+meltdown is impossible, while for off-design emergencies, the 
+conditions under which fuel meltdown and/or excess over the 
+specific threshold fuel element breakdown energy is possible 
+must be enumerated. 
+  2.2.4. The reactor plant detail design must establish a 
+correspondence between the fuel element damage limits and the 
+primary circuit coolant activity for benchmark isotopes. In so 
+doing, the requirements for the coolant purification systems 
+must be taken into account. 
+  2.2.5. An analysis of the thermal engineering reliability of 
+the reactor core with a feasibility study of the sufficiency of 
+the margins stipulated by the reactor plant detail design must 
+be carried out in the reactor plant detail design in order to 
+justify the execution of the requirements for not exceeding the 
+safe operating limits with respect to the fuel element damage. 
+  2.2.6. The reactor core must be designed and manufactured in 
+such a way that given normal operation, departures from normal 
+operation, and design emergencies, the corresponding fuel 
+element damage limits are not exceeded allowing for the 
+following: 
+A. the design number of conditions and their design course; 
+thermal, mechanical, and radiation-induced deformation of the 
+core components; 
+B. physical and chemical interaction of the core materials; 
+C. limiting values of thermal engineering parameters; 
+D. vibration and thermal cycling, fatigue, and aging of 
+materials; 
+E. effect of the coolant impurities and fission products on 
+the fuel element cladding corrosion; and 
+F. the effect of radiation and other factors which worsen the 
+mechanical characteristics of the core materials and the 
+integrity of the fuel element cladding. 
+  2.2.7. The reactor plant detail design must justify and 
+technically ensure the possibility of discharging the core and 
+its components after the design emergency. 
+  2.2.8. The core and actuating mechanisms of the reactivity 
+control system of the reactor must be designed so as to 
+eliminate jamming, ejection of end effectors, or their 
+spontaneous decoupling from the reactor control system actuators. 
+  2.2.9. The reactor plant detail design must demonstrate that 
+given an unforeseen movement of the most effective end effector 
+of the reactivity control system or a group of end effectors, 
+the safe operation limits are not exceeded with respect to the 
+fuel element damage allowing for the emergency reactor 
+protection system operation without one of the most effective 
+end effectors of the emergency reactor protection system. 
+  2.2.10. Given normal operation, departures from normal 
+operation, and design emergencies, the possibility of unforeseen 
+movements and/or deformation of the core elements resulting in 
+an increase in reactivity and deterioration of the heat removal 
+conditions leading to a fuel element damage above and beyond the 
+corresponding design limits must be ruled out. 
+  2.2.11. The core and reactivity control facility 
+characteristics must ensure that introduction of the reactivity 
+control facilities into the core and/or reflector for any 
+combination of their arrangement under normal operation, 
+departures from normal operation, and design emergencies ensures 
+introduction of negative reactivity at any section of their 
+movement path. 
+  2.2.12. The fuel assembly design must ensure that the change 
+in the shape of fuel elements and other fuel assembly elements 
+possible under normal operations, departures from normal 
+operation, and design emergencies does not result in blocking 
+the fuel assembly flow section leading to a fuel element damage 
+above the corresponding limits and does not prevent normal 
+functioning of the end effectors of the reactivity control 
+system of the reactor. 
+  2.2.13. The fuel assembly design must have distinguishing 
+marks which characterize the fuel enrichment in the fuel 
+elements and are distinguished visually and/or with the help of 
+recharging devices. 
+  2.2.14. Fuel elements with a varying degree of enrichment, 
+special burnable poisons, fuel elements with burnable poison in 
+the fuel, fuel elements with mixed fuel, etc., must have 
+distinguishing marks which can be distinguished visually and/or 
+with the help of commercial monitoring facilities during the 
+fuel assembly fabrication. 
+  2.3. Requirements for Reactor Control Systems 
+  2.3.1. General Requirements 
+  2.3.1.1. The reactor plant must contain reactivity control 
+systems of the reactor intended for the following purposes: 
+  controlling the reactor plant reactivity and power; 
+  monitoring the neutron flux density, the rate of its change, 
+and the process parameters necessary for protection, reactivity 
+control, and reactor plant power control; and 
+  switching the reactor core to the subcritical state and 
+maintaining it in the subcritical state. 
+  2.3.1.2. The makeup, structure, characteristics, and 
+operating sequence of the reactivity control system must be 
+substantiated in the reactor plant detail design. The reactor 
+plant detail design must contain a quantitative reliability 
+analysis which should demonstrate that the reactivity control 
+system reliability indicators meet the requirements of the 
+relevant regulatory documents. 
+  2.3.1.3. The reactor plant detail design must contain an 
+analysis of the reactivity control system response to external 
+and internal factors (e.g., fires, flooding, induced 
+electromagnetic fields, etc.), to likely faults (short circuits, 
+a loss in insulation quality, voltage drops and induced voltage, 
+false operations, loss of control, etc.) which demonstrate the 
+absence of reactions dangerous to the reactor plant. 
+  Should reactions dangerous to the reactor plant develop 
+during its operation, the reactor plant must be shut down, and 
+engineering measures must be taken for eliminating them and 
+making relevant amendments to the reactor plant detail design in 
+an established fashion. 
+  2.3.1.4. The reactor plant detail design must stipulate at 
+least two reactor shutdown systems, each of which must be 
+capable of ensuring independently of each other the reactor core 
+switch-over to the subcritical condition and maintaining it in 
+the subcritical state allowing for the single failure or human 
+error principle. 
+  In designing these systems, it is necessary to adhere to the 
+principles of diversification, independence, and redundancy. 
+  2.3.1.5. At least one of the reactor shutdown systems which 
+does not perform the emergency reactor protection function 
+during normal operation, departures from normal operation, and 
+design emergencies must be characterized by the following: 
+  an efficiency sufficient for switching the reactor core to 
+the subcritical state and maintaining the subcritical state 
+allowing for a likely release of reactivity; and 
+  a speed of response sufficient for switching the reactor 
+core 
+to the subcritical state without violating the design fuel 
+element damage limits established for design emergencies 
+allowing for the operation of the emergency reactor core 
+cool-down systems. 
+  2.3.1.6. The number, effectiveness, position, and makeup of 
+groups, operating positions, and sequence and velocity of the 
+reactor control system end effectors including the emergency 
+reactor protection system end effectors as well as the number of 
+reactivity control system actuators must be determined and 
+substantiated in the reactor plant detail design. 
+  2.3.1.7. The reactor plant detail design must define and 
+substantiate the conditions for testing, substituting, and 
+decommissioning for repairs the reactivity control system end 
+effectors and their actuators and other reactivity control 
+facilities. 
+  2.3.1.8. All mechanical end effectors of the reactivity 
+control system must have indicators of intermediate positions, 
+end position signaling indicators, and limit switches which, if 
+possible, are triggered directly by the end effector. Other 
+reactivity control facilities should also be supplied with 
+status indicators. 
+  2.3.1.9. In the case where the reactor plant detail design 
+stipulates the use of an auxiliary (in addition to the regular 
+one) reactivity control system during the first physical 
+startup, this system must meet the requirements stipulated in 
+Section 2.3 herein. 
+  2.3.2. Requirements for the Emergency Reactor Protection 
+System 
+  2.3.2.1. At least one of the stipulated reactor shutdown 
+systems must perform the emergency reactor protection system 
+function. 
+  2.3.2.2. The reactor plant detail design must demonstrate 
+that the end effectors of the emergency reactor protection 
+system without one most effective end effector are characterized 
+by the following: 
+  a response speed sufficient for switching the reactor core 
+to 
+the subcritical state without violating the safe operation 
+limits and with departures from normal operation; and 
+  an effectiveness sufficient for switching the reactor core 
+to 
+the subcritical state and maintaining it in the subcritical 
+state given departures from normal operation and design 
+emergencies. In the case where the emergency reactor protection 
+system efficiency is not sufficient for maintaining the reactor 
+core in the subcritical state for an extended period, automatic 
+engagement of another (other) reactor shutdown system (systems) 
+whose effectiveness is sufficient for maintaining the reactor 
+core in the subcritical state allowing for a possible release of 
+reactivity must be stipulated. 
+  2.3.2.3. The emergency reactor protection system must have 
+at 
+least two independent groups of end effectors. 
+  2.3.2.4. The emergency reactor protection system must be 
+designed so as to ensure that the protection response already in 
+progress is executed fully and the requirements of Paragraph 
+2.3.2.2 herein are taken into account and that execution of the 
+emergency reactor protection system function is monitored. 
+  2.3.2.5. The reactor plant detail design must stipulate the 
+sequence for determining and eliminating the reasons for the 
+emergency reactor protection system operation as well as the 
+operating sequence of operating personnel in restoring the 
+normal condition of the reactor plant after the emergency 
+reactor protection system operation. 
+  2.3.2.6. Upon an emergency reactor protection system signal, 
+the emergency reactor protection system actuators must be 
+engaged from any operating or intermediate position. 
+  2.3.2.7. Introduction of positive reactivity by the 
+reactivity control facilities stipulated by the reactor plant 
+detail design must be ruled out if the emergency reactor 
+protection system end effectors are not cocked to the operating 
+position. The operating position of the emergency reactor 
+protection system end effectors and the sequence of their 
+retraction should be stipulated in the reactor plant detail 
+design. 
+  2.3.2.8. When the normal operation and emergency reactor 
+protection system functions are combined by the reactivity 
+control facilities, the reactor plant detail design must 
+enumerate and substantiate the sequence of their actions. In so 
+doing, the priority ranking of the emergency reactor protection 
+system functioning must be ensured. 
+  2.3.2.9. The emergency reactor protection system equipment 
+must consist of at least two independent sets. 
+  2.3.2.10. Each set of emergency reactor protection system 
+equipment must be designed so as to guarantee that protection is 
+ensured without the entire range of neutron flux variation from 
+10[.sup]-7[/]% to 120% of the nominal value with 
+respect to 
+the following: 
+  by at least three independent channels for the neutron flux 
+density level; and 
+  by at least three independent channels by the rate of 
+increase in the neutron flux density. 
+  2.3.2.11. In the case where the neutron flux density 
+measurement range is divided into several sub-bands, it is 
+necessary to ensure that the sub-bands overlap within at least 
+one decimal order of magnitude, and automatic sub-band 
+switch-over must be ensured. 
+  The design must provide for the possibility of connecting a 
+recording device to each neutron flux density monitoring channel. 
+  2.3.2.12. Each emergency reactor protection system equipment 
+set must be designed so that the emergency reactor protection 
+system is ensured by at least three independent channels for 
+each process parameter for which protection must be maintained 
+within the entire design range of reactor plant process 
+parameters. 
+  2.3.2.13. The admissibility of combining in each emergency 
+reactor protection system equipment set the measurement channels 
+of the neutron flux density monitoring with the instrument 
+channels of the rate of increase in the neutron flux parameters 
+must be substantiated in the reactor plant detail design. 
+  2.3.2.14. The emergency reactor protection system must be 
+separated from the monitoring and control system to such an 
+extent that damage or failure of any control or monitoring 
+system elements do not affect the emergency reactor protection 
+system ability to execute its functions. 
+  2.3.2.15. Failure of the data display and recording and 
+diagnostic system elements in the monitoring channel should not 
+affect this channel's ability to execute its functions. 
+  2.3.2.16. The design must provide for the possibility of 
+checking the generation and transmission duration of emergency 
+reactor protection system signals in each channel separately and 
+the emergency reactor protection system equipment set as a whole 
+without the operation of the emergency reactor protection system 
+end effectors. 
+  2.3.2.17. The emergency reactor protection system must 
+provide for automatically monitoring and diagnosing the 
+serviceability of sets and channels while displaying malfunction 
+data and generating emergency reactor protection system signals 
+indicating the failure of channels or sets. 
+  2.3.2.18. The emergency reactor protection system must 
+justify and enumerate the procedures for metrological 
+certification and inspections of emergency reactor protection 
+system equipment. 
+  2.3.2.19. The admissibility and conditions for failure of 
+one 
+set or one channel within the emergency reactor protection 
+system equipment set must be substantiated in the reactor plant 
+detail design (i.e., the duration, reactor plant power level, 
+condition of other sets, etc.). 
+  2.3.2.20. Should one channel in one emergency reactor 
+protection system equipment set fail without failure of the set 
+itself, an emergency signal must be automatically generated for 
+this channel. 
+  2.3.2.21. Each emergency reactor protection system equipment 
+set must be executed on the basis of the majority logic 
+principle which is selected on the basis of the reliability 
+analysis contained in the reactor plant detail design. The 
+minimum majority is two out of three. Control signals for each 
+set of emergency reactor protection system end effectors must be 
+transmitted over at least two channels. 
+  2.3.2.22. A list of parameters according to which emergency 
+reactor protection must be executed, the settings, and emergency 
+reactor protection system operating conditions as well as the 
+duration of signal transmission to the emergency reactor 
+protection system end effectors must be substantiated in the 
+reactor plant detail design. The settings and emergency reactor 
+protection system operation conditions must be selected so as to 
+prevent violation of safety operation rules. 
+  2.3.2.23. A list of original events which require the 
+emergency reactor protection system operation must be cited and 
+justified in the reactor plant detail design. The emergency 
+reactor protection system must operate at least in the following 
+cases: 
+  upon reaching the emergency reactor protection system 
+setting 
+for the neutron flux density; 
+  upon reaching the emergency reactor protection system 
+setting 
+for the rate of increase in the neutron flux density or 
+reactivity; 
+  upon disappearance of voltage in any emergency reactor 
+protection system equipment set and power supply buses of the 
+reactivity control system of the reactor; 
+  given a malfunction or unserviceable condition of any two of 
+the three protection channels for the level or rate of increase 
+in the neutron flux density in any emergency reactor protection 
+system equipment set; 
+  when the process parameters for which protection must be 
+executed reach the emergency reactor protection system settings; 
+and 
+  when the buttons intended for triggering the emergency 
+protection system operation are depressed. 
+  2.3.2.24. It is permitted to use the preventive protection 
+system when normal operation is violated but operation of the 
+emergency reactor protection system is not required. 
+  2.3.2.25. The emergency reactor protection system must be 
+designed so as to ensure that its hardware eliminates the 
+possibility of engaging the elements which activate and 
+deactivate the emergency reactor protection system channel, 
+unforeseen by the reactor plant detail design and the operating 
+regulations and changes in setting without notification of the 
+staff and without the operation of the emergency reactor 
+protection system end effectors. 
+  2.3.2.26. Execution of the emergency reactor protection 
+system function should not depend on the availability and 
+condition of power supply sources. 
+  2.3.3. Requirements for the Neutron Flux and Reactivity 
+Monitoring and Control 
+  2.3.3.1. In order to monitor the neutron flux, the reactor 
+must be equipped with monitoring channels so that monitoring is 
+executed by at least the following devices within the entire 
+variation range of the neutron flux density in the reactor core 
+from 10[.sup]-7[/]% to 120% of the rated value: 
+  by three independent neutron flux density level measurement 
+channels with display instruments; and 
+  by three independent channels measuring the rate of change 
+in 
+the neutron flux density. 
+  2.3.3.2. The admissibility of combining the instrument 
+sections of the neutron flux density level monitoring channels 
+with the instrument parts of the channels measuring the rate of 
+change in the neutron flux density must be justified by the 
+reactor plant detail design. 
+  2.3.3.3. At least two of the three neutron flux density 
+monitoring channels must be equipped with recording devices 
+capable of connecting to any neutron flux density measurement 
+channel and ensuring measurements without the entire design 
+neutron flux density range. 
+  2.3.3.4. The neutron flux density monitoring channels must 
+be 
+calibrated within the entire design range of thermal reactor 
+power. The reactor plant detail design must justify and define 
+the procedure and sequence of carrying out such calibration and 
+its intervals in the course of reactor plant operation. 
+  2.3.3.5. In the case where the neutron flux measurement 
+range 
+is divided into several sub-bands, the design must provide for 
+overlapping sub-bands within at least one decimal order of 
+magnitude in measurement units of the neutron flux density and 
+for automatic sub-band switch-over. 
+  2.3.3.6. If the neutron flux density monitoring channels 
+stipulated in Para. 2.3.3.1 herein do not ensure neutron flux 
+monitoring during the core charging or recharging, the reactor 
+must be equipped with an additional monitoring system. This 
+system must be detachable and installed for the duration of the 
+reactor core charging and recharging and must contain at least 
+three independent neutron flux density monitoring channels with 
+displaying and recording devices. 
+  2.3.3.7. The reactor plant detail design must stipulate a 
+reactimeter with devices which display, record, and 
+automatically switch the neutron flux and reactivity measurement 
+sub-bands in order to monitor reactivity variations. 
+  2.3.3.8. The technique for, errors in, measuring the 
+reactivity (i.e., the number and positioning of transducers, 
+calculation algorithms and constants, and measurement errors and 
+ranges) must be substantiated in the reactor plant detail design. 
+  2.3.3.9. The reactivity monitoring channels must be equipped 
+with automatic serviceability checking devices and warning 
+alarms indicating malfunction. 
+  The reactor plant detail design must justify and summarize 
+the techniques for metrological certification and testing of the 
+reactivity monitoring channels. 
+  2.3.3.10. The reactor plant detail design must establish and 
+substantiate the characteristics of the automatic reactor plant 
+power control system which ensure the reactor plant operation 
+without exceeding the operating limits. 
+  Permissible reactor plant power levels during failures of 
+the 
+automatic control system and the possibility of the reactor 
+plant operation without the automatic power control system must 
+be justified in the reactor plant detail design. 
+  2.3.3.11. When several measurement channels are connected to 
+the input of the automatic power control system, the design must 
+stipulate a device for obtaining a signal from the operating 
+instrument channels so that disconnection or failure of one of 
+these channels does not lead to changes in the reactor power 
+under the effect of the automatic control system. 
+  2.3.3.12. Technical measures must eliminate the possibility 
+of introduction of positive reactivity simultaneously by two or 
+more regular reactivity control facilities as well as 
+introduction of positive reactivity by the reactivity control 
+facilities during the fuel charging and discharging. 
+  2.3.3.13. The rate of increase in reactivity due to the 
+reactivity control facilities should not exceed 
+0.7_b_[.sup]ef[/]/s. For reactivity control system end 
+actuators with an efficiency of more than 0.7_b_[.sup]ef[/], 
+introduction of positive reactivity should be stepwise, in 
+increments of no more than 0.3_b_[.sup]ef[/] (and supported 
+by technical measures). The reactor plant detail design must 
+stipulate the step size, the interval between the steps, and the 
+rate of reactivity increase. 
+  2.3.3.14. Before the reactor startup, the emergency reactor 
+protection system end effectors must be cocked to the operating 
+position. 
+  The reactor core subcriticality at any reactor life cycle 
+time after cocking the emergency reactor protection system end 
+effectors to the working position with the remaining end 
+effectors of the reactivity control system inserted into the 
+reactor core must be at least 0.01 when the reactor core is 
+characterized by a state with the maximum effective 
+multiplication factor. 
+  2.3.3.15. Failure of the channel for monitoring the neutron 
+flux density level and/or rate of change must be accompanied by 
+generation of alarm signals to the operator and recording of 
+failure. In so doing, the preventive protection signal informing 
+about this channel failure must be generated. 
+  2.3.3.16. The reactor plant detail design must stipulate the 
+requirements imposed on the facilities which ensure the on-line 
+computer-aided measurement and recording of the current 
+reactivity margin value in the reactor core during operation, 
+on-line measurements of reactivity, total efficiency of 
+reactivity control facilities, the efficiency of the emergency 
+reactor protection system end effectors, the efficiency of the 
+end effector groups of the reactivity control system, and the 
+reactivity coefficients with respect to the parameters which 
+affect reactivity (power, coolant temperature, moderator 
+temperature, dissolved absorber concentration, etc.). 
+  The procedure for, and measurement errors in, determining 
+these values must be substantiated in the reactor plant detail 
+design. 
+  2.3.3.17. The reactor plant detail design must stipulate for 
+the facilities and techniques for monitoring the reactor core 
+subcriticality. 
+  2.3.3.18. The reactor plant detail design must stipulate for 
+the facilities for measuring the energy release nonuniformity in 
+the reactor core as well as indicate the requirements for the 
+facilities of on-line analysis of the burnout/dryout/DNB margin. 
+  For reactor cores for which the absence of neutron flux 
+density fluctuations cannot be proven, the design must stipulate 
+facilities for monitoring and controlling the neutron flux 
+density fluctuations and indicate the procedure of controlling 
+the fluctuations without violating the operating fuel element 
+damage limits. 
+  2.4. Requirements for the Reactor Plant Monitoring and 
+Control System 
+  2.4.1. The reactor plant detail design must summarize and 
+justify the requirements for the makeup, structure, principal 
+characteristics, quantity, and layout conditions of monitoring 
+and control systems or elements as well as reactor plant 
+diagnostic systems. 
+  2.4.2. The reactor plant detail design must justify and 
+summarize the following lists: 
+  monitored parameters and signals about the reactor plant 
+status; 
+  controlled parameters and control signals; 
+  settings and conditions for the preventive protection 
+system; 
+  locations of reactor plant diagnostic transducer positions; 
+and 
+  the parameters necessary for safety system operation. 
+  It must demonstrate that the reactor plant monitoring and 
+control systems do indeed monitor the operating condition and 
+ensure safe reactor plant control during normal operation, 
+departures from normal operation, and design emergencies. 
+  2.4.3. The reactor plant detail design must summarize and 
+justify the lists of interlocking and reactor plant equipment 
+protection as well as specifications for their triggering 
+conditions. 
+  2.4.4. The reactor plant monitoring and control systems and 
+safety systems must stipulate the devices for generating the 
+following signals: 
+  emergency notification (a siren with a distinct sound tone) 
+in the cases stipulated by the reactor plant detail design; 
+  alarm (light and audible) when the parameters reach the 
+settings and emergency reactor protection system operation 
+conditions; 
+  warning (light and audible) upon departure from normal 
+reactor plant system and element operation; and 
+  notification about the presence of voltage in electric power 
+supply circuits, equipment and device status, etc. 
+  2.4.5. The design must stipulate for reactor plant control 
+and monitoring system diagnostics. 
+  2.4.6. The monitoring systems must be designed so as to be 
+able to identify the initial accident events, establish the 
+actual reactor plant system operation algorithms crucial for 
+safety, and deviations from regular algorithms and operating 
+personnel actions. To this end, a recording system which should 
+record the following must be provided: 
+  the parameters and symptoms of the status characterizing the 
+initial events or the parameters which make it possible to 
+determine the initial event unambiguously; 
+  control signals; 
+  a change in the parameters which characterize the status of 
+reactor plant systems crucial for safety; 
+  a change in the parameters in response to which protection 
+systems are activated; 
+  a change in the parameters characterizing the radiation 
+environment; and 
+  operating staff conversations over intercom systems. 
+  The scope and scale of recording must be justified and 
+summarized in the reactor plant detail design. 
+  The recording system must maintain serviceability and ensure 
+data integrity under the conditions of design and off-design 
+accidents ("black box"). 
+  2.4.7. The reactor plant detail design must stipulate the 
+following: 
+  permissible reactor plant power levels as a function of the 
+reactor plant monitoring and control system serviceability with 
+a partial loss of performance; and 
+  the conditions for decommissioning and repairing the reactor 
+plant monitoring and control systems. 
+  2.4.8. The ranges and rates of change during normal 
+operation, departures from normal operation, and design 
+emergencies must be justified for the controlled and monitored 
+parameters. 
+  2.4.9. The reactor plant control and monitoring systems and 
+elements should pass metrological expert examination and 
+certification. 
+  2.4.10. The reactor plant detail design must contain an 
+analysis of the reactor plant control and monitoring system 
+response to external and internal factors, to likely failures 
+and malfunctions (short circuits, loss of insulation quality, 
+voltage drops and crossovers, false operations, loss of signals, 
+etc.) and to failures of the principal reactor plant equipment 
+which demonstrate the absence of reactions dangerous to the 
+reactor plant. 
+  Should reactions dangerous to the reactor plant be 
+identified 
+in the course of operation, the reactor plant must be shut down, 
+and technical measures must be taken for eliminating them and 
+for making the corresponding amendments in the reactor plant 
+detail design in an established fashion. 
+  2.4.11. The reactor plant and its systems must be controlled 
+from the generating-unit control panel, and if necessary, from 
+local control stations. 
+  2.4.12. In addition to the generating-unit control panel, 
+each generating unit must be equipped with a back-up control 
+panel from which the reactor core can be switched to the 
+subcritical state and from which emergency generating unit 
+cooldown can be executed; it can also be used for monitoring the 
+process parameters necessary for the reactor plant safety if 
+this cannot be done from the generating-unit control panel for 
+whatever reason (fire, etc.). 
+  2.4.13. The requirements for the equipment makeup and 
+devices 
+of the generating-unit control panel, back-up control panel, and 
+local control stations must be stipulated in the reactor plant 
+detail design. 
+  Signals indicating the status of systems and individual 
+reactor plant system elements which, as a minimum, should 
+include the following, must be displayed on the back-up control 
+panel: 
+  the level of neutron flux density in the core; 
+  the parameters of the coolant and systems participating in 
+the emergency cooldown; 
+  indicators of the intermediate and end positions of the 
+reactivity control system end effectors; 
+  indicators of the reactivity control facility status (the 
+state of valves, pumps, and elements which uniquely determine 
+the readiness of the reactivity control facilities to execute 
+their functions in the event of their operation as well as the 
+absorber status parameters, such as the temperature, pressure, 
+concentration, etc.); and 
+  indicators of the valve position and status of the cool-down 
+support systems. 
+  2.4.14. The possibility of failure of the generating-unit 
+control panel and back-up control panel monitoring and control 
+systems due to a common reason should be ruled out when the 
+initial events are taken into account, and the possibility of 
+execution of simultaneous control from the generating-unit 
+control panel and back-up control panel for each specific 
+element should also be ruled out by the hardware. 
+  2.4.15. Hardware for monitoring the concentration of neutron 
+absorber isotopes in the liquid or gaseous absorber (should they 
+be used) mustbe provided in the reactor plant and emergency 
+absorber storage tanks during the reactor plant operation. 
+  2.4.16. Incoming inspection of the concentration of neutron 
+absorber isotopes used in the reactivity control facilities to 
+ensure that they correspond to the design characteristics must 
+be ensured by hardware or organizational measures. 
+  2.4.17. Each emergency liquid absorber solution storage tank 
+must be equipped with at least two level monitoring systems 
+and/or pressure monitoring systems which generate a warning 
+signal to the generating-unit control panel and back-up control 
+panel. 
+  2.4.18. The reactor plant monitoring and control system must 
+be equipped with an operator information support system. 
+  2.4.19. Given normal operation, departures from normal 
+operation, and design emergencies (including the total 
+de-energizing condition), the control and monitoring system must 
+be supplied with reliable power supply on a scale stipulated by 
+the reactor plant detail design. 
+  2.4.20. The reactor plant monitoring and control systems 
+should contain commercial television facilities and 
+communication gear for linking with the generating-unit control 
+panel and back-up control panel and local control stations 
+(telephone, public address, radio communication, etc.). 
+  2.4.21. The reactor plant monitoring and control systems 
+must 
+be equipped with the facilities for transmitting signals to or 
+from the off-design emergency control center(s). 
+  2.4.22. Organizational and/or technical measures must be 
+taken for eliminating unauthorized access to the reactor plant 
+monitoring and control systems. 
+  2.5. Requirements for the Primary Circuit of the Reactor 
+Plant 
+  2.5.1. The primary circuit boundaries must be defined in the 
+reactor plant detail design. 
+  2.5.2. The reactor plant detail design must demonstrate that 
+the primary circuit elements and systems operate reliably during 
+the design service life allowing for the corrosion, chemical, 
+thermal, power, and other exposures likely under normal 
+operation, departures from normal operation, and design 
+emergencies. The number and character of the factors taken into 
+account in determining the design service life must be 
+summarized in the reactor plant detail design. 
+  2.5.3. The reactor plant detail design must demonstrate that 
+the strength of the reactor vessel under normal operation, 
+departures from normal operation, and design emergencies are 
+ensured in accordance with the strength standards during the 
+entire reactor plant operation period. 
+  2.5.4. The equipment layout and primary circuit 
+configuration 
+of the reactor plant must ensure the conditions for developing 
+natural coolant circulation in the primary circuit with a loss 
+or absence of forced circulation, including design emergencies. 
+  2.5.5. The primary circuit pipelines of the reactor plant 
+must be equipped with special devices for preventing 
+unacceptable movements under the effect of reactive forces 
+developing as a result of ruptures. 
+  The reactor plant detail design must substantiate the 
+strength and effectiveness of these devices under design 
+emergencies. 
+  2.5.6. The heat exchange equipment serving for transporting 
+heat from the primary reactor plant circuit must have a heat 
+exchange surface margin for compensating for the deterioration 
+of its heat conducting characteristics during operation. 
+  2.5.7. Should forced circulation pumps be used for 
+facilitating this circulation, these pumps must have sufficient 
+inertia in the case where they lose electric power supply and 
+the emergency reactor protection system operates at any reactor 
+power level so as to ensure forced coolant flow rate in the 
+primary circuit until the moment when natural circulation 
+ensures the removal of residual heat release without exceeding 
+the operational fuel element damage limits. 
+  2.5.8. The reactor plant detail design must stipulate the 
+following facilities: 
+  automatic protection from unacceptable increases in pressure 
+in the primary circuit under normal operation, departures from 
+normal operation, and design emergencies; 
+  facilities for compensating for the changes in the coolant 
+volume due to temperature variations; 
+  and facilities for compensating for the coolant losses in 
+the 
+case of leakage (the maximum leak rate which compensates for 
+these facilities is established by the reactor plant detail 
+design). 
+  2.5.9. The reactor plant detail design must stipulate 
+installation of leakage arresters in the pipelines branching off 
+from the main circulation pipeline. Failure to install the leak 
+arresters must be justified in the reactor plant detail design. 
+  2.5.10. The primary reactor plant circuit elements must be 
+equipped with devices which lower the effect of seismic shocks. 
+  2.5.11. The quality and chemical composition indicators of 
+the coolant as well as the requirements for the means of 
+maintaining them during operation, including coolant 
+purification to remove radioactive fission and corrosion 
+products, must be included in the reactor plant detail design. 
+  2.5.12. The reactor plant detail design must stipulate the 
+engineering measures aimed at preventing the primary circuit 
+from a coolant drainage unforeseen by the reactor plant 
+operation regulations. The admissibility of deliberate partial 
+draining during repair works and recharging must be justified in 
+the reactor plant detail design. 
+  2.5.13. The reactor plant detail design must stipulate for 
+the resources and methods of detecting with the justified 
+precision the location and rate of the primary circuit coolant 
+leakage. 
+  2.5.14. The liquid absorber concentration stipulated by the 
+reactor plant detail design must be ensured in the reactor and 
+primary circuit. 
+  2.5.15. Engineering measures must be taken to eliminate 
+unforeseen ingress of clean condensate and liquid absorber 
+solution with a concentration below that permitted by the 
+operating regulations into the primary circuit coolant and other 
+systems which, according to the reactor plant detail design, 
+must be filled with the liquid absorber solution. 
+  2.6. Requirements for the Emergency Core Cool-Down Systems 
+  2.6.1. The reactor plant detail design must stipulate 
+emergency core cool-down systems. 
+  The composition, structure, and characteristics of the core 
+emergency cool-down systems must be justified in the reactor 
+plant detail design. 
+  2.6.2. The emergency core cool-down systems must be designed 
+allowing for the principles of independence and redundancy and 
+must be capable of executing their function of preventing 
+departures from design fuel element damage limits under design 
+emergencies allowing for the principles of one-time failure or 
+human error. 
+  2.6.3. The list of parameters, settings, and emergency core 
+cool-down system operation conditions must be determined by the 
+initial events of design emergencies and must be justified in 
+the reactor plant detail design. 
+  2.6.4. The admissibility and conditions for shutting down 
+one 
+emergency core cool-down system channel must be justified in the 
+reactor plant detail design. 
+  2.6.5. The reactor plant detail design must take into 
+account 
+all likely effects on the reactor plant systems or elements 
+related to the activation and operation of the emergency core 
+cool-down systems. 
+  2.6.6. The reactor plant detail design must stipulate 
+engineering measures aimed at preventing unauthorized access to 
+the emergency core cool-down systems. 
+  The reactor plant detail design must contain a quantitative 
+analysis of the emergency core cool-down system reliability. 
+  2.6.7. Should the reactor core be in the subcritical state, 
+the activation and operation of the emergency core cool-down 
+system should not lead to altering its subcritical state. 
+  2.6.8. The emergency cool-down systems must ensure the 
+cooldown and be able to maintain the reactor core at the coolant 
+parameter values justified in the reactor plant detail design 
+for an extended period. 
+  2.7. Requirements for the Recharging Procedures and Devices 
+  2.7.1. Requirements for the Recharging Procedure Sequence 
+  2.7.1.1. The following must be justified in the reactor 
+plant 
+detail design: 
+  the methods of carrying out recharging; 
+  the recharging frequency, scope, and regulations; 
+  the hardware and organizational measures to ensure nuclear 
+safety during recharging, including neutron flux density 
+monitoring; and 
+  the working liquid absorber solution concentration (in the 
+case where it is used), sampling locations, and the facilities 
+of monitoring it and maintenance methods. 
+  2.7.1.2. Likely charging or recharging errors and their 
+consequences must be considered as the initial events in the 
+reactor plant safety feasibility analysis, and measures aimed at 
+eliminating errors must be developed. 
+  2.7.1.3. The sequence of carrying out the reactor core 
+recharging is determined by the program, working schedule, and 
+recharging charts compiled by the nuclear station personnel 
+approved by the chief engineer of the nuclear station and 
+coordinated in an established procedure. 
+  2.7.1.4. During recharging and repair operations, 
+organizational measures and, if possible, technical facilities 
+must be employed to prevent accidental ingress of extraneous 
+objects into the inner space of the primary circuit. 
+  2.7.1.5. In the reactors where recharging is carried out 
+with 
+decoupling of the reactivity control system end effectors, 
+recharging must be carried out with the reactivity control 
+system end effectors and other reactivity control facilities 
+inserted into the core. In so doing, the minimum reactor 
+subcriticality during the recharging process should be at least 
+0.02 allowing for possible errors. 
+  2.7.1.6. In reactors where recharging is carried out with 
+decoupling of the reactivity control system end effectors and 
+where reactivity is compensated for by a liquid absorber 
+solution, recharging must be carried out with the reactivity 
+control system end effectors and other reactivity control 
+facilities inserted into the reactor core. The liquid absorber 
+solution concentration must be brought to a value at which a 
+reactor subcriticality of at least 0.02 is ensured allowing for 
+possible errors but without taking into account the inserted 
+reactivity control system end effectors. 
+  2.7.1.7. In the reactors in which the necessary 
+subcriticality during recharging is ensured by the liquid 
+absorber solution, engineering and organizational measures must 
+be stipulated to ensure that delivery of clean condensate to the 
+reactor and primary circuit are ruled out during recharging. 
+  2.7.1.8. In pressure vessel reactors with a top reactivity 
+control system actuator positioning, the reactor and reactivity 
+control system end effector design must ensure that the 
+reactivity control system end effectors are in the uncoupled 
+state when the top module is removed; in this case, the 
+diagnostic facilities must record the decoupled state. 
+  2.7.1.9. Fuel recharging in a shut-down pressure-tube 
+reactor 
+must be carried out with the emergency reactor protection system 
+end effectors cocked. In so doing, the minimum reactor 
+subcriticality during the recharging process must amount to at 
+least 0.02 allowing for possible errors. 
+  2.7.1.10. For the reactor plants in which fuel recharging is 
+carried out during the reactor power operation, the reactor 
+plant detail design must justify and define the permissible 
+operating reactor plant conditions (e.g., power, coolant rate, 
+etc.) during the recharging process as well as justify the 
+efficacy of the facilities used for suppressing excess 
+reactivity whose introduction is possible due to recharging 
+errors or reactivity effects. 
+  2.7.1.11. If recharging is carried out during the reactor 
+power operation, the primary reactor plant circuit 
+pressure-tightness must not be violated, and facilities must be 
+stipulated for checking the absence of coolant leaks from the 
+primary reactor plant circuit. 
+  2.7.1.12. After the end of recharging, tests must be carried 
+out to confirm the principal design and theoretical neutron 
+characteristics of the reactor core. 
+  During the tests, it is necessary to check whether the 
+experimental test findings are consistent with the theoretical 
+parameters according to the criteria established by the reactor 
+plant detail design. 
+  2.7.2. Requirements for Recharging Devices 
+  2.7.2.1. The reactor plant detail design must justify and 
+enumerate the makeup of the recharging devices as well as the 
+requirements imposed on them; compliance with these requirements 
+must ensure fuel assembly handling safety during recharging, 
+including the cases of failures and damage to the fuel 
+recharging devices. 
+  2.7.2.2. The reactor plant detail design must stipulate the 
+engineering facilities for ensuring heat removal from the fuel 
+assemblies being recharged. 
+  2.7.2.3. The recharging devices must be designed so that 
+normal reactor plant and nuclear fuel storage operation 
+conditions are not violated in the cases of their normal 
+performance or damage. 
+  2.7.2.4. The reactor plant detail design must contain the 
+requirements imposed on the erection, operation, and periodic 
+inspection of the recharging devices as well as the requirements 
+for their reliability. 
+  2.7.2.5. The recharging devices must be designed 
+(constructed) in such a way so as to ensure access during 
+inspections, repairs, tests, and maintenance and servicing. 
+  2.7.2.6. In designing the recharging devices, measures must 
+be stipulated aimed at preventing the fuel assemblies from 
+damage, deformation, breakdown, or falls as well as application 
+of impermissible forces to the fuel elements during their 
+extraction or installation. The values of the maximum 
+permissible force must be summarized in the reactor plant detail 
+design. The use of recharging facilities not stipulated by the 
+design is prohibited. 
+  2.7.2.7. In designing the recharging devices, it is 
+necessary 
+to stipulate that interruptions of power supply do not result in 
+fuel assembly falls. 
+  2.7.2.8. The reactor plant detail design must justify and 
+establish the permissible velocities at which the fuel 
+assemblies are moved by the recharging devices. 
+  2.7.2.9. The design must stipulate protective devices which 
+ensure the movement of recharging devices within permissible 
+limits. 
+  2.7.2.10. In the cases of recharging device failure or 
+departures from their operating conditions, the reactor plant 
+detail design must stipulate equipment for reliably transferring 
+fuel to safe locations. 
+  2.7.2.11. The recharging devices must be equipped with 
+panels 
+or boards for displaying data on the fuel assembly and grip 
+position or condition and orientation. 
+  2.7.2.12. The movement of recharging devices at the moment 
+of 
+their coupling with the process channel or during the fuel 
+assembly insertion into the reactor core must be eliminated. 
+  2.7.2.13. Interlocking must be provided for preventing the 
+movement of the recharging devices when the fuel assemblies are 
+in an off-design position. 
+  2.7.2.14. The plant must be equipped with a closed circuit 
+TV 
+system for monitoring the recharging process. The reactor plant 
+detail design must stipulate a list of recharging operations 
+monitored using closed circuit TV. 
+  2.7.2.15. The draft design of the fuel recharging devices 
+must be coordinated with the USSR State Committee for Safety in 
+Industry and Atomic Power Industry unless it has been 
+coordinated as a part of the reactor plant detail design. 
+  3. Requirements for Ensuring Nuclear Safety During Reactor 
+Plant Operation 
+  3.1. The principal document which defines safe reactor plant 
+operation is the reactor plant detail design which contains the 
+rules and basic safe operation principles as well as the general 
+procedure of carrying out the operations related to the reactor 
+plant safety and the limits and conditions of safe operation. 
+  The reactor plant process operation regulations, the reactor 
+plant equipment servicing and maintenance regulations, and the 
+regulations for checking and testing reactor plant systems 
+crucial for safety are developed by the chief designer of the 
+reactor plant on the basis of the reactor plant detail design. 
+  3.2. Reactor plant operation must be based on the reactor 
+plant operating manual and reactor plant system and equipment 
+operation instructions developed by the nuclear station 
+personnel on the basis of the design and development 
+documentation and reactor plant operation process regulations 
+corrected on the basis of the outcome of physical and power 
+startups and operating experience. 
+  The reactor plant operating manual must be coordinated with 
+the chief designer of the reactor plant, scientific supervisor, 
+and chief developer of the nuclear station and must be approved 
+by the chief engineer of the nuclear station. 
+  3.3. Amendments made in the design documentation and reactor 
+plant equipment configuration which affect nuclear safety, 
+including those based on the outcome of physical and power 
+startups, must be substantiated by the chief designer of the 
+reactor plant, scientific supervisor, and chief developer of the 
+nuclear station and coordinated with the USSR State Committee 
+for Safety in Industry and Atomic Power Industry and approved by 
+the operating organization prior to implementation at the 
+reactor plant. 
+  Nuclear station operation is permitted after the issuance of 
+a reactor plant certificate by the USSR State Committee for 
+Safety in Industry and Atomic Power Industry and an operating 
+permit obtained from the USSR State Committee for Safety in 
+Industry and Atomic Power Industry. Changes in the parameters 
+stipulated in the reactor plant certificate call for issuing a 
+new certificate. These amendments must be coordinated beforehand 
+with the scientific supervisor and chief designer of the reactor 
+plant. The certificate format and the scope of the information 
+contained in it are established by the USSR State Committee for 
+Safety in Industry and Atomic Power Industry. 
+  3.4. Based on the design documents and allowing for the 
+requirements on the reactor plant operation process regulations 
+and reactor plant maintenance and repair regulations, the 
+nuclear station management must set up the development and 
+production of the following documents for the systems crucial 
+for safety: 
+  inspection and test manuals; 
+  servicing and maintenance, preventive maintenance, and 
+overhaul schedules for the systems and elements; and 
+  schedules for carrying out tests and inspections of the 
+safety system performance. 
+  3.5. The state of the reactor plant systems and the 
+conditions under which startup and operation of the reactor 
+plant are permitted should be justified by the reactor plant 
+detail design and enumerated in the process regulations for the 
+reactor plant operation. 
+  3.6. Any reactor plant tests not stipulated by the reactor 
+plant operation process regulations and reactor plant system and 
+equipment operation manuals must be carried out according to the 
+programs and procedures which contain nuclear safety feasibility 
+and measures to ensure nuclear safety of these tests coordinated 
+with the scientific supervisor, chief designer of the reactor 
+plant, chief developer of the nuclear station, and the USSR 
+State Committee for Safety in Industry and Atomic Power Industry 
+and approved by the operating organization upon obtaining 
+permission from the USSR State Committee for Safety in Industry 
+and Atomic Power Industry and the operating organization. 
+  3.7. Should operating limits be violated by operating 
+personnel, a certain sequence of actions established by the 
+reactor plant detail design and aimed at returning the reactor 
+plant to normal operation must be carried out. 
+  Should it be impossible to restore normal reactor plant 
+operation, the reactor plant must be shut down. 
+  3.8. Should an emergency situation develop at the reactor 
+plant, the causes for its development must be identified and 
+eliminated, and measures must be taken for restoring normal 
+reactor plant operation. Reactor plant operation may be 
+continued only after establishing and eliminating the causes for 
+the emergency situation development upon written permission of 
+the chief engineer of the nuclear station. 
+  3.9. The operating organization must develop a list and 
+sequence of reports about normal operation violations, emergency 
+situations, and accidents indicating the forms, deadlines, and 
+organizations to which these reports are forwarded. The list 
+must be coordinated with the USSR State Committee for Safety in 
+Industry and Atomic Power Industry. 
+  3.10. The nuclear station shift supervisor must report to 
+the 
+senior management of the nuclear station about each case of 
+normal operation violation. 
+  3.11. The reactor plant operator has the authority and 
+obligation to shut down the reactor independently in the cases 
+stipulated by the process regulations if subsequent operation 
+threatens the safety of the nuclear station. 
+  3.12. In the case of design emergencies (including a nuclear 
+accident), personnel actions must be governed by the Instruction 
+for Remediating Accidents at Nuclear Stations developed by the 
+nuclear station management on the basis of the reactor 
+plant safety feasibility analysis and nuclear station safety 
+feasibility analysis. The instruction must consider design 
+emergencies and develop measures for remediating the accident 
+aftermath. The instruction must be coordinated with the 
+scientific supervisor, chief designer of the reactor plant, and 
+chief developer of the nuclear station. 
+  3.13. A special manual must be developed in accordance with 
+design documentation for controlling off-design emergencies; it 
+should be coordinated with the scientific supervisor, chief 
+designer of the reactor plant, and chief developer of the 
+nuclear station. 
+  3.14. Accident-prevention training sessions must be 
+conducted 
+with nuclear station personnel. Their frequency and procedure 
+are approved by senior management of the nuclear station. 
+  3.15. The nuclear station accident remediation manual should 
+indicate the sequence for activating the plans of measures to 
+protect the personnel and population should an off-design 
+emergency develop. 
+  3.16. Between the start of the emergency and the start of 
+the 
+investigation carried out by the commission to identify the 
+causes of accidents, it is strictly prohibited to open the 
+instrumentation and devices and to change the emergency and 
+preventive signaling and protection system settings. 
+  Organizational and technical measures must be stipulated to 
+eliminate the possibility of losing recorded data and 
+unauthorized access to the devices and elements, data bank, and 
+archives of control and monitoring systems which recorded the 
+reactor plant situation before the onset of the accident and 
+during the ensuing period. 
+  3.17. The operating conditions of the shut-down reactor with 
+fuel in its core, including the charging and discharging 
+conditions, must be substantiated in the reactor plant detail 
+design and listed in the reactor plant operation process 
+regulations. As a minimum, the following must be determined for 
+these conditions: 
+  the scope of monitoring pursuant to the requirements of 
+Paragraphs 2.3.3.1, 2.3.3.3, and 2.3.3.6 of the rules hereunder 
+with mandatory monitoring of the neutron flux density and liquid 
+absorber solution concentration if such is used in this type of 
+reactor plant; and 
+  requirements for the readiness of the reactor plant systems 
+crucial for safety. 
+  3.18. During the charging and recharging as well as during 
+tests and repair operations conducted on the primary reactor 
+plant circuit, the reactor, primary reactor plant circuit, and 
+related systems must be filled with a liquid absorber solution 
+at a concentration not dropping below that stipulated by the 
+reactor plant detail design. 
+<H3>  Notes: This requirement pertains to the reactors in which 
+charging and recharging is carried out with the reactor and 
+reactor plant systems filled with a homogeneous liquid absorber 
+solutions. </H3>
+  3.19. Based on the design documents and operating 
+experience, 
+senior nuclear station management must develop a list of 
+nuclear-hazardous operations. 
+  3.20. Operations with systems or elements crucial for safety 
+which involve decommissioning, repairs, and recommissioning as 
+well as testing not stipulated by the process regulations of the 
+generating unit or reactor plant operation and reactor plant and 
+system and equipment operation manuals are nuclear-hazardous. 
+  3.21. Nuclear-hazardous operations must be handled upon a 
+special engineering decision or program approved by senior 
+nuclear station management. 
+  The engineering decision or program must contain the 
+following: 
+  the objective of carrying out nuclear-hazardous operations; 
+  a list of nuclear-hazardous operations; 
+  engineering and organizational measures to ensure nuclear 
+safety; 
+  the criteria and monitoring procedures for establishing 
+whether nuclear-hazardous operations have been completed 
+correctly; and 
+  an indication about designation of a person responsible for 
+the conduct of nuclear-hazardous operations. 
+  Nuclear-hazardous operations must be carried out, as a rule, 
+on a shut-down reactor. 
+  3.22. In the course of nuclear-hazardous operations, the 
+subcriticality of the shut-down reactor must be at least 0.02 
+for the reactor core state with a maximum effective 
+multiplication factor; for pressure-tube reactors, the emergency 
+reactor protection system end effectors must be cocked while the 
+remaining reactivity control system end effectors must inserted 
+into the core. 
+  3.23. After completing repairs of the reactor plant 
+equipment 
+and systems crucial for safety, the characteristics of these 
+systems must be checked to see whether they correspond to design 
+parameters. The inspection must be carried out according to the 
+program developed by senior nuclear station management and 
+compiled on the basis of the regulations developed by the chief 
+developer of the nuclear station and chief designer of the 
+reactor plant and coordinated with the scientific supervisor. 
+  3.24. During any tests of systems crucial for safety, it is 
+necessary to check whether the test outcomes correspond to the 
+criteria established by the reactor plant detail design. The 
+test outcome must be recorded in an official document. 
+  4. State Oversight and Monitoring of Adherence to the Rules 
+and the Responsibility for Violating Them 
+  4.1. State oversight of nuclear safety is carried out by the 
+USSR State Committee for Safety in Industry and Atomic Power 
+Industry (USSR Gospromatomnadzor) in accordance with the 
+statutes governing it based on the rules and safety standards 
+for nuclear power. 
+  4.2. The operating organization is obligated to carry out 
+constant monitoring of the adherence to the requirements 
+hereunder during the commissioning, operation, and 
+decommissioning of the reactor plant. 
+  4.3. The operating organization is responsible for 
+developing 
+the necessary management structure at the nuclear station which 
+would ensure adherence to the requirements hereunder at the 
+nuclear station. 
+  4.4. The operating organization must organize periodic (once 
+every one-to-two years) inspections to monitor adherence to the 
+requirements hereunder at the nuclear station and submit the 
+findings of these inspections to the USSR State Committee for 
+Safety in Industry and Atomic Power Industry. 
+  4.5. An internal commission must be appointed periodically 
+(at least once a year) by a decree of nuclear station senior 
+management for checking the state of nuclear safety at the 
+nuclear station, including adherence to the requirements 
+hereunder. The commissioner report should be approved by senior 
+nuclear station management. One copy of the report shall be 
+submitted to the USSR State Committee for Safety in Industry and 
+Atomic Power Industry. 
+  4.6. The organizations, enterprises, and departments, which 
+are involved in designing the nuclear station or reactor plant, 
+developing the equipment, manufacturing it, and constructing and 
+operating the nuclear station or the reactor plant must submit 
+information to the bodies of the USSR State Committee for Safety 
+in Industry and Atomic Power Industry upon their request; this 
+information shall be in the form of design documents, research 
+and analysis findings, operating and repair manuals, reports 
+about completed tests and system or element inspections, data on 
+the element manufacturing quality control, personnel training 
+reports, data on the system or element operation, element 
+failures and the results of their analysis, etc. 
+  4.7. The officials and engineering and technical personnel 
+at 
+the enterprises and organizations guilty of violating the rules 
+hereunder are held responsible pursuant to existing legislation. 
+  4.8. Management at design and development, science and 
+research, construction and erection, adjustment, and repair 
+enterprises and organizations as well as representatives of the 
+equipment manufacturers are obligated to monitor adherence to 
+the requirements hereunder during the design and development 
+stage, in the course of construction and erection, adjustment, 
+and repair operations, and in manufacturing the reactor plant 
+equipment. 
+  4.9. Senior nuclear station management is responsible for 
+ensuring nuclear safety, organizing and carrying out efforts to 
+ensure safe operating conditions of the reactor plant and 
+nuclear station, and personnel training. 
+  Senior nuclear station management must determine the 
+responsibility of the specific officials and nuclear station 
+personnel for adherence to the nuclear safety requirements at 
+the shop, shift, and other nuclear station subdivision levels 
+and at specific work stations in accordance with the authority 
+vested in it by the operating organization. 
+  4.10. Nuclear accidents must be investigated in accordance 
+with the special document developed by the operating 
+organization and coordinated with the USSR State Committee for 
+Safety in Industry and Atomic Power Industry. 
+  Appendix: Additional Safety Requirements for Nuclear 
+Stations 
+with Most Common Reactor Plant Types in the USSR[.sup]1[/] 
+  1. Nuclear Stations With Water-Moderated, Water-Cooled Power 
+Reactors 
+  1.1. The operating fuel element damage limit due to the 
+development of microcracks with gas leakage-type cladding 
+defects should not exceed 0.2% of fuel elements and 
+0.02% of 
+fuel elements with direct nuclear fuel contact with the coolant. 
+  1.2. The safe operation limit with respect to the number and 
+magnitude of fuel element defects is 1% of fuel elements 
+with 
+gas leakage-type defects and 0.1% of fuel elements where 
+there 
+is direct coolant contact with nuclear fuel. 
+  1.3. The maximum design fuel element damage limit means that 
+the following parameter limits should not be exceeded: 
+  a fuel element cladding temperature of 1,200C; 
+  a local fuel element cladding oxidation depth of 18% 
+of the 
+initial wall thickness; 
+  and a reacted zirconium proportion of 1% of its mass 
+in the 
+fuel element cladding. 
+  1.4. The values of reactivity coefficients for the specific 
+coolant volume, coolant temperature, fuel temperature, and 
+reactor power should not be positive within the entire reactor 
+parameter range under normal operation, departures from normal 
+operation, and design emergencies. 
+  2. Nuclear Stations With Uranium-Graphite Heterogeneous 
+Single-Loop Boiling-Water Reactors (RBMK) 
+  2.1. The operating fuel element damage limit due to the 
+development of microcracks should not exceed 0.2% of fuel 
+elements with gas leakage-type defects in the cladding and 
+0.02% for fuel elements with direct nuclear fuel contact 
+with 
+the coolant. 
+  2.2. The safe operation limit with respect to the number and 
+magnitude of fuel element defects is equal to 1% of fuel 
+elements with gas leakage-type defects and 0.1% of fuel 
+elements in which there is direct coolant contact with nuclear 
+fuel. 
+  2.3. The maximum design fuel element damage limit means that 
+the following parameter limits must not be exceeded: 
+  a fuel element cladding temperature of 1,200C; 
+  a local fuel element cladding oxidation depth of 18% 
+of the 
+initial wall thickness; and 
+  a reacted zirconium proportion of 1% of its mass in 
+the fuel 
+element cladding. 
+  2.4. The values of the reactivity coefficients with respect 
+to the specific coolant volume, fuel temperature, coolant 
+temperature, its steam content, and power should not be positive 
+within the entire reactor parameter range under normal 
+operation, departures from normal operation, and design 
+emergencies. 
+  3. Nuclear Stations With Fast Neutron Reactors 
+  3.1. The operating fuel element damage limit due to the 
+development of microcracks with respect to the number and 
+magnitude of defects is equal to 0.05% of fuel elements 
+with a 
+gas leakage and 0.005% of fuel elements with direct fuel 
+contact with the coolant. 
+  3.2. The safe operation limit with respect to the number and 
+magnitude of fuel element defects is equal to 0.1% of fuel 
+elements with a gas leakage and 0.01% of fuel elements 
+with a 
+direct fuel contact with the coolant. The fuel element cladding 
+temperature should not exceed 800C. 
+  3.3. The maximum design fuel element damage limit is defined 
+as failure of all fuel elements in seven fuel assemblies within 
+a localized core volume while exceeding the safe operation 
+limits for fuel element damage within the remaining core volume. 
+  3.4. The reactivity coefficients with respect to the coolant 
+temperature and specific volume, fuel temperature, and reactor 
+power must be negative within the entire reactor parameter range 
+under normal operation, departures from normal operation, and 
+design emergencies. 
+  4. Nuclear Stations With Nuclear Heat Supply Plant-Type 
+Reactor Plant 
+  4.1. The operating fuel element damage limit and the 
+permissible primary circuit coolant activity level shall be 
+justified and established by the reactor plant detail design. 
+  4.2. The safe operation limit with respect to the number and 
+magnitude of fuel element defects is equal to 0.1% of fuel 
+elements with gas leakage defects and 0.01% of fuel 
+elements 
+with direct coolant contact with nuclear fuel. 
+  4.3. The maximum design fuel element damage limit denotes 
+that the following parameter limits must not be exceeded: 
+  a fuel element cladding temperature of 1,200C; 
+  a local fuel element cladding oxidation depth of 18% 
+of the 
+initial wall thickness; 
+  and a reacted zirconium proportion of 1% of its mass 
+in the 
+fuel element cladding. 
+  4.4. The values of the reactivity coefficients with respect 
+to the coolant volume, fuel temperature, coolant temperature, 
+and reactor power should not be positive within the entire 
+reactor parameter range under normal operation, departures from 
+normal operation, and design emergencies. 
+  4.5. The nuclear station structures and systems with nuclear 
+heat supply plant-type reactors[.sup]1[/] must be positioned 
+and designed allowing for the external factors caused by falling 
+aircraft and explosions likely to occur at adjacent enterprises, 
+passing vehicles, etc. Moreover, safety criteria should not be 
+exceeded. 
+  The following design parameters of a falling aircraft are 
+used: 
+  a mass of 20 t, an impact velocity of 700 km/h, and a load 
+applied to a circle with a 7 m[.sup]2[/] area. Fuel ignition 
+after the crash must be taken into account. 
+  The shock wave design parameters are up to 0.5 
+kg/cm[.sup]2[/] with a duration of action of up to 1 s. 
+  At least one protection system channel and one barrier or 
+channel of the accident containment system must not be destroyed 
+and must maintain serviceability under the effect of the design 
+shock wave or falling aircraft. 
+Footnotes 
+  1. For water-cooled, water-moderated power reactors, 
+uranium-graphite heterogeneous single-loop boiling-water 
+reactors, and nuclear heat supply plants, the above fuel element 
+damage limits are cited for fuel element cladding materials made 
+from the zirconium + 1% niobium alloy. For other types of 
+reactors and fuel elements from other materials, the fuel 
+element damage limits must be justified in the reactor plant 
+detail design. 
+
+

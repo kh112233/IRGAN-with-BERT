@@ -1,0 +1,106 @@
+ 
+
+
+
+
+<USBUREAU>National Technical Information Service</USBUREAU>
+
+
+<DOCTITLE>Prospective Grant of Co-Exclusive Patent Licenses</DOCTITLE>
+
+
+
+This is notice in accordance with 35 U.S.C. 209(c)(1) and 37 CFR 404.7(a)(1)(i) that the National Technical Information
+Service (NTIS), U.S. Department of Commerce, is contemplating the issuance of grant co-exclusive licenses in the
+United States to practice the invention embodied in U.S. Patent No. 4,616,316 (Serial No. 6-458,312), titled ``Medication
+Compliance Monitoring Device Having Conductive Traces upon a Frangible Backing of a Medication Compartment,''
+to Medical MicroSystems, Inc., having a place of business in Clarkson Valley, Missouri, and Medical Technology Systems,
+Inc., having a place of business in Clearwater, Florida. The patent rights in this invention have been assigned to
+the United States of America.
+
+The prospective co-exclusive licenses will be royalty-bearing and will comply with the terms and conditions of 35
+U.S.C. 209 and 37 CFR 404.7. The prospective co-exclusive licenses may be granted unless, within sixty days from the
+date of this published Notice, NTIS receives written evidence and argument which establish that the grant of the licenses
+would not be consistent with the requirements of 35 U.S.C. 209 and 37 CFR 404.7.
+
+The present invention is a medication compliance monitoring system consisting of a blister pack having an array of
+plastic blisters defining compartments for medication, with a frangible nonconductive backing sheet having conductive
+traces behind the compartments which are respectively ruptured when the medication doses are removed. The blister
+pack is detachably connected to an electronic memory circuit via a multi-terminal male connector tab on the backing
+sheet, wired to the conductive traces, and a corresponding female connector with terminals wired to the electronic
+memory circuit. The electronic memory circuit addresses each individual trace periodically at a constant time interval
+over a predetermined extended period of time to determine if it is intact. The electronic memory circuit detects the
+ruptures and stores the time data thereof over said extended period of time. During the patient's follow-up visit
+a microcomputer is employed to retrieve the dose-removal-time data from the memory circuit; it processes the data
+and provides a display of the compliance information. A socket adapter is used to alternately configure the electronic
+memory circuit for data acquisition and extraction. The socket adapter is in the form of a multiple-pin jumper plug
+engageable in a multi-contact socket connected to the memory circuit. Insertion of the plug configures the memory
+circuit for data acquisition. Removal of the plug configures the memory circuit for data retrieval and processing
+by the microcomputer. In a typical embodiment there are 42 blisters whose associated conductive traces are addressed
+every 15 minutes over an extended time period which may be as much as 85 days.
+
+
+
+
+
+
+
+The availability of S.N. 6458,312 for licensing was published in the 
+
+Federal Register
+
+ Vol. 48, No. 54, p. 11483 (March 18, 1983).
+
+A copy of the instant patent is available for $3.00 (payable by check or money order) from the Commissioner of Patents
+and Trademarks, Box 9, Washington, DC 20231.
+
+Inquiries, comments and other materials relating to the contemplated license must be submitted to Neil L. Mark, Center
+for the Utilization of Federal Technology, NTIS, Box 1423, Springfield, VA 22151. Properly filed competing applications
+received by the NTIS in response to this notice will be considered as objections to the grant of the contemplated license.
+
+
+
+
+
+
+<SIGNER>
+Douglas J. Campion,
+
+
+
+
+
+
+
+</SIGNER>
+<SIGNJOB>
+Acting Director, Office of Federal Patent Licensing.
+
+
+
+
+
+
+
+
+</SIGNJOB>
+<FRFILING>
+[FR Doc. 948346 Filed 4794; 8:45 am]
+
+
+
+
+
+
+
+</FRFILING>
+<BILLING>
+BILLING CODE 351004M
+</BILLING>
+
+
+
+
+
+
+

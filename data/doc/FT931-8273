@@ -1,0 +1,86 @@
+FT  19 FEB 93 / Survey of Personal and Portable Computers (5): Game of
+prevention - Michael Dempsey examines security packages
+COMPUTER games are a serious business. Playing one on a portable computer
+cost a Birmingham Midshires Building Society salesman his job last year. The
+society insists that its employees avoid exposing its computers to any risk
+of a virus. And computer games are a prime source of damaging bugs.
+Introducing one is regarded as a breach of contract.
+Birmingham Midshires uses NCR/AT&amp;T Safari portable computers to sell life
+insurance and mortgages to potential buyers at home. The portable gives its
+salesforce the means to calculate and demonstrate mortgages and pension
+packages. This accelerates the sales process, but leaves the sales staff
+holding sensitive data on a machine that attracts thieves. And any bug on
+the software could infect branch computers when sales data is fed down the
+network.
+The building society has spent Pounds 300,000 issuing its 90 salesmen with
+the machines and associated software, notably a security package from Fifth
+Generation Systems called Safe. Three portables have been stolen in the last
+12 months. The object of Safe, which evolved from a product called Triumph,
+is to make sure the thieves are left holding an attractive but useless piece
+of hardware.
+'Safe is a package that makes our data totally secure, you put the sensitive
+data on the hard disk and you can't access it without going through three
+levels of password,' says Mr John Edkins, who is manager of business
+improvement at Birmingham Midshires. Provided his staff follow the rules, no
+thief will benefit from confidential information provided to Birmingham
+Midshires. A stolen portable can be used again - but only by installing a
+new hard disk.
+Safe also limits how far unapproved software, notably games, can go on the
+portable. A game can be played, but only if loaded with its own
+disk-operating system. Only head office has the ability to copy software
+from the A drive to the C drive of the hard disk. Software is copied from a
+central computer via a modem at branch offices.
+The society's employees are not issued with disks. This reduces the danger
+of contamination by computer virus. And the copying limitations make it
+difficult for a member of staff to copy client lists before giving notice.
+If these security precautions sound unflattering to Birmingham Midshires
+staff, there are significant compensations from using a portable PC. The
+technology dispenses with the need to heave books of life insurance and
+mortgage rates from door to door. Administrative work at branch office is
+reduced to downloading software via the modem. This leaves the salesforce
+free to concentrate on selling.
+'The sales people like it and the clients are very positive. We've had some
+clients take over the PC and enter their own details.' Mr Edkins is
+convinced the portables have paid their way. 'Perhaps 30 per cent of sales
+are now attributed to the technology. At around Pounds 3,000 a machine, one
+extra mortgage sold will pay back the value of the system.'
+One company that relies on portables and knows the reality of the virus
+threat is Reflex Magnetics. Reflex is a media duplication house, supplying
+disks and tapes across the computer services sector. Mr Andy Campbell, the
+sales director, works entirely from a portable. With master disks arriving
+by the dozen to be mass-replicated, he has always been aware of the danger.
+Nevertheless, the company eventually did load a virus by accident. It was
+uncovered and dealt with during testing, but the incident made an
+impression. Once bitten, Reflex decided to write its own security program.
+Most virus incidents can be traced back to the floppy disk, Mr Campbell
+says. 'So we came up with a product that forces us to check any disk before
+it is loaded.' Disknet costs Pounds 89 and will not allow the user access to
+the hard disk unless his floppy has been cleared for bugs by virus-scanning
+software. The correct password must also be entered. The A drive can still
+employed, but data held on the hard disk is protected.
+Mr Campbell is pragmatic about the extent to which Disknet can guarantee
+security. 'Any security device can be cracked if you have enough knowledge
+and time. Our technical director does his development work on a portable. If
+a commercial rival targeted and stole that machine they would get past
+Disknet.' There is clearly only so much you can expect from a security
+package. But Disknet is robust enough to be ordered by the RAF and financial
+services group HFC.
+Physical protection through programs like Safe and Disknet needs to be
+accompanied by security practices. Marlborough Stirling Group writes
+financial systems for use on portable computers. Mr Jim Deane, MSG's
+technical director, recommends pulling data back on to a branch computer at
+every opportunity. This is known as docking, and reduces the client's
+exposure to staff defecting with valuable files.
+The incentive for field sales personnel to co-operate with docking is that
+it speeds up the processing of a new policy or product.
+The pharmaceuticals arm of ICI, recently re-named Zeneca, issues its
+salesforce with Sanyo 386 portables. The machine comes with a removable hard
+disk and ICI adds its own security software. But that is not considered
+enough. ICI issues internal guidelines on the security of information,
+dividing it into what can be carried off-site and what can be held on a
+laptop.
+'You're in the game of prevention,' says Mr Graham Burton, information
+systems manager at ICI/Zeneca. 'You should prevent sensitive information
+beng put on portables in the first place.' He acknowledges that this places
+a limitation on the use of the system, but that is a price he is willing to
+pay.

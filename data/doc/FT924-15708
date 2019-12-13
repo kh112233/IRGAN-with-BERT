@@ -1,0 +1,159 @@
+FT  02 OCT 92 / Survey of Software at Work - Autumn 1992 (15): Key role in
+the company - An integrated payroll, personnel and pensions package can
+change a personnel unit's outlook and raise challenges for line managers /
+Application Case Study; Mercantile and General Reinsurance
+MERCANTILE and General Reinsurance has moved from separate payroll, pensions
+and personnel systems to a single integrated package run by a small
+personnel department. The move has enabled the department to evolve from a
+largely administrative unit into an operation playing a key role in the
+whole management of the company, its people and its costs.
+Mercantile and General claims to be the biggest reinsurance company in the
+UK and in the top six, worldwide. In the UK it has 750 staff at offices in
+London and at Cheltenham, Gloucestershire, and pensions information
+involving another 250. For much of the 1980s the company was using a
+computer bureau for payroll and its own mainframe computer system for
+personnel. Pensions were run manually by actuaries.
+'On the payroll side, we had two staff filling in forms, which went to the
+bureau to be keyed in,' says personnel and administration manager Mr Mike
+Marshall, who is based in Cheltenham. 'We then got reports back for
+checking, sent those back for correction and so on.
+'This process meant we had to send the information three weeks before our
+pay day. We just got half-a-dozen very basic reports. We felt we were losing
+control and wanted to bring the system in-house.
+'Meanwhile, we had a bespoke personnel system running on our own mainframe
+computer. This produced rigid reports which could not be changed easily.
+There were no links with the payroll system.'
+Mr Marshall had a simple aim when he started looking for a new system: 'I
+wanted something that would provide information on people from cradle to
+grave.'
+This aim led the company to seek a system which could handle the payroll,
+personnel and pensions functions from a single database of staff information
+rather than separate files, as in the past.
+As a simple example of such integration of functions, recording personnel
+data on a new recruit would mean he would be added automatically to the
+pension scheme as soon as he became eligible; in addition, a person's
+pension could be calculated at any time from payroll and personnel data.
+Mr Marshall also wanted a system which could be controlled from the
+personnel department - 'personnel never gets much in central computing
+resource, because the core business systems quite rightly get priority.'
+The company started by looking for mainframe computer packages but came
+across a personal computer product called Delphi from Midland Software.
+'The attraction of a PC system is that the central computing department
+doesn't have to be involved at all,' says Mr Marshall. The initial emphasis
+was on payroll, with some personnel jobs, such as salary planning, being
+done from the payroll data. However, as experience increased and more
+personnel tasks were added, screen response times fell away and the
+department out-grew the personal computer system. So it switched to the
+mainframe version of Delphi, running on Mercantile and General's IBM-type
+computer from manufacturer Amdahl.
+However, the department still wanted to keep total control over its system
+and not become dependent on the computing department - 'with a mainframe
+package we faced the prospect of having to call the operators to ask them to
+run our programs every time we wanted to do something,' says Mr Julian
+Soltau, a personnel officer recruited specifically to handle the computer
+system and to do market research into salary trends, benefit packages and so
+on.
+'We therefore worked with the computer department to devise a front-end
+system which enables us to pick an option, such as running the payroll, on a
+workstation at our end and get it processed automatically on the mainframe.
+All the reports and pay-slips are directed through the network back to our
+office and printed there.
+'This arrangement means that even though the system is running on the
+central computer, the only time the operators are directly involved is when
+we run the payroll and it displays a message on their console asking them to
+load a tape to collect data for sending to the BACS automated payments
+service.'
+When Mercantile and General received the mainframe version of Delphi the
+personnel section consisted of blank screens. This was in the early days of
+the product: Midland Software now supplies screens already laid out, to get
+customers started more quickly.
+'Midland Software provides a powerful tool for creating screens,' says Mr
+Soltau. 'We had payroll, personnel and pensions data in different places, so
+we did some data analysis with the computing people. We had some
+brainstorming sessions in our own department and we used our imaginations to
+work out what we wanted.'
+The Delphi report and screen generators have enabled Mr Soltau to produce
+numerous and often complex enquiry facilities and management reports. He
+describes the generators as 'very powerful but long-winded': for example for
+some analysis work it is quicker to extract data from Delphi and load it
+into a Lotus 1-2-3 spreadsheet. But he adds that Midland Software recognises
+this and is work ing on it.
+Mr Soltau describes himself as a personnel man with a great interest in
+computing and some aptitude for it. This combination of characteristics has
+done much to enable the personnel department to maintain its control over
+its system and to develop new reports and enquiry screens: Mike Marshall
+knows of some Delphi users who rely on their computing departments to
+prepare reports and screens for managers. Mr Marshall says the wealth of
+information which can be obtained from the system has brought a move from
+passive to active personnel management.
+At business management level, budgeting has become increasingly important,
+he says, and the personnel system now makes a significant contribution. It
+provides regular information on expenses by department for the management
+costing system, showing, for example, just how much it has cost to promote a
+particular person, in terms of company car, National Insurance and so on.
+At a detailed level, here Mr Marshall's team can produce reports showing the
+effect of providing cars of different engine sizes and the cost of replacing
+cars every three years.
+'I might be talking about company cars to a department manager and he might
+not believe the number and the costs,' Mr Marshall says. 'I can show him how
+the number has grown and the impact on his costs.'
+Some divisions of the company practise job rotation to give potential high
+flyers experience of different aspects of the business. Their job-moves and
+training are recorded by the system.
+Mike Marshall hopes to add appraisal information and this helps with
+succession planning - 'if we are likely to need someone in London with two
+years' underwriting experience, who can speak French, we can search the
+database for candidates,' he says. 'If there is no match, we can find people
+with some of the required characteristics and plan some training in the
+missing ones.'
+Another example of active personnel management lies in the production of
+reports showing the proportion of women in different grades. Such
+information can be used to alert managers to the possibility that they are
+discriminating against women.
+Mr Marshall has numerous examples of the reports and enquiry screens which
+have been built on to the system.
+'With an integrated system we can take any data item and link it with any
+other,' he says. One issue now is whether the business managers can
+themselves adapt to this active type of personnel management.
+'Some managers have not yet fully grasped the implications of the
+information we're giving them,' says Mike Marshall says. He is looking at
+ways of getting these managers more closely involved in their own
+information, eventually by allowing them to keep their own staff data up to
+date and to make their own enquiries through the networked personal
+computers which they already have in their departments for other purposes.
+Again, the personnel department is being pro-active here. It is taking on
+Midland Software's training administration screens, which will integrate
+with the existing payroll and personnel data. Users can define training
+modules and allocate staff to them within specified periods; the package
+also handles bookings and throws up lists of the equipment needed by an
+internal training department for a particular course.
+'This will be our first big step in taking the personnel system out to the
+managers for them to use themselves,' Mike Marshall says. 'They control
+their own training budgets and will be able to arrange training for their
+own staff, directly through the system.'
+One further development which would be useful but which is not planned for
+the immediate future is a connection to Mercantile and General's time and
+attendance system. This system, from Hengstler, involves clocking-in units
+linked to a personal computer. It helps the company to manage its flexible
+working hours. This system is being updated to show long history information
+which could help the company spot, for example, people who regularly take
+sick leave on Fridays.
+The personnel department is now supported in all these developments from the
+top of the company, not least because it is providing top management with
+information on the company's biggest expense: the staff and their related
+costs.
+'It takes a long time to get all the data and reports set up and then to be
+successful,' Mike Marshall says. 'But we get management support. We are a
+low-cost operation, because we have done it all ourselves on the computing
+front.
+'For example, in payroll we have absorbed all the legislative changes,
+maintained the data and ensured everyone gets paid with just one person;
+when we used the bureau we needed two people. Similarly, we have one person
+running pensions and our company mortgage scheme and two personnel officers
+and an assistant. In addition we have Julian Soltau and his assistant.'
+He adds: 'The desire to be pro-active has always been there, but we have
+never had the resources, for example, to go through hundreds of files to
+find out how many people have cars with two-litre engines and work out the
+impact on company costs.
+'Using a system like this means we can provide any information pro-actively
+with minimum resources.'

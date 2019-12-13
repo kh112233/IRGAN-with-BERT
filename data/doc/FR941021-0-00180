@@ -1,0 +1,199 @@
+ 
+
+181. While we have already found that common 2 carrier requirements need not be imposed on space segment operators
+providing service to resellers, there are several other factors that militate against the imposition of common carrier
+requirements, particularly those limiting alien ownership under Section 310(b) of the Communications Act. Specifically,
+these systems are inherently global, and extremely expensive. Systems may be comprised of as many as 66 satellites,
+only a small number of which are visible over the United States at any one time. Because of their global nature, many
+systems are raising capital in international markets.
+<FOOTCITE>249</FOOTCITE>
+ As such, it is reasonable to expect that investors will want to be involved with system operation, particularly if
+the system will be accessed from the investor's jurisdiction. We concur that this foreign participation is likely
+to improve the likelihood of receiving a grant of space station access by foreign administrations.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+249
+
+</FOOTNAME>
+See, 
+
+e.g.,
+
+ Motorola Comments at 67; TRW Comments at 161162 (noting that global geostationary satellite systems, like
+Panamsat, also have found it necessary to form partnerships with foreign companies in order to raise foreign capital).
+</FOOTNOTE>
+
+
+2. System License and License Term
+
+
+182. As proposed in the Notice, and unanimously endorsed by the parties, we will follow the policy we established in
+licensing NVNG MSS systems, which are also composed of constellations of technically identical LEO satellites.
+Specifically, we will issue a single ``blanket'' authorization for the construction, launch, and operation of all
+the satellites in an entity's constellation. This authorization will cover all construction and launches necessary
+to put the complete constellation into place and to maintain it until the end of the license term, including any replacement
+satellites necessitated by launch or operational failures, or by the retirement of satellites prior to the end of
+the license period. All replacement satellites, however, must be technically identical to those in service and may
+not cause a net increase in the number of operating satellites.
+<FOOTCITE>250</FOOTCITE>
+ This blanket authorization will include any in-orbit spares for which the applicant seeks authorization as part
+of its system. Any such spares can be activated as required. Within ten days of activation, the licensee must certify
+to the Commission that the activation did not cause it to exceed the total number of operation satellites for which
+its system is authorized. Any spares or replacements that do not fall under the blanket authorization will need separate
+authorizations to build, launch and operate, but their terms will expire concurrently with the blanket authorization.
+As proposed in the Notice, the license will run from the date on which the first space station in the system begins transmissions
+and will be valid for a ten-year period.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+250
+
+</FOOTNAME>
+Technically identical satellites must have identical satellite antenna footprints and transmission parameters.
+They need not, however, have the identical physical structure or microelectronics.
+</FOOTNOTE>
+
+
+183. Some applicants urge us to permit replacement satellites that are ``functionally equivalent'' to those authorized
+or have ``the same particulars of operation,'' to enable them to more readily include evolutions in design into newer
+satellites. These are the same proposals and arguments we rejected when we adopted the blanket authorization standards
+for NVNG MSS satellites.
+<FOOTCITE>251</FOOTCITE>
+ In the absence of arguments or evidence demonstrating that the NVNG MSS service is not analogous to the Big LEO service,
+we continue to believe our interests in assuring the continued compatibility of the subject systems with other users
+of the spectrum outweigh any convenience for licensees in a laxer standard. A modification application to upgrade
+satellite design will not be unduly burdensome and should not impede technical innovation.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+251
+
+</FOOTNAME>
+See NVNG MSS Order, note 48, 
+
+supra,
+
+ at 8452.
+</FOOTNOTE>
+
+
+184. We also deny the request of LQP and Constellation that a licensee be permitted to put ``spare'' satellites into
+service under their blanket license in order to enhance their systems. These parties would require only that there
+be no overall increase in effective isotropically radiated power (e.i.r.p.), pfd, or any other sharing criterion,
+and argue that this policy would allow licensees to increase path diversity, which can be a significant service improvement
+for CDMA systems. We are not convinced by LQP and Constellation that other operators would not be affected by the operation
+of facilities that have not been specifically analyzed and appropriately authorized. Accordingly, we affirm our
+requirement that any satellites that an applicant wishes to include in its system must be specified in its initial
+application or a modification application.
+185. We proposed in the Notice that license terms will begin automatically with the first transmission from the first
+authorized satellite, and will continue for ten years.
+<FOOTCITE>252</FOOTCITE>
+ All parties agree with the length of the license term. One party proposes that a license term should commence only after
+commencement of actual service or within six months of launch, whichever occurs first. Apparently, the concern is
+that the license term will begin to run before a licensee has launched a sufficient number of satellites with which
+to begin commercial operations. This overlooks our general policy that, because all transmissions are capable of
+causing interference, satellite license terms in all satellite services begin when radio transmissions commence.
+We will not treat Big LEO operators differently by permitting them to engage in any transmissions, whether those transmissions
+are to test the system's functioning or to provide a fully implemented commercial service, without a valid operating
+license. Further, we do not believe that Big LEO operators will be unduly burdened if the license term for the system
+begins to run on the date of the first transmission. If fuel is left on the satellite after its license term has expired,
+we will entertain a request for special temporary authority to continue to operate if that location has not been assigned
+to a new system.
+<FOOTCITE>253</FOOTCITE>
+ Thus, we adopt our rule as proposed.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+252
+
+</FOOTNAME>
+This follows the one-step processing and licensing policy that has been used for satellites since 1980. See 1980 Assignment
+Order, 84 FCC 2d 584 (1981).
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+253
+
+</FOOTNAME>
+In the past, we have granted such requests when continued operations will not prevent a state-of-the-art satellite
+from taking its place. See, 
+
+e.g.,
+
+ Hughes Communications Galaxy, Inc., 9 FCC Rcd 217 (1994); Hughes Communications Galaxy, Inc., 9 FCC Rcd 218 (1994);
+and American Telephone and Telegraph Co., 8 FCC Rcd 8741 (1993).
+</FOOTNOTE>
+
+
+186. We also proposed a filing window for system replacement applications identical to the one implemented in the
+analogous NVNG MSS service. Specifically, we proposed that applications for the next generation Big LEO systems
+must be filed no earlier than three months prior to and no later than one month after the end of the seventh year of the
+existing license.
+<FOOTCITE>254</FOOTCITE>
+ Motorola, LQP and Constellation variously contend that some replacement applications could affect other licensees'
+rights and thus potentially affected licensees should be able to file replacement applications earlier. No party
+has explained, however, why our proposed rules fail to provide adequate opportunity for affected entities to respond
+to proposed replacement systems, thus protecting their rights. We will therefore adopt the filing window for replacement
+systems as proposed.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+254
+
+</FOOTNAME>
+Proposed 25.120(e).
+</FOOTNOTE>
+
+
+187. In the Notice, we stated that we intend to grant replacement applications if frequencies remain available for
+use by such systems, consistent with our practice for other satellite services.
+<FOOTCITE>255</FOOTCITE>
+ Three applicants urge us to adopt an explicit replacement expectancy, with TRW proposing a specific provision that
+would provide such an expectancy upon a licensee's consistent regulatory compliance. The Commission, however,
+has historically rejected establishing an explicit replacement expectancy for space station systems.
+<FOOTCITE>256</FOOTCITE>
+ We have repeatedly noted circumstances such as intervening international agreements or changes in technology may
+affect our determination as to whether a replacement system would serve the public interest. We assure Big LEO licensees
+that given the enormous investment necessary to construct and operate a satellite system, we will consider replacement
+applications in this service similar to other satellite services, that is, we will grant authority to implement a
+next generation system unless extraordinary circumstances prevent us from doing so.
+
+
+<FOOTNOTE>
+<FOOTNAME>
+255
+
+</FOOTNAME>
+Notice, note 2, 
+
+supra,
+
+ at n. 134.
+
+</FOOTNOTE>
+
+<FOOTNOTE>
+<FOOTNAME>
+256
+
+</FOOTNAME>
+See, 
+
+e.g.,
+
+ Assignment of Orbital Locations to Space Stations in the Domestic Fixed-Satellite Service, 3 FCC Rcd 6972 (
+
+1988 Assignment Order
+
+), at n. 31.
+
+</FOOTNOTE>
+

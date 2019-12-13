@@ -1,0 +1,102 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+  [Text] NEC has demonstrated that a natural oxide layer 
+containing suboxide in which silicon has not completely 
+oxidized, is the cause of increased resistance of 0.25&mgr;m 
+contact holes. Although the effects of natural oxide film on 
+contact resistance have been known in the past, this is the 
+first time the effect has been confirmed in an actual prototype 
+device. To clarify this effect, the composition at the bottom of 
+the contact hole was analyzed and its correlation to contact 
+resistance was examined. From the results obtained, it is 
+possible to divide newly adapted cleansing processes into those 
+which are necessary and those which are not necessary. For 
+example, the 
+H&lt;inf&gt; 2&lt;/inf&gt; SO&lt;inf&gt; 4&lt;/inf&gt; -H&lt;inf&gt; 2&lt;/inf&gt; O&lt;inf&gt; 2&lt;/inf&gt; 
+process which eliminated carbon, is judged to be an unnecessary 
+process. 
+  Controlling the resistance of contact holes has been a major 
+problem in the development of the 256M DRAM. This opinion is 
+being shared by an increasing number of process engineers who 
+are developing advanced DRAM products. Contact resistance 
+increases in proportion to the amount of size reduction 
+achieved, and some type of countermeasure is required at the 
+0.25&mgr;m level. In fact, NEC announced at the 1993 IEEE 
+International Solid State Circuits Conference held in February, 
+that when conventional cleansing processes were used on a 256M 
+prototype chip, contact resistance exceeded 1k ohms, the upper 
+design limit. By using numerous cleansing processes such as 
+chemical dry etching, which is known to be effective in the 
+treatment of contact holes, resistance was eventually controlled. 
+  However, it is essential to reduce the number of cleansing 
+processes for mass production. Consequently, it became necessary 
+to clarify the cause of the rise in contact resistance in order 
+to eliminate unnecessary cleansing processes. 
+<H3>  Suboxide Natural Oxide Film Causes Increased Contact 
+Resistance </H3>
+  NEC's ULSI Device Development Laboratory made a series of 
+contact-related presentations at the 1993 International 
+Conference on Solid-State Devices and Materials in August, at 
+the 54th Conference of the Applied Physics Association in 
+September, and at the ECS 184th Meeting in October. (For 
+example, refer to Nakamori, et. al., Lecture No. 29a-ZE-3, 54th 
+Conference of Applied Physics Association, September, 1993). In 
+Summary, it was clarified that (1) the cause of the increase in 
+contact resistance is natural oxide film, and (2) the natural 
+oxide film contains a large amount of suboxide. 
+  With regard to (1), this became evident from the correlation 
+between contact hole bottom composition and contact resistance 
+when measured using the increased temperature elimination method 
+for samples which had been dry etched and those which had not. 
+When chemical dry etching was performed using plasma, resistance 
+dropped about one half. 
+  With regard to (2), contact holes were formed over the 
+entire 
+surface of the substrate, and the same treatment was performed; 
+the bonding status of the natural oxide film was analyzed by XPS 
+upon completion of each process. Immediately after contact holes 
+are formed, silicon bonds with oxygen and fluorine. 2+ and 3+ of 
+the XPS signal, which corresponds to the suboxide, only appears 
+when chemical dry etching is not performed. 4+, which 
+corresponds to complete SiO&lt;inf&gt; 2&lt;/inf&gt; , remained regardless of 
+the dry etching treatment; however, at the end of the increased 
+temperature elimination method, it remained only when chemical 
+dry etching was not performed. From these results, it can be 
+seen that the cause of increased contact resistance is natural 
+oxide film which contains suboxide. 
+<H5>  Chemical Dry Etching Breaks Si-Si Bonds </H5>
+  NEC considers the following type of mechanisms to be 
+responsible for the effectiveness of chemical dry etching on 
+natural oxide films which contain suboxide. 
+  (1) Etching contact holes creates a ``damage layer'' on the 
+substrate sublayer. 
+  (2) The O&lt;inf&gt; 2&lt;/inf&gt;  plasma treatment, which eliminates 
+contamination after contact holes have been formed, creates an 
+oxide film on the contact surface, and suboxide forms on the 
+damage layer below the oxide film. 
+  (3) Oxide film on the surface is eliminated by subsequent 
+cleansing processes. However, the suboxide layer containing 
+insufficient oxygen has Si-Si bonds; the Si-Si bonds come to the 
+surface and cannot be removed by conventional cleansing 
+processes. As a result, a natural oxide film remains below the 
+Si-Si bonds. 
+  (4) Chemical dry etching can break the Si-Si bonds. 
+  (5) Natural oxide film is removed by subsequent cleansing 
+processes. 
+  Other causes for increased contact resistance include the 
+effects of carbon contamination, as indicated by Fujitsu and 
+Toshiba. However, NEC regards the effects of carbon to be 
+minimal. This is because analysis has shown that the amount of 
+carbon which remains at the bottom of the contact hole is 
+5&percnt; or 
+less, which is small compared to the 30&percnt; of oxygen. From 
+the 
+results described above, the following conclusions can be drawn 
+with regard to cleansing processes: 
+  (a) a process which breaks the Si-Si bonds, such as chemical 
+dry etching, is required, 
+  (b) a process to remove oxide film again after Si-Si bonds 
+have been broken is required, and 
+  (c) sulfate processing to eliminate carbon is not necessary. 
+

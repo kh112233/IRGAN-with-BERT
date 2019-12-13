@@ -1,0 +1,50 @@
+CSO 
+
+<F P=106> [Article by Daniel Chabbert: "Rapid Prototyping: Process </F>
+Adapted to Conventional Machinery"--first paragraph is L'USINE 
+NOUVELLE introduction] 
+  [Text] At the heart of the process is software that 
+analytically decomposes fabrication of the component before 
+reconstituting the finished prototype... 
+  A rapid prototyping process that does not require 
+specialized 
+machinery for component fabrication: This is the solution 
+offered by a research team from Cirtes--the Essin Center for 
+Engineering, Research, and Transfers at Saint-Die, Vosges. 
+Dubbed "Stratoconception," it is adapted to work with 
+conventional equipment such as milling and boring machines and 
+digitally-controlled cutting machines. What's new is that the 
+Stratoconcept software can also work with any CAD/CAM 
+[computer-assisted design and manufacture] software on the 
+market. "For the moment, we're focusing our efforts primarily on 
+the Catia CAD/CAM, in partnership with IBM," says Claude 
+Barlier, director of the center and holder of the patent. 
+  Stratoconcept inputs the specifications for the 
+computer-designed part, decomposes it into a number of basic 
+surfaces (of constant or variable thickness) called "strata," 
+and identifies the reinforcements and inserts necessary for the 
+final piece to do its job correctly. These items are then 
+identified and fabricated directly, using two-and 
+three-dimensional processes performed on plating materials 
+(steel, plastic, wood, etc.). Like a three-dimensional puzzle, 
+the various constituent elements are then lined up and assembled 
+(bonded, welded, screwed, etc.) into a real part that embodies 
+all requisite design specifications. The assembly technique, 
+calculated by decomposing the part, takes into account the 
+mechanical stresses it must tolerate during utilization. "In the 
+future, we will not need glue or mounting attachments," Barlier 
+explains. "We're working now on the parameters for strata that 
+can be fitted together automatically." 
+<H5>  Commercialization </H5>
+  Cirtes has already put its technology to work for Eclatec, 
+producing an operational PVC prototype of a lighting mechanism 
+housing--a part that is 400 mm in diameter and embodies complex 
+internal and external shapes. "The prototype took only a week to 
+produce, whereas in the past they took 3 weeks," says Barlier. 
+  But Cirtes can do more than provide customized services for 
+it clients. It is also marketing the Stratoconcept software 
+itself, alone or as part of a turnkey solution. The rapid 
+prototyping platform includes a CAD/CAM work station and a 1,000 
+x 1,250 mm cutting machine for micromilling, priced under 
+800,000 French francs. 
+

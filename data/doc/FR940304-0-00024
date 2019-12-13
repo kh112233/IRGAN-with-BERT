@@ -1,0 +1,74 @@
+ 
+
+Options-Futures Spread
+
+
+
+&bull;Short Call-Long Futures or Short Put-Short Futures.
+
+&bull;The underlying market value of the option plus the margin required for the underlying futures contract less
+half of the amount that the option is in-the-money. Minimum: market value of the option plus 50% of the margin required
+on the underlying futures contact (futures speculator or hedger rate, as the case may be).
+
+&bull;Long Call-Short Futures or Long Put-Long Futures.
+
+&bull;The margin required is the greater of the market value of the option or the margin required on the futures contract.
+
+
+
+Other Combinations
+
+
+
+&bull;Special rules apply to calculate margin requirements for other combinations.
+
+
+
+Position Limits
+
+
+
+The maximum number of options and underlying futures contract net on the same side of the market in all contract month
+combined which a person may own or control shall be as follows:
+
+(a) For speculators: 5,000 futures equivalent contracts.
+
+(b) For hedgers: The greater of 7,000 futures equivalent contracts or of such a limit to be established and published
+on a monthly basis by the Exchange based on 20% of the average daily open interest for all Canadian Bankers' Acceptance
+futures contract during the preceding three calendar months or such other position limits as may be determined by
+the Exchange.
+
+For the purpose of calculating these limits, positions in the options contracts are aggregated with positions in
+the underlying futures contract. For aggregation purposes, the futures-equivalent of one in-the-money options
+contract is one futures contract and the futures-equivalent of one at-the-money option or out-of-the-money contract
+is half a futures contract.
+
+
+
+Reporting Levels
+
+
+
+300 options or 300 futures equivalent contracts for positions involving the option and the underlying futures contract.
+
+
+
+Ticker Symbol
+
+
+
+OBX.
+
+
+
+Clearing Corporation
+
+
+
+Trans Canada Options Inc.
+
+
+
+
+
+

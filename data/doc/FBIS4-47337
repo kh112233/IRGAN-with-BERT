@@ -1,0 +1,28 @@
+CSO 
+
+<F P=106> [Article by A.S. Alpeyev, NTTs S&amp;T Center YaRB [expansion </F>
+not given] RF [Russian Federation]); received Oct.25,1993; UDC 
+621.039.50+621.3.015] 
+  [Abstract] The author proposes a new classification of 
+subsystems of a system for automated control of technological 
+processes in an AES power unit. The classification singles out 
+the human operator as the main component that coordinates local 
+goals control of power unit equipment, participates in control 
+implementation and is responsible for safe operation of the AES. 
+It is well known that the structure of any automatic control 
+function consists of four components:information, situation 
+identification, control decision making and implementation of 
+the control decision. The classification for an operator support 
+system will include four classes of systems: information 
+support, situation assessment support, control decision making 
+support and support of control decision implementation. The 
+goals of each of the above classes of an operator support system 
+are listed and explained. There are several serious problems 
+with practical implementation of these goals by operator support 
+systems. The most important problem is software certification. 
+Among other problems are the impossibility in principle to 
+simulate all failures of automation devices and a legal problem 
+the responsibility for recommendations of the operator support 
+system. A less serious problem is organization of personnel 
+training interactively with support systems. 
+

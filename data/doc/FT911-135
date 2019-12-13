@@ -1,0 +1,132 @@
+FT  14 MAY 91 / Survey of Computers in Manufacturing (6): Fuzzy logic and
+robots spell technological advantage - Japan, modifying production
+philosophies as emphasis shifts back to the human workforce
+IT seemed laughable at the time: a couple years ago a Japanese manufacturer
+replaced some factory line workers with automation machinery, then set up
+full-sized cardboard human dummies to keep the remaining workers from
+getting lonely.
+The completely workerless factory is a decade away, but there are a few
+showcase examples including Fanuc, the machine tool manufacturer's factory
+near Mount Fuji, where robots make robots. But until no-human factories are
+realised on a broad scale, factory automation system makers will focus their
+research on bridging the awkward interaction between humans and the ever
+increasing number of machines working by their side.
+In past years manufacturers put the emphasis on installing labour-saving
+machines to raise production. They focused on maximising the use of people,
+money, time and materials, and humans had to find a way to fit in with the
+complex machinery beginning to surround them.
+'Until now humans have had to adapt to use machines, so the man-machine
+interface was not well matched,' says Mr Hiroshi Matsuyama, a manager at
+Omron the programmable controller maker in Tokyo.
+'Japanese industry is now modifying its philosophy. The centre of production
+has shifted to human workers, and computers should be matched with humans,'
+he says. That means designing new software that allows production machinery
+to be more easily used and changed quickly for different jobs. For example,
+welding or insertion and using artificial intelligence techniques such as
+fuzzy logic to help robots and computers make better decisions, such as
+finding an operational failure, through inferences, as humans do.
+The escalating skilled labour shortage, brought about by a declining birth
+rate and a more affluent and highly educated society, makes robots an
+important component of factory automation, a do-or-die decision for some
+companies.
+Strong competition in industries such as shipping has resulted in waves of
+investment in labour-saving technology such as steel and aluminium cutting
+tools, processing machines and welding robots. The rise in the labour force
+is expected to be 0.8 per cent a year until 1993, then it is likely to fall
+off by half to 0.4 per cent until 2000, according to Japanese government
+statistics. During that time Japan expects to keep about a 4 per cent annual
+economic growth rate.
+'To achieve this it is necessary to introduce automation technology,' says
+Mr Kanji Yonemoto, vice-chairman of the Japan Industrial Robot Association
+(Jira) in Tokyo. An even more remarkable shift in Japan's economy is the
+switch from a manufacturing to a service economy.
+Jobs in services pay better. Mr Yonemoto says there will be 1.5m fewer
+blue-collar workers in manufacturing by 2000 than in 1989, when there was a
+shortage of 715,800 people. Today's young people are a different breed of
+worker from those who laboured long hours for little pay to build Japan's
+industrial miracle.
+They want to avoid so-called '3K' work: 'kiken' (dangerous), 'kitanai'
+(dirty) and 'kitsui' (hard). 'Older men were very patient and had the
+Bushido (warrior) morale, but it is hard to find these people today,' says
+Mr Matsuyama.
+Replacing them with machinery takes time and money. Omron, which produces
+programmable controllers and other electronics products, sees the
+improvements that can be made in factory automation as almost limitless and
+including diagnosing system failures and other management tasks.
+The improvements span a broad factory automation market valued at almost
+Y2,000bn and covering every aspect of making a product from design through
+production and inspection. The important components of automating a factory
+are numerical controllers, the largest chunk of the market, as well as
+computer-aided design and manufacturing software and equipment, industrial
+robots, programmable controllers, automated warehouses, computers and
+automatic guided vehicles that transport products throughout a plant site.
+Japan leads the world in both producing and using these production
+components. It has replaced Germany as the biggest exporter of machine
+tools, an important indicator of industrial development and economic power.
+Japan has an estimated 23 per cent of the world market compared to the 16
+per cent held by Germany.
+Five Japanese companies are making machine tools in Europe. Mazak Yamazaki,
+for example, has a Dollars 50m factory in Worcester, in the UK which
+produces some 100 computer-controlled machines a month, according to
+industry estimates. Japan's worldwide share of the fast-growing robot market
+is even more impressive: it has 57.5 per cent of the robot installations
+worldwide, with western Europe having 14.5 per cent and the US 9.5 per cent.
+Japan's main advantages are that workers in automotive, electronics and
+other factories are accustomed to and readily accept automation technology,
+product demand is still strong in the home market, and Japanese
+manufacturers make most of the machines they use for automation, so there is
+little competition from imports.
+The electronics industry is the biggest user of automation technology. At
+its Ome design and manufacturing works west of Tokyo, Toshiba uses its own
+laptop computers for design, development and assembly of new Toshiba
+laptops.
+The laptops are used to compute how easily a new computer model can be
+assembled by a line of 12 workers, who can slap together one notebook-size
+Dynabook computer in a few minutes. That's important, because the company is
+making about 1m laptops a year at Ome, and the life span of each new product
+is getting increasingly shorter amid hot competition.
+'Often it's the case with some products that the effective life span is
+already over by the time it goes to the market place,' says Mr Masao Suga,
+who heads the personal computer research and development department at Ome.
+However, the shortening product life spans, which run from six months for a
+Japanese word processor to about three years for laptops, made it
+increasingly difficult for Toshiba to continue using robots. Toshiba
+replicates about 70 per cent of design work from current models in new ones.
+While it took Toshiba three years to develop the T3100 and J3100 laptops
+from scratch, it took only nine months to design the smaller-size Dynabook.
+Though its factory is about 70-80 per cent automated, visitors to the
+company often comment about the number of people still present on the
+manufacturing lines, but Mr Suga says that with the fast-paced product life
+cycles, humans are needed. 'There are problems with automated systems. They
+can't catch up with new technology, so humans are acting as universal super
+robots,' he adds.
+Fuzzy logic may help close the gap. Mr Yonemoto of Jira says fuzzy logic,
+software that can help make a decision from unclear information, will help
+increase the versatility of robots in the future by affording better control
+of their movements. Omron, a leader in using fuzzy technology, has developed
+a test robot that can grasp soft or fragile items, such as tofu (bean curd).
+In a New Year's address to employees, Mr Yoshio Tateisi, company president,
+identified fuzzy logic as an important research area for the 1990s. By 1994,
+more than 20 per cent of Omron's product line will include some type of
+fuzzy logic. According to Mr Matsuyama, fuzzy logic has many benefits. As
+part of a computer-integrated manufacturing (Cim) system it can be used in
+production and in managing the company.
+'Another merit of fuzzy technology is to replace a person where computers
+are hard to use, for example, controlling a nuclear power generation plant's
+circulation control system to clean water and to make decisions. Perhaps the
+Chernobyl or Mihama plant accidents could have been avoided with these
+systems,' he says.
+Fuzzy logic, along with more flexible robots and other components, spell
+another technological advantage for Japan in the future: being able to
+change small-scale production quickly, so that multiple products can be
+produced on the same factory line in one day. Mr Matsuyama predicts Japanese
+manufacturers will become very good at this small-scale production, which is
+a difficult technology demanding ultimate flexibility.
+Computerisation would be all the more necessary in production in the sense
+that market information should be more effectively connected with the
+production process or with the factory itself. But large-scale flexible
+production without man will take 8-10 years says Matsushita Electric in
+Osaka.
+The company believes fuzzy logic, along with neurocomputing technology which
+more closely mimics the human brain, will be the main technologies once they
+are refined.

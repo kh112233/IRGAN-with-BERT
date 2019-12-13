@@ -1,0 +1,388 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Noburo Owada, Device Development Center, </F>
+Hitachi, Ltd.] 
+  [Text] 
+<H5>  Introduction </H5>
+  The higher integration and increased capacity of DRAMs 
+recently progressed at the astonishing rate of four times every 
+three years, but the trend has gradually changed in the past two 
+to three years. This is because of the diversification of market 
+needs and because extensions of current technologies are 
+incapable of dealing with new technological developments in 
+terms of both technology and cost. In particular, while 
+multi-layer wiring technology is needed for the development of 
+memory and logic devices by making the basic processes common, 
+insufficient progress has been made in new technology 
+integrating the micro-wiring/micro-connection holes of memory 
+devices and the increased number of wiring layers/increased chip 
+area of logic devices. 
+  In this report the author would like to introduce his ideas 
+on inter-layer insulation film fabrication technology in the 
+256M generation and user needs for such equipment from the 
+viewpoint of a process engineer. 
+<H5>  Themes for Inter-Layer Insulation Film Fabrication Technology </H5>
+  Flatness requirements of insulation film between wiring 
+layers can be classified into the filling of high-aspect ratio 
+wiring spaces and overcoming wiring height differences as shown 
+in Figure 1. The former requires the plugging of microfine 
+spaces with an aspect ratio of more than 1.0 and the latter 
+requires a global flatness which does not cause any 
+interdependence between wiring width and wiring pattern density. 
+In fact, these issues have been dealt with by realistic 
+solutions at a practical level. Nevertheless, as the level of 
+requirements for these technical solutions has been increasing 
+in importance since the generation of 64M DRAMs, these 
+technological requirements cannot be dealt with by present 
+technology, otherwise the number of process steps would greatly 
+increase along with factors causing the yield to drop. 
+
+<FIG ID=JPRS-JST-007-17A>           Figure 1. Themes for Inter-Layer Film Flattening </FIG>
+
+
+
+
+  Table 1 shows the items posing problems if presently used 
+technology for flattening inter-layer films is to be applied in 
+the 256M DRAM generation. 
+
+
+
+  Table 1. Problems in Current Inter-Layer Film Flattening Technology 
+
+Flattening technology                 Fundamental problems 
+
+SOG coating application technology    (1) SOG material which does not need 
+                                      etch-back and which can coat thick film 
+                                      has not been developed 
+
+                                      Organic SOG + etch-back process 
+
+                                      Complication of process, increase in 
+                                      dust generation potential 
+
+                                      (2) Reduction of wiring space has made 
+                                      it difficult to assure inflow domain in 
+                                      SOG coating 
+
+                                      Insufficient resolution of wiring height 
+                                      differences due to denseness/coarseness 
+                                      of wiring patterns (Figure 2) 
+
+O[.sup]3[/]-TEOS                       (1) Flattening by plugging is possible 
+                                      only for specific wiring spaces 
+
+                                      Wiring height differences cannot be 
+                                      overcome (Restrictions in design rule 
+                                      such as space width increases) 
+
+                                      Combination with other processes is 
+                                      required, causing complication of 
+                                      processes 
+
+Sputter-etching combined technology   (1) Plugging characteristics deteriorate 
+                                      following the reduction of wiring space 
+                                      (Figure 3 [not reproduced]) 
+
+                                      The repetition count of SiO film 
+                                      fabrication and sputter-etching should 
+                                      be increased 
+
+                                      Process is complicated and the 
+                                      productivity drops greatly 
+
+                                      (2) Only the inclination angle of height 
+                                      difference can be reduced (45) but the 
+                                      altitude difference cannot be overcome 
+
+                                      Combination with other processes is 
+                                      required, causing complication of 
+                                      processes 
+
+
+  The flattening technology used most widely at present is the 
+technology combining SOG-coated film with etch-back, which 
+provides a flatness with a practically permissible level. The 
+biggest problem in this technology or its combination with other 
+existing technologies with regard to microminiaturization is, as 
+shown in Figure 2, overcoming wiring height difference due to 
+the density and coarseness of wiring patterns. This technology 
+basically consists of the fabrication of SiO(1) film used as the 
+base of the SOG coating, coating of SOG, etch-back, and the 
+fabrication of SiO(2) film. However, as microminiaturization 
+decreases the wiring space, the SiO(1) film plugs the wiring 
+spaces. Consequently SOG inflow domains cannot be secured and, 
+in positions where patterns are laid out with high density, the 
+SOG film is deposited thickly above the wiring pattern. This 
+causes insufficient resolution of the wiring height difference 
+due to the density and coarseness of the pattern. To allow this 
+technology to be extended to the 256M generation, new 
+technologies should be developed for the fabrication of SiO(1) 
+film and other SOG-related matters. 
+
+<FIG ID=JPRS-JST-007-18A>           Figure 2. Fundamental Problems in Overcoming Altitude </FIG>
+
+
+
+
+  In addition to the use of SOG, flattening technology using 
+ozone-TEOS and that combining sputter-etching are also widely in 
+practice. With the former technology, the film cannot be thick 
+due to its insufficient reliability so the method for 
+fabrication on a plasma-TEOS film with excellent film quality is 
+generally used. As a result, while wiring spaces with specific 
+widths can be flattened by plugging when the film fabrication 
+amount is optimum, the flattening capability is lost with wider 
+wiring spaces. To compensate for this inherent problem of 
+flattening using ozone-TEOS, attempts are being made to use 
+multi-step combinations with other processes or to impose a 
+major restriction on the wiring space in pattern design. With 
+the flattening technology combining sputter-etching, when SiO 
+film fabrication and sputter-etching are repeated alternately, 
+space plugging will be incomplete as shown in Figure 3 [photo 
+not reproduced] and the effective film thickness will vary 
+depending on the wiring space. Figure 3 shows a case using three 
+alternate repetitions. Increasing the repetition count allows 
+widening the process margin, but the result would be impossible 
+to use in mass production. In addition, sputter-etching causes 
+dust generation problems and tends to degrade the components 
+inside the chamber, so it is difficult to improve its stability 
+as production technology. Furthermore, this technology is only 
+capable of reducing the inclination angle between sections with 
+different heights and cannot solve the altitude difference 
+itself, so that multi-step combination with other processes is 
+indispensable to solve the wiring height difference. 
+<H5>  Flattening Technology in the Age of 256M DRAMs </H5>
+  Technological developments aiming at plugging of microfine 
+wiring spaces and overcoming the wiring height difference that 
+are required for the 256M generation can be classified into two 
+subjects as shown in Table 2. 
+
+
+
+  Table 2. Topics for Inter-Layer Film Flattening Technology for 256M DRAM 
+Generation 
+
+Subject                  Item                 Development subjects 
+
+SOG coating-related      Development of       --Improvement of coating 
+technology               coating materials    characteristics of patterns 
+                                              with large height differences 
+
+                                              --Improvement of surface 
+                                              mobility during coating baking 
+
+
+                                              Reduction of denseness 
+                                              dependence of wiring pattern 
+
+                                              --SOG material which does not 
+                                              need etch-back and which can 
+                                              be coated in a thick layer 
+
+                                              Inorganic SOG, or quality 
+                                              alteration of organic SOG 
+
+                         Development of       --Control of solvent 
+                         coating baking       volatilization rate during 
+                         technology           rotary coating 
+
+                                              --Film quality improvement by 
+                                              controlling the SOG curing 
+                                              reaction process 
+
+                                              --Measures for prevention of 
+                                              dust from wafer edges/back 
+                                              side 
+
+                         Development of       --Reduction of film deposition 
+                         SiO(1) film          in wiring spaces 
+                         fabrication 
+                         technology 
+
+                                              Securing SOG inflow domain 
+                                              (Figure 4) 
+
+                                              --Improvement of film quality 
+                                              on wiring space sidewalls 
+
+                                              Securing resistance to cracks 
+                                              and moisture with thin wiring 
+                                              sidewall film thickness 
+
+Development of new       Development of       --Basic film fabrication 
+technologies             ECR-CVD technology   technology (uniformity, film 
+                                              quality, plasma damage, etc.) 
+
+                                              --Control of actual wafer 
+                                              temperature during film 
+                                              fabrication 
+
+                                              Heating in initial stage, 
+                                              cooling during deposition 
+
+                                              --Measures for prevention of 
+                                              production of foreign matter 
+                                              derived from objects attached 
+                                              inside the chamber during 
+                                              sputter-etching 
+
+                         CMP technology       --Achievement of basic 
+                                              performance (polishing rate, 
+                                              reproducibility, throughput) 
+
+                                              --Uniformity and polishing 
+                                              property stability with actual 
+                                              wafers 
+
+                                              --Polishing end-point judgment 
+                                              technology 
+
+                                              --Contamination/foreign matter 
+                                              removal technology, equipment 
+                                              installation environment 
+
+                         Other new            --Establishment of basic 
+                         technology           technologies Development in 
+                                              production technology 
+
+                                              Selective TEOS/O[.sup]3[/] 
+                                              CVD-SiO[.sup]2[/] growth 
+                                              technology 
+
+                                              TEOS-H[.sup]2[/]O plasma CVD 
+                                              technology, etc. 
+
+
+  The first is technological developments based on flattening 
+technology using SOG coating. As described above, application 
+limit of this technology is largely dependent on the SiO(1) 
+film-fabrication technology and SOG-related technology. As shown 
+in Figure 4, by developing: SiO(1) film-fabrication technology 
+which can deposit on peaks to ensure the SOG inflow domains in 
+the microfine wiring spaces while maintaining the film quality 
+(such as resistance to moisture and cracks even on the side 
+walls of wiring patterns); and developing an SOG material which 
+does not need etch-back and which can be coated thickly; and 
+developing an SOG coating technology with improved surface 
+mobility to allow migration from dense pattern areas to coarse 
+pattern areas and so on; the process margin of SOG flattening 
+technology can be improved sufficiently and this technology can 
+be applied continuously in the 256M generation. The second 
+subject is the practical implementation of new technology such 
+as ECR-CVD and CMP (chemical mechanical polishing). ECR-CVD is 
+film-fabrication technology in which SiO film deposition and 
+sputter-etching based on ion impact take place simultaneously. 
+Since the phenomenon as shown in Figure 3 hardly occurs in 
+practice, much is expected of this technology in its capability 
+of plugging high-aspect ratio spaces by itself. Figure 5 [photos 
+not reproduced] shows cross-sectional SEM micrographs of an 
+example of the application of ECR-CVD. As ECR-CVD leaves 
+projections on the wiring patterns, additional processing to 
+remove them is required. The technical problems with ECR-CVD 
+technology include damage, wafer temperature control, foreign 
+matter countermeasures and productivity, as well as the basic 
+properties of the film. CMP technology is attracting strong 
+attention as a new flattening technology but its practical 
+implementation presupposes inter-layer insulation-film 
+fabrication technology which can plug microfine wiring spaces. 
+The development issues of CMP include uniformity, polishing, 
+control, influence of density differences on the pattern, 
+removal of contamination and foreign matter and the equipment 
+installation environment. Its potential as production technology 
+with high process accuracy is being studied also, taking the 
+thickness variations of the silicon wafer itself (around 20 
+m) and warp with actual wafers (around 100 m) into 
+consideration. 
+
+<FIG ID=JPRS-JST-007-20A>           Figure 4. Suitable SiO(1) Film Deposition Shape for SOG </FIG>
+
+
+
+
+  As described above, two promising flattening technologies 
+for 
+the 256M generation are technologies based on SOG, and ECR-CVD 
+and CMP. However, these two technologies may be used by 
+selecting one according to the level of the individual 
+flattening requirement. On the other hand, new technologies are 
+being developed which can plug microfine spaces and overcome 
+wiring height differences simultaneously in a single 
+process.[.sup]1,2[/] What the process engineers are really 
+seeking is such a single-process breakthrough, and it will take 
+such to achieve an effective simplification. 
+<H3>  Perspective of Inter-Layer Insulation Film Fabrication 
+Equipment </H3>
+  As described in the above, flattening technology in the 256M 
+generation is following the sequence of searching for a 
+breakthrough technology while maintaining a development strategy 
+based on existing technology, and covers a wide range of 
+technologies including plasma CVD, coating, ECR-CVD, polishing 
+and others. Therefore, depending on what kind of process is 
+selected, the equipment used will vary and hardware requirements 
+will also differ. Basically, equipment which can assure 
+reproducibility and stability for the resolution of the 
+processes described above is urgently required. 
+  From the aspect of production technology, the processing 
+capability, including the operating ratio and dust prevention 
+measures, will be more important than ever. The operating ratio 
+should be considered as a reduction of the time during which 
+wafer processing is impossible, rather than a reduction of 
+failure time. That is, maintenance and inspection time, 
+including the exhaust/harm removal systems, should be counted in 
+the time wafer processing is impossible. 
+  Dust prevention measures will be based on previously 
+acquired 
+technology such as dust-free robot arms and frictionless valves, 
+and foreign matter reduction measures should not be dependent on 
+existing knowledge or process, but be dealt with from an aspect 
+of hardware such as the component materials or equipment 
+concept. In this context, self-cleaning of the process chamber, 
+which has recently been put to general use should be treated as 
+an important process technology. Self-cleaning itself is an 
+important plasma process and a design cognizant of in-plane 
+uniformity, end-point judgment technology, and matching with 
+other components inside the chamber will be required more than 
+ever in the age of 256M DRAMs. 
+  As for recent trends in general production facilities, while 
+advances in equipment are being promoted through the development 
+of automated equipment, wafer-level handling, cluster tools and 
+intelligent equipment incorporating process monitoring and data 
+communications functions, the requirements for cost reduction 
+and energy saving are also growing rapidly. Certainly, 
+inter-layer film flattening technology presupposing a multi-step 
+process combining plasma-TEOS film, ozone-TEOS film, 
+sputter-etching etc., automation, wafer-level processing, 
+clustering and the use of artificial intelligence for achieving 
+process accuracy, will be necessary. But these will result in a 
+drastic increase in equipment cost and virtually ignore process 
+simplification. What is required in the age of 256M DRAMs is not 
+an apparent simplification such as the clustering of complicated 
+processes, but completely new technology to simplify the 
+processes. 
+<H5>  Conclusion </H5>
+  In recent years, the development of LSIs and reduction of 
+production costs have become critical requirements determining 
+the survival of the semiconductor industry, and the 
+technological requirements for flattening of multi-layer wiring 
+are also getting more and more severe. In this situation, both 
+equipment manufacturers and device manufacturers fully recognize 
+that processes based on a combination of existing technologies 
+cannot address the industry of the future. 
+  Therefore, improvements of present technologies can deal 
+with 
+problems from the 16M generation to the beginning of the 64M 
+generation but, when the 256M generation is considered, both 
+equipment and device manufacturers will have to stress the 
+simplification of technologies themselves or the implementation 
+of new technologies that allow simplification, rather than the 
+pursuit of apparent simplifications by clustering or automation 
+of multi-step processes. Conceiving new approaches to 256M 
+production is expected to give a new vitality to inter-layer 
+insulation fabrication technology in the age of 256M DRAMs. 
+References 
+  1. M. Suzuki et al., Tech. Digest, IEDM (1992) p 293. 
+  2. M. Hatanaka et al., Proc. VLSI Multilevel Interconnection 
+Conference (1991) p 435. 
+

@@ -1,0 +1,927 @@
+Updated 
+<DATE1>  29 March 1994 </DATE1>
+<F P=100></F>
+<H3> <TI>     Development of Materials Testing Technology </TI></H3>
+<F P=102>  946C0002H Tokyo GENSHIRYOKU KOGYO in Japanese Aug 93 pp 
+68-79 -- FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 946C0002H </F>
+<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
+ Language: <F P=105>Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Shiro Jitsukawa and Minoru Kizaki, Tokai </F>
+Research Establishment, and Akira Umino, Oarai Research 
+Establishment] 
+  [Text] 
+<H5>  Part VII (2) </H5>
+  Materials testing usually involves an assessment of the 
+particular properties of raw materials or materials (materials 
+to constitute industrial products) that are part of products 
+according to certain standards. At the same time, standards and 
+testing methods are also necessary to assess the results of 
+research on materials and mechanics, and to evaluate the 
+reliability of products. Therefore, along with the expanding use 
+of materials, and the progress of research, there is a growing 
+number of material properties to be studied, which in turn leads 
+to an increase in the number of measurement methods available, 
+and progress in materials testing technology. 
+  At JAERI, research and development is aimed at finding 
+"practical applications for energy systems, including future 
+energy generation systems based on nuclear reaction and the 
+production of innovative nuclear fuels." As discussed earlier, 
+the materials used for process heat reactors, or the nuclear 
+fusion reactors under construction or development, may behave in 
+unexpected ways since their operating conditions are an area in 
+which we have no experience. Therefore, materials testing at 
+JAERI is intended for the "development of a method to detect and 
+evaluate unknown behaviors of materials" by introducing the 
+results of research in more basic material development, coupled 
+with behavior analysis, to meet the needs of such future 
+reactors, in addition to the "established methods of materials 
+testing." 
+  As already noted, the objectives of research at JAERI 
+include 
+the development of (1) a high-temperature gas reactor, and (2) a 
+nuclear fusion reactor. It is also engaged in safety research 
+for the light water reactor. One of the major objectives of 
+materials testing is to evaluate the reliability of the 
+materials used in these reactors. Many of the materials covered 
+are either structural materials or materials that require high 
+levels of strength. The following are examples of experiments 
+conducted to develop tests to measure the strength of various 
+materials. 
+<H3>  1. Development of Strength Testing Equipment for Irradiated 
+Materials </H3>
+  We will first introduce the instrumented Charpy testing 
+device as an example of equipment designed to improve monitor 
+testing, the high-temperature underwater tension testing device 
+developed for research on irradiation-assisted stress corrosion 
+cracking as an example of equipment designed for both 
+engineering evaluation and basic research applications, and a 
+post-irradiation materials testing device that uses micro test 
+pieces as an example of a key technology development, as well as 
+an operating technology development for the accelerator-type 
+neutron source. 
+<H3>  (1) Improvements in Monitor Testing Technology (Development 
+of Instrumented Charpy Testing Device) </H3>
+  Steel materials for the pressure vessels of light water 
+reactors and high-temperature gas reactors are exposed to 
+radiation by high-energy neutrons during operation, and suffer a 
+reduction of their tenacity (reduction in rapture resistance). 
+With the light water reactor, the tenacity of pressure vessel 
+steel is estimated by monitor testing to judge whether or not 
+the reduction of tenacity may lead to a nonductile rupture 
+(instant brittle rapture). 
+  Charpy testing is used for this purpose, and the judgment as 
+to whether or not nonductile rupture will occur requires an 
+estimate of the rapture tenacity value from the test results. In 
+estimating the rapture tenacity value, the change in ductility 
+brittleness transient temperature (DBTT) in test pieces is 
+obtained from Charpy testing, and then the change of DBTT in the 
+pressure vessel is estimated using the designated method. (The 
+portion of concern in the pressure vessel is not the inner 
+surface of the pressure vessel, but a place somewhat deeper in 
+the vessel wall. The neutron dose is smaller, and its energy is 
+lower here, considering the location of the monitor test 
+pieces.) Next, reference values for the rapture tenacity value 
+are obtained and form a calibration curve 
+(RT[.sup]NDT[/]-K[.sub]IR[/] curve). 
+  In this process, estimates are made for deviations in the 
+DBTT change by the difference (in location) of the neutron 
+environment between the pressure vessel and the monitor test 
+piece, as well as the relationship between the DBTT change and 
+the rapture tenacity value. It is believed that such estimates 
+provide proper maintenance (on the safety side). A precise 
+safety allowance evaluation and improved economy can be expected 
+if small rapture tenacity test pieces can be collected directly 
+from part of the pressure vessel material (as is being done in 
+tests of Russian light water reactor annealing experiment) and 
+measured directly to determine their rapture tenacity value. 
+  It is well known that test pieces that are larger in size 
+and 
+faster in distortion speed (as in the case of an impulsive load) 
+have a lower rapture tenacity value, since rapture tenacity 
+values depend on the mechanical restrictions (size of test 
+pieces), and the distortion speed. Rapture tenacity values used 
+for rapture prevention evaluation for structures should 
+approximate the minimum value. As for the size of test pieces, 
+the size of Charpy test pieces is practical for use. Also, it is 
+useful to be able to obtain rapture tenacity values from Charpy 
+test pieces under the condition of an impulsive load. Although 
+the problem of size effects remains in that case, there is a 
+possibility of mitigating it by applying elastoplastic rapture 
+mechanics. To this end, technological development aimed at 
+implementing instrumented Charpy tests has been conducted. 
+  The testing of irradiated materials introduced here is 
+conducted in a hot cell in the hot laboratory facility. The hot 
+cell is a room surrounded by radiation shielding walls. Normally 
+it is equipped with an observation window for test operations, 
+and a manipulator to replace manual operation. 
+  Figure VII (2)-1 is a top view of part of JAERI's JMTR hot 
+laboratory (see Figure VII (2)-7 for its cell structure). The 
+numbered sections are hot cells, and the equipment listed in 
+Table VII (2)-1 is installed in them. Charpy test equipment that 
+can be used to monitor testing is installed in the hot cell 3, 
+as well as in the hot test room at the Tokai Research 
+Establishment. It is used mainly for round robin tests (to 
+compare test methods and dose evaluation) for the IAEA, etc. The 
+hammer used in these test machines has a structure to which a 
+blade with a semiconductor distortion gauge can be installed, in 
+addition to an ordinary blade. The position of the blade during 
+testing can be measured by reading the rotation angle of the 
+hammer electronically. Based on such devices, test loads and 
+displacement during impulsive testing can be measured. This is a 
+description of the instrumented Charpy test device. 
+
+
+
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table VII (2)-1. Test Machines Installed in Hot Cells (Part JMTR Hot Laborat-| 
+|ory)                                                                         | 
+------------------------------------------------------------------------------- 
+|Hot Cell Number                       |Equipment                             | 
+------------------------------------------------------------------------------- 
+|1                                     |Fatigue test machine (fatigue test, f-| 
+|                                      |atigue crack growth test)             | 
+------------------------------------------------------------------------------- 
+|Measuring equipment                   |                                      | 
+------------------------------------------------------------------------------- 
+|2                                     |Storage                               | 
+------------------------------------------------------------------------------- 
+|3                                     |Tension test (tension, compression te-| 
+|                                      |st, etc.)                             | 
+------------------------------------------------------------------------------- 
+|Rapture tenacity test machine         |                                      | 
+------------------------------------------------------------------------------- 
+|Macro video equipment                 |                                      | 
+------------------------------------------------------------------------------- 
+|4                                     |High-temperature underwater low-speed | 
+|                                      |tension testing equipment (SSRT equip-| 
+|                                      |ment)                                 | 
+------------------------------------------------------------------------------- 
+|5                                     |Creep test machine                    | 
+------------------------------------------------------------------------------- 
+
+
+  Table VII (2)-2 lists the specifications of the instrumented 
+Charpy test machine installed in the JMTR hot laboratory, and 
+Figure VII (2)-2 is a photograph of the Charpy test machine. The 
+rotary encoder fixed on the rotating shaft of the hammer is 
+capable of measuring and recording displacement of the test 
+piece at a resolution of 0.1mm, and impulsive load to the range 
+equivalent of 600 kHz. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table VII (2)-2. Specifications of Instrumented Charpy Test Machine (Install-| 
+|ed in JMTR Hot Laboratory)                                                   | 
+------------------------------------------------------------------------------- 
+|Item                                  |Performance                           | 
+------------------------------------------------------------------------------- 
+|Capacity                              |30 kgfm                               | 
+------------------------------------------------------------------------------- 
+|Test piece                            |Standard Charpy test piece, etc.      | 
+------------------------------------------------------------------------------- 
+|Blade frequency response              |600 kHz (-1 dB)                       | 
+------------------------------------------------------------------------------- 
+|Location resolution (blade location)  |0.1mm                                 | 
+------------------------------------------------------------------------------- 
+|Temperature range                     |-140-150C                        | 
+------------------------------------------------------------------------------- 
+|Loading of test piece                 |Remote control                        | 
+------------------------------------------------------------------------------- 
+
+
+
+
+
+  Figure VII (2)-3 illustrates the relationship between load 
+and displacement. The test piece is made of 533B steel, which is 
+used for a pressure vessel without irradiation. The test 
+temperature is the room temperature. In instrumented Charpy 
+tests, the resonance of the blade, the test piece, and the test 
+machine appear to overlap with the load-displacement curve, and 
+it tends to present a problem in that it is difficult to detect 
+the conditions in which cracks occur. However, as long as the 
+tenacity of the material remains within this range, resonance is 
+not much of a problem. However, there are problems when a test 
+piece with precracks induced by fatigue is tested below DBTT to 
+obtain its rapture tenacity value. 
+
+
+
+  When testing irradiated materials, the handling of materials 
+is also a big problem. Charpy testing must be implemented at 
+designated temperatures (between -100C and 100C). 
+Cooling and heating is done in baths, but a test piece that is 
+adjusted for the designated temperature may be affected 
+adversely while being transported to the equipment. Therefore, 
+placement and testing of the test piece must be conducted 
+promptly. The test piece placement device shown in Figure VII 
+(2)-4, which is operated remotely, has been added to solve this 
+problem. Placement takes about four seconds using this device. 
+
+
+
+<H3>  (2) Evaluation Equipment for Irradiation-Assisted Stress 
+Corrosion Cracks (High-Temperature Underwater Distortion Speed 
+Tension Testing Device) </H3>
+  Even in an environment where corrosion is not severe, cracks 
+may develop when a tension stress is applied to the material. 
+This is largely due to a phenomenon called stress corrosion 
+cracking. When the structure and element distribution are 
+altered, the material's sensitivity to stress corrosion cracking 
+sometimes increases. This is called "irradiation-assisted stress 
+corrosion cracking (IASCC)." As already discussed, in an 
+environment characterized by massive doses of high-energy 
+neutrons, such as the primary wall of the nuclear fusion reactor 
+blanket, the temperature rises above 200C. Therefore, even 
+with light water for the coolant, and austenitic stainless steel 
+for the material, there is a high possibility that IASCC will 
+occur and damage soundness if the water quality is not adequate. 
+It is assumed that examination for IASCC may become necessary as 
+the operational period (life time) of light water reactors is 
+extended, even if the environment is not as severe as that in 
+nuclear fusion reactors. 
+  In order to evaluate sensitivity to IASCC in austenitic 
+stainless steel in a high-temperature water environment, 
+equipment for slow strain rate technique (SSRT) testing has been 
+developed. 
+  SSRT testing equipment is designed to conduct tension tests 
+at a slow strain rate in a corrosive environment. When tension 
+tests are conducted at a proper strain rate (generally below 1 x 
+10[.sup]-6[/]/s for 304 steel in high-temperature water), the 
+rapture speed and the restoration speed of the protective tissue 
+(i.e., oxidation tissue) on the material surface enter a certain 
+range, and corrosion begins selectively in the section that has 
+a lower corrosion resistance due to the heterogeneity of the 
+material. As a result, cracks may develop, showing a low 
+ductility. SSRT testing is intended to evaluate the degree of 
+sensitivity for stress corrosion cracking based on this 
+phenomenon. 
+  The newly developed equipment uses high-temperature water to 
+create a corrosion environment. This is because priority is 
+given to replicating the operational environment for austenitic 
+stainless steel in light water reactors, and the projected water 
+cooling environment for the nuclear fusion experimental reactor. 
+The tension testing section of the equipment consists of a load 
+adding device, and an autoclave (with an externally heated 
+electric furnace) to provide the high-temperature high-pressure 
+environment for test pieces. It is installed in the hot cell. 
+The stress corrosion cracking phenomenon is highly sensitive to 
+the corrosion potential of the test piece and water quality. 
+Therefore, as illustrated in Figure VII (2)-5, electrodes to 
+measure the corrosion potential are placed near the test piece 
+in the autoclave to monitor the corrosion potential. The water 
+loop, which has a water control function, is placed outside the 
+hot cell. It supplies high-temperature high-pressure water with 
+a controlled oxygen solution. The water loop consists of a water 
+quality control section, a high-temperature high-pressure water 
+circulation section, and a water quality measurement section. 
+Figure VII (2)-6 illustrates the configuration of these systems. 
+
+
+
+
+
+
+  This test equipment is installed in the JMTR hot laboratory. 
+The specifications of the equipment are presented in Table VII 
+(2)-3. The equipment can replicate the PWR environment by 
+selecting the highest temperature of 300C. Although the 
+operational conditions for the austenitic stainless steel used 
+for the primary wall of the nuclear fusion reactor blanket have 
+yet to be determined, it does not prevent us from simulating 
+this environment as the temperature of the coolant will be about 
+100C, and will correspond to PWR conditions. The oxygen 
+solution is controlled within a range of 0.01-32 ppm, which 
+corresponds to a range where the lower bound is smaller than the 
+actual value for the primary coolant for a BWR, to the peak 
+value for a saturated oxygen solution. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table VII (2)-3. Specifications of SSRT Test Equipment                       | 
+------------------------------------------------------------------------------- 
+|Item                                  |Performance                           | 
+------------------------------------------------------------------------------- 
+|Capacity                              |30 kN                                 | 
+------------------------------------------------------------------------------- 
+|Range of distortion speed             |1 x 10[.sup]-7[/] to approx. 1 x 1  | 
+|                                      |[.sup]-3[/]s[.sup]-1[/]           | 
+------------------------------------------------------------------------------- 
+|Maximum test temperature              |300C                             | 
+------------------------------------------------------------------------------- 
+|Maximum test pressure                 |10 MPa                                | 
+------------------------------------------------------------------------------- 
+|High-temperature water supply         |51/h                                  | 
+------------------------------------------------------------------------------- 
+|Range of oxygen solution control      |0.01 to approx. 32 ppm                | 
+------------------------------------------------------------------------------- 
+|Items of water inspection             |Density of oxygen solution, electric  | 
+|                                      |conductivity, pH                      | 
+------------------------------------------------------------------------------- 
+|Test piece polarization potential and |Measurement and control possible      | 
+|current                               |                                      | 
+------------------------------------------------------------------------------- 
+
+
+  Figure VII (2)-7 illustrates the locations of the tension 
+test section and the control equipment inside and outside the 
+hot cell. Figure VII (2)-8 is a photograph of the interior of 
+the cell, including the autoclave, with a view of the hot cell. 
+The following considerations have been made in designing and 
+producing the SSRT test equipment for irradiated test pieces: 
+  (i) Remote-control operability, including manipulator 
+operation. 
+  (ii) Restriction in size to permit installation in the hot 
+cell. 
+  (iii) Ability to remove contamination by restricting the 
+range of contamination from radioactive materials. 
+
+
+
+
+
+
+  For instance, in the tension testing equipment, reliability 
+of the load adding device is secured, and the effects of 
+external disturbances, such as temperature change, are 
+minimized. Furthermore, the autoclave container has a desorption 
+device, as illustrated in Figure VII (2)-9, to be operated only 
+with the manipulator, and a bi-tongue rubber seal is cooled to 
+improve its durability. In such testing, there is a high 
+possibility that the high-temperature water loop will be 
+contaminated with corrosion products that remain on the surface 
+of the test piece, or from the test piece itself. Therefore, it 
+is necessary to confine contamination by radioactive materials 
+to the area around the autoclave only. To achieve this, filters 
+made of sintered metals are used for the exit of the autoclave, 
+etc., and it is structured to allow an easy exchange of filters. 
+With regard to fixing test pieces, electric insulation is 
+necessary to measure the corrosion potential of the test pieces 
+during SSRT testing. Also, the operability of the manipulator 
+must be considered. Thus zirconium spacers processed with 
+surface oxidation are used. 
+
+
+
+  The following is an example of the results achieved using 
+this equipment. The goal is to determine those operating 
+conditions where stress corrosion cracking sensitivity by 
+irradiation damage can increase. A test piece of 316 stainless 
+steel was irradiated at 300C and 400C with sling 
+damage at about 8 dpa at the Oak Ridge Research Reactor (ORR). 
+  Figure VII (2)-10 illustrates the load-displacement curves 
+obtained in SSRT testing. While the irradiated test piece 
+(EL-14) displayed about a 10 percent extension after the tension 
+test in a vacuum, the degree of extension in the test piece 
+(GFC-15) was reduced (to less than 4 percent of plastic 
+extension) in the SSRT test (at a tension speed of 1.8 x 
+10[.sup]-4[/] mm/min). The curve for a test piece (EL-31) 
+without irradiation is also indicated in the diagram. The 
+fractured surface of the irradiated test piece (GFC-15) tested 
+in high-temperature water is an intergranular fractured surface, 
+as illustrated in Figure VII (2)-11, and this verifies that 
+fracture is caused by stress corrosion cracking. 
+
+
+
+
+
+
+  Development of equipment for SSRT and EPR testing is not 
+sufficient for research on IASCC. In addition, equipment for the 
+evaluation of element distribution, such as an analytical 
+transmission electron microscope, and equipment to extract test 
+pieces from the component materials of operating machines (the 
+electric discharge machine for micro test pieces to be 
+introduced later) have been developed. Furthermore, development 
+of the constant load test machine to measure stress corrosion 
+cracking, and the test equipment for stress corrosion cracking 
+to be used in reactors has been considered. 
+<H3>  (3) Evaluation of Strength of Irradiated Materials Based on 
+Micro Test Pieces </H3>
+  The size of micro test pieces used for material strength 
+evaluation is between 0.1 and several millimeters, which is far 
+smaller than the test pieces used for conventional strength 
+evaluations. In general, strength properties correspond to the 
+size of test pieces. Therefore, it is often not advantageous to 
+use test pieces whose size is far smaller than the real parts of 
+the structure in question. In reality, of course, smaller test 
+pieces are generally used for economic reasons. Therefore, 
+standard testing methods are designed (including the size of 
+test pieces) to eliminate the problems deriving from the 
+reduction of size. 
+  The size of the micro test pieces used for material strength 
+evaluation is rather small, considering the scale of the parts 
+of the structure. In spite of the problems caused by such a gap, 
+far smaller test pieces are used for the following reasons: 
+  (i) They are essential if an accelerator-type neutron source 
+is to be used. 
+  (ii) The amount of radiation is restricted, even with 
+nuclear 
+fission reactor irradiation. 
+  (iii) The sizes of parts used in the equipment in question 
+have become smaller. 
+  Points (i) and (ii) are requirements for nuclear fusion 
+reactor materials development. As described in the previous 
+chapter, an accelerator-type neutron source is proposed as the 
+radiation source for material testing because it can approximate 
+the conditions of a neutron environment, and the amount of 
+radiation there is extremely small. Furthermore, practically the 
+only irradiation equipment that can be used for the development 
+of nuclear fusion reactor materials is the high flux isotope 
+reactor (HFIR) at Oak Ridge National Laboratory (ORNL). The 
+maximum volume that can be irradiated there is only 100 cc, and 
+thus the reduction of the size of test pieces is significant. 
+  The item (iii) has reference to the fact that minimum 
+measurements, such as the thickness of the parts to be used in a 
+fusion reactor is only several millimeters, and thus they are 
+often small parts rather than large structures, such as pressure 
+vessels. Furthermore, as the size of the equipment used in the 
+newer light water reactors (such as ABWR and APWR) has become 
+smaller, it is necessary to pay attention to new kinds of damage 
+that may be different from conventional types. Unlike (i) and 
+(ii), this is an extension of the thought that testing is to be 
+conducted in conditions that approximate the conditions of the 
+real machine materials. In seeking to extend the life time of 
+light water reactors, data on the material strength derived from 
+parts of the real structure may contribute to improving 
+evaluation accuracy. Then, (iii) will respond to such a need. 
+Before a piece of equipment, and the materials that compose it, 
+can be put to use under severe conditions, it is necessary to 
+gather a body of data on a variety of items concerning 
+measurements of materials and the causes of damage. Also, there 
+may be cases that are difficult to deal with within the range of 
+conventional test methods. For instance, it is difficult to 
+evaluate the fracture toughness of materials used for thin wall 
+equipment when using a test method based on linear fracture 
+mechanics. Reducing the size of test pieces will also contribute 
+to a reduction of radioactive materials. 
+  The use of small test pieces and micro test pieces in 
+irradiation tests to evaluate the strength of materials creates 
+problems in terms of measurement effects on test pieces, as well 
+as the handling of test pieces (which may be too small for the 
+manipulator). Measurement effects can be dealt with as follows: 
+[1] to discover the range with smaller effects, [2] to formulate 
+the measurement effects, and [3] to obtain only relative 
+relationships within the same testing. Also, the test method is 
+designed to reduce measurement effects. 
+  With regard to elastic and plastic properties, materials and 
+test piece measurements often fit into case [1]. However, as 
+this is difficult to determine logically, for the time being 
+judgments must be made on the basis of comparisons with the 
+state of distortion in individual cases, and results from tests 
+using relatively large pieces. Irradiation often results in a 
+stiffening of the materials. This is due to the generation of a 
+number of groups of micro defects (on the order of 1 m or 
+less) by irradiation. The generation of such groups of micro 
+defects tends to reduce measurement effects as far as plastic 
+behavior is concerned. In contrast, rapture properties affect 
+measurement effects, and these can be realistically treated with 
+[2] and [3]. Concerning fatigue behavior, there are some results 
+that indicate that certain conditions will reduce measurement 
+effects (although the formation effects are larger in some 
+cases). Handling technology has been developed by producing 
+remote control equipment. 
+  The following is a description of the equipment that has 
+been 
+developed. For testing equipment, we will describe equipment for 
+small punch testing and tension testing, as well as test 
+equipment to obtain DBTT by trimming. Because handling 
+technology for test pieces is important, test piece handling 
+equipment and test piece processing equipment will be 
+introduced. As test pieces or a test piece material, test pieces 
+for the transmission electron microscope (TEM test piece: 
+3 x 
+0.25 mmt) are used. The reason for this selection is that, in 
+spite of the difference with the original purpose, the TEM test 
+piece is a small test piece that is irradiated by set standards, 
+and offers a number of advantages in obtaining the relationship 
+between micro structures and intensity properties. 
+  In the meantime, a comprehensive report on technology in the 
+nuclear field entitled "Evaluation of Strength of Micro Test 
+Piece Materials" has been published by the Atomic Energy Society 
+of Japan, and the American Society of Testing Materials (ASTM). 
+  [1] Strength Test Equipment for Micro Test Piece 
+  The strength test equipment for micro test pieces is 
+designed 
+to conduct small punch (SP) testing, as illustrated in Figure 
+VII (2)-12 (together with the test piece holder) and tension 
+(small-scale tension) testing for micro test pieces. 
+
+
+
+  First, we will describe SP testing. This is a type of 
+bulging 
+test in which the test piece is deformed while it is in a state 
+of two-spindle tension. Therefore, multiple-spindle stress can 
+be increased (distortion bind becomes larger) compared to 
+tension testing, and a reduction of the measurement effects can 
+be expected. Therefore, it is said that property values 
+corresponding to the fracture toughness value can be obtained 
+from relatively small pieces. This method has been applied at 
+the Ames Research Laboratory in the United States, Tohoku 
+University, and JAERI. 
+  In SP testing, the relationship of deflection between load 
+and the test pieces is obtained as illustrated in Figure VII 
+(2)-13. This relationship of deflection consists of four 
+distortion steps. These are the elastic distortion stage, the 
+plastic distortion stage, the plastic film extension stage, and 
+the plastic instability stage, in the order of less distortion. 
+In the plastic instability stage, the load increase for the 
+distortion is reduced, and the load is reduced sharply when 
+rapture finally occurs in part of the test piece. Concerning 
+material properties, stress at yield of the material can be 
+estimated from the conditions of transition from the elastic 
+distortion stage to the plastic bending stage, and the fracture 
+toughness value can be estimated from the energy spent for 
+distortion until rapture occurs (corresponding to the area 
+confined by the load-distortion curve or SP energy) or the 
+drawing value of the rapture section (to be measured after 
+testing). Figure VII (2)-14 illustrates the relationship between 
+the SP energy obtained from the same material, and the Jc value 
+obtained in the standard fracture toughness test. Because 
+materials that present brashiness ductility transition for 
+temperature also present transition of SP energy, the brashiness 
+ductility transition temperature of the material, usually 
+measured by Charpy test, can be estimated from this transition 
+temperature (SPDBTT). 
+
+
+
+
+
+
+  Except for the size of the test pieces, tension testing for 
+micro test pieces is not radically different from ordinary 
+tension testing. The shape of these test pieces is illustrated 
+in Figure VII (2)-15. However, when the material is hardened by 
+irradiation, uniform extension often may not be observed. 
+Evaluation of such materials requires drawing values. Drawing 
+tends to become smaller when the thickness of the test piece is 
+less than its width (when w/t is large) as illustrated in Figure 
+VII (2)-16. As change is not significant when the w/t value is 
+within 2, the width of the test piece is less than twice the 
+thickness. The cross-section of the test piece is smallest near 
+the center. This is done to eliminate the effects of stress 
+concentrated on the holding section, and to generate rapture 
+near the center of the test piece. Measurement effects appear to 
+be small in 316 austenite stainless steel, as long as crystal 
+grains are not particularly large. The results of tension tests 
+using a standard piece and a micro test piece are shown in Table 
+VII (2)-4. 
+
+
+
+
+
+
+
+
+
+  Table VII (2)-4. Results of Tension Tests of Stainless Steel (316 
+Equivalent) (Using Standard Test Piece A and Micro Tension Test Piece B) 
+
+Material            Test     Stress    Tension     Uniform      Total 
+                    Piece    at        Strength    Extension    Extension 
+                             Yield     (MPa)       (%)          (%) 
+                             (MPa) 
+
+Solution-treated    A        238       530         53           58 
+material 
+
+                    B        255       527         56           64 
+
+Cold work           A        719       767         15           27 
+material 
+
+(25% CW)            B        703       757         17           34 
+
+
+  The test piece is attached to the holder illustrated in 
+Figure VII (2)-12. The holder in the diagram is one for SP 
+testing, and a similar holder is used for holding the test piece 
+for tension testing. Attachment of test pieces to the holder is 
+implemented by the micro manipulator, which will be introduced 
+later. The holder with the test piece is mounted on the 
+turntable in the chamber by the ordinary manipulator. Figure VII 
+(2)-17 is a view of the test machine (installed in the hot cell) 
+and the inside of the chamber. The turntable is a disk with 
+holes, on which 12 holders can be mounted. Figure VII (2)-18 is 
+a diagram showing a cross-section of the chamber. After mounting 
+holders on the turntable, the turntable is rotated to place one 
+of the holders directly under the electric furnace (arrow 1 in 
+Figure VII (2)-18). Next, the lower rod moves the holder upward 
+(arrow 2), and presses to fix the holder to the upper rod. Then, 
+the actuator rod is lowered to conduct testing (arrow 3). When 
+testing is completed, the lower rod moves down, and returns the 
+holder to the turntable (arrow 4). The test is conducted by 
+repeating this process. This sequence of actions is controlled 
+by a personal computer so that testing can be implemented 
+automatically or semiautomatically. 
+
+
+
+
+
+
+  The specifications for the testing machine are listed in 
+Table VII (2)-5. The measurement of test piece displacement, 
+such as deflection of SP test pieces, can affect distortion of 
+the testing mechanism by the test load. To reduce such effects, 
+the stiffness of the test machine is increased (using the frame, 
+which has a capacity for three tons). In addition, the rod for 
+displacement measurement with the differential transformer core 
+at the end is placed in the lower rod (pipe), and displacement 
+is measured by pressing the lower rod to the lower face of the 
+test piece (in the case of SP testing). The differential 
+transformer is placed outside the chamber to shield it from the 
+effects of radiation and temperature. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table VII (2)-5. Specifications of Strength Test Equipment for Micro Test Pi-| 
+|eces                                                                         | 
+------------------------------------------------------------------------------- 
+|Item                                  |Performance                           | 
+------------------------------------------------------------------------------- 
+|Capacity                              |5 kN (frame capacity at 30 kN)        | 
+------------------------------------------------------------------------------- 
+|Applicable tests                      |SP, shear punch, and micro tension te-| 
+|                                      |st                                    | 
+------------------------------------------------------------------------------- 
+|Range of displacement speed           |0.01-10mm/s                           | 
+------------------------------------------------------------------------------- 
+|Displacement stroke                   |10mm                                  | 
+------------------------------------------------------------------------------- 
+|Location detection resolution         |1 m                              | 
+------------------------------------------------------------------------------- 
+|Range of test temperature             |-120-800C                        | 
+------------------------------------------------------------------------------- 
+|Test atmosphere                       |Better than 1 x 10[.sup]-5[/] Torr  | 
+------------------------------------------------------------------------------- 
+|                                      |Better than 1 x 10[.sup]-2[/] Torr  | 
+------------------------------------------------------------------------------- 
+
+
+  [2] High-Speed Punch Test Machine 
+  DBTT obtained from TEM test material by SP testing is 
+radically lower than DBTT obtained by the standard Charpy test. 
+Although it is considered possible to implement conversion based 
+on a relative evaluation and the interrelationship of two tests, 
+cooling the test material to a low temperature (the temperature 
+of liquid nitrogen in the case of nonirradiated 2.25 Cr 1 Mo 
+steel) for DBTT measurement may generate a problem in terms of 
+testing efficiency. An increase in distortion speed, and a 
+concentration of stress increase the DBTT value. High-speed 
+punch testing is intended to increase DBTT by applying a 
+punching distortion with a high distortion speed to the test 
+piece which has a notch for stress concentration. 
+  Figure VII (2)-19 is an illustration of the test piece, and 
+the punch test method. The test piece has a notch formed into 
+concentric circles. Since shear distortion by punching occurs in 
+an area of the test piece where stress is concentrated, a 
+relatively high distortion speed can be applied in testing 
+conducted at the same displacement speed. To obtain a sufficient 
+distortion speed, the test piece is punched with a maximum 
+displacement speed of 1 m/s. Absorption energy is obtained from 
+the relationship between the load and displacement at the time 
+of testing. The load is measured by the load cell using a high 
+resonant frequency. At present, displacement is obtained from 
+the relationship between average speed and time. 
+
+
+
+  Figure VII (2)-20 illustrates the relationship between 
+absorption energy and temperature obtained by the standard 
+Charpy test, the SP test, and the high-speed punch test for test 
+materials made of two types of tempered martensitic steel (HT9 
+and 8 Cr 2 WTa steel). When DBTT is set in the center of the 
+transition temperature range (the method of determining DBTT for 
+this test is under examination), then the temperature of this 
+test method is higher than that of the SP test. However, there 
+was almost no difference in temperature between the two types of 
+materials in this test method, although there was a difference 
+of about 80C in the standard Charpy test. This probably is 
+due to a small difference between the size of the plastic region 
+at the tip of cracks, and a small mechanical restriction in the 
+growth process of cracks. In other words, it is judged that the 
+difference was reduced because of the measurement effects. This 
+suggests that it is difficult in general to overcome measurement 
+effects when testing test pieces to determine material 
+properties related to rapture. Therefore, this test is limited 
+to relative evaluations. 
+
+
+
+  The mechanism of this device is not much different from that 
+of the strength test equipment for micro test pieces shown in 
+Figure VII (2)-17. The use of a linearly moving test piece 
+holder instead of a rotary one, and a reduction in the size of 
+the chamber are the main differences. Otherwise, there are no 
+fundamental differences, including clamping of test pieces with 
+the upper and the lower rods. The specifications for the test 
+equipment are presented in Table VII (2)-6. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table VII (2)-6. Specifications of High-Speed Punch Test Machine             | 
+------------------------------------------------------------------------------- 
+|Item                                  |Performance                           | 
+------------------------------------------------------------------------------- 
+|Capacity                              |1 kN                                  | 
+------------------------------------------------------------------------------- 
+|Applicable tests                      |Notched shear punch and small-scale C-| 
+|                                      |harpy tests                           | 
+------------------------------------------------------------------------------- 
+|Displacement speed                    |1 m/s at maximum                      | 
+------------------------------------------------------------------------------- 
+|Range of test temperature             |-150-100C                        | 
+------------------------------------------------------------------------------- 
+
+
+  [3] Micro Manipulator and Electric Discharge Machine for 
+Micro Test Pieces 
+  Practical testing of irradiated materials using micro test 
+pieces requires mounting, inspecting, processing, and disposing 
+of test pieces by remote control. Based on the "Micro Test Piece 
+Materials Testing Technology" project of JAERI, a micro 
+manipulator used to mount and inspect test pieces, and an 
+electric discharge machine to produce micro pieces for tension 
+testing, and small Charpy testing have been developed. 
+  In the process of "treating test pieces" in mounting test 
+pieces on equipment and jibs, it often becomes necessary to pick 
+up a randomly placed test piece, and to transport it to a 
+designed location. The micro manipulator illustrated in Figure 
+VII (2)-21 was developed as a device to effect supplementary 
+control by a personal computer for such operations. The 
+following is an example of a process for handling test pieces 
+using this equipment. Using an ordinary manipulator, test pieces 
+are picked up from the container and placed randomly on the test 
+piece plate (in the lower left corner of Figure VII (2)-21) of 
+the micro manipulator. Next, the image of the test pieces is 
+captured by a video camera located above the test piece plate, 
+and numerical data (coordinates) on the locations of individual 
+test pieces are obtained. The coordinates are transmitted to the 
+XYZ arm, which is equipped with vacuum tweezers. The arm then 
+picks up the test piece, and mounts it on the designated jig. 
+The equipment includes a rotating stage to reverse test pieces, 
+and to obtain transmission X-ray images of test pieces. In 
+addition, a nondestructive program to measure the thickness 
+distribution of test pieces from the X-ray images made after SP 
+testing by the CT method has been developed. 
+
+
+
+  Figure VII (2)-22 illustrates the electric discharge machine 
+for micro test pieces. The reason for selecting electric 
+discharge for processing micro test pieces is that remote 
+control can be done easily, and relatively precise processing 
+can be implemented on various materials since machining is 
+controlled electronically or electrically. The equipment is 
+based on XY control of the test piece stage, and on three-axis 
+NC control of the processing axis (actuator). The test piece is 
+mounted on the processing holder by the micro manipulator, and 
+is processed. As the electrode for processing suffers wear 
+during processing, it is necessary to prevent such wear without 
+sacrificing processing precision to improve operability. One 
+measure designed to achieve improvement involves the creation of 
+a circuit to generate arc prevention potential in the processing 
+power source. 
+
+
+
+<H5>  3. Future Development of Materials Testing </H5>
+  From the standpoint of developing new types of reactors, the 
+major purpose of materials testing is to simulate materials 
+performance to evaluate the reliability of plants. Effective 
+simulation requires an analysis of the damaging mechanism of 
+structures and materials, which in turn depends on basic 
+materials research, including designating test items and 
+measuring methods. The operational conditions for structural 
+materials for new types of reactors, in particular, are affected 
+by unprecedented "damage due to compound mechanisms." Such 
+mechanisms include high-energy neutrons, high temperature, 
+corrosion, stress, and vibration. Therefore, unless the behavior 
+of materials is fully assessed by basic research and 
+experiments, evaluating the reliability of plants could prove to 
+be difficult. Furthermore, as plants are required to have a high 
+level of reliability, a basic examination is necessary even for 
+items, among compound operations, that are normally free from 
+interaction and thus seem less problematic. Therefore, it will 
+become necessary to devise ad hoc evaluation tests on various 
+items. The following presents some perspectives on the 
+development of materials testing in the future, taking as an 
+example the development of structural materials for nuclear 
+fusion reactors. 
+  The materials used to blanket nuclear fusion reactors are 
+exposed to intense irradiation (30 dpa at the experimental 
+reactor and over 100 dpa at the demonstration reactor) by 
+high-energy (14 MeV) neutrons. In addition, they also receive 
+chemical effects from light water and liquid metals, which are 
+used as coolants, in an environment characterized by high 
+temperatures (over 500C for liquid metal cooling, such as a 
+PWR condition for light water cooling) and varying stresses. 
+Neutron radiation causes irradiation hardening, helium 
+brittleness, irradiation-assisted segregation, and void 
+swelling. Such changes and other factors -- such as temperature, 
+chemical environment, and changes in stress -- work together to 
+damage materials in complex ways, such as irradiation corrosion 
+cracking. 
+  The mechanism behind such complex damage is not simply a 
+cumulative operation of various damage mechanisms. For instance, 
+hardening by irradiation not only reduces tenacity, but also 
+alters the fatigue mechanism, and sometimes helps generate 
+fatigue cracking. If such cracking reaches the stage where 
+irradiation-assisted segregation causes corrosion resistance to 
+deteriorate, the development of cracks can be accelerated by the 
+effects of the chemical environment. Also, the introduction of 
+plastic deformation by fatigue may alter creep deformation and 
+void swelling behavior later on. Therefore, in order to evaluate 
+the reliability of materials to be used in a nuclear fusion 
+reactor, it is necessary to designate testing methods and items 
+by evaluating such compound effects, and by determining whether 
+or not compound effects become important. In some cases, actual 
+irradiation testing may be necessary. In an effort to deal with 
+this problem, the following items for evaluation have been 
+examined: 
+  [1] Strength Properties in Corrosion Environment (Corrosion 
+Fatigue and Stress Corrosion Cracking) 
+  Fatigue testing of materials is conducted after neutron 
+irradiation in an environment where light water or liquid metals 
+are used. In the case of a light water environment, gamma rays 
+are applied during testing to adjust the effects of radicals in 
+the irradiation environment. As there may be creep effects 
+during irradiation (of materials and oxidation tissue), simple 
+examination of behavior during irradiation by means of ion 
+irradiation may be considered. 
+  [2] Creep Fatigue During Irradiation 
+  As fatigue load is thought to occur primarily when plasma is 
+generated, it is relatively rare for fatigue distortion to occur 
+during irradiation. Acceleration of creep by plastic distortion 
+is evaluated by alternating creep during irradiation and 
+distortion (extracted from the irradiation capsule, and 
+irradiated again after applying some plastic distortion as 
+post-irradiation testing). 
+  [3] Evaluation of Behavior During Abnormal Operation 
+  Disruption (decay) of plasma is expected to expose part of 
+the primary wall to high temperatures close to the fusing point. 
+The effects of change in the texture caused by such a rise in 
+temperature on swelling and helium brittleness are evaluated. 
+  [4] Texture and Analytical Testing by Transmission Electron 
+Microscope 
+  Evaluation of damaged texture by the transmission electron 
+microscope (TEM), and evaluation of segregation due to 
+irradiation damage by micro region element analysis are 
+conducted. 
+  In addition, of course, other tests such as tension testing, 
+fatigue testing, elastic plastic fracture toughness testing, 
+fatigue cracking growth testing, irradiation creep testing, and 
+permeation density testing (measuring the amount of swelling) 
+are conducted. JAERI is engaged in cooperative research on the 
+development of nuclear fusion reactor materials with ORNL, where 
+some of the above tests are conducted. The facilities for tests 
+[1] through [4] will be made available to ORNL. 
+  Although [4] above is not included in the conventional range 
+of materials testing, it will become important when considering 
+the characteristics of material damage in the nuclear fusion 
+reactor environment without irradiation equipment at present 
+beginning with the stage of texture change in simulated 
+irradiation (spectrum adjusted irradiation and ion irradiation). 
+It can also be pointed out that irradiation-assisted segregation 
+evaluation capability, which is a material behavior control 
+factor in the environment for irradiation corrosion, has reached 
+a practical level through enhancement of element analysis 
+capability (about 2mm of location resolution). For these 
+reasons, there is a need to develop specialized equipment. 
+  In some cases, irradiated TEM test materials can radiate 
+gamma rays at about 200 mSv in air. Therefore, it is essential 
+to develop remote control equipment to produce test materials 
+(by electrolytic brightening) for the electron microscope. (It 
+is necessary to reduce activated sections of the test materials 
+to the micro gram order.) 
+<H5>  4. Conclusion </H5>
+  As mentioned at the beginning, the conditions under which 
+materials will be used in new types of reactors are new and 
+severe. Therefore, materials may display patterns of behavior 
+that are rarely seen in the current environment. The evaluation 
+of new items is a required part of materials testing. It is 
+supported by evaluation technology (as exemplified by the 
+analytical electron microscope and micro test piece material 
+evaluation technology), and by the analysis of material behavior 
+in complex environments by basic research (as exemplified by 
+irradiation-assisted segregation research). Knowledge and 
+technology obtained in this way should help expand the range of 
+applications in various fields in addition to the nuclear field. 
+
+

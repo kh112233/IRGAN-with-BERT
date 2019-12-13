@@ -1,0 +1,134 @@
+ 
+
+(v) 
+
+Test connector reliability. 
+
+(A) A single pair connector 
+shall be capable of making a minimum of 100 successive 
+connections to binding post terminals without the occurrence of 
+an open circuit. The test shall include terminals along the 
+matrix edge, center, top, and bottom. 
+
+(B) A multi-pair test connector shall be attached to the 
+binding post terminal field and tests for opens between the 
+binding post terminals and the test connector shall be conducted. 
+All circuits must prove good. The test shall be repeated along 
+the terminal matrix edges, center, top, and bottom. 
+
+(vi) 
+
+Service cycle reliability. 
+
+A torque indicating device 
+or wrench with an accuracy of 
+
+#
+
+0.17 N-m (
+
+#
+
+1.5 lb-in.) or better shall be used to tighten the terminal screw or nut as appropriate 
+to 1.7 N-m (15.0 lb-in.). The terminal nut or screw is then 
+loosened and retightened to 1.7 N-m (15 lb-in.). After 50 
+repeated connections and disconnections, the terminal shall be 
+placed in an environmental chamber at 95% RH where the 
+temperature shall be cycled as indicated in Figure 3 in paragraph (e)(3)(ii) of this section for a 
+duration of 72 hours. The terminal shall then be momentarily 
+removed from the chamber and the test procedure repeated. After 
+a total of 250 loosening and retightening cycles have 
+accumulated, the terminal must be capable of withstanding a 
+torque of 1.7 N-m (15 lb-in.). 
+
+(4) 
+
+Dielectric strength. 
+
+All housing components in the 
+vicinity of unsheathed field cable conductors, unsheathed housing 
+stub cable or harness conductors, terminals, or cross-connect 
+wire paths shall have a minimum dielectric strength of 500 volts 
+ac to the cabinet grounding and bonding bracket. Dielectric 
+strength is tested by connecting one lead from a 500-volt ac at 
+0.5 ampere source to the cabinet ground connector and the other 
+lead is passed along the surfaces of all cabinet components in 
+the vicinity of unsheathed cable or harness conductors, cross-connect wire paths, and in the splice area where unsheathed
+field 
+cable conductors may be located. Sparkover constitutes failure. 
+
+(5) 
+
+Operational requirements
+
+_(i) 
+
+Durability. 
+
+In order to 
+verify the durability requirements while minimizing the number of 
+test housings required to complete the test program, the binding 
+posts selected for tests shall be separately identified and then 
+checked to establish compliance after the various tests have been 
+conducted. 
+
+(ii) Twenty-five jumper connections shall be made on each of 
+two binding post connectors chosen at random from a 
+representative sample in an assembled interface unit. After 
+exposure to this test, these and adjacent connectors shall be 
+inspected for damage such as cracks or chips in metal or plastic 
+parts. Failure consists of structural damage, open circuits 
+through the connector, or inability to pass the torsional, 
+lateral loading, or axial pullout tests described in paragraphs 
+(g)(3)(ii) through (g)(3)(iv) of this section. 
+
+(iii) Select six binding posts at random in a representative 
+interface. On each connector, attach any test cord included with 
+the unit and then remove the test cord as follows. On binding 
+post sample 1, remove the cord normally ten times. On binding 
+post sample 2, remove the cord ten times by jerking the test 
+leads straight out. In these and the remaining tests, do this 
+without releasing any manual attachment mechanisms. On sample 3, 
+remove ten times by jerking downward at 45
+&cir; from horizontal; 
+sample 4, upward at 45
+&cir; ten times; sample 5, left 45
+&cir; ten times; 
+sample 6, right 45
+&cir; ten times. Check for opens and damage in the 
+test cord, clips, and connectors. Failure consists of structural 
+damage, open circuits through the connector, or inability of the 
+terminal blocks to pass the torsional, lateral loading, axial 
+pullout, test connector reliability, or dielectric strength tests 
+described in paragraphs (g)(3)(ii) through (g)(3)(v)(B), and 
+paragraph (g)(4) of this section. 
+
+(iv) Use craft tools such as scissors, diagonal cutters, and 
+long nose pliers to loosen and tighten screws where the binding 
+post design does not prohibit the possibility. Failure consists 
+of severe structural damage. 
+
+(h) 
+
+Functional design criteria for insulation displacement 
+type cross-connect modules used in SAI cabinets
+
+_(1) 
+
+General 
+description. 
+
+Cross-connect modules normally consist of multiple 
+metallic contact elements that are retained by nonmetallic 
+fixtures. The contact elements are spliced with permanent wire 
+leads compatible for splicing to 22, 24, or 26 gauge cable on one 
+side and configured for the acceptance of recurring connections 
+and disconnections of plastic insulated cross-connect wire on the 
+other side. Cross-connect modules are usually housed in a SAI 
+cabinet. However, modules may receive limited usage in smaller 
+pedestal-type housings and cabinets in the outside plant 
+environment. 
+
+
+
+

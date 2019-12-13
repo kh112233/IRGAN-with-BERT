@@ -1,0 +1,24 @@
+CSO 
+
+  [Text] A series of computer programs for visualization of 
+scientific data is made available by the Dortmund University. 
+They facilitate geometrical modeling and are to simulate the 
+human visual system with its wide data evaluation channel. The 
+Marching-Cube procedure converts surfaces into three-dimensional 
+data arrays, just as they appear in computer-aided tomography 
+and in numerical simulations. The hierarchical Marching-Cube 
+algorithm relaxes the burden of the original algorithm, namely 
+delivering a very large number of surface elements, and thus 
+speeds up the otherwise lengthy process of graphical data 
+displaying. As the Specialty Department Information Engineering 
+VII (Prof Dr Heinrich Mueller, 44221 Dortmund) further reports, 
+a variant of the algorithm was for this purpose developed in 
+Dortmund. This Marching-Hypercube algorithm, the report says, 
+uses time as the additional fourth dimension. By means of 
+free-form deformations and superposition of raster images it now 
+becomes possible to to create a continuous sequence of 
+intermediate images between every two already existing ones. The 
+light simulation process, with an LCD-shutter goggles, should 
+improve the form factors in the radiosity process and be more 
+more precise in critical situations. 
+

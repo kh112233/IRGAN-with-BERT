@@ -1,0 +1,70 @@
+FT  17 OCT 94 / FT Guide to Game theories
+Last week the Nobel Prize for Economics was awarded to three 'game
+theorists': John Harsanyi, John Nash and Rheinhard Selten. What is game
+theory?
+Game theory is about how people make decisions when they have to take other
+people's responses into account. Businessmen often have to make this type of
+calculation - whether or not it makes sense to enter a new market, for
+example, or lower prices, may depend on how other companies react.
+Politicians, trades unions and parents all come up against the same thing
+whenever achieving a desired result means correctly guessing how others will
+respond. Before game theory, economists had observed interactive
+decision-making in the real world, but there were no general models for
+examining the way people were likely to behave.
+Where do the games fit in? Do game theorists really think life is like
+poker?
+Not really. Most of the games used are not games people play, but stylised
+models which capture some element of the theory. The 'prisoner's dilemma',
+probably the best-known game, is a case in point. Strictly speaking it is
+not a game but a paradox about co-operation. The original, as conceived by
+Albert Tucker in 1950, describes two men getting arrested for a crime. After
+locking them in separate cells, the sheriff explains that they can either
+confess to committing the crime with the other man, or refuse. If neither
+confesses, both will get two years in jail. If only one confesses, he will
+go free while his accomplice gets 12 years. If both confess, however, each
+will get four years. The problem is that each will inevitably confess, even
+though they would both be better off if neither talked.
+Does game theory provide an answer to the paradox?
+In technical terms, the outcome is a 'Nash equilibrium'. This means that
+each prisoner would choose to confess even if he knew what his friend had
+decided to do. Elements of the prisoner's dilemma crop up a lot in real
+life. Take cartels. In order to keep prices artificially high, all producers
+might agree to produce only a certain quantity of goods. Afterwards,
+however, it makes sense for each producer to try to gain extra profit by
+over-producing. In the end, all lose out because the price stays low. Game
+theorists do not really resolve problems like this, but they provide formal
+ways of analysing them.
+How does that help? Can you learn anything if you don't understand the
+maths?
+By abstracting from the details of particular cases, the models can
+sometimes identify ways to change the game to deliver a better outcome.
+Allowing the game to be repeated, for example, may help the players get it
+right the next time. In the case of the cartel, producers might behave
+differently if they believed they would need to deal with the other
+producers again. Another possible solution is to change the 'pay-off
+structure', so that each individual faces a higher penalty if he or she
+decides to renege on the deal. At its simplest, game theory shows that
+individual incentives matter. Sometimes the lesson is to change the
+incentives to get a better result. At other times it shows that the players
+would be better off not playing the game at all.
+It still sounds rather abstract. Are there any specific cases where game
+theory has been used?
+Game theory is still a relatively young field. John von Neumann and Oskar
+Morganstern introduced many of the central ideas in a book published in
+1944. Most of the work since has been devoted to refining their ideas to
+produce a more sophisticated set of theoretical tools. But academics from
+other fields have applied the analysis more broadly. Henry Kissinger was one
+of the pioneers, using ideas from game theory in studies of international
+diplomacy in the early 1960s. Business strategists, political scientists and
+macro-economists have followed, using the same techniques to analyse
+anything from industrial disputes to negotiating international environmental
+agreements.
+Give me specific cases.
+Game theory is hampered by the fact that the models themselves are very
+difficult for non-specialists to follow. But in a sense, the lessons of the
+theory are everywhere. UK long-term interest rates are currently higher than
+they might be, because Britain's chancellor of the exchequer cannot credibly
+commit himself to never inflating the economy for short-term political gain.
+Costly strikes happen because neither workers nor employers can trust the
+claims of the other side. Game theory has explained why these games are
+lost; it has yet to show how to win them.

@@ -1,0 +1,159 @@
+BFN 
+
+<F P=106> [Unattributed article: "Advanced Testing for Advanced </F>
+Materials"] 
+  [Text] In a model of how European industries can exploit 
+the expertise of the Joint Research Centre (JRC), the UK's 
+Rolls-Royce and Germany's Motoren und Turbinen Union have joined 
+forces through the Third Framework Programme, using the JRC's 
+Institute for Advanced Materials (IAM) as a subcontracting 
+laboratory. 
+  The international recession and defence cutbacks have 
+intensified international competition in aeroengine 
+manufacturing, which is divided between a small number of 
+European and American firms. To remain competitive, Rolls-Royce 
+is focusing on making engines as fuel-efficient and as cheap to 
+maintain as possible. Motoren und Turbinen Union GmbH (MTU), 
+which is Rolls-Royce's major partner on the upcoming 
+Eurofighter's engines, faces similar challenges. Both see using 
+advanced materials as essential to their future as hi-tech 
+manufacturers. 
+<H5>  Turbine Blades: Critical Components </H5>
+  In an aircraft engine, fuel and compressed air explode 
+inside 
+combustion chambers at high temperature and pressure. The 
+resulting gases are ejected out the back, propelling the 
+aircraft forward. However, as they leave the combustion chamber 
+they also drive a set of turbine blades, which transfer energy 
+to the front of the engine to compress incoming air. 
+  The mechanical load, or stress, on these turbine blades 
+varies enormously, and these stresses occur over a wide range of 
+temperatures, with blade surface temperatures approaching to 
+within a few hundred degrees of the material's melting point. 
+Due to their extreme operating conditions, their importance to 
+safety and the inexact understanding of their lifetime, the 
+blades are regularly checked and replaced when any structural 
+faults, such as microcracks, are detected. 
+  Engine efficiency is proportional to the temperature inside 
+the combustion chamber, so improving engine requires turbine 
+blades which can withstand higher temperatures and whose 
+lifetime is more exactly understood, reducing the need for 
+maintenance checks. Blades must also be as light as possible, to 
+keep engine weight to a minimum. 
+<H5>  Industry Link -- Up Through JRC </H5>
+  According to British materials scientist Andy Bennett, 
+"Rolls-Royce had worked on isothermally testing potential 
+turbine blade materials, where samples were stress-tested at one 
+temperature. However we needed a thermo-mechanical fatigue, or 
+TMF, testing laboratory, which would put the materials under 
+similar conditions to those found in the engine itself. We 
+decided to subcontract to an existing laboratory, and the IAM 
+was the obvious choice -- their resources, both human and 
+technical, make them the best in Europe." 
+  The IAM knew that MTU were also interested in this field, 
+and 
+put the companies in touch with one another. Together with 
+Spanish modelling institute Centro de Estudios e Investigaciones 
+Tecnicas de Guipuzcoa (CEIT), they formed a project under the 
+EC's Industrial Technologies and Advanced Materials Programme 
+(BRITE/EURAM II), with the IAM as a subcontracting laboratory. 
+Project BREU-0338, as it became, was launched in 1991 for four 
+years, with Rolls-Royce as the prime partner. 
+<H5>  Thermo-Mechanical Testing </H5>
+  A turbine blade consists of two main components: a metal 
+core, or substrate is a single crystal of a "super alloy," while 
+the coatings are composed of one or more elements which are 
+easily oxidised, forming a protective oxide layer. 
+  The IAM test equipment simulates the behaviour of the blade 
+under its operational conditions in the laboratory, and observes 
+the growth of any cracks. The sample is heated by 
+electromagnetic induction, while the strain is produced by a 
+hydraulic piston and measured with an extensometer. A load cell 
+measures the stress applied by the piston. 
+  In this way the researchers can measure the 
+substrate-coating 
+combination's actual stress-strain-temperature relationship, 
+which is crucial to predicting the blade's lifetime. 
+  According to IAM project scientist Dr. Johan Bressers, one 
+of 
+the most important and unique features of the system is that it 
+investigates non-intrusively. 
+  "We have developed a computer vision system, composed of an 
+optical microscope coupled to a video camera, which monitors the 
+sample for microcrack initiation and growth," he explains. 
+"This system captures, digitises and displays images of the 
+sample in real-time, and can either scan the entire surface or 
+concentrate on a particular region with a magnification of up to 
+1000 times." 
+  This enables the operators, if they wish, to find cracks as 
+they appear and focus in on them for more detailed analysis. 
+Usually, however, the scanning pattern is programmed in 
+advance, so the equipment needs no supervision. 
+  This system compares well to the "replica technique," which 
+is traditionally used to monitor surface damage. The replica 
+technique requires that the test be halted so that the surface 
+of the sample can be replicated by means of an acetate film. 
+This has to be done dozens of times for each test, a laborious, 
+resource- intensive process which can also compromise the 
+results. 
+  After the test is completed the data is analysed to produce 
+a 
+crack growth history of the primary crack, the one which leads 
+to total breakdown. At this stage the important data are when 
+the cracks appeared, how fast they grew, and whether they joined 
+together. 
+  The sample is also analysed using electron microscopy and a 
+scanning electron microprobe, which also provides information on 
+its micro-chemistry. This three-dimensional information on the 
+crack helps to identify and analyse the mechanisms which affect 
+crack growth, as well as the crucial question of why some cracks 
+grow from the coating into the substrate and others do not. 
+<H5>  Lifetime Prediction Model </H5>
+  Working together, Rolls-Royce and MTU identified two 
+substrates and three coatings to be tested in this way. The IAM 
+laboratory has already performed 55 of the 80 tests, and has 
+also finished a literature survey of over 30 different models, 
+selecting one for further development. 
+  "The test data will form an invaluable database, giving us a 
+feel for how changes in operating conditions, coating materials 
+and other parameters affect blade performance," explains Mr. 
+Bennett. "It will, for the first time, give us an 
+understanding behind the data. CEIT's work has also been 
+important. Previous models were very material-specific, but 
+CEIT has focused attention on which phenomena and parameters are 
+the most important. This should eventually lead to a general 
+model which can be applied to a wider range of materials, 
+because we will be working from a better understanding of the 
+material mechanics." 
+  The final goal is a lifetime prediction model, enabling the 
+industrial partners to select better materials for new engines, 
+although neither MTU nor Rolls-Royce expect the project to 
+result in an `off-the-shelf' product. "By giving us a good 
+picture of the behaviour of these materials under these 
+conditions, the project will make the first step towards a more 
+general model," stresses MTU scientist Dr. Affeldt. "Our 
+company laboratory will continue the work for our specific 
+needs." 
+  Rolls-Royce has similar plans, and may continue its 
+collaboration with the IAM. "We found the IAM very focused to 
+our engineering needs." Andy Bennett adds, "so in the future we 
+may enter into a private arrangement where the IAM tests our 
+more confidential materials, those closer to the edge of 
+development." 
+  The IAM has also launched several sub-projects within their 
+own research programme to provide, as Dr. Brassers explains, "a 
+better basis for the mechanistic understanding and the 
+mechanism-informed modelling of blade lifetimes. These projects 
+will help us prepare for contracts for manufacturers of 
+land-based turbines, such as in power plants, as there's no 
+reason why we cannot serve these industries as well." 
+<H5>  The JRC in Brief </H5>
+  The Joint Research Centre is a European scientific and 
+technical research centre established by the EC. The four 
+research sites in Belgium, Germany, Italy and the Netherlands 
+house eight institutes: The Central Bureau for Nuclear 
+Measurements, The Institutes for Transuranium Elements, Advanced 
+Materials, Systems Engineering and Informatics, Safety 
+Technology, Remote Sensing Applications and Prospective 
+Technological Studies, and the Environment Institute. 
+

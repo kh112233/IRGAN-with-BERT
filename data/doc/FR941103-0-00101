@@ -1,0 +1,107 @@
+ 
+
+One commenter stated that while the UG23(b) calculations may be appropriate for DOT 407 cargo tank with MAWP
+ratings between 25 and 35 psig, this formula will rarely yield reasonable results for DOT 406 or DOT 412 cargo tanks
+having a MAWP of 15 psig or less. Commenters recommended two alternatives to the ASME UG23(b) design calculations,
+both of which are formulas from engineering texts. One is from the ``Alcoa Structural Handbook,'' 1960, page 156 and
+Table 23; the other is from ``Formulas for Stress and Strain,'' Fifth Edition, by Roark and Young, pages 554 and 555
+and Table 35. The ``Alcoa Structural Handbook'' formula is as follows:
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER03NO94.000
+
+
+</IMPORT>
+
+
+
+where:
+R
+
+i
+
+/t
+
+s
+
+ is greater than 200
+E = modulus of elasticity of material at design temperature
+R
+
+i
+
+ = inside radius of the shell (largest radius of non-circular cross-section)
+t
+
+s
+
+ = minimum thickness of shell less corrosion allowance
+S
+
+bA
+
+ = critical compressive buckling stress per the Alcoa formula
+S
+
+c
+
+ = allowable compressive stress due to static bending loads
+
+
+
+The Roark and Young formula is as follows:
+
+
+
+
+<IMPORT>
+
+
+
+E:GRAPHICSER03NO94.001
+
+
+</IMPORT>
+
+
+
+where:
+
+
+
+R
+
+i
+
+/t
+
+s
+
+ is greater than 10
+S
+
+bY
+
+ = critical compressive buckling stress per Roark and Young
+v = Poisson's ratio
+
+
+
+Other symbols are the same as in the Alcoa formula, above.
+Based on the merit of these comments, RSPA is revising paragraph (b) to allow alternative methods for determining
+compressive buckling stress for DOT 400-series cargo tanks which are not required to be certified in accordance with
+the ASME Code. This allows manufacturers more freedom in the design of DOT 400-series cargo tank motor vehicles, particularly
+the DOT 406 cargo tank.
+RSPA solicited information on the structural integrity of cargo tanks and, in particular, the loading combinations
+that may be encountered during operation of cargo tank motor vehicles as prescribed in paragraph (c). Information
+was received from several commenters which indicated that the loadings from normal operating conditions are different
+from loadings experienced in extreme dynamic events. The normal operating loadings are more frequent in occurrence,
+but much lower than the extreme dynamic loadings.
+
+

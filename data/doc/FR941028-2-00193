@@ -1,0 +1,105 @@
+ 
+
+Adequate air mixing, which requires that an adequate number of ACH be provided to a room (Suppl. 3, Section II.B.1),
+must be ensured to prevent air stagnation within the room. However, the air will not usually be changed the calculated
+number of times per hour because the airflow patterns in the room may not permit complete mixing of the supply and room
+air in all parts of the room. This results in an ``effective'' airflow rate in which the supplied airflow may be less
+than required for proper ventilation. To account for this variation, a mixing factor (which ranges from 1 for perfect
+mixing to 10 for poor mixing) is applied as a multiplier to determine the actual supply airflow (i.e., the recommended
+ACH multiplied by the mixing factor equals the actual required ACH) (
+
+51,98
+
+). The room air supply and exhaust system should be designed to achieve the lowest mixing factor possible. The mixing
+factor is determined most accurately by experimentally testing each space configuration, but this procedure is
+complex and time-consuming. A reasonably good qualitative measure of mixing can be estimated by an experienced ventilation
+engineer who releases smoke from smoke tubes at a number of locations in the room and observes the movement of the smoke.
+Smoke movement in all areas of the room indicates good mixing. Stagnation of air in some areas of the room indicates
+poor mixing, and movement of the supply and exhaust openings or redirection of the supply air is necessary. 
+
+
+3. Airflow Direction in the Facility 
+
+
+
+
+Purpose: 
+
+To contain contaminated air in localized areas in a facility and prevent its spread to uncontaminated areas. 
+a. Directional airflow.
+
+The general ventilation system should be designed and balanced so that air flows from less contaminated (i.e., more
+clean) to more contaminated (less clean) areas (
+
+47,48
+
+). For example, air should flow from corridors (cleaner areas) into TB isolation rooms (less clean areas) to prevent
+spread of contaminants to other areas. In some special treatment rooms in which operative and invasive procedures
+are performed, the direction of airflow is from the room to the hallway to provide cleaner air during these procedures.
+Cough-inducing or aerosol-generating procedures (e.g., bronchoscopy and irrigation of tuberculous abscesses)
+should not be performed in rooms with this type of airflow on patients who may have infectious TB. 
+
+b. Negative pressure for achieving directional airflow. 
+
+The direction of airflow is controlled by creating a lower (negative) pressure in the area into which the flow of air
+is desired. For air to flow from one area to another, the air pressure in the two areas must be different. Air will flow
+from a higher pressure area to a lower pressure area. The lower pressure area is described as being at negative* pressure
+relative to the higher pressure area. Negative pressure is attained by exhausting air from an area at a higher rate
+than air is being supplied. The level of negative pressure necessary to achieve the desired airflow will depend on
+the physical configuration of the ventilation system and area, including the airflow path and flow openings, and
+should be determined on an individual basis by an experienced ventilation engineer. 
+
+
+
+<FOOTNOTE>
+*Negative is defined relative to the air pressure in the area from which air is to flow.
+
+</FOOTNOTE>
+
+
+4. Achieving Negative Pressure in a Room 
+
+
+
+
+
+Purpose: 
+
+To control the direction of airflow between the room and adjacent areas, thereby preventing contaminated air from
+escaping from the room into other areas of the facility. 
+
+a. Pressure differential. 
+The minimum pressure difference necessary to achieve and maintain negative pressure that will result in airflow
+into the room is very small (0.001 inch of water). Higher pressures (" 0.001 inch of water) are satisfactory; however,
+these higher pressures may be difficult to achieve. The actual level of negative pressure achieved will depend on
+the difference in the ventilation exhaust and supply flows and the physical configuration of the room, including
+the airflow path and flow openings. If the room is well sealed, negative pressures greater than the minimum of 0.001
+inch of water may be readily achieved. However, if rooms are not well sealed, as may be the case in many facilities (especially
+older facilities), achieving higher negative pressures may require exhaust/supply flow differentials beyond
+the capability of the ventilation system. 
+
+
+To establish negative pressure in a room that has a normally functioning ventilation system, the room supply and exhaust
+airflows are first balanced to achieve an exhaust flow of either 10% or 50 cubic feet per minute (cfm) greater than the
+supply (whichever is the greater). In most situations, this specification should achieve a negative pressure of
+at least 0.001 inch of water. If the minimum 0.001 inch of water is not achieved and cannot be achieved by increasing
+the flow differential (within the limits of the ventilation system), the room should be inspected for leakage (e.g.,
+through doors, windows, plumbing, and equipment wall penetrations), and corrective action should be taken to seal
+the leaks. 
+Negative pressure in a room can be altered by changing the ventilation system operation or by the opening and closing
+of the room's doors, corridor doors, or windows. When an operating configuration has been established, it is essential
+that all doors and windows remain properly closed in the isolation room and other areas (e.g., doors in corridors that
+affect air pressure) except when persons need to enter or leave the room or area. 
+b. Alternate methods for achieving negative pressure. 
+Although an anteroom is not a substitute for negative pressure in a room, it may be used to reduce escape of droplet nuclei
+during opening and closing of the isolation room door. Some anterooms have their own air supply duct, but others do
+not. The TB isolation room should have negative pressure relative to the anteroom, but the air pressure in the anteroom
+relative to the corridor may vary depending on the building design. This should be determined, in accordance with
+applicable regulations, by a qualified ventilation engineer. 
+If the existing ventilation system is incapable of achieving the desired negative pressure because the room lacks
+a separate ventilation system or the room's system cannot provide the proper airflow, steps should be taken to provide
+a means to discharge air from the room. The amount of air to be exhausted will be the same as discussed previously (Suppl.
+3, Section II.B.4.a). 
+
+
+

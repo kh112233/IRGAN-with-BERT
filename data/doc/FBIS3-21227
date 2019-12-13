@@ -1,0 +1,106 @@
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Yasushi Uchida] </F>
+  [Text] Furukawa Electric Industry Co., Ltd. (Furukawa 
+Electric), has developed a highly heat-resistant, plastic-based 
+optical fiber that can be used at temperatures of up to 
+145C. As a result of the adoption of a new, highly 
+heat-resistant plastic for the optical signal transmitting core, 
+the new fiber was found to have signal transmission performances 
+greatly superior to those of silicone-based optical fiber, 
+previously considered the most heat resistant, particularly 
+under conditions of high temperature and high humidity. The 
+fiber is being produced in two grades: one capable of 
+withstanding a temperature up to 145C, and the other, 
+125C. Their prices are approximately 4-9 times that of 
+PMMA-based (poly-methylmethacrylate-based) optical fiber. 
+Furukawa Electric plans to develop applications for the new 
+optical fiber in automotive electrical equipment and optical 
+sensors. 
+  The performance of an optical fiber is essentially 
+determined 
+by its core material. Today, among plastic-based optical fibers, 
+the PMMA core is the mainstream because PMMA has excellent 
+optical transparency and optical transmission capability. 
+However, PMMA is stable to temperatures in the 80-85C range 
+only. Spaces around an automotive engine sometimes reach 
+temperatures as high as 120C, which limits the use of PMMA. 
+Also commercialized are optical fibers based on thermosetting 
+silicone which is stable up to 150-170C. However, such 
+fibers do not have excellent transmission capability, and they 
+tend to show serious deterioration at high temperature and 
+humidity. 
+  According to the explanation given by Furukawa Electric's 
+Optical Technology Research Institute, the plastic used for the 
+fiber core was ``a highly heat-resistant resin that had not seen 
+much optical applications.'' The transmission loss in an optical 
+fiber is mainly caused by the absorption of light as a result of 
+the resonance between the signal light and carbon-oxygen 
+molecular bonds that are usually present in plastic materials. 
+Although full disclosure has not been made on the new fiber, the 
+following has been reported: ``Much effort was given to reduce 
+the molecular bonds that would resonate with signals of 
+wavelengths of 660 and 760 mm, in order to minimize the 
+absorption.'' As a result, the transmission loss with the new 
+fiber was only 0.6 dB/m, which was worse than 0.2 dB/m of the 
+PMMA fiber, but better than that 1.3 dB/m of the silicone-based 
+fiber (see the attached table). 
+  The new fiber did not change its transmission capability 
+even 
+after left standing at a temperature of 145C. If that had 
+been a PMMA fiber, its core would have melted and become 
+incapable of optical transmission after one hour. Furthermore, 
+the new fiber's transmission loss increased by only 0.2 dB/m 
+after left standing for 500 hours in a high-temperature, 
+high-humidity environment at 80C and 95 percent relative 
+humidity. Under the same conditions, a silicone-based fiber 
+would ``absorb moisture resulting in serious optical scattering 
+inside the core, and the transmission loss would increase by 1.5 
+dB/m.'' 
+  Another advantage of the new fiber over the silicone-based 
+fiber is its machinability. An optical fiber needs to have a 
+mirror finish on its end face in order to minimize the end-face 
+scattering loss when optical signals enter the end face. It 
+takes five minutes or so to cut and grind the end face of a 
+thermosetting, hard silicone-based fiber, which can also be 
+easily damaged. In contrast, the end face of the new optical 
+fiber, being thermoplastic like PMMA, can be mirror-finished by 
+simply pressing the face against a heated plate for less than 
+one second. 
+
+
+
+  ---------------------------------------------------------------------------- 
+|Comparison of Characteristics of Newly Developed Plastic Optical Fiber wi-| 
+|th Existing Plastic Optical Fibers                                        | 
+---------------------------------------------------------------------------- 
+|              |Newly develop-|Existing PMMA-|Existing poly-|Silicone-base-| 
+|              |ed plastic op-|based plastic |carbonate-bas-|d plastic opt-| 
+|              |tical fiber   |optical fiber |ed plastic op-|ical fiber (a | 
+|              |              |              |tical fiber (-|test product  | 
+|              |              |              |made by Furuk-|made by Furuk-| 
+|              |              |              |awa Electric) |awa Electric) | 
+---------------------------------------------------------------------------- 
+|Maximum toler-|145           |85            |125           |150-170       | 
+|able temperat-|              |              |              |              | 
+|ure (C)  |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Transmission  |0.6           |0.25          |0.6           |1.3           | 
+|loss (dB/m)   |              |              |              |              | 
+---------------------------------------------------------------------------- 
+|Humidity/heat |0.2           |0.2           |0.3           |over 1.5      | 
+|resistance (i-|              |              |              |              | 
+|n terms of in-|              |              |              |              | 
+|creased trans-|              |              |              |              | 
+|mission loss  |              |              |              |              | 
+|after standin-|              |              |              |              | 
+|g for 500 hou-|              |              |              |              | 
+|rs at 80-|              |              |              |              | 
+|C and 95 perc-|              |              |              |              | 
+|ent relative  |              |              |              |              | 
+|humidity)     |              |              |              |              | 
+---------------------------------------------------------------------------- 
+
+
+

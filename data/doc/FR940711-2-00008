@@ -1,0 +1,134 @@
+ 
+
+Federal Information Processing Standards Publication 214
+
+
+
+[proposed]
+
+
+
+Announcing the Standard for COBOL
+
+
+
+Federal Information Processing Standards Publications (FIPS PUBS) are issued by the National Institute of Standards
+and Technology (NIST) after approval by the Secretary of Commerce pursuant to Section 111(d) of the Federal Property
+and Administrative Services Act of 1949 as amended by the Computer Security Act of 1987, Public Law 100235.
+
+1. 
+
+Name of Standard
+
+. COBOL (FIPS PUBS 214)
+
+2. 
+
+Category of Standard
+
+. Software Standard, Programming Language.
+
+3. 
+
+Explanation
+
+. This publication announces the adoption of American National Standard COBOL, as specified in ANSI X3.231985,
+X3.23a1989 and ANSI X3.23b1993, as a Federal Information Processing Standard (FIPS) This revision
+supersedes FIPS PUB 213 and reflects corrections and clarifications to the COBOL specifications. The American
+National Standards define the elements of the COBOL programming language and the rules for their use. The purpose
+of the standards is to promote portability of COBOL programs for use on a variety of data processing systems. The standards
+are used by implementors as the reference authority in developing processors and by users who need to know the precise
+syntactic and semantic rules of the standard language.
+
+4. 
+
+Approving Authority
+
+. Secretary of Commerce.
+
+5. 
+
+Maintenance Agency
+
+. Department of Commerce, National Institute of Standards and Technology (NIST). 
+
+6. 
+
+Cross Index
+
+. 
+
+a. American National Standard for Information Systems_Programming Language_COBOL, ANSI X3.231985, ISO
+19891985.
+
+b. American National Standard for Information Systems_Programming Language_Intrinsic Function Module for COBOL,
+ANSI X3.23a1989.
+
+c. American National Standard for Information Systems_Programming Language_Correction and Clarification Amendment
+for COBOL, ANSI X3.23b1993.
+
+7. 
+
+Related Documents
+
+.*
+
+
+
+<FOOTNOTE>
+<FOOTNAME>
+*
+
+</FOOTNAME>
+References to most recent revision of FIPS PUBS.
+
+</FOOTNOTE>
+
+
+a. Federal Information Resources Management Regulation (FIRMR) Subpart 201.20.303, Standards, and Subpart 201.39.1002,
+Federal Standards.
+
+b. Federal Information Processing Standards Publication 29, Interpretation Procedures for Federal Information
+Processing Standards for Software.
+
+c. NBS Special Publication 500117, Selection and Use of General-Purpose Programming Languages.
+
+8. 
+
+Objectives
+
+. Federal standards for high level programming languages permit Federal departments and agencies to exercise more
+effective control over the production, management, and use of the Government's information resources. The primary
+objectives of Federal programming language standards are:
+
+
+
+
+_To encourage more effective utilization and management of programmers by insuring that programming skills acquired
+on one job are transportable to other jobs, thereby reducing the cost of programmer re-training;
+
+_To reduce the cost of program development by achieving the increased programmer productivity that is inherent in
+the use of high level programming languages;
+
+_To reduce the overall software costs by making it easier and less expensive to maintain programs and to transfer programs
+among different computer systems, including replacement systems; and
+
+_To protect the existing software assets of the Federal Government by insuring to the maximal feasible extent that
+Federal programming language standards are technically sound and that subsequent revisions are compatible with
+the installed base.
+
+
+
+
+9. 
+
+Applicability.
+
+a. Federal standards for high level programming languages should be used for computer applications and programs
+that are either developed or acquired for government use. FIPS COBOL is one of the high level programming language
+standards provided for use by all Federal departments and agencies. FIPS COBOL is especially suited for applications
+that emphasize the manipulation of characters, records, files, and input/output (in contrast to those primarily
+concerned with scientific and numeric computations).
+
+
+

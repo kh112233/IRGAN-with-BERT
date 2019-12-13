@@ -1,0 +1,81 @@
+FT  02 JUL 93 / Technology: Hologram on wheels - A way of making car
+production more efficient by spotting design flaws earlier
+Even from 15 feet away, Clive Buckberry's song was deeply moving to the
+five-litre can of oil he was serenading. Every surface quivered violently in
+response.
+Buckberry is a research engineer at Rover Group's Gaydon test centre in
+Warwickshire. He was demonstrating, via what has come to be known around the
+Gaydon lab as the 'karaoke can', some of the capabilities of a television
+holography system developed by Rover's applied optics laboratory.
+The screen's depiction of materials, showing a vastly greater response to
+even the slightest pressure than many an engineer might suspect, is a
+spectacular side-effect of the equipment's underlying purpose.
+Rover is using it to design, develop and produce its cars more quickly and
+efficiently. For example, the system can determine the exact points on car
+bodies where drumming and vibrations originate in response to inputs such as
+road surface irregularities, wind pressure and engine and gearbox shaft
+rotation.
+The normal industry practice is to apply large areas of sound-deadening
+panel to damp overall noise levels. The holography system, say Gaydon
+scientists, allows the identification of 'culprit' areas, which may be
+little more than an inch square, and promises significant weight savings in
+present and future models.
+The system's potential applications cover almost every aspect of a car's
+engineering. One of the most telling illustrations of the system's
+capabilities is provided by the action of bolting a cylinder head to the
+engine block. A video camera, when aimed up the cylinder bore towards the
+combustion chamber, relays to the screen pictures showing spectacular
+distortion of the combustion chamber and its environs as the bolts are
+tightened.
+The real physical distortion is magnified on the screen many times. But it
+shows that, in this particular engine, normal tightening is causing
+sufficient distortion for valves to be unseated by up to four thousandths of
+an inch - enough to prevent it ever sealing itself properly into the head.
+The initial reference image and subsequent ones showing the distortion are
+converted by the system's image processing software into a variety of
+optical data, from colour-coded contour 'maps' to rotatable 'wireframe'
+structures.
+Data from such tests and observations have already begun to play a
+substantial role in designing future engines as free as possible of such
+vulnerability to assembly distortions. The system has already been used to:
+Help design the most efficient water flow in engine cylinder heads for
+optimum cooling without distortion;
+Locate exactly where on the engine a combustion knock sensor should be
+placed to pick up early warning of the potentially damaging combustion
+problem;
+Redesign turbocharger impellers to eliminate high-speed 'whistle' and
+vibration;
+Analyse fuel/air mixture dynamics for optimum combustion;
+Track the vibration of light bulb filaments, with a view to increasing
+durability and light emission.
+Holography has been used, on a more limited basis, for this type of work for
+some years. But until now, says Buckberry, it has involved taking a sequence
+of still holographs, developing each one separately, and then comparing them
+with a 'reference' hologram taken before forces were applied.
+But the 'contour lines' of stress variation can be as little as two
+thousandths of a millimetre apart, so keeping the subject stable enough to
+register such minute variation was difficult.
+Working with Loughborough University, Gaydon's technologists hit on the idea
+of substituting the stills with a video camera capable of recording
+distortions being caused in the subject material continuously, and in 'real
+time'.
+In the 'holovision' camera, designed at Gaydon, the normal optical
+components of a video camera are replaced by a fibre-optic system coupled to
+the laser needed to 'read' the subject material's surface holographically.
+The camera is connected by another fibre-optic 'umbilical cord', carrying
+all control and monitoring signals, to two state-of-the-art image data
+processing boards.
+One board monitors the operation of the camera, collects the data generated
+and analyses it. The other controls the operation of the camera. The images
+are stored by the image-processing system at a rate of 25 per second, as
+well as being relayed through the colour monitor for the benefit of
+observers.
+In the 1980s Gaydon, which occupies nearly 1,000 acres of Warwickshire and
+includes a high-speed test track, was changed from an entirely in-house
+research and technology centre to a stand-alone profit centre charged with
+seeking consultancy business from outside customers.
+After the British Aerospace takeover Gaydon again became a mainly in-house
+research and development arm.
+However, Gaydon remains free to sell some technology outside when considered
+appropriate and not prejudicial to Rover's own interests. The company has
+already sold two of the Holovision systems - to Ford.

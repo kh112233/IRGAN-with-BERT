@@ -1,0 +1,124 @@
+FT  23 NOV 93 / Technology: Pilots of the airwaves - Radio networks are
+slowly becoming accepted and may revolutionise communications
+Pocket telephones ring in railway carriages, pagers beep in the middle of
+conferences, fax machines even spew out messages in the boot of a car. Radio
+communications, it would seem, are everywhere.
+So it was with disappointment that critics greeted the August launch of
+Apple Computer's Newton, a personal digital assistant, or PDA for short. It
+soon became apparent that the book-sized message pad could only send brief
+messages and only then to another Newton located nearby using low-powered,
+infra-red beams.
+The problem for Apple was not that there were too few methods of
+communication, but too many. 'Imagine you were on the Newton development
+team. What communications would you have put in?' asks Larry Taylor, manager
+of the Advanced Technology Group at Apple's European research and
+development centre. 'In Utopia, there would just be one means of
+communicating which would meet everyone's needs. Unfortunately it's not like
+that.'
+In Europe alone, Taylor points out, there are at least four digital radio
+systems beginning operation. In the US and Japan, further new services
+proliferate.
+A further hitch has been the size of the plug-in equipment needed to bring
+communications - bigger than the PDA itself. However, the PCMCIA card, an
+electronic board about the size of a credit card, should soon enable the
+Newton to communicate over mobile telephone networks or even PC networks,
+using the latest radio local area networks (Lans).
+PCMCIA cards, which conform to standards devised by the Personal Computer
+Memory Card International Association, are already widely used in electronic
+diaries and organisers for delivering stored information. Now, says Jim
+Derbyshire, director and founder of Cambridge-based Symbionics, the radio
+communications development specialists, they have become the enabling factor
+for PDAs. 'The emergence of that de facto standard opens up the ability for
+radio communications.'
+Taylor acknowledges the appeal of such a system. 'With half a dozen PCMCIA
+cards you could cover just about everything.'
+Companies such as AT&amp;T/NCR and Olivetti, which manufacture radio-based Lans
+to link PCs by radio rather than wire, believe PCMCIA cards will be on sale
+by the middle of next year. They are looking to PDAs and notebook PCs to
+elevate radio Lans from their present Cinderella role into mainstream
+computing.
+'Personally, I think we will see them becoming widespread as the decade
+moves on,' says Andrew Bud, division manager of wireless systems at
+Olivetti.
+Even when PCMCIA cards are available, there will still be the problem of
+whether enough applications are available to ensure consumers and businesses
+want to buy the PCMCIA cards, says Bud.
+Taylor agrees that it is a 'chicken and egg' situation, but believes a third
+factor has to be in place - the infrastructure. 'Newton falls squarely into
+the infrastructure black hole.'
+Today's widespread cellular radio systems are analogue, not the digital
+systems needed for the easy transmission of data. The coverage offered by
+the pan-European digital telephone service GSM is patchy and its UK
+derivative, PCN - the Mercury One-to-One service - is still novel.
+Although radio Lans have been mooted for several years, problems defining
+the standards and the lack of allocated radio spectrum has meant they are
+also in their infancy. 'Getting into market was actually the hardest thing,'
+says Bud.
+Other factors have hampered the acceptance of radio Lans, not least the
+recession, says Adrian Ridley-Jones, senior consultant at Logica.
+'Organisations have already identified the structures needed and have Lans
+in place. Existing Lans have to be phased out before organisations will look
+at radio Lans in earnest.'
+There are obvious advantages to having a radio network rather than a wired
+one in the office. PCs can easily be moved from desk to desk without the
+need for re-wiring. Anyone with a PDA or notebook PC who has official access
+to the network can retrieve data or print documents from anywhere in the
+building - in a meeting, for example.
+'My best friends are rats, asbestos and bureaucrats,' says Bud. Rats gnaw
+through cables, walls filled with asbestos cannot have holes drilled in them
+and bureaucrats list buildings, so preventing cabling from being installed.
+A fourth growth area for radio Lans, he believes, will be
+'architecturally-challenged buildings' - anything with solid concrete
+pillars and little space for ducting.
+Where radio Lans have been installed to date, it has been to extend
+corporate wired networks, says Justin van der Lande, marketing manager at
+AT&amp;T/NCR for Wavelan, its radio Lan. However, he concedes, 'there hasn't
+been a dramatic take-up of product'.
+A further factor slowing down sales has been the confusion over the
+different systems and the frequencies in which they operate. In Europe, the
+Olivetti system operates in a frequency band at around 1.9 GHz, the
+frequency allocated for cordless telephones. The Olivetti system, on the
+other hand, operates at 2.4 Gig, in the ISM (industrial, scientific and
+medical) band.
+In the US, the ISM band is available, as are frequencies at 18 GHz. Last
+month the regulatory authorities also announced that the 1.9 GHz slot would
+be available for radio Lans as well as mobile telephones. However, some
+modifications will have to be made to the European equipment to enable it to
+work to US rules.
+The good news is that both the US and European standards organisations have
+recognised the importance of adopting a single frequency and a single
+standard for the next generation of radio Lans - dubbed hyperlan - which
+will operate at very high speeds. A draft standard for hyperlan will be
+published by the end of 1994.
+Even given the goodwill on both sides, it will be some time before such a
+standard is converted into products which can be purchased. 'High-speed data
+will be a long way down the line - post-2000 and something,' says John
+Davis, group leader in the mobility services sector at BT's Martlesham
+research laboratories.
+'For quite a long time we're going to get low-speed systems. You could
+probably use those for your Newton, but they're of no use if you've got a
+workstation and you're shipping computer-aided designs backwards and
+forwards.'
+Further worries for potential radio Lan users include eavesdropping and
+interference with the data. And following the scares in the US linking the
+use of mobile telephones with cancer, manufacturers could face health scares
+as well.
+Ridley-Jones dismisses such fears, saying the power output needed to
+transmit data such short distances - up to 50m - is negligible. 'There is
+talk that over 1W is cause for concern,' he says, but points out that the
+military regularly transmits data at more than 50W. In effect, says
+Derbyshire, radio Lans will operate on average at one hundredth of a watt -
+compared with 2W for a portable telephone.
+Derbyshire believes many of the problems facing radio Lans are cultural as
+much as technical. 'It needs three people to work together: the computer
+manufacturer, the PABX manufacturer and the provider of the plug-in card.'
+In the US, in particular, he believes it is a battle between the computer
+and telecoms companies. 'There's a high level of politics in it. Computers
+become phones and phones become computers.'
+Derbyshire says the problems will eventually be overcome. 'It will happen
+because market forces will dictate it.'
+Taylor is also optimistic, even about what he calls 'Star Trek'
+applications. 'It would be nice to think you could get public access to
+things such as maps when you're lost in the street,' he muses. 'Personally
+I'm convinced that the benefits of being able to communicate without having
+to plug into the wall are enormous.'

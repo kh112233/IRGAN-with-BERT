@@ -1,0 +1,99 @@
+FT  23 APR 91 / Survey of The Computer Industry (26): Saboteurs are on the
+loose - Networking, the art of knowing a Lan from a Wan
+MR Gordon Douglas is not a happy man. He manages user relations for the
+European end of Netware Users International (NUI) the 80,000-strong user
+group for Novell's Netware, the world's most popular networking software.
+Local area networks (Lans) are on the up and up, and Netware is the code
+that binds them together allowing dozens of people to share files and
+peripherals such as printers. What concerns Mr Douglas is that software
+saboteurs are on the loose, networks are their prime target and publishing
+houses in Germany are printing their methods.
+'They publish books that tell you how to plant a virus. You might as well
+bring out a title on how to make an atom bomb in your living room,' says Mr
+Douglas. His anger at the virus authors becomes understandable as he details
+the precautions NUI and Novell have been forced to take.
+'Virus attack has been the main issue in the last 12 months, and preventing
+it is very expensive. A lot of leading companies do not allow employees to
+use diskettes at all, so they can't unwittingly introduce a virus into a
+network. The problem with networks is that they are meant to be open to many
+users.'
+Mr Douglas talks of protective shells, software that checks a program every
+time it is entered on to the network to make sure the code has not changed.
+NUI has pressured Novell to improve the security features written into
+Netware. Since Netware is a computer operating system in its own right it is
+not easy for the virus peddlars to get details of its workings.
+Documentation is a closely guarded trade secret. But the interface between
+Netware and the users' floppy disks became a focus for attention.
+'Novell has now boosted protection for files entered through Netware. I
+won't say exactly what they've done, NUI tested the new release by running a
+virus specifically designed to attack MoveIl networks,' says Mr Douglas.
+Metware's extra defences repelled the virus.
+A successful virus attack can corrupt networked data across a company. 'They
+can act in a nasty way. You find all your storage for the last year has
+gone. Generally the motivation isn't for gain through blackmail, it's just
+anarchy,' says Mr Douglas. His scorn for the unseen enemy is very real. The
+other current passion the networking community admits to is economy.
+'Security and money are the two big concerns at a typical user group
+meeting. In the past, networking solutions had to be high-tech and
+expensive. Now the emphasis is on cutting costs,' he adds. Mr Douglas reels
+off the quick fixes users are resorting to. One site has found it can use
+power lines as a medium for the local area network (Lan) rather than
+co-axial cable.
+If you don't mind the odd hiccup in non-essential data transmission this
+makes some sense. 'It's daft but cheap]' is the Douglas verdict.
+Mr Gary Dyson has been in a good position to observe the rise of the Lan. In
+1985 he broke away from IBM with two colleagues and formed Persona Faculty.
+The dual role company selling products (Persona) and training services
+(Faculty) was started up to exploit networking.
+In 1988, Dyson's Pounds 825 a day training courses attracted just 50 end
+users. In 1990, 1,500 people signed up to get the most out of their
+networks.
+Two factors contributed to this growth says Mr Dyson. The political war over
+the management of data, with corporate IT departments reluctant to see too
+much power shipped down to the users, was resolved. The idea of a Lan of PC
+workstations has been absorbed into the corporate computing model.
+International standards have moved on, reconciling the IBM sponsored
+Token-ring with Ethernet, a networking protocol with its roots in the
+Digital Equipment world.
+'The user shouldn't have to worry about choosing between them. They both
+offer adequate performance, says Mr Dyson.' Faculty has ridden out the
+collapse in hardware sales.
+'In these times you can't sell hardware because companies have got enough.
+But networking means they can turn their PC resources into a system. You
+make the employees more productive. They cope better with fewer people,' he
+says.
+If the Lan is now an accepted standard, what are the big corporate buyers
+doing to squeeze extra value out of it? As is usually the case in the
+computer industry, any vaguely fresh idea is the cue for a crop of
+buzzwords.
+The Lan world has now spawned groupware. Referred to in the same breath as
+joint authoring and discussion databases, groupware allows users to pool
+documents across a network.
+The secret of the software is to co-ordinate contributions without the user
+being aware of this stage management. Although it is portrayed as structured
+discussion it is probably better compared to the notorious bulletin boards
+used to disseminate hackers' tips.
+Lotus Notes is one of the pioneering groupware products. Price Waterhouse,
+management consultants, use it to control activity on the international
+front, when consultants work for a common client across national boundaries.
+Ms Susan Challenger, an international marketing manager at Lotus, admits
+that Notes may have fuelled the buzzword business.
+'We're probably to blame, but groupware is a means to exploit network
+software rather than just sticking a program on a network and sharing it,'
+she says.
+Lotus finds that network versions of popular programs now make up as much as
+a third of its sales.
+Ms Challenger confesses that the distinction between the Lan and its less
+famous sister the wide area network (Wan) is not something to tax Lotus's
+network development teams.
+'When does a Lan become a Wan? I don't know. I prefer to think of everything
+in Lan terms,' says Ms Challenger.
+Perhaps a recent Dataquest survey offers the best explanation for the low
+profile of Wans. European Lan spending is predicted to grow from Dollars
+2.6bn in 1989 to Dollars 5bn by 1993. Over the same period Wan spending will
+increase by a modest Dollars 100m, from Dollars 400m to Dollars 500m.
+Interconnection between Lans is proving an attractive alternative to Wans
+managed by expensive mainframes. And LANS are big in Japan.
+The high cost of office space in Tokyo forces a rigorous assessment of every
+square foot. Encouraging staff to share peripherals is one way of keeping
+the rent in check, with a Lan saving precious space.

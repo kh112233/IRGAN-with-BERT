@@ -1,0 +1,40 @@
+FT  07 JUL 92 / Survey of Software at Work (21): New system pays off - Case
+Study / Sea Fish Industry Authority/CPS
+THE MOST effective measurement of the usefulness of a system development
+must be whether it works, and provides valuable information to its users, at
+a reasonable cost, writes Michael Powell.
+The Fisheries Act 1981 charged the Sea Fish Industry Authority with the task
+of collecting a levy on all fish purchased and imported into the UK. This
+levy, amounting to Pounds 6m in 1991, is used for research, training,
+conservation, marketing, fish farm development and other activities which
+promote and serve the interests of the sea fish industry.
+In 1990, an ICL software house subsidiary, CPS, developed a computer-based
+levy control system to handle all the accounting procedures, to allow
+inquiries to be made on information held in the system, and to produce
+analyses and reports, using the Ingres relational database management
+system. It runs on an ICL DRS30 workstation system. This replaced an earlier
+system, written in Cobol to run on older technology ICL DRS-20 kit.
+The authority uses Multisoft Premier for its accounting needs. According to
+Gordon McLean, computer services manager: 'We used to spend a lot of time
+bespoking standard packages, but now we try to bend procedures to the
+package, not the package to the procedures.'
+The decision to use Ingres was tactical, says Mr McLean - 'we knew we could
+get a PC version, for development, and then port the result on to Unix.'
+From a request for tender, four suppliers offered completely different
+solutions. ICL was chosen, with Ingres. Ingres' SQL (structured query
+language) was used as the development language, although two small routines
+were written in the C programming language - 'it's a stand-alone system with
+no interfaces to other systems at the moment,' says Mr McLean. The
+development cost well under Pounds 40,000.
+The authority initially had the right to return to the authors if it had any
+problems. However, the system is now considered to be stable, so no further
+support contract was taken - 'we've only added the odd report here or there,
+so there's no need to pay a lot for support' says Mr McLean. 'However, the
+system was developed using version five of Ingres, and the latest version,
+number six, is an advance on five. Implementing the system on this new
+version is not a trivial job. ICL is currently working on that.'
+He is reluctant to update to version six, feeling it is best to leave well
+alone - 'we've had very few problems . . . apart from an odd hiccup if
+there's a hardware fault. It's a successful system for us - giving us more
+than we had before.'
+On that measure, this has been an effective bespoke development.
