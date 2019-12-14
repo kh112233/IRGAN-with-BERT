@@ -28,7 +28,7 @@ def get_dataloader(train_dir, test_dir, doc_dir, qrydoc_pair=None, batch_size=4,
     if split == "All":
         all_dataset = get_dataset(train_dir, test_dir, doc_dir, split="All")
         all_dataloader = DataLoader(all_dataset, batch_size=batch_size, shuffle=False, num_workers=4, collate_fn=gen_collate_fn)
-
+        
         return all_dataloader
 
     if split == "Topk":

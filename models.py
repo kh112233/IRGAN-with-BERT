@@ -14,7 +14,7 @@ class Generator(nn.Module):
         self.bert_model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=1)
     
     def forward(self, input_ids, token_type_ids=None, attention_mask=None):
-        logits = self.bert_mode(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        logits = self.bert_model(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
 
         return logits        
 
@@ -29,6 +29,6 @@ class Discriminator(nn.Module):
         self.bert_model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=1) 
     
     def forward(self, input_ids, token_type_ids=None, attention_mask=None):
-        logits = self.bert_mode(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        logits = self.bert_model(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
 
         return logits   
